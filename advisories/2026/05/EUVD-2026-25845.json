@@ -1,0 +1,38 @@
+{
+  "id": "EUVD-2026-25845",
+  "enisaUuid": "fbbb4ea5-1ece-3749-8b00-ed14b56eda16",
+  "description": "Plug.Cowboy vulnerable to unauthenticated remote DoS via HTTP/2 `:scheme` atom-table exhaustion",
+  "datePublished": "May 5, 2026, 9:46:09 PM",
+  "dateUpdated": "May 5, 2026, 9:46:09 PM",
+  "baseScore": 8.7,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
+  "references": "https://github.com/elixir-plug/plug_cowboy/security/advisories/GHSA-q8x4-x7mp-5vg2\nhttps://cna.erlef.org/cves/CVE-2026-32688.html\nhttps://osv.dev/vulnerability/EEF-CVE-2026-32688\nhttps://github.com/elixir-plug/plug_cowboy/commit/bfb34cb45eb354e56437f7023fb306de1bf9c19b\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-32688\n",
+  "aliases": "GHSA-q8x4-x7mp-5vg2\nCVE-2026-32688\n",
+  "assigner": "EEF",
+  "epss": 0.13,
+  "enisaIdProduct": [
+    {
+      "id": "3df3a9ea-c708-3308-9919-1edcc0ea90d8",
+      "product": {
+        "name": "plug_cowboy"
+      },
+      "product_version": "2.0.0 <2.8.1"
+    },
+    {
+      "id": "be7fd8a8-3254-369f-94a5-beb41b62030f",
+      "product": {
+        "name": "plug_cowboy"
+      },
+      "product_version": "12ecfd024bb179d48b018fecf074e43fe6a19c83 <bfb34cb45eb354e56437f7023fb306de1bf9c19b"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "6124d4c8-38f8-398d-b27c-551f2911247a",
+      "vendor": {
+        "name": "elixir-plug"
+      }
+    }
+  ]
+}

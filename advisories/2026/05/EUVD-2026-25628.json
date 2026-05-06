@@ -1,0 +1,44 @@
+{
+  "id": "EUVD-2026-25628",
+  "enisaUuid": "09c9a8f8-516b-3f27-8274-b12130a3565e",
+  "description": "awslabs/tough is Missing Delegated Metadata Validation",
+  "datePublished": "May 5, 2026, 6:46:48 PM",
+  "dateUpdated": "May 5, 2026, 6:46:48 PM",
+  "baseScore": 7.1,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:L/UI:N/VC:N/VI:H/VA:N/SC:N/SI:H/SA:L",
+  "references": "https://aws.amazon.com/security/security-bulletins/2026-019-aws/\nhttps://github.com/awslabs/tough/releases/tag/tough-v0.22.0\nhttps://github.com/awslabs/tough/releases/tag/tuftool-v0.15.0\nhttps://crates.io/crates/tough/0.22.0\nhttps://crates.io/crates/tuftool/0.15.0\nhttps://github.com/awslabs/tough/security/advisories/GHSA-4v58-8p28-2rq3\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-6967\n",
+  "aliases": "GHSA-4v58-8p28-2rq3\nCVE-2026-6967\n",
+  "assigner": "AMZN",
+  "epss": 0.03,
+  "enisaIdProduct": [
+    {
+      "id": "7475f508-9dad-39ab-8d14-9e0588812bff",
+      "product": {
+        "name": "tuftool"
+      },
+      "product_version": ""
+    },
+    {
+      "id": "cf47f3e4-b86f-3b64-8f34-6c0042aeb294",
+      "product": {
+        "name": "tough"
+      },
+      "product_version": ""
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "3124bfda-fd26-300b-a603-2946effbebe7",
+      "vendor": {
+        "name": "aws"
+      }
+    },
+    {
+      "id": "ad9ba1e1-d5a4-3633-bd23-e51e38989a71",
+      "vendor": {
+        "name": "aws"
+      }
+    }
+  ]
+}

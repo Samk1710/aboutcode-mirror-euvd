@@ -1,0 +1,38 @@
+{
+  "id": "EUVD-2026-25588",
+  "enisaUuid": "9d97f842-42ca-3e2f-8041-c0775695ea28",
+  "description": "Axios: Prototype Pollution Gadgets - Response Tampering, Data Exfiltration, and Request Hijacking",
+  "datePublished": "May 5, 2026, 12:26:29 AM",
+  "dateUpdated": "May 5, 2026, 12:26:30 AM",
+  "baseScore": 7.4,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:N",
+  "references": "https://github.com/axios/axios/security/advisories/GHSA-pf86-5x62-jrwf\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-42033\n",
+  "aliases": "CVE-2026-42033\nGHSA-pf86-5x62-jrwf\n",
+  "assigner": "GitHub_M",
+  "epss": 0.1,
+  "enisaIdProduct": [
+    {
+      "id": "14dbcfe9-54b1-3cb1-b470-02a59b128b2c",
+      "product": {
+        "name": "axios"
+      },
+      "product_version": "< 0.31.1"
+    },
+    {
+      "id": "38fe4b5b-6532-3f71-b7d9-19227035552b",
+      "product": {
+        "name": "axios"
+      },
+      "product_version": "1.0.0, < 1.15.1"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "1ab3c1a2-5778-33f6-8678-d64e5af5fc7e",
+      "vendor": {
+        "name": "axios"
+      }
+    }
+  ]
+}
