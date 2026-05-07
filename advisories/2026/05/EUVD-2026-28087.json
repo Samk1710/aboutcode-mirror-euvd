@@ -1,0 +1,29 @@
+{
+  "id": "EUVD-2026-28087",
+  "enisaUuid": "b1c73990-b4db-3dbf-ac05-a2dab721ff33",
+  "description": "Insufficient validation of untrusted input in UI in Google Chrome on Linux, ChromeOS prior to 148.0.7778.96 allowed a remote attacker who convinced a user to engage in specific UI gestures to execute arbitrary code via a crafted HTML page. (Chromium security severity: Medium)",
+  "datePublished": "May 6, 2026, 9:31:41 PM",
+  "dateUpdated": "May 6, 2026, 9:31:41 PM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/499067529\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-7992\n",
+  "aliases": "GHSA-x23j-rgr4-mp7m\nCVE-2026-7992\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "322fcfe1-b826-3352-b295-7ab6644444eb",
+      "product": {
+        "name": "Chrome"
+      },
+      "product_version": "148.0.7778.96 <148.0.7778.96"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "e2868f8a-63ee-39c6-8a0d-9004814396b1",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

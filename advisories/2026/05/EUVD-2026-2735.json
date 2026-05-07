@@ -1,0 +1,38 @@
+{
+  "id": "EUVD-2026-2735",
+  "enisaUuid": "eee6c12e-bc0a-35f2-997f-b361df0dd6ba",
+  "description": "Keras vulnerable to DoS via Malicious .keras Model (HDF5 Shape Bomb Causes Petabyte Allocation in KerasFileEditor)",
+  "datePublished": "May 6, 2026, 11:09:37 PM",
+  "dateUpdated": "May 6, 2026, 11:09:38 PM",
+  "baseScore": 7.1,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
+  "references": "https://github.com/keras-team/keras/pull/21880\nhttps://github.com/keras-team/keras/security/advisories/GHSA-mgx6-5cf9-rr43\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-0897\nhttps://github.com/keras-team/keras/pull/22081\nhttps://github.com/keras-team/keras/commit/7360d4f0d764fbb1fa9c6408fe53da41974dd4f6\nhttps://github.com/keras-team/keras/commit/f704c887bf459b42769bfc8a9182f838009afddb\n",
+  "aliases": "CVE-2026-0897\nGHSA-mgx6-5cf9-rr43\nGHSA-xfhx-r7ww-5995\n",
+  "assigner": "Google",
+  "epss": 0.03,
+  "enisaIdProduct": [
+    {
+      "id": "9ffb1b8b-f05f-3135-95e2-5e82387f0529",
+      "product": {
+        "name": "keras"
+      },
+      "product_version": "3.0.0 \u22643.13.0"
+    },
+    {
+      "id": "c3378e28-315f-3148-b64a-1861a89c44a7",
+      "product": {
+        "name": "keras"
+      },
+      "product_version": "3.0.0 \u22643.13.0"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "c84e96c4-2b07-3bb4-9c64-a10327c8d6e3",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

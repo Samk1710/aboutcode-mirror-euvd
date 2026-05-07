@@ -3,14 +3,14 @@
   "enisaUuid": "3034541c-485f-34a7-8830-46884a33550c",
   "description": "A security flaw has been discovered in Ollama up to 0.20.2. This affects the function digestToPath of the file x/imagegen/transfer/transfer.go of the component Tensor Model Transfer Handler. The manipulation of the argument digest results in path traversal. The attack may be performed from remote. This attack is characterized by high complexity. The exploitability is reported as difficult. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.",
   "datePublished": "Apr 26, 2026, 4:45:11 AM",
-  "dateUpdated": "Apr 26, 2026, 4:45:11 AM",
+  "dateUpdated": "May 6, 2026, 4:55:00 AM",
   "baseScore": 6.3,
   "baseScoreVersion": "4.0",
-  "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/359599\nhttps://vuldb.com/vuln/359599/cti\nhttps://vuldb.com/submit/797576\n",
   "aliases": "CVE-2026-7020\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.06,
   "enisaIdProduct": [
     {
       "id": "3ca10f5b-6f2d-3a65-804b-49d7c248c113",

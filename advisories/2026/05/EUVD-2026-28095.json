@@ -1,0 +1,29 @@
+{
+  "id": "EUVD-2026-28095",
+  "enisaUuid": "f790578f-89ab-3742-9866-46ca6da3d4c4",
+  "description": "Insufficient validation of untrusted input in SSL in Google Chrome prior to 148.0.7778.96 allowed a remote attacker who had compromised the renderer process to perform UI spoofing via a crafted HTML page. (Chromium security severity: Low)",
+  "datePublished": "May 6, 2026, 9:31:41 PM",
+  "dateUpdated": "May 6, 2026, 9:31:41 PM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/484547631\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-7996\n",
+  "aliases": "CVE-2026-7996\nGHSA-rhr4-9ph6-j495\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "2663a8bd-deb3-3219-9aa1-dd2087869ad4",
+      "product": {
+        "name": "Chrome"
+      },
+      "product_version": "148.0.7778.96 <148.0.7778.96"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "fd053996-571e-36ec-a58c-4d880f57f0eb",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

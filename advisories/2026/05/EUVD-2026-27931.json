@@ -1,0 +1,29 @@
+{
+  "id": "EUVD-2026-27931",
+  "enisaUuid": "27ac934d-5855-3b4f-a670-52c42fd28a4f",
+  "description": "Type Confusion in Accessibility in Google Chrome on Windows prior to 148.0.7778.96 allowed a remote attacker who had compromised the renderer process to potentially perform a sandbox escape via a crafted HTML page. (Chromium security severity: High)",
+  "datePublished": "May 6, 2026, 9:31:38 PM",
+  "dateUpdated": "May 6, 2026, 9:31:38 PM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/498401609\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-7914\n",
+  "aliases": "GHSA-9j2p-p9pf-3g9v\nCVE-2026-7914\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "9a7d1edd-1859-372f-b7c4-87eb78570c0f",
+      "product": {
+        "name": "Chrome"
+      },
+      "product_version": "148.0.7778.96 <148.0.7778.96"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "78b821f1-7e36-3174-8024-7a9f48d3e874",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

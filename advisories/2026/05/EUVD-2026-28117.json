@@ -1,0 +1,29 @@
+{
+  "id": "EUVD-2026-28117",
+  "enisaUuid": "0b81c834-3db0-35a0-883a-0518b44dddc1",
+  "description": "Insufficient validation of untrusted input in Cast in Google Chrome prior to 148.0.7778.96 allowed a remote attacker who had compromised the renderer process to perform privilege escalation via a crafted HTML page. (Chromium security severity: Low)",
+  "datePublished": "May 6, 2026, 9:31:41 PM",
+  "dateUpdated": "May 6, 2026, 9:31:41 PM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/496399759\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-8007\n",
+  "aliases": "GHSA-f8f2-2mx9-q6hg\nCVE-2026-8007\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "2f476b50-d668-31d0-8ed6-c178c6234580",
+      "product": {
+        "name": "Chrome"
+      },
+      "product_version": "148.0.7778.96 <148.0.7778.96"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "8bd0abe6-d211-3e27-925d-b708970a6f2d",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

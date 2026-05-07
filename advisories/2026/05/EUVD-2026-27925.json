@@ -1,0 +1,29 @@
+{
+  "id": "EUVD-2026-27925",
+  "enisaUuid": "256027b0-bc97-3cf5-8641-f27fdd529183",
+  "description": "Use after free in Aura in Google Chrome on Windows prior to 148.0.7778.96 allowed a remote attacker who had compromised the renderer process to potentially perform a sandbox escape via a crafted HTML page. (Chromium security severity: High)",
+  "datePublished": "May 6, 2026, 9:31:38 PM",
+  "dateUpdated": "May 6, 2026, 9:31:38 PM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/497548912\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-7911\n",
+  "aliases": "CVE-2026-7911\nGHSA-m66c-p39w-x8pg\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "13a062a7-11ca-36ad-8d18-d48977d4455e",
+      "product": {
+        "name": "Chrome"
+      },
+      "product_version": "148.0.7778.96 <148.0.7778.96"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "6e41fe19-7c25-3549-a879-ecfe3d6216f5",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

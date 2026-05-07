@@ -1,0 +1,29 @@
+{
+  "id": "EUVD-2026-28035",
+  "enisaUuid": "495256a1-8dbe-3a9c-881f-a88db5025253",
+  "description": "Insufficient validation of untrusted input in SiteIsolation in Google Chrome prior to 148.0.7778.96 allowed a remote attacker who had compromised the renderer process to bypass site isolation via a crafted HTML page. (Chromium security severity: Medium)",
+  "datePublished": "May 6, 2026, 9:31:40 PM",
+  "dateUpdated": "May 6, 2026, 9:31:40 PM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/497341787\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-7966\n",
+  "aliases": "GHSA-9c2c-f546-5wxv\nCVE-2026-7966\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "012e1bcd-4f7b-3585-a707-e3321ced877b",
+      "product": {
+        "name": "Chrome"
+      },
+      "product_version": "148.0.7778.96 <148.0.7778.96"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "223a0b08-e749-3956-a798-b1fc08a059f0",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

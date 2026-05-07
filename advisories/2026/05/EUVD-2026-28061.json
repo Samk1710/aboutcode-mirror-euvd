@@ -1,0 +1,29 @@
+{
+  "id": "EUVD-2026-28061",
+  "enisaUuid": "99f3a3e3-b7af-309c-9340-c37002c12c01",
+  "description": "Inappropriate implementation in Media in Google Chrome prior to 148.0.7778.96 allowed a remote attacker to leak cross-origin data via a crafted HTML page. (Chromium security severity: Medium)",
+  "datePublished": "May 6, 2026, 9:31:40 PM",
+  "dateUpdated": "May 6, 2026, 9:31:40 PM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/497849876\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-7979\n",
+  "aliases": "CVE-2026-7979\nGHSA-g28f-6ppf-f23m\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "b7de0d0b-c318-300a-a3c4-c77319072aed",
+      "product": {
+        "name": "Chrome"
+      },
+      "product_version": "148.0.7778.96 <148.0.7778.96"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "21c0ad33-5eb9-3d4b-945c-eb2a5e68866e",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}
