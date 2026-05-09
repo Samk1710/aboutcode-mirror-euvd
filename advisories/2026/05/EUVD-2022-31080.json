@@ -1,0 +1,29 @@
+{
+  "id": "EUVD-2022-31080",
+  "enisaUuid": "72ac3f6f-1c57-3346-9564-982e27002c2b",
+  "description": "The socket connection handler in aswArPot.sys in the Avast and AVG Windows Anti Rootkit driver before 22.1 allows local attackers to execute arbitrary code in kernel mode or cause a denial of service (memory corruption and OS crash) due to a double fetch vulnerability at aswArPot+0xbb94.",
+  "datePublished": "May 8, 2026, 6:32:37 AM",
+  "dateUpdated": "May 8, 2026, 6:32:37 AM",
+  "baseScore": -1.0,
+  "references": "https://www.avast.com/bug-bounty\nhttps://www.sentinelone.com/labs/vulnerabilities-in-avast-and-avg-put-millions-at-risk/\nhttps://nvd.nist.gov/vuln/detail/CVE-2022-26523\n",
+  "aliases": "CVE-2022-26523\nGHSA-h488-x5g3-rjr5\n",
+  "assigner": "mitre",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "38904123-3f55-3915-b060-fdddd5a2023c",
+      "product": {
+        "name": "n/a"
+      },
+      "product_version": "n/a"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "c4562ad8-d241-3963-93ff-272707a950f4",
+      "vendor": {
+        "name": "n/a"
+      }
+    }
+  ]
+}

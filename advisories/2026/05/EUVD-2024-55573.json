@@ -1,0 +1,29 @@
+{
+  "id": "EUVD-2024-55573",
+  "enisaUuid": "634c083b-2aee-38b8-b568-6bbfc020fbfe",
+  "description": "LINQPad before 5.52.01 Pro edition is vulnerable to Unsafe Deserialization in LINQPad.AutoRefManager::PopulateFromCache(), leading to code execution.",
+  "datePublished": "May 8, 2026, 6:32:38 AM",
+  "dateUpdated": "May 8, 2026, 6:32:38 AM",
+  "baseScore": 0.0,
+  "references": "https://www.linqpad.net/\nhttps://trustedsec.com/blog/discovering-a-deserialization-vulnerability-in-linqpad\nhttps://nvd.nist.gov/vuln/detail/CVE-2024-53326\n",
+  "aliases": "GHSA-hxqg-f8pm-8v2h\nCVE-2024-53326\n",
+  "assigner": "mitre",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "09399d9b-021c-3820-bbea-436792f6abc5",
+      "product": {
+        "name": "n/a"
+      },
+      "product_version": "n/a"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "e4403d44-2975-3314-a028-50648cb32c08",
+      "vendor": {
+        "name": "n/a"
+      }
+    }
+  ]
+}

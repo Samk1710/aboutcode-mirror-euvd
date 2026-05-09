@@ -1,0 +1,29 @@
+{
+  "id": "EUVD-2023-46796",
+  "enisaUuid": "f6d761ef-08f8-3a49-9984-b74e25762782",
+  "description": "A Cross Site Scripting vulnerability in Alkacon OpenCms before 10.5.1 exists via cmis-online/type.",
+  "datePublished": "May 8, 2026, 6:32:37 AM",
+  "dateUpdated": "May 8, 2026, 6:32:37 AM",
+  "baseScore": -1.0,
+  "references": "https://labs.watchtowr.com/xxe-you-can-depend-on-me-opencms/\nhttps://nvd.nist.gov/vuln/detail/CVE-2023-42343\n",
+  "aliases": "GHSA-8gpv-c454-3hfc\nCVE-2023-42343\n",
+  "assigner": "mitre",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "cda043ed-8495-38d9-848c-af4063515471",
+      "product": {
+        "name": "n/a"
+      },
+      "product_version": "n/a"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "adad5741-a71c-3493-9c15-89a098e49414",
+      "vendor": {
+        "name": "n/a"
+      }
+    }
+  ]
+}

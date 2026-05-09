@@ -1,0 +1,29 @@
+{
+  "id": "EUVD-2024-31434",
+  "enisaUuid": "0353e096-62b1-368f-a0cf-efb6905afb8b",
+  "description": "SOPlanning 1.52.00 is vulnerable to Cross Site Scripting (XSS) via the groupe_id parameter to process/groupe_save.php.",
+  "datePublished": "May 8, 2026, 6:32:38 AM",
+  "dateUpdated": "May 8, 2026, 6:32:38 AM",
+  "baseScore": -1.0,
+  "references": "https://github.com/fuzzlove/soplanning-1.52-exploits\nhttps://nvd.nist.gov/vuln/detail/CVE-2024-33724\n",
+  "aliases": "CVE-2024-33724\nGHSA-7g7m-x38c-mrrv\n",
+  "assigner": "mitre",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "dbc9dd1e-a131-3edd-b907-b58082b27ca8",
+      "product": {
+        "name": "n/a"
+      },
+      "product_version": "n/a"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "9970c90c-05e4-3e16-a938-32b7a8cc8fc5",
+      "vendor": {
+        "name": "n/a"
+      }
+    }
+  ]
+}

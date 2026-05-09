@@ -1,0 +1,29 @@
+{
+  "id": "EUVD-2026-28645",
+  "enisaUuid": "2193cafb-6f98-37cf-9635-4b37bf59920b",
+  "description": "An issue in fohrloop dash-uploader v.0.1.0 through v.0.7.0a2 allows a remote attacker to execute arbitrary code via the dash_uploader/httprequesthandler.py, dash_uploader/upload.py in the Upload function and max_file_size parameter, dash_uploader/configure_upload.py components",
+  "datePublished": "May 8, 2026, 3:31:25 PM",
+  "dateUpdated": "May 8, 2026, 3:31:25 PM",
+  "baseScore": 0.0,
+  "references": "https://github.com/fohrloop/dash-uploader\nhttps://pypi.org/project/dash-uploader/\nhttps://github.com/fohrloop/dash-uploader/blob/stable/dash_uploader/httprequesthandler.py\nhttps://github.com/fohrloop/dash-uploader/issues/153\nhttps://pypistats.org/packages/dash-uploader\nhttps://libraries.io/pypi/dash-uploader\nhttps://pepy.tech/project/dash-uploader\nhttps://docs.python.org/3/library/functions.html#all\nhttps://github.com/a1ohadance/CVE-2026-38361\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-38361\n",
+  "aliases": "CVE-2026-38361\nGHSA-xp7f-v245-w3w8\n",
+  "assigner": "mitre",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "c0d02eff-ddb7-3782-bc46-aaad16a7e8ae",
+      "product": {
+        "name": "n/a"
+      },
+      "product_version": "n/a"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "78f8f36a-7e5d-3a44-acdf-e69b9edb35cb",
+      "vendor": {
+        "name": "n/a"
+      }
+    }
+  ]
+}

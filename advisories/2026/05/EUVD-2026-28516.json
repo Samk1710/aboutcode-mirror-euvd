@@ -1,0 +1,31 @@
+{
+  "id": "EUVD-2026-28516",
+  "enisaUuid": "b2398e70-7f91-3384-ae0a-60d97442e568",
+  "description": "Electerm users can run dangrous code through link or command line",
+  "datePublished": "May 8, 2026, 6:46:04 PM",
+  "dateUpdated": "May 8, 2026, 6:46:04 PM",
+  "baseScore": 9.4,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H",
+  "references": "https://github.com/electerm/electerm/security/advisories/GHSA-mpm8-cx2p-626q\nhttps://github.com/electerm/electerm/commit/8a6a17951e96d715f5a231532bbd8303fe208700\nhttps://github.com/electerm/electerm/commit/a79e06f4a1f0ac6376c3d2411ef4690fa0377742\nhttps://github.com/electerm/electerm/releases/tag/v3.8.15\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-43944\n",
+  "aliases": "CVE-2026-43944\nGHSA-mpm8-cx2p-626q\n",
+  "assigner": "GitHub_M",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "3bb98f44-d005-32a9-ad41-184f19256f9b",
+      "product": {
+        "name": "electerm"
+      },
+      "product_version": "3.0.6, < 3.8.15"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "96509492-bec2-3198-ba2a-694a99bc48e7",
+      "vendor": {
+        "name": "electerm"
+      }
+    }
+  ]
+}
