@@ -3,14 +3,14 @@
   "enisaUuid": "af65621c-2a3d-3460-bb5e-6ec0ed762505",
   "description": "A flaw was found in libarchive. On 32-bit systems, an integer overflow vulnerability exists in the zisofs block pointer allocation logic. A remote attacker can exploit this by providing a specially crafted ISO9660 image, which can lead to a heap buffer overflow. This could potentially allow for arbitrary code execution on the affected system.",
   "datePublished": "Mar 30, 2026, 7:47:28 AM",
-  "dateUpdated": "Apr 30, 2026, 1:35:40 PM",
+  "dateUpdated": "May 9, 2026, 12:08:54 AM",
   "baseScore": 7.5,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
-  "references": "https://access.redhat.com/errata/RHSA-2026:10065\nhttps://access.redhat.com/errata/RHSA-2026:10097\nhttps://access.redhat.com/errata/RHSA-2026:11768\nhttps://access.redhat.com/errata/RHSA-2026:8510\nhttps://access.redhat.com/errata/RHSA-2026:8517\nhttps://access.redhat.com/errata/RHSA-2026:8521\nhttps://access.redhat.com/errata/RHSA-2026:8534\nhttps://access.redhat.com/errata/RHSA-2026:8864\nhttps://access.redhat.com/errata/RHSA-2026:8866\nhttps://access.redhat.com/errata/RHSA-2026:8867\nhttps://access.redhat.com/errata/RHSA-2026:8873\nhttps://access.redhat.com/errata/RHSA-2026:8908\nhttps://access.redhat.com/errata/RHSA-2026:8944\nhttps://access.redhat.com/errata/RHSA-2026:9026\nhttps://access.redhat.com/errata/RHSA-2026:9592\nhttps://access.redhat.com/errata/RHSA-2026:9832\nhttps://access.redhat.com/security/cve/CVE-2026-5121\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2452945\nhttps://github.com/advisories/GHSA-2vwv-vqpv-v8vc\nhttps://github.com/libarchive/libarchive/pull/2934\n",
+  "references": "https://access.redhat.com/errata/RHSA-2026:10065\nhttps://access.redhat.com/errata/RHSA-2026:10097\nhttps://access.redhat.com/errata/RHSA-2026:11768\nhttps://access.redhat.com/errata/RHSA-2026:12274\nhttps://access.redhat.com/errata/RHSA-2026:13812\nhttps://access.redhat.com/errata/RHSA-2026:14937\nhttps://access.redhat.com/errata/RHSA-2026:8510\nhttps://access.redhat.com/errata/RHSA-2026:8517\nhttps://access.redhat.com/errata/RHSA-2026:8521\nhttps://access.redhat.com/errata/RHSA-2026:8534\nhttps://access.redhat.com/errata/RHSA-2026:8864\nhttps://access.redhat.com/errata/RHSA-2026:8866\nhttps://access.redhat.com/errata/RHSA-2026:8867\nhttps://access.redhat.com/errata/RHSA-2026:8873\nhttps://access.redhat.com/errata/RHSA-2026:8908\nhttps://access.redhat.com/errata/RHSA-2026:8944\nhttps://access.redhat.com/errata/RHSA-2026:9026\nhttps://access.redhat.com/errata/RHSA-2026:9592\nhttps://access.redhat.com/errata/RHSA-2026:9832\nhttps://access.redhat.com/security/cve/CVE-2026-5121\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2452945\nhttps://github.com/advisories/GHSA-2vwv-vqpv-v8vc\nhttps://github.com/libarchive/libarchive/pull/2934\n",
   "aliases": "CVE-2026-5121\nGHSA-2vwv-vqpv-v8vc\n",
   "assigner": "redhat",
-  "epss": 0.1,
+  "epss": 0.09,
   "enisaIdProduct": [
     {
       "id": "0c537b04-62f1-3ea3-9343-64524999d385",
@@ -18,6 +18,20 @@
         "name": "Red Hat Update Infrastructure 5"
       },
       "product_version": "patch: 1776868842"
+    },
+    {
+      "id": "18fe47fe-ceb1-34e9-a4a7-7af1b49e2a3b",
+      "product": {
+        "name": "RHEL-8 based Middleware Containers"
+      },
+      "product_version": "patch: 7.13.5-4.1777325708"
+    },
+    {
+      "id": "1bde1d59-6f95-3c6a-84d4-561a21acb09b",
+      "product": {
+        "name": "Red Hat Discovery 2"
+      },
+      "product_version": "patch: 1778156756"
     },
     {
       "id": "1fc49404-be72-36c6-be06-3f99f68956ac",
@@ -53,6 +67,27 @@
         "name": "Red Hat Update Infrastructure 5"
       },
       "product_version": "patch: 1776868772"
+    },
+    {
+      "id": "43511389-e869-340a-ba38-e15c598ece91",
+      "product": {
+        "name": "RHEL-8 based Middleware Containers"
+      },
+      "product_version": "patch: 7.13.5-4.1777325710"
+    },
+    {
+      "id": "43986ce7-50c7-3924-9eef-1a89c2edb946",
+      "product": {
+        "name": "RHEL-8 based Middleware Containers"
+      },
+      "product_version": "patch: 7.13.5-4.1777325709"
+    },
+    {
+      "id": "44df5012-95e4-3902-9bac-fea613ad4a90",
+      "product": {
+        "name": "RHEL-8 based Middleware Containers"
+      },
+      "product_version": "patch: 7.13.5-4.1777325711"
     },
     {
       "id": "46f36589-4f84-38fd-9750-efb4ade76c9a",
@@ -97,11 +132,25 @@
       "product_version": "patch: sha256:8fbf461b33717d3463e4f802b1a257b7e43d60c3e9568f710df83db36a04a4fe"
     },
     {
+      "id": "61490e8b-3371-3a06-a89a-89e21a25fa83",
+      "product": {
+        "name": "Red Hat OpenShift Container Platform 4.12"
+      },
+      "product_version": "patch: 412.86.202604281506-0"
+    },
+    {
       "id": "626d3976-9046-3a82-9935-1851132c2816",
       "product": {
         "name": "Red Hat Enterprise Linux 9.0 Update Services for SAP Solutions"
       },
       "product_version": "patch: 0:3.5.3-2.el9_0.4"
+    },
+    {
+      "id": "6c8d97c0-953b-37f8-b21c-f7093f529896",
+      "product": {
+        "name": "RHEL-8 based Middleware Containers"
+      },
+      "product_version": "patch: 7.13.5-3.1777325680"
     },
     {
       "id": "7ba056af-782c-3e8d-8519-0d87ccb57755",
@@ -179,6 +228,20 @@
         "name": "Red Hat Insights proxy 1.5"
       },
       "product_version": "patch: 1776868961"
+    },
+    {
+      "id": "c35c54cd-e4d1-3b7a-84fb-8d45c25485fb",
+      "product": {
+        "name": "RHEL-8 based Middleware Containers"
+      },
+      "product_version": "patch: 7.13.5-4.1777325677"
+    },
+    {
+      "id": "d803996f-47d8-354b-9767-802c62b26abe",
+      "product": {
+        "name": "RHEL-8 based Middleware Containers"
+      },
+      "product_version": "patch: 7.13.5-4.1777325680"
     },
     {
       "id": "d9d0357a-aef7-357d-8a0a-d82002025e5d",

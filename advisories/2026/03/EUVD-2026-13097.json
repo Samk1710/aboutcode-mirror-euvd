@@ -3,14 +3,14 @@
   "enisaUuid": "e56690d0-bd77-3749-b1dc-cfa65800ac55",
   "description": "A flaw was found in libarchive. This heap out-of-bounds read vulnerability exists in the RAR archive processing logic due to improper validation of the LZSS sliding window size after transitions between compression methods. A remote attacker can exploit this by providing a specially crafted RAR archive, leading to the disclosure of sensitive heap memory information without requiring authentication or user interaction.",
   "datePublished": "Mar 19, 2026, 1:50:27 PM",
-  "dateUpdated": "Apr 30, 2026, 12:47:07 PM",
+  "dateUpdated": "May 9, 2026, 12:08:34 AM",
   "baseScore": 7.5,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
-  "references": "https://access.redhat.com/errata/RHSA-2026:10065\nhttps://access.redhat.com/errata/RHSA-2026:10097\nhttps://access.redhat.com/errata/RHSA-2026:11768\nhttps://access.redhat.com/errata/RHSA-2026:8492\nhttps://access.redhat.com/errata/RHSA-2026:8510\nhttps://access.redhat.com/errata/RHSA-2026:8517\nhttps://access.redhat.com/errata/RHSA-2026:8521\nhttps://access.redhat.com/errata/RHSA-2026:8534\nhttps://access.redhat.com/errata/RHSA-2026:8864\nhttps://access.redhat.com/errata/RHSA-2026:8865\nhttps://access.redhat.com/errata/RHSA-2026:8866\nhttps://access.redhat.com/errata/RHSA-2026:8867\nhttps://access.redhat.com/errata/RHSA-2026:8873\nhttps://access.redhat.com/errata/RHSA-2026:8908\nhttps://access.redhat.com/errata/RHSA-2026:8944\nhttps://access.redhat.com/errata/RHSA-2026:9026\nhttps://access.redhat.com/errata/RHSA-2026:9592\nhttps://access.redhat.com/errata/RHSA-2026:9832\nhttps://access.redhat.com/security/cve/CVE-2026-4424\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2449006\nhttps://github.com/libarchive/libarchive/pull/2898\n",
+  "references": "https://access.redhat.com/errata/RHSA-2026:10065\nhttps://access.redhat.com/errata/RHSA-2026:10097\nhttps://access.redhat.com/errata/RHSA-2026:11768\nhttps://access.redhat.com/errata/RHSA-2026:12274\nhttps://access.redhat.com/errata/RHSA-2026:13812\nhttps://access.redhat.com/errata/RHSA-2026:14937\nhttps://access.redhat.com/errata/RHSA-2026:8492\nhttps://access.redhat.com/errata/RHSA-2026:8510\nhttps://access.redhat.com/errata/RHSA-2026:8517\nhttps://access.redhat.com/errata/RHSA-2026:8521\nhttps://access.redhat.com/errata/RHSA-2026:8534\nhttps://access.redhat.com/errata/RHSA-2026:8864\nhttps://access.redhat.com/errata/RHSA-2026:8865\nhttps://access.redhat.com/errata/RHSA-2026:8866\nhttps://access.redhat.com/errata/RHSA-2026:8867\nhttps://access.redhat.com/errata/RHSA-2026:8873\nhttps://access.redhat.com/errata/RHSA-2026:8908\nhttps://access.redhat.com/errata/RHSA-2026:8944\nhttps://access.redhat.com/errata/RHSA-2026:9026\nhttps://access.redhat.com/errata/RHSA-2026:9592\nhttps://access.redhat.com/errata/RHSA-2026:9832\nhttps://access.redhat.com/security/cve/CVE-2026-4424\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2449006\nhttps://github.com/libarchive/libarchive/pull/2898\n",
   "aliases": "CVE-2026-4424\n",
   "assigner": "redhat",
-  "epss": 0.3,
+  "epss": 0.36,
   "enisaIdProduct": [
     {
       "id": "05626d50-27c6-3681-96e1-5ea1ea171357",
@@ -55,11 +55,25 @@
       "product_version": "patch: 0:3.3.3-6.el8_6.1"
     },
     {
+      "id": "24a88f97-354e-36f3-9b42-41df316be4aa",
+      "product": {
+        "name": "RHEL-8 based Middleware Containers"
+      },
+      "product_version": "patch: 7.13.5-3.1777325680"
+    },
+    {
       "id": "2d6aa4b8-b701-3247-9a7d-29979268e057",
       "product": {
         "name": "Red Hat Update Infrastructure 5"
       },
       "product_version": "patch: 1776868774"
+    },
+    {
+      "id": "2f9ce043-df34-3ae8-8c6e-b217e3cfd13d",
+      "product": {
+        "name": "RHEL-8 based Middleware Containers"
+      },
+      "product_version": "patch: 7.13.5-4.1777325708"
     },
     {
       "id": "2fd13481-e2cb-3256-ae54-6493d8d0b55c",
@@ -74,6 +88,13 @@
         "name": "Red Hat Hardened Images"
       },
       "product_version": "patch: 3.8.7-1.hum1"
+    },
+    {
+      "id": "3e5a3c34-7cf5-3afa-a73d-1f76ab3980ea",
+      "product": {
+        "name": "RHEL-8 based Middleware Containers"
+      },
+      "product_version": "patch: 7.13.5-4.1777325710"
     },
     {
       "id": "4d115ff4-89e1-3aa0-adc5-f0aa11f6467e",
@@ -95,6 +116,13 @@
         "name": "Red Hat Enterprise Linux 7 Extended Lifecycle Support"
       },
       "product_version": "patch: 0:3.1.2-14.el7_9.2"
+    },
+    {
+      "id": "59072756-0d7a-3043-95bd-e0e1d8934f2b",
+      "product": {
+        "name": "Red Hat Discovery 2"
+      },
+      "product_version": "patch: 1778101579"
     },
     {
       "id": "647daefa-b9e7-33af-a399-679694464c75",
@@ -139,11 +167,39 @@
       "product_version": "patch: 0:3.5.3-9.el9_7"
     },
     {
+      "id": "943c4a1e-a069-3b5a-9c91-af630c979b43",
+      "product": {
+        "name": "RHEL-8 based Middleware Containers"
+      },
+      "product_version": "patch: 7.13.5-4.1777325677"
+    },
+    {
       "id": "94e13645-338b-32d0-8812-b0ca13380273",
       "product": {
         "name": "Red Hat Update Infrastructure 5"
       },
       "product_version": "patch: 1776868842"
+    },
+    {
+      "id": "95367dd3-a7da-3995-b486-0643ef8612de",
+      "product": {
+        "name": "RHEL-8 based Middleware Containers"
+      },
+      "product_version": "patch: 7.13.5-4.1777325711"
+    },
+    {
+      "id": "98de134e-89b9-3f00-86ec-aa90e54f5e90",
+      "product": {
+        "name": "RHEL-8 based Middleware Containers"
+      },
+      "product_version": "patch: 7.13.5-4.1777325709"
+    },
+    {
+      "id": "9b5a3298-6df0-3d4d-b9c3-8e4e5a5b4762",
+      "product": {
+        "name": "Red Hat Discovery 2"
+      },
+      "product_version": "patch: 1778156756"
     },
     {
       "id": "9ca3ac2a-1a76-3a25-874b-9739d1817b60",
@@ -193,6 +249,20 @@
         "name": "Red Hat Update Infrastructure 5"
       },
       "product_version": "patch: 1776868772"
+    },
+    {
+      "id": "d007452d-73eb-3e33-bc5c-0520289039be",
+      "product": {
+        "name": "RHEL-8 based Middleware Containers"
+      },
+      "product_version": "patch: 7.13.5-4.1777325680"
+    },
+    {
+      "id": "d1f159c0-b6a6-34f3-a308-c8cef58a53d1",
+      "product": {
+        "name": "Red Hat OpenShift Container Platform 4.12"
+      },
+      "product_version": "patch: 412.86.202604281506-0"
     },
     {
       "id": "d6600a3f-bd85-3e67-9243-d349fc0f5af9",

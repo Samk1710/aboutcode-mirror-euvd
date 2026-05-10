@@ -2,13 +2,13 @@
   "id": "EUVD-2026-28668",
   "enisaUuid": "991b5525-5855-374d-baa9-a7125fcb5cec",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\nsmb: client: fix in-place encryption corruption in SMB2_write()\n\nSMB2_write() places write payload in iov[1..n] as part of rq_iov.\nsmb3_init_transform_rq() pointer-shares rq_iov, so crypt_message()\nencrypts iov[1] in-place, replacing the original plaintext with\nciphertext. On a replayable error, the retry sends the same iov[1]\nwhich now contains ciphertext instead of the original data,\nresulting in corruption.\n\nThe corruption is most likely to be observed when connections are\nunstable, as reconnects trigger write retries that re-send the\nalready-encrypted data.\n\nThis affects SFU mknod, MF symlinks, etc. On kernels before\n6.10 (prior to the netfs conversion), sync writes also used\nthis path and were similarly affected. The async write path\nwasn't unaffected as it uses rq_iter which gets deep-copied.\n\nFix by moving the write payload into rq_iter via iov_iter_kvec(),\nso smb3_init_transform_rq() deep-copies it before encryption.",
-  "datePublished": "May 8, 2026, 3:31:25 PM",
-  "dateUpdated": "May 8, 2026, 3:31:26 PM",
+  "datePublished": "May 8, 2026, 2:21:16 PM",
+  "dateUpdated": "May 9, 2026, 4:10:40 AM",
   "baseScore": 0.0,
-  "references": "https://git.kernel.org/stable/c/438e77435aee2894d5edf90be5c87004a57f6258\nhttps://git.kernel.org/stable/c/52327268224fb9ccc7ecfbbdfdfff54b6e93c518\nhttps://git.kernel.org/stable/c/92e64f1852f455f57d0850989e57c30d7fac7d95\nhttps://git.kernel.org/stable/c/aea5e37388a080361110ab5790f57ae0af383650\nhttps://git.kernel.org/stable/c/d78840a6a38d312dc1a51a65317bb67e46f0b929\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-43362\n",
+  "references": "https://git.kernel.org/stable/c/438e77435aee2894d5edf90be5c87004a57f6258\nhttps://git.kernel.org/stable/c/52327268224fb9ccc7ecfbbdfdfff54b6e93c518\nhttps://git.kernel.org/stable/c/92e64f1852f455f57d0850989e57c30d7fac7d95\nhttps://git.kernel.org/stable/c/aea5e37388a080361110ab5790f57ae0af383650\nhttps://git.kernel.org/stable/c/d78840a6a38d312dc1a51a65317bb67e46f0b929\n",
   "aliases": "CVE-2026-43362\nGHSA-3mqh-w39c-q3pj\n",
   "assigner": "Linux",
-  "epss": 0.0,
+  "epss": 0.01,
   "enisaIdProduct": [
     {
       "id": "14a2fe65-b2a0-30f4-b2e0-596fcaecad21",
@@ -39,6 +39,20 @@
       "product_version": "patch: 7.0"
     },
     {
+      "id": "26dab5f1-aa1c-31a3-bcf8-02b3610cd408",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "026e93dc0a3eefb0be060bcb9ecd8d7a7fd5c398 <438e77435aee2894d5edf90be5c87004a57f6258"
+    },
+    {
+      "id": "2f74052f-d244-3983-8f21-938b8c9a6e17",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "026e93dc0a3eefb0be060bcb9ecd8d7a7fd5c398 <d78840a6a38d312dc1a51a65317bb67e46f0b929"
+    },
+    {
       "id": "4c3d4327-ccb9-3468-9450-c4d57e19864c",
       "product": {
         "name": "Linux"
@@ -58,6 +72,41 @@
         "name": "Linux"
       },
       "product_version": "1da177e4c3f41524e886b7f1b8a0c1fc7321cac2 <52327268224fb9ccc7ecfbbdfdfff54b6e93c518"
+    },
+    {
+      "id": "6c15405a-7626-39d4-8742-6c6530bf9f92",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "patch: 0"
+    },
+    {
+      "id": "7ac7f3e1-8c80-3627-8238-62877a2ae6f5",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "026e93dc0a3eefb0be060bcb9ecd8d7a7fd5c398 <aea5e37388a080361110ab5790f57ae0af383650"
+    },
+    {
+      "id": "80aa7edf-b452-3d2c-bbb4-98d55acec8f5",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "026e93dc0a3eefb0be060bcb9ecd8d7a7fd5c398 <92e64f1852f455f57d0850989e57c30d7fac7d95"
+    },
+    {
+      "id": "980a222e-e478-38f7-ae6c-850f5ef2f9d3",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "4.11"
+    },
+    {
+      "id": "a7de60eb-2184-300f-9252-13e9f34c913c",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "026e93dc0a3eefb0be060bcb9ecd8d7a7fd5c398 <52327268224fb9ccc7ecfbbdfdfff54b6e93c518"
     },
     {
       "id": "b71a7470-6a7f-3037-90e8-6dbc6e322cfc",

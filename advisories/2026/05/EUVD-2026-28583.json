@@ -2,13 +2,13 @@
   "id": "EUVD-2026-28583",
   "enisaUuid": "ab5b5cf4-5813-39fb-9f97-c87ff968928c",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\nACPI: processor: Fix NULL-pointer dereference in acpi_processor_errata_piix4()\n\nIn acpi_processor_errata_piix4(), the pointer dev is first assigned an IDE\ndevice and then reassigned an ISA device:\n\n  dev = pci_get_subsys(..., PCI_DEVICE_ID_INTEL_82371AB, ...);\n  dev = pci_get_subsys(..., PCI_DEVICE_ID_INTEL_82371AB_0, ...);\n\nIf the first lookup succeeds but the second fails, dev becomes NULL. This\nleads to a potential null-pointer dereference when dev_dbg() is called:\n\n  if (errata.piix4.bmisx)\n    dev_dbg(&dev->dev, ...);\n\nTo prevent this, use two temporary pointers and retrieve each device\nindependently, avoiding overwriting dev with a possible NULL value.\n\n[ rjw: Subject adjustment, added an empty code line ]",
-  "datePublished": "May 8, 2026, 3:31:23 PM",
-  "dateUpdated": "May 8, 2026, 3:31:23 PM",
+  "datePublished": "May 8, 2026, 1:11:30 PM",
+  "dateUpdated": "May 9, 2026, 4:10:27 AM",
   "baseScore": 0.0,
-  "references": "https://git.kernel.org/stable/c/06724a60cfa9767ea90b0f5d3dfb5cdd251b64f5\nhttps://git.kernel.org/stable/c/ad86ac604f8391c0212a91412d4f764c7a85f254\nhttps://git.kernel.org/stable/c/01e8751b37a366b1ca561add0042f2ceb18c03bf\nhttps://git.kernel.org/stable/c/b803811485ac0b2f774b6bf3abc8b999ba3b7033\nhttps://git.kernel.org/stable/c/29f60d3d06818d40118a30d663231f027ae87a05\nhttps://git.kernel.org/stable/c/0398b641be2b66c2fc7e0163c606ef19372e7ad5\nhttps://git.kernel.org/stable/c/f132e089fe89cadc2098991f0a3cb05c3f824ac6\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-43313\n",
+  "references": "https://git.kernel.org/stable/c/06724a60cfa9767ea90b0f5d3dfb5cdd251b64f5\nhttps://git.kernel.org/stable/c/ad86ac604f8391c0212a91412d4f764c7a85f254\nhttps://git.kernel.org/stable/c/01e8751b37a366b1ca561add0042f2ceb18c03bf\nhttps://git.kernel.org/stable/c/b803811485ac0b2f774b6bf3abc8b999ba3b7033\nhttps://git.kernel.org/stable/c/29f60d3d06818d40118a30d663231f027ae87a05\nhttps://git.kernel.org/stable/c/0398b641be2b66c2fc7e0163c606ef19372e7ad5\nhttps://git.kernel.org/stable/c/f132e089fe89cadc2098991f0a3cb05c3f824ac6\n",
   "aliases": "GHSA-px47-fmm9-rxw4\nCVE-2026-43313\n",
   "assigner": "Linux",
-  "epss": 0.0,
+  "epss": 0.02,
   "enisaIdProduct": [
     {
       "id": "004986d7-3330-3801-bf15-a1724f36c48f",
@@ -88,6 +88,13 @@
       "product_version": "1da177e4c3f41524e886b7f1b8a0c1fc7321cac2 <06724a60cfa9767ea90b0f5d3dfb5cdd251b64f5"
     },
     {
+      "id": "a73d913e-d0ce-3813-9540-e83fa6b4d13d",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "patch: 0"
+    },
+    {
       "id": "b6059bcd-225d-31b7-9981-bbfcbef51f6c",
       "product": {
         "name": "Linux"
@@ -100,6 +107,13 @@
         "name": "Linux"
       },
       "product_version": "1da177e4c3f41524e886b7f1b8a0c1fc7321cac2 <ad86ac604f8391c0212a91412d4f764c7a85f254"
+    },
+    {
+      "id": "c816d67a-d934-3793-b84d-08787bfe52ae",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "2.6.12"
     },
     {
       "id": "f1c03306-72e6-3d2b-a6d4-5b94078cedfe",

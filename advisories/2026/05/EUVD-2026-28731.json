@@ -2,13 +2,13 @@
   "id": "EUVD-2026-28731",
   "enisaUuid": "4cf0366b-6682-3003-828b-a9c2d4737c67",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\nusb: image: mdc800: kill download URB on timeout\n\nmdc800_device_read() submits download_urb and waits for completion.\nIf the timeout fires and the device has not responded, the function\nreturns without killing the URB, leaving it active.\n\nA subsequent read() resubmits the same URB while it is still\nin-flight, triggering the WARN in usb_submit_urb():\n\n  \"URB submitted while active\"\n\nCheck the return value of wait_event_timeout() and kill the URB if\nit indicates timeout, ensuring the URB is complete before its status\nis inspected or the URB is resubmitted.\n\nSimilar to\n- commit 372c93131998 (\"USB: yurex: fix control-URB timeout handling\")\n- commit b98d5000c505 (\"media: rc: iguanair: handle timeouts\")",
-  "datePublished": "May 8, 2026, 3:31:28 PM",
-  "dateUpdated": "May 8, 2026, 3:31:28 PM",
+  "datePublished": "May 8, 2026, 2:21:59 PM",
+  "dateUpdated": "May 9, 2026, 4:10:55 AM",
   "baseScore": 0.0,
-  "references": "https://git.kernel.org/stable/c/9fa5a49760979ba016506fe292a431c8b83f043e\nhttps://git.kernel.org/stable/c/15536f6c15f48037a1672cbdea53266d67861ff6\nhttps://git.kernel.org/stable/c/9bf877cc67309b2a063b0087c3ad8585fb11cec3\nhttps://git.kernel.org/stable/c/155f471e38aa516f6c58c2ae03ca3dc222fa2fdb\nhttps://git.kernel.org/stable/c/d4a400a6a4c4d49f77a04a3f401df5ae1a10657c\nhttps://git.kernel.org/stable/c/b7fed917f84e484e06c5e9926746d0b524e3a93e\nhttps://git.kernel.org/stable/c/cc7398447810c9450c90d092efe9997569f8d96f\nhttps://git.kernel.org/stable/c/1be3b77de4eb89af8ae2fd6610546be778e25589\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-43425\n",
+  "references": "https://git.kernel.org/stable/c/9fa5a49760979ba016506fe292a431c8b83f043e\nhttps://git.kernel.org/stable/c/15536f6c15f48037a1672cbdea53266d67861ff6\nhttps://git.kernel.org/stable/c/9bf877cc67309b2a063b0087c3ad8585fb11cec3\nhttps://git.kernel.org/stable/c/155f471e38aa516f6c58c2ae03ca3dc222fa2fdb\nhttps://git.kernel.org/stable/c/d4a400a6a4c4d49f77a04a3f401df5ae1a10657c\nhttps://git.kernel.org/stable/c/b7fed917f84e484e06c5e9926746d0b524e3a93e\nhttps://git.kernel.org/stable/c/cc7398447810c9450c90d092efe9997569f8d96f\nhttps://git.kernel.org/stable/c/1be3b77de4eb89af8ae2fd6610546be778e25589\n",
   "aliases": "GHSA-mvvm-h9gx-gvqm\nCVE-2026-43425\n",
   "assigner": "Linux",
-  "epss": 0.0,
+  "epss": 0.02,
   "enisaIdProduct": [
     {
       "id": "08f28bca-8fe4-3290-8730-f2c3d0e1ac2f",
@@ -67,6 +67,13 @@
       "product_version": "patch: 6.1.167"
     },
     {
+      "id": "536f4d87-c9f5-3246-a13a-98e12d1b956c",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "2.6.12"
+    },
+    {
       "id": "750e3466-5a1a-3ded-8e59-7606d573ec90",
       "product": {
         "name": "Linux"
@@ -114,6 +121,13 @@
         "name": "Linux"
       },
       "product_version": "1da177e4c3f41524e886b7f1b8a0c1fc7321cac2 <b7fed917f84e484e06c5e9926746d0b524e3a93e"
+    },
+    {
+      "id": "ff09ce8b-1009-30e1-b75e-c7f8db775f49",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "patch: 0"
     },
     {
       "id": "ffef8f55-cd4d-333f-9a5d-0a22ffb920f7",

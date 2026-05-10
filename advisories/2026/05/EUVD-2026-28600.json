@@ -2,14 +2,42 @@
   "id": "EUVD-2026-28600",
   "enisaUuid": "8544303e-22be-3c74-a16f-7ea5b2817b68",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\nmedia: solo6x10: Check for out of bounds chip_id\n\nClang with CONFIG_UBSAN_SHIFT=y noticed a condition where a signed type\n(literal \"1\" is an \"int\") could end up being shifted beyond 32 bits,\nso instrumentation was added (and due to the double is_tw286x() call\nseen via inlining), Clang decides the second one must now be undefined\nbehavior and elides the rest of the function[1]. This is a known problem\nwith Clang (that is still being worked on), but we can avoid the entire\nproblem by actually checking the existing max chip ID, and now there is\nno runtime instrumentation added at all since everything is known to be\nwithin bounds.\n\nAdditionally use an unsigned value for the shift to remove the\ninstrumentation even without the explicit bounds checking.\n\n[hverkuil: fix checkpatch warning for is_tw286x]",
-  "datePublished": "May 8, 2026, 3:31:23 PM",
-  "dateUpdated": "May 8, 2026, 3:31:23 PM",
+  "datePublished": "May 8, 2026, 1:26:12 PM",
+  "dateUpdated": "May 9, 2026, 4:10:31 AM",
   "baseScore": 0.0,
-  "references": "https://git.kernel.org/stable/c/c327192ca26670cf6e588c1eeda66cd2fa97630e\nhttps://git.kernel.org/stable/c/0b3dadada2417782a63ce32dae05bafe1c949e3f\nhttps://git.kernel.org/stable/c/603e3859393ee2ce91393b7d05e6e56e4b66e5cd\nhttps://git.kernel.org/stable/c/33af366211ee78e3b074ff44a16121e537e86826\nhttps://git.kernel.org/stable/c/5849ae68d7b8b6ad55cc1bf0d227dd2ae6362528\nhttps://git.kernel.org/stable/c/d29f33b2cf98e4901cd5457d1ee34062e808df73\nhttps://git.kernel.org/stable/c/4d6db0c6bbbfd8d7bbdbf7ab6a9c003752abf116\nhttps://git.kernel.org/stable/c/0fdf6323c35a134f206dcad5babb4ff488552076\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-43316\n",
+  "references": "https://git.kernel.org/stable/c/c327192ca26670cf6e588c1eeda66cd2fa97630e\nhttps://git.kernel.org/stable/c/0b3dadada2417782a63ce32dae05bafe1c949e3f\nhttps://git.kernel.org/stable/c/603e3859393ee2ce91393b7d05e6e56e4b66e5cd\nhttps://git.kernel.org/stable/c/33af366211ee78e3b074ff44a16121e537e86826\nhttps://git.kernel.org/stable/c/5849ae68d7b8b6ad55cc1bf0d227dd2ae6362528\nhttps://git.kernel.org/stable/c/d29f33b2cf98e4901cd5457d1ee34062e808df73\nhttps://git.kernel.org/stable/c/4d6db0c6bbbfd8d7bbdbf7ab6a9c003752abf116\nhttps://git.kernel.org/stable/c/0fdf6323c35a134f206dcad5babb4ff488552076\n",
   "aliases": "GHSA-xw5q-w7ff-jgm4\nCVE-2026-43316\n",
   "assigner": "Linux",
-  "epss": 0.0,
+  "epss": 0.02,
   "enisaIdProduct": [
+    {
+      "id": "02f6abfe-044f-32aa-98e1-23d16cc8d284",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "faa4fd2a09517b39cc1f5d622453f97a59acfdac <d29f33b2cf98e4901cd5457d1ee34062e808df73"
+    },
+    {
+      "id": "0571d24f-600d-3b95-b8f9-aaed5a058701",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "faa4fd2a09517b39cc1f5d622453f97a59acfdac <4d6db0c6bbbfd8d7bbdbf7ab6a9c003752abf116"
+    },
+    {
+      "id": "0bf83bda-1632-366d-8f2c-da316eeeeacb",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "2.6.36"
+    },
+    {
+      "id": "391b6742-956f-3b22-9b23-6e94496ff681",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "faa4fd2a09517b39cc1f5d622453f97a59acfdac <0fdf6323c35a134f206dcad5babb4ff488552076"
+    },
     {
       "id": "39d6bb8e-2885-364b-8d2e-ef6a18fe162d",
       "product": {
@@ -25,11 +53,39 @@
       "product_version": "1da177e4c3f41524e886b7f1b8a0c1fc7321cac2 <603e3859393ee2ce91393b7d05e6e56e4b66e5cd"
     },
     {
+      "id": "41995658-fdec-3f9f-abff-32ebd3e2ad59",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "faa4fd2a09517b39cc1f5d622453f97a59acfdac <33af366211ee78e3b074ff44a16121e537e86826"
+    },
+    {
+      "id": "524b07fa-d5bf-32b8-8689-8ff21f3f6b31",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "faa4fd2a09517b39cc1f5d622453f97a59acfdac <5849ae68d7b8b6ad55cc1bf0d227dd2ae6362528"
+    },
+    {
+      "id": "5b97ab80-7da0-3737-8664-f6704ba97e39",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "faa4fd2a09517b39cc1f5d622453f97a59acfdac <c327192ca26670cf6e588c1eeda66cd2fa97630e"
+    },
+    {
       "id": "609968aa-731b-3854-9734-f6784bd40175",
       "product": {
         "name": "Linux"
       },
       "product_version": "1da177e4c3f41524e886b7f1b8a0c1fc7321cac2 <d29f33b2cf98e4901cd5457d1ee34062e808df73"
+    },
+    {
+      "id": "66e3cdd2-2d91-3930-9767-f2b089f3efb0",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "faa4fd2a09517b39cc1f5d622453f97a59acfdac <0b3dadada2417782a63ce32dae05bafe1c949e3f"
     },
     {
       "id": "6f156470-adc4-3a9c-bc01-0eb17732cb87",
@@ -102,11 +158,25 @@
       "product_version": "patch: 5.10.252"
     },
     {
+      "id": "d0065eee-8435-38fa-b22d-7be9ce8a7b82",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "faa4fd2a09517b39cc1f5d622453f97a59acfdac <603e3859393ee2ce91393b7d05e6e56e4b66e5cd"
+    },
+    {
       "id": "d115cb55-98dd-373c-8ff1-af1dd8537b80",
       "product": {
         "name": "Linux"
       },
       "product_version": "patch: 6.12.75"
+    },
+    {
+      "id": "e54cb809-9af0-3c85-ad8b-301a20513f78",
+      "product": {
+        "name": "Linux"
+      },
+      "product_version": "patch: 0"
     },
     {
       "id": "f0511622-ddd7-3783-a3da-43b3caa93c1f",
