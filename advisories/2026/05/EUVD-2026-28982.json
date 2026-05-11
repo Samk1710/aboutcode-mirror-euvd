@@ -1,0 +1,31 @@
+{
+  "id": "EUVD-2026-28982",
+  "enisaUuid": "e3a3f288-30d8-39a3-9667-046375b9e8ce",
+  "description": "A vulnerability has been found in CodeAstro Online Catering Ordering System 1.0. This affects an unknown function of the file /deleteorder.php. The manipulation of the argument ID leads to sql injection. The attack is possible to be carried out remotely. The exploit has been disclosed to the public and may be used.",
+  "datePublished": "May 10, 2026, 6:30:21 AM",
+  "dateUpdated": "May 10, 2026, 6:30:21 AM",
+  "baseScore": 5.3,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
+  "references": "https://vuldb.com/vuln/362448\nhttps://vuldb.com/vuln/362448/cti\nhttps://vuldb.com/submit/808783\nhttps://github.com/yihaofuweng/cve/issues/63\nhttps://codeastro.com/\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-8231\n",
+  "aliases": "GHSA-9qgj-98p7-542m\nCVE-2026-8231\n",
+  "assigner": "VulDB",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "e8c1d159-e4b4-352d-be82-03d09a510a6b",
+      "product": {
+        "name": "Online Catering Ordering System"
+      },
+      "product_version": "1.0"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "b0df847b-533b-362a-9c11-4859742be094",
+      "vendor": {
+        "name": "CodeAstro"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "EUVD-2026-28954",
+  "enisaUuid": "69c14aa0-6ab2-3125-813d-c3f61d09607b",
+  "description": "A weakness has been identified in Devs Palace ERP Online up to 4.0.0. The affected element is an unknown function of the file /inventory/purchase_return_save. Executing a manipulation can lead to cross site scripting. The attack may be launched remotely. The exploit has been made available to the public and could be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "datePublished": "May 10, 2026, 3:33:00 AM",
+  "dateUpdated": "May 10, 2026, 3:33:00 AM",
+  "baseScore": 4.8,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:P/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N/E:P",
+  "references": "https://vuldb.com/vuln/362435\nhttps://vuldb.com/vuln/362435/cti\nhttps://vuldb.com/submit/808252\nhttps://vuldb.com/submit/808259\nhttps://olografix.org/acme/_poc/ERP_Online-POC1.gif\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-8218\n",
+  "aliases": "CVE-2026-8218\nGHSA-26gm-rrp5-38p4\n",
+  "assigner": "VulDB",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "4fa6a08e-0811-33bc-b01f-820aa1b2f12a",
+      "product": {
+        "name": "ERP Online"
+      },
+      "product_version": "4.0"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "e2a6d723-c073-3fad-9e8b-e914ed5d52fa",
+      "vendor": {
+        "name": "Devs Palace"
+      }
+    }
+  ]
+}
