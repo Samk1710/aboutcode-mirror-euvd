@@ -1,16 +1,16 @@
 {
   "id": "EUVD-2026-28643",
   "enisaUuid": "5ab11428-30e8-3ff4-a586-dae9bab41f6a",
-  "description": "PraisonAI is a multi-agent teams system. Prior to version 4.6.37, the _safe_extractall helper that all recipe pull, recipe publish, and recipe unpack flows route through validates each archive member's name for absolute paths, .. segments, and resolved-path escape \u2014 but does not validate member.linkname, does not reject symlink/hardlink members, and calls tar.extractall(dest_dir) without filter=\"data\". A bundle that contains a symlink with a name inside dest_dir but a linkname pointing outside it, followed by a regular file whose path traverses through the just-created symlink, escapes dest_dir and lets the attacker write arbitrary content to an attacker-chosen location on the victim's filesystem. This issue has been patched in version 4.6.37.",
-  "datePublished": "May 8, 2026, 1:38:47 PM",
-  "dateUpdated": "May 8, 2026, 1:38:47 PM",
+  "description": "PraisonAI's symlink-extraction bypass of `_safe_extractall` writes outside `dest_dir`",
+  "datePublished": "May 11, 2026, 1:59:41 PM",
+  "dateUpdated": "May 11, 2026, 1:59:41 PM",
   "baseScore": 8.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N",
-  "references": "https://github.com/MervinPraison/PraisonAI/security/advisories/GHSA-9q28-ghcr-c4x3\n",
-  "aliases": "CVE-2026-44340\n",
+  "references": "https://github.com/MervinPraison/PraisonAI/security/advisories/GHSA-9q28-ghcr-c4x3\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-44340\n",
+  "aliases": "CVE-2026-44340\nGHSA-9q28-ghcr-c4x3\n",
   "assigner": "GitHub_M",
-  "epss": 0.0,
+  "epss": 0.02,
   "enisaIdProduct": [
     {
       "id": "356ca35f-0732-3e09-8f70-d1ce3f7d827e",
@@ -21,6 +21,12 @@
     }
   ],
   "enisaIdVendor": [
+    {
+      "id": "4c131a5d-2943-3411-aeee-f0cee17587e8",
+      "vendor": {
+        "name": "mervinpraison"
+      }
+    },
     {
       "id": "e786dd12-bcab-3e81-a656-039a61d49f3d",
       "vendor": {

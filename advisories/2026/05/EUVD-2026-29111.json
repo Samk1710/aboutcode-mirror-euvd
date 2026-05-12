@@ -1,0 +1,29 @@
+{
+  "id": "EUVD-2026-29111",
+  "enisaUuid": "cec7d3c6-5a96-3045-ab88-fd34a6d64eb7",
+  "description": "Cross Site Scripting vulnerability in iotgateway v.3.0.1 allows a remote attacker to execute arbitrary code via the Log Record Function",
+  "datePublished": "May 11, 2026, 6:31:45 PM",
+  "dateUpdated": "May 11, 2026, 6:31:45 PM",
+  "baseScore": 0.0,
+  "references": "http://iotgateway.com\nhttp://iotgateway.net/\nhttps://github.com/iioter/iotgateway/issues/59\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-36906\n",
+  "aliases": "GHSA-5m68-j8g4-rv9f\nCVE-2026-36906\n",
+  "assigner": "mitre",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "24f98bf4-ed3a-3039-9f3d-a68867f0657f",
+      "product": {
+        "name": "n/a"
+      },
+      "product_version": "n/a"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "791668af-7301-3b71-94dd-02e8071596c3",
+      "vendor": {
+        "name": "n/a"
+      }
+    }
+  ]
+}
