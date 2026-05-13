@@ -1,16 +1,16 @@
 {
   "id": "EUVD-2026-25339",
   "enisaUuid": "caf74457-3dc4-3637-8182-76a81f9f1d86",
-  "description": "OpenShell before 2026.3.28 contains an arbitrary code execution vulnerability in mirror mode that converts untrusted sandbox files into workspace hooks. Attackers with mirror mode access can execute arbitrary code on the host during gateway startup by exploiting enabled workspace hooks.",
+  "description": "OpenClaw before 2026.3.28 contains an arbitrary code execution vulnerability in mirror mode that converts untrusted sandbox files into workspace hooks. Attackers with mirror mode access can execute arbitrary code on the host during gateway startup by exploiting enabled workspace hooks.",
   "datePublished": "Apr 23, 2026, 9:58:14 PM",
-  "dateUpdated": "Apr 23, 2026, 9:58:14 PM",
+  "dateUpdated": "May 12, 2026, 1:46:30 AM",
   "baseScore": 5.4,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:P/PR:L/UI:P/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/openclaw/openclaw/security/advisories/GHSA-42mx-vp8m-j7qh\nhttps://github.com/openclaw/openclaw/commit/c02ee8a3a4cb390b23afdf21317aa8b2096854d1\nhttps://www.vulncheck.com/advisories/openshell-arbitrary-code-execution-via-mirror-mode-sandbox-file-conversion\n",
-  "aliases": "CVE-2026-41355\n",
+  "aliases": "CVE-2026-41355\nGHSA-m563-373q-885c\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.01,
   "enisaIdProduct": [
     {
       "id": "349139a5-9f29-3603-b12b-0f047ff3b67d",

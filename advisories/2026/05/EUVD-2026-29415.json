@@ -1,0 +1,31 @@
+{
+  "id": "EUVD-2026-29415",
+  "enisaUuid": "da1bdea1-d173-31b7-a427-51a47082c99d",
+  "description": "The WP Google Maps Integration plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the `page` parameter in all versions up to, and including, 1.2. This is due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick an administrator into performing an action such as clicking on a link.",
+  "datePublished": "May 12, 2026, 9:31:32 AM",
+  "dateUpdated": "May 12, 2026, 9:31:32 AM",
+  "baseScore": 6.1,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+  "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/bd9ef48f-b501-4fca-a6a5-78452c316497?source=cve\nhttps://plugins.trac.wordpress.org/browser/wp-google-maps-integration/trunk/admin/partials/category/category-table-display.php#L48\nhttps://plugins.trac.wordpress.org/browser/wp-google-maps-integration/trunk/admin/partials/marker/marker-table-display.php#L46\nhttps://plugins.trac.wordpress.org/browser/wp-google-maps-integration/trunk/admin/partials/route/route-table-display.php#L42\nhttps://plugins.trac.wordpress.org/browser/wp-google-maps-integration/trunk/admin/partials/map/map-table-display.php#L42\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-7464\n",
+  "aliases": "CVE-2026-7464\nGHSA-9mhf-q7jh-pf77\n",
+  "assigner": "Wordfence",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "b0a61803-1239-3309-b4d0-ba2e54a1408f",
+      "product": {
+        "name": "WP Google Maps Integration"
+      },
+      "product_version": "0 \u22641.2"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "75b99990-9c7e-3ff4-b265-2c67bdf6d7e7",
+      "vendor": {
+        "name": "trapesium"
+      }
+    }
+  ]
+}

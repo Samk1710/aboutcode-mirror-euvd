@@ -3,7 +3,7 @@
   "enisaUuid": "d365ec68-ba7f-3cec-aa1c-59dcd85b9701",
   "description": "LINE client for iOS versions prior to 26.3.0 contains a vulnerability in the in-app browser where opening a crafted web page can repeatedly trigger OS-level dialogs due to insufficient safeguards when handling arbitrary URL schemes, potentially causing the iOS device to become temporarily inoperable.",
   "datePublished": "Apr 16, 2026, 5:54:05 AM",
-  "dateUpdated": "Apr 30, 2026, 10:34:35 AM",
+  "dateUpdated": "May 12, 2026, 12:54:07 AM",
   "baseScore": 7.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:H/SC:N/SI:N/SA:L",

@@ -3,14 +3,14 @@
   "enisaUuid": "14c3e331-675d-3e6e-b7cd-f8287055b01f",
   "description": "A security vulnerability has been detected in UGREEN CM933 1.1.59.4319. The impacted element is an unknown function of the component Administrative Interface. Such manipulation leads to missing authentication. The attack requires being on the local network. You should upgrade the affected component. The vendor replied: \"We have successfully confirmed and reproduced the issue. We take this matter very seriously and have incorporated the fix into our development schedule. The issue is scheduled to be resolved in the release version coming in late April.\"",
   "datePublished": "May 9, 2026, 10:15:09 AM",
-  "dateUpdated": "May 9, 2026, 10:15:09 AM",
+  "dateUpdated": "May 12, 2026, 2:25:06 AM",
   "baseScore": 5.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:X",
   "references": "https://vuldb.com/vuln/362337\nhttps://vuldb.com/vuln/362337/cti\nhttps://vuldb.com/submit/793588\n",
   "aliases": "CVE-2026-8185\nGHSA-727c-q756-hcp2\n",
   "assigner": "VulDB",
-  "epss": 0.02,
+  "epss": 0.01,
   "enisaIdProduct": [
     {
       "id": "1263cae4-fcbd-3cde-adc7-216ad058dbd1",

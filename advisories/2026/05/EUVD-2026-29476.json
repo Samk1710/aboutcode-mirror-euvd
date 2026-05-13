@@ -1,0 +1,31 @@
+{
+  "id": "EUVD-2026-29476",
+  "enisaUuid": "23c12450-9d00-30c4-ab18-2afdca450d95",
+  "description": "sealed-env: TOTP secret embedded in unseal token payload (enterprise mode)",
+  "datePublished": "May 12, 2026, 3:09:08 PM",
+  "dateUpdated": "May 12, 2026, 3:09:08 PM",
+  "baseScore": 9.1,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N",
+  "references": "https://github.com/davidalmeidac/sealed-env/security/advisories/GHSA-x3r2-fj3r-g5mv\n",
+  "aliases": "GHSA-x3r2-fj3r-g5mv\nCVE-2026-45091\n",
+  "assigner": "GitHub_M",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "f5f9b612-fbbc-30bb-a41b-a4a0e3d3e412",
+      "product": {
+        "name": "sealed-env"
+      },
+      "product_version": "< 0.1.0-alpha.4"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "87a7ee18-a26a-3e40-a94b-6f33989fec0c",
+      "vendor": {
+        "name": "davidalmeidac"
+      }
+    }
+  ]
+}

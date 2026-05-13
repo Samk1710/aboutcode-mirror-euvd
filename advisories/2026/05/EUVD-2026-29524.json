@@ -1,0 +1,31 @@
+{
+  "id": "EUVD-2026-29524",
+  "enisaUuid": "3d6db973-26f2-3d4e-b22c-764dfb72545b",
+  "description": "Integer overflow in the UEFI firmware for the Slim Bootloader may allow an escalation of privilege. System software adversary with a privileged user combined with a low complexity attack may enable local code execution. This result may potentially occur via local access when attack requirements are present without special internal knowledge and requires no user interaction. The potential vulnerability may impact the confidentiality (high), integrity (high) and availability (high) of the vulnerable system, resulting in subsequent system confidentiality (high), integrity (high) and availability (high) impacts.",
+  "datePublished": "May 12, 2026, 6:30:39 PM",
+  "dateUpdated": "May 12, 2026, 6:30:39 PM",
+  "baseScore": 8.7,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:P/PR:H/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H",
+  "references": "https://intel.com/content/www/us/en/security-center/advisory/intel-sa-01425.html\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-20753\n",
+  "aliases": "GHSA-q695-vc4p-4hjx\nCVE-2026-20753\n",
+  "assigner": "intel",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "d7199280-3cc8-35f1-8a4c-833980b940f1",
+      "product": {
+        "name": "Slim Bootloader may allow an escalation of privilege. System software adversary with a privileged user combined with a low complexity attack may enable local code execution. This result may potentially occur via local access when attack requirements are present without special internal knowledge and requires no user interaction. The potential vulnerability may impact the confidentiality (high), integrity (high) and availability (high) of the vulnerable system, resulting in subsequent system confidentiality (high), integrity (high) and availability (high) impacts."
+      },
+      "product_version": "See references"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "2c24a669-b330-3da0-aabe-fdfd76c72ee5",
+      "vendor": {
+        "name": "n/a"
+      }
+    }
+  ]
+}

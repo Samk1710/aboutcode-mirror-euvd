@@ -3,14 +3,14 @@
   "enisaUuid": "45f7a9b8-d5cd-3b07-9566-d02b0be49105",
   "description": "Pelican is a platform for creating data federations. From versions 7.21.0 to before 7.21.5, 7.22.0 to before 7.22.3, 7.23.0 to before 7.23.3, and 7.24.0 to before 7.24.2, there is a a privilege escalation vulnerability affecting Pelican's Web User Interface (WebUI). This attack allows any user authenticated to the WebUI via OAuth to gain admin privileges under certain configurations. This issue has been patched in versions 7.21.5, 7.22.3, 7.23.3, and 7.24.2.",
   "datePublished": "May 9, 2026, 7:19:36 PM",
-  "dateUpdated": "May 9, 2026, 7:19:36 PM",
+  "dateUpdated": "May 12, 2026, 2:27:16 AM",
   "baseScore": 9.0,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H",
   "references": "https://github.com/PelicanPlatform/pelican/security/advisories/GHSA-rpfr-x88x-xwcw\nhttps://github.com/PelicanPlatform/pelican/commit/7f73b9c3e677a0ae4a0ec465c5d98bb8bd948854\n",
   "aliases": "CVE-2026-42571\nGHSA-rpfr-x88x-xwcw\n",
   "assigner": "GitHub_M",
-  "epss": 0.0,
+  "epss": 0.04,
   "enisaIdProduct": [
     {
       "id": "53ee356e-3474-3902-afa2-5159d475a4c7",
