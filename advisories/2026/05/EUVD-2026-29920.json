@@ -1,0 +1,31 @@
+{
+  "id": "EUVD-2026-29920",
+  "enisaUuid": "bb27a27b-7d0e-34e9-bf4e-09b538711963",
+  "description": "csync2 uses insecure temporary directories when compiled with C99 or later, allowing for TOCTOU style attacks on the temporary directories.",
+  "datePublished": "May 13, 2026, 6:30:52 PM",
+  "dateUpdated": "May 13, 2026, 6:30:52 PM",
+  "baseScore": 5.1,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:L/UI:P/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
+  "references": "https://bugzilla.suse.com/show_bug.cgi?id=CVE-2026-41051\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-41051\n",
+  "aliases": "GHSA-7mqw-hr29-pj76\nCVE-2026-41051\n",
+  "assigner": "suse",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "e2d251ae-31f1-3506-9d6d-4c5f2ebcfa51",
+      "product": {
+        "name": "openSUSE Tumbleweed"
+      },
+      "product_version": "? <2.0+git.1600444747.83b3644-3.1"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "c32d73b1-a7ab-3221-b8d5-eee337ba5fb0",
+      "vendor": {
+        "name": "SUSE"
+      }
+    }
+  ]
+}

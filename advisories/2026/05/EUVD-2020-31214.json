@@ -1,0 +1,31 @@
+{
+  "id": "EUVD-2020-31214",
+  "enisaUuid": "8bb49029-a1f5-3e4f-b999-cb82a2eb1894",
+  "description": "Ecommerce Systempay 1.0 contains a weak cryptographic implementation vulnerability that allows attackers to brute force the 16-character production secret key used for payment signature generation. Attackers can extract payment form data and signatures from POST requests to the payment endpoint, then use SHA1 hash comparison to iteratively test key candidates until discovering the correct production key, enabling them to forge valid payment signatures and manipulate transaction amounts.",
+  "datePublished": "May 13, 2026, 6:30:53 PM",
+  "dateUpdated": "May 13, 2026, 6:30:53 PM",
+  "baseScore": 9.3,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
+  "references": "https://www.exploit-db.com/exploits/48017\nhttps://paiement.systempay.fr/doc/fr-FR/\nhttps://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/\nhttps://www.vulncheck.com/advisories/ecommerce-systempay-production-key-brute-force\nhttps://nvd.nist.gov/vuln/detail/CVE-2020-37168\n",
+  "aliases": "CVE-2020-37168\nGHSA-2x94-2hh3-xhp5\n",
+  "assigner": "VulnCheck",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "3edd5d7a-4c89-3b0d-bb9d-366e18d774af",
+      "product": {
+        "name": "Ecommerce Systempay"
+      },
+      "product_version": "1.0"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "99b4053c-066c-3603-a4e5-9ca996d33e3f",
+      "vendor": {
+        "name": "Paiement"
+      }
+    }
+  ]
+}

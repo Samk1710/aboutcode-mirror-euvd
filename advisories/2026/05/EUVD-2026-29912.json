@@ -1,0 +1,31 @@
+{
+  "id": "EUVD-2026-29912",
+  "enisaUuid": "1b2cf1c6-8841-3b42-9adf-0216ae90da0e",
+  "description": "Bytello Share (Windows Edition) installer executable provided by Bytello insecurely loads Dynamic Link Libraries. If there is a crafted DLL at the same directory when invoking the affected installer, arbitrary code may be executed with the privilege of the user invoking the installer.",
+  "datePublished": "May 13, 2026, 6:30:52 PM",
+  "dateUpdated": "May 13, 2026, 6:30:52 PM",
+  "baseScore": 8.4,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:A/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
+  "references": "https://www.bytello.com/help/share/downloads\nhttps://jvn.jp/en/jp/JVN98871848/\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-44612\n",
+  "aliases": "CVE-2026-44612\nGHSA-9wfr-j2f5-m367\n",
+  "assigner": "jpcert",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "dc9bbdef-d1a6-3fc5-b4ab-74793840e14e",
+      "product": {
+        "name": "Bytello Share (Windows Edition) installer executable"
+      },
+      "product_version": "prior to 5.13.0.4246"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "7d4892c8-4745-3c78-aef7-5c8a6489f263",
+      "vendor": {
+        "name": "Bytello"
+      }
+    }
+  ]
+}
