@@ -1,16 +1,16 @@
 {
   "id": "EUVD-2026-23948",
   "enisaUuid": "f74626b9-6e2e-37d9-a5cb-d439c44b5c5f",
-  "description": "Vvveb CMS 1.0.8 contains a remote code execution vulnerability in its media upload handler that allows authenticated attackers to execute arbitrary operating system commands by uploading a PHP webshell with a .phtml extension. Attackers can bypass the extension deny-list and upload malicious files to the publicly accessible media directory, then request the file over HTTP to achieve full server compromise.",
-  "datePublished": "Apr 20, 2026, 9:31:45 PM",
-  "dateUpdated": "Apr 20, 2026, 9:31:45 PM",
+  "description": "Vvveb CMS 1.0.8.2 contains a remote code execution vulnerability in its media upload handler that allows authenticated attackers to execute arbitrary operating system commands by uploading a PHP webshell with a .phtml extension. Attackers can bypass the extension deny-list and upload malicious files to the publicly accessible media directory, then request the file over HTTP to achieve full server compromise.",
+  "datePublished": "Apr 20, 2026, 7:57:37 PM",
+  "dateUpdated": "May 14, 2026, 2:09:51 AM",
   "baseScore": 8.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
-  "references": "https://github.com/givanz/Vvveb/commit/23ac0e8c758d80f3c4d9224763c8b2359648270e\nhttps://www.vulncheck.com/advisories/vvveb-cms-remote-code-execution-via-media-upload\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-6249\n",
-  "aliases": "CVE-2026-6249\n",
+  "references": "https://github.com/givanz/Vvveb/commit/23ac0e8c758d80f3c4d9224763c8b2359648270e\nhttps://www.vulncheck.com/advisories/vvveb-cms-remote-code-execution-via-media-upload\n",
+  "aliases": "GHSA-7x75-92hx-vr86\nCVE-2026-6249\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.11,
   "enisaIdProduct": [
     {
       "id": "0ba14116-9f0d-3d3f-858d-46f0dbbf7fb8",
@@ -18,6 +18,13 @@
         "name": "Vvveb CMS"
       },
       "product_version": "1.0.8"
+    },
+    {
+      "id": "3d001027-db50-3a40-907a-949454daf2b3",
+      "product": {
+        "name": "Vvveb CMS"
+      },
+      "product_version": "1.0.8.2"
     }
   ],
   "enisaIdVendor": [

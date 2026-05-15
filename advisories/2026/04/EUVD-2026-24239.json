@@ -3,7 +3,7 @@
   "enisaUuid": "0eb38e9a-fcc9-3661-9fef-e7b4c4709dd1",
   "description": "Bludit CMS prior to commit 6732dde contains a reflected cross-site scripting vulnerability in the search plugin that allows unauthenticated attackers to inject arbitrary JavaScript by crafting a malicious search query. Attackers can execute malicious scripts in the browsers of users who visit crafted URLs containing the payload, potentially stealing session cookies or performing actions on behalf of affected users.",
   "datePublished": "Apr 21, 2026, 6:03:00 PM",
-  "dateUpdated": "May 12, 2026, 1:46:31 AM",
+  "dateUpdated": "May 14, 2026, 2:09:46 AM",
   "baseScore": 5.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:A/VC:N/VI:N/VA:N/SC:L/SI:L/SA:N",

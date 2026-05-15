@@ -3,15 +3,22 @@
   "enisaUuid": "735af2c1-8337-3fa1-92ed-618e68c0b039",
   "description": "ProjeQtor versions 7.0 through 12.4.3 contain a stored cross-site scripting vulnerability in the file upload functionality where the checkValidFileName() function fails to restrict HTML and HTM file uploads. Authenticated attackers can upload HTML files containing arbitrary JavaScript through the image upload or attachment endpoints, and any user accessing the uploaded file URL will execute the embedded JavaScript in their browser.",
   "datePublished": "Apr 27, 2026, 3:11:37 PM",
-  "dateUpdated": "Apr 27, 2026, 3:11:37 PM",
+  "dateUpdated": "May 14, 2026, 2:09:51 AM",
   "baseScore": 5.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:P/VC:N/VI:N/VA:N/SC:L/SI:L/SA:N",
   "references": "https://damiri.fr/en/cves/CVE-2026-41467\nhttps://gryfman.fr/cves/CVE-2026-41467\nhttps://www.projeqtor.com\nhttps://www.vulncheck.com/advisories/projeqtor-stored-xss-via-checkvalidfilename\n",
-  "aliases": "CVE-2026-41467\n",
+  "aliases": "GHSA-g3mv-hfmp-474q\nCVE-2026-41467\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.03,
   "enisaIdProduct": [
+    {
+      "id": "2bc3acf7-3105-3dca-8f82-da657082611f",
+      "product": {
+        "name": "Projeqtor"
+      },
+      "product_version": "7.0 \u226412.4.3"
+    },
     {
       "id": "c9843f9e-7893-32ea-8ec2-f77fa7da896e",
       "product": {
@@ -28,6 +35,12 @@
     }
   ],
   "enisaIdVendor": [
+    {
+      "id": "44380654-729b-3aa4-bacc-b9b86eb7bb3f",
+      "vendor": {
+        "name": "Projeqtor"
+      }
+    },
     {
       "id": "c9843f9e-7893-32ea-8ec2-f77fa7da896e",
       "vendor": {

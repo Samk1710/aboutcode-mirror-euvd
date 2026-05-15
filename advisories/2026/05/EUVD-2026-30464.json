@@ -1,0 +1,31 @@
+{
+  "id": "EUVD-2026-30464",
+  "enisaUuid": "56997ba2-d796-3d10-8b09-3b295ddc6fad",
+  "description": "Use after free in Google Lens in Google Chrome prior to 148.0.7778.168 allowed a remote attacker who had compromised the renderer process to obtain potentially sensitive information from process memory via a crafted HTML page. (Chromium security severity: High)",
+  "datePublished": "May 14, 2026, 7:52:26 PM",
+  "dateUpdated": "May 14, 2026, 9:28:12 PM",
+  "baseScore": 6.5,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N",
+  "references": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html\nhttps://issues.chromium.org/issues/498322453\n",
+  "aliases": "GHSA-7v7v-cf8j-p265\nCVE-2026-8550\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "a8833433-b054-38c6-b7bd-c9175e529658",
+      "product": {
+        "name": "Chrome"
+      },
+      "product_version": "148.0.7778.168 <148.0.7778.168"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "eac6b278-edff-30f1-bdbe-688de8c5ad90",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}
