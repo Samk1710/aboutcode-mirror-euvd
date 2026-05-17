@@ -2,15 +2,15 @@
   "id": "EUVD-2010-5319",
   "enisaUuid": "66f45af1-a426-35ad-823f-3f08f51d6856",
   "description": "Digital Music Pad v8.2.3.3.4 contains a stack-based buffer overflow vulnerability in its playlist file parser. When opening a .pls file containing an excessively long string in the File1 field, the application fails to properly validate input length, resulting in corruption of the Structured Exception Handler (SEH) on the stack. This flaw may allow an attacker to control execution flow when the file is opened, potentially leading to arbitrary code execution.",
-  "datePublished": "Aug 21, 2025, 9:32:06 PM",
-  "dateUpdated": "Aug 21, 2025, 9:32:06 PM",
+  "datePublished": "Aug 21, 2025, 8:09:54 PM",
+  "dateUpdated": "May 15, 2026, 11:13:32 AM",
   "baseScore": 8.4,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:A/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
-  "references": "https://web.archive.org/web/20100923154433/http://secunia.com:80/advisories/41519\nhttps://www.exploit-db.com/exploits/15134\nhttps://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/fileformat/digital_music_pad_pls.rb\nhttps://www.topshareware.com/Digital-Music-Pad-download-79446.htm\nhttps://www.vulncheck.com/advisories/digital-music-pad-stack-buffer-overflow\nhttps://nvd.nist.gov/vuln/detail/CVE-2010-20111\n",
+  "references": "https://web.archive.org/web/20100923154433/http://secunia.com:80/advisories/41519\nhttps://www.exploit-db.com/exploits/15134\nhttps://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/fileformat/digital_music_pad_pls.rb\nhttps://www.topshareware.com/Digital-Music-Pad-download-79446.htm\nhttps://www.vulncheck.com/advisories/digital-music-pad-stack-buffer-overflow\n",
   "aliases": "CVE-2010-20111\nGHSA-gf45-cpf5-g5rx\n",
   "assigner": "VulnCheck",
-  "epss": 8.15,
+  "epss": 9.7,
   "enisaIdProduct": [
     {
       "id": "5b0bdc23-9cc2-33f3-99b4-44fb5f0339d9",
@@ -18,6 +18,13 @@
         "name": "Digital Music Pad"
       },
       "product_version": "* \u22648.2.3.3.4"
+    },
+    {
+      "id": "8044ef05-11b8-3664-b60f-b7cce486d91a",
+      "product": {
+        "name": "Digital Music Pad"
+      },
+      "product_version": "0 \u22648.2.3.3.4"
     }
   ],
   "enisaIdVendor": [

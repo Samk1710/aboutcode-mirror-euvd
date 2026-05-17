@@ -3,14 +3,14 @@
   "enisaUuid": "c9bcaeec-316e-31ce-9c8e-ab73d7751de6",
   "description": "Use after free in HID in Google Chrome prior to 148.0.7778.168 allowed a remote attacker who convinced a user to engage in specific UI gestures to potentially perform a sandbox escape via a crafted HTML page. (Chromium security severity: Critical)",
   "datePublished": "May 14, 2026, 7:52:12 PM",
-  "dateUpdated": "May 14, 2026, 9:10:30 PM",
+  "dateUpdated": "May 15, 2026, 3:56:58 AM",
   "baseScore": 8.3,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:H/A:H",
   "references": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html\nhttps://issues.chromium.org/issues/495999127\n",
   "aliases": "CVE-2026-8515\nGHSA-57r7-2v6h-4x36\n",
   "assigner": "Chrome",
-  "epss": 0.0,
+  "epss": 0.07,
   "enisaIdProduct": [
     {
       "id": "b8703dec-03b3-3f61-a775-dec07b541a7a",

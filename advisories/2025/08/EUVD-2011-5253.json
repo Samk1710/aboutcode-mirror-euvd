@@ -2,15 +2,15 @@
   "id": "EUVD-2011-5253",
   "enisaUuid": "2a462961-31cb-3ce8-85a8-d196ce0ea360",
   "description": "The RealNetworks RealArcade platform includes an ActiveX control (InstallerDlg.dll, version 2.6.0.445) that exposes a method named Exec via the StubbyUtil.ProcessMgr COM object. This method allows remote attackers to execute arbitrary commands on a victim's Windows machine without proper validation or restrictions. This platform was sometimes referred to or otherwise known as RealArcade or Arcade Games and has since consolidated with RealNetworks' platform, GameHouse.",
-  "datePublished": "Aug 20, 2025, 6:30:21 PM",
-  "dateUpdated": "Aug 20, 2025, 6:30:21 PM",
+  "datePublished": "Aug 20, 2025, 3:39:11 PM",
+  "dateUpdated": "May 15, 2026, 11:13:47 AM",
   "baseScore": 8.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
-  "references": "https://www.exploit-db.com/exploits/17105\nhttps://www.exploit-db.com/exploits/17149\nhttps://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/browser/real_arcade_installerdlg.rb\nhttps://advisories.checkpoint.com/defense/advisories/public/2011/cpai-2011-347.html\nhttps://www.gamehouse.com/\nhttps://archive.org/details/com.real.arcade\nhttps://www.vulncheck.com/advisories/real-networks-arcade-games-activex-arbitrary-code-execution\nhttps://nvd.nist.gov/vuln/detail/CVE-2011-10028\n",
+  "references": "https://www.exploit-db.com/exploits/17105\nhttps://www.exploit-db.com/exploits/17149\nhttps://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/browser/real_arcade_installerdlg.rb\nhttps://advisories.checkpoint.com/defense/advisories/public/2011/cpai-2011-347.html\nhttps://www.gamehouse.com/\nhttps://archive.org/details/com.real.arcade\nhttps://www.vulncheck.com/advisories/real-networks-arcade-games-activex-arbitrary-code-execution\n",
   "aliases": "GHSA-7hjw-6q7q-jc3c\nCVE-2011-10028\n",
   "assigner": "VulnCheck",
-  "epss": 58.89,
+  "epss": 62.62,
   "enisaIdProduct": [
     {
       "id": "08976003-3cc5-3f58-bc36-86daa2757757",
@@ -18,6 +18,13 @@
         "name": "RealArcade ActiveX"
       },
       "product_version": "* \u22642.6.0.445"
+    },
+    {
+      "id": "321f2bdb-d0a6-3155-9903-e56de29fe1f1",
+      "product": {
+        "name": "RealArcade ActiveX"
+      },
+      "product_version": "0 \u22642.6.0.445"
     }
   ],
   "enisaIdVendor": [

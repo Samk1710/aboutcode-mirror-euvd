@@ -2,12 +2,12 @@
   "id": "EUVD-2013-7253",
   "enisaUuid": "86cc7d66-6a3e-32df-a190-b79a5c689cdb",
   "description": "A command injection vulnerability exists in GestioIP 3.0 commit ac67be and earlier in ip_checkhost.cgi. Crafted input to the 'ip' parameter allows attackers to execute arbitrary shell commands on the server via embedded base64-encoded payloads. Authentication may be required depending on deployment configuration.",
-  "datePublished": "Jul 31, 2025, 3:35:50 PM",
-  "dateUpdated": "Jul 31, 2025, 3:35:50 PM",
+  "datePublished": "Jul 31, 2025, 2:55:54 PM",
+  "dateUpdated": "May 15, 2026, 11:14:08 AM",
   "baseScore": 8.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
-  "references": "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/gestioip_exec.rb\nhttps://sourceforge.net/p/gestioip/gestioip/ci/ac67be9fce5ee4c0438d27dfa5c1dcbca08c457c/\nhttps://sourceforge.net/projects/gestioip/\nhttps://www.vulncheck.com/advisories/gestioip-rce\nhttps://nvd.nist.gov/vuln/detail/CVE-2013-10039\n",
+  "references": "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/gestioip_exec.rb\nhttps://sourceforge.net/p/gestioip/gestioip/ci/ac67be9fce5ee4c0438d27dfa5c1dcbca08c457c/\nhttps://sourceforge.net/projects/gestioip/\nhttps://www.vulncheck.com/advisories/gestioip-rce\n",
   "aliases": "GHSA-gww2-cgc8-8xg9\nCVE-2013-10039\n",
   "assigner": "VulnCheck",
   "epss": 56.46,
@@ -25,6 +25,13 @@
         "name": "ipam"
       },
       "product_version": "* <3.0 commit ac67be"
+    },
+    {
+      "id": "89dd6ba4-d46a-3929-b0ca-c88877007490",
+      "product": {
+        "name": "ipam"
+      },
+      "product_version": "0 <3.0 commit ac67be"
     }
   ],
   "enisaIdVendor": [

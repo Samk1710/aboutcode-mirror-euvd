@@ -3,11 +3,11 @@
   "enisaUuid": "1b6268cb-ec54-3b8c-bf3b-b39cf6669fbd",
   "description": "Umbraco CMS versions prior to 4.7.1 are vulnerable to unauthenticated remote code execution via the codeEditorSave.asmx SOAP endpoint, which exposes a SaveDLRScript operation that permits arbitrary file uploads without authentication. By exploiting a path traversal flaw in the fileName parameter, attackers can write malicious ASPX scripts directly into the web-accessible /umbraco/ directory and execute them remotely.",
   "datePublished": "Aug 13, 2025, 8:54:39 PM",
-  "dateUpdated": "Nov 20, 2025, 10:28:54 PM",
+  "dateUpdated": "May 15, 2026, 11:14:03 AM",
   "baseScore": 9.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
-  "references": "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/umbraco_upload_aspx.rb\nhttps://www.exploit-db.com/exploits/19671\nhttps://web.archive.org/web/20120707033729/http://blog.gdssecurity.com/labs/2012/7/3/find-bugs-faster-with-a-webmatrix-local-reference-instance.html\nhttps://github.com/umbraco/Umbraco-CMS\nhttps://web.archive.org/web/20111017174609/http://umbraco.codeplex.com/releases/view/73692\nhttps://www.vulncheck.com/advisories/umbraco-cms-rce\nhttps://nvd.nist.gov/vuln/detail/CVE-2012-10054\n",
+  "references": "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/umbraco_upload_aspx.rb\nhttps://www.exploit-db.com/exploits/19671\nhttps://web.archive.org/web/20120707033729/http://blog.gdssecurity.com/labs/2012/7/3/find-bugs-faster-with-a-webmatrix-local-reference-instance.html\nhttps://github.com/umbraco/Umbraco-CMS\nhttps://web.archive.org/web/20111017174609/http://umbraco.codeplex.com/releases/view/73692\nhttps://www.vulncheck.com/advisories/umbraco-cms-rce\n",
   "aliases": "CVE-2012-10054\nGHSA-c8gg-qc8v-6jfx\n",
   "assigner": "VulnCheck",
   "epss": 75.94,
@@ -18,11 +18,24 @@
         "name": "CMS"
       },
       "product_version": "* <4.7.1"
+    },
+    {
+      "id": "eaea8206-908f-385f-859f-d137366fa71b",
+      "product": {
+        "name": "CMS"
+      },
+      "product_version": "0 <4.7.1"
     }
   ],
   "enisaIdVendor": [
     {
       "id": "1b11ea79-15e0-30c4-985d-2a826d642bf2",
+      "vendor": {
+        "name": "umbraco"
+      }
+    },
+    {
+      "id": "410f1e22-3c39-3acb-bb14-5a543fb89c7a",
       "vendor": {
         "name": "umbraco"
       }

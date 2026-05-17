@@ -2,15 +2,15 @@
   "id": "EUVD-2025-26077",
   "enisaUuid": "cf90c702-7c75-3ec8-ba79-6baf1a7e0687",
   "description": "An authentication bypass vulnerability in Arcserve Unified Data Protection (UDP) allows unauthenticated attackers to gain unauthorized access to protected functionality or user accounts. By manipulating specific request parameters or exploiting a logic flaw, an attacker can bypass login mechanisms without valid credentials and access administrator-level features. This vulnerability affects all UDP versions prior to 10.2. UDP 10.2 includes the necessary patches and requires no action. Versions 8.0 through 10.1 are supported and require either patch application or upgrade to 10.2. Versions 7.x and earlier are unsupported or out of maintenance and must be upgraded to 10.2 to remediate the issue.",
-  "datePublished": "Aug 28, 2025, 12:30:30 AM",
-  "dateUpdated": "Sep 9, 2025, 3:31:17 PM",
+  "datePublished": "Aug 27, 2025, 9:19:43 PM",
+  "dateUpdated": "May 15, 2026, 11:15:49 AM",
   "baseScore": 7.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:H/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
-  "references": "https://support.arcserve.com/s/article/Important-Security-Bulletin-Must-read-for-all-Arcserve-UDP-customers-on-all-versions\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-34520\n",
+  "references": "https://support.arcserve.com/s/article/Important-Security-Bulletin-Must-read-for-all-Arcserve-UDP-customers-on-all-versions\n",
   "aliases": "CVE-2025-34520\nGHSA-27qr-6rgm-2f59\n",
   "assigner": "VulnCheck",
-  "epss": 0.34,
+  "epss": 0.29,
   "enisaIdProduct": [
     {
       "id": "2af0028a-34fc-320d-9768-ba485faee5d7",
@@ -18,6 +18,13 @@
         "name": "Unified Data Protection (UDP)"
       },
       "product_version": "* \u22647.*"
+    },
+    {
+      "id": "2af8c315-1eca-3134-a6e0-a88ac177c76f",
+      "product": {
+        "name": "Unified Data Protection (UDP)"
+      },
+      "product_version": "0 \u22647.*"
     },
     {
       "id": "38985c85-a302-3843-99f1-54ac1b56d3ea",

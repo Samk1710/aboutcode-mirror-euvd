@@ -2,22 +2,36 @@
   "id": "EUVD-2025-21426",
   "enisaUuid": "cac8952a-9cee-3016-a966-b919ed9473d7",
   "description": "An authenticated command injection vulnerability exists in Tiki Wiki CMS versions \u226414.1, \u226412.4 LTS, \u22649.10 LTS, and \u22646.14 via the `viewmode` GET parameter in `tiki-calendar.php`. When the calendar module is enabled and an authenticated user has permission to access it, an attacker can inject and execute arbitrary PHP code. Successful exploitation leads to remote code execution in the context of the web server user.",
-  "datePublished": "Jul 15, 2025, 3:31:00 PM",
-  "dateUpdated": "Jul 15, 2025, 3:31:00 PM",
+  "datePublished": "Jul 15, 2025, 1:09:34 PM",
+  "dateUpdated": "May 15, 2026, 11:14:44 AM",
   "baseScore": 8.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
-  "references": "https://tiki.org/article414-Important-Security-Fix-for-all-versions-of-Tiki\nhttps://www.exploit-db.com/exploits/39965\nhttps://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/tiki_calendar_exec.rb\nhttps://www.acunetix.com/vulnerabilities/web/tiki-wiki-cms-remote-code-execution-via-calendar-module/\nhttps://vulncheck/advisories/tiki-wiki-cms-authenticated-command-injection-in-calendar-module\nhttps://www.vulncheck.com/advisories/tiki-wiki-cms-authenticated-command-injection-in-calendar-module\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-34113\n",
+  "references": "https://tiki.org/article414-Important-Security-Fix-for-all-versions-of-Tiki\nhttps://www.exploit-db.com/exploits/39965\nhttps://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/tiki_calendar_exec.rb\nhttps://www.acunetix.com/vulnerabilities/web/tiki-wiki-cms-remote-code-execution-via-calendar-module/\nhttps://www.vulncheck.com/advisories/tiki-wiki-cms-authenticated-command-injection-in-calendar-module\n",
   "aliases": "GHSA-mpf8-7ggf-mqcv\nCVE-2025-34113\n",
   "assigner": "VulnCheck",
-  "epss": 40.16,
+  "epss": 64.39,
   "enisaIdProduct": [
+    {
+      "id": "0c7cd3cd-a825-35e2-9899-bf3eca4edc57",
+      "product": {
+        "name": "Wiki CMS Groupware"
+      },
+      "product_version": "0 \u22649.10 LTS"
+    },
     {
       "id": "1a4fdeee-da90-3725-97df-28373e8935e5",
       "product": {
         "name": "Wiki CMS Groupware"
       },
       "product_version": "* \u226414.1"
+    },
+    {
+      "id": "2b72f3cd-1f1f-3493-a18d-0433585b0f77",
+      "product": {
+        "name": "Wiki CMS Groupware"
+      },
+      "product_version": "0 \u22646.14"
     },
     {
       "id": "565e4d4b-221c-347f-8478-09028bb00bfb",
@@ -34,11 +48,25 @@
       "product_version": "* \u226412.4 LTS"
     },
     {
+      "id": "a1753918-1b4e-374e-b427-f070521191c3",
+      "product": {
+        "name": "Wiki CMS Groupware"
+      },
+      "product_version": "0 \u226412.4 LTS"
+    },
+    {
       "id": "c7447468-745d-344d-85dd-19ed022ce01b",
       "product": {
         "name": "Wiki CMS Groupware"
       },
       "product_version": "* \u22649.10 LTS"
+    },
+    {
+      "id": "c79d1d79-9077-39a4-9b97-6ba1b016883f",
+      "product": {
+        "name": "Wiki CMS Groupware"
+      },
+      "product_version": "0 \u226414.1"
     }
   ],
   "enisaIdVendor": [

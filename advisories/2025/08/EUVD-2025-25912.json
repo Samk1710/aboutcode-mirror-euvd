@@ -3,14 +3,14 @@
   "enisaUuid": "db916cf7-c218-3beb-af24-19c3b2a8376b",
   "description": "Coolify versions prior to v4.0.0-beta.420.7 are vulnerable to a remote code execution vulnerability in the project deployment workflow. The platform allows authenticated users, with low-level member privileges, to inject arbitrary shell commands via the Git Repository field during project creation. By submitting a crafted repository string containing command injection syntax, an attacker can execute arbitrary commands on the underlying host system, resulting in full server compromise.",
   "datePublished": "Aug 27, 2025, 4:47:45 PM",
-  "dateUpdated": "Nov 19, 2025, 1:27:34 AM",
+  "dateUpdated": "May 15, 2026, 11:14:59 AM",
   "baseScore": 9.4,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H",
-  "references": "https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.420.7\nhttps://coolify.io/\nhttps://github.com/Eyodav/CVE-2025-34161\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-34161\n",
+  "references": "https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.420.7\nhttps://coolify.io/\nhttps://github.com/Eyodav/CVE-2025-34161\n",
   "aliases": "GHSA-xp99-74mm-rpv2\nCVE-2025-34161\n",
   "assigner": "VulnCheck",
-  "epss": 0.66,
+  "epss": 1.19,
   "enisaIdProduct": [
     {
       "id": "7fb96e68-5bed-3d1a-b793-e6e0c33f1ad1",
@@ -18,6 +18,20 @@
         "name": "coolify"
       },
       "product_version": "* <4.0.0.-beta.420.7"
+    },
+    {
+      "id": "829ada42-902a-35d0-8ae1-e2e89b812973",
+      "product": {
+        "name": "coolify"
+      },
+      "product_version": "* <4.0.0.-beta.420.7"
+    },
+    {
+      "id": "d71d516a-2ecf-3643-9ac7-c91b2f61e1d5",
+      "product": {
+        "name": "coolify"
+      },
+      "product_version": "0 <4.0.0.-beta.420.7"
     }
   ],
   "enisaIdVendor": [

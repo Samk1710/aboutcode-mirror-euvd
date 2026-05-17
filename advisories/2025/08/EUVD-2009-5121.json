@@ -3,14 +3,14 @@
   "enisaUuid": "633dc5ae-c0ce-3b79-96b5-86c7a3db4838",
   "description": "ContentKeeper Web Appliance (now maintained by Impero Software)\u00a0versions prior to 125.10 are vulnerable to remote command execution due to insecure handling of file uploads via the mimencode CGI utility. The vulnerability allows unauthenticated attackers to upload and execute arbitrary scripts as the Apache user. Additionally, the exploit can optionally escalate privileges by abusing insecure PATH usage in the benetool binary, resulting in root-level access if successful.",
   "datePublished": "Aug 30, 2025, 1:46:00 PM",
-  "dateUpdated": "Sep 2, 2025, 8:43:42 PM",
+  "dateUpdated": "May 15, 2026, 11:13:19 AM",
   "baseScore": 10.0,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H",
   "references": "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/http/contentkeeperweb_mimencode.rb\nhttp://www.aushack.com/200904-contentkeeper.txt\nhttps://www.ativion.com/contentkeeper/\nhttps://web.archive.org/web/20081220084819/http://www.contentkeeper.com/\nhttps://www.vulncheck.com/advisories/contentkeeper-web-appliance-rce-via-mimencode\n",
   "aliases": "CVE-2009-20011\n",
   "assigner": "VulnCheck",
-  "epss": 60.44,
+  "epss": 64.07,
   "enisaIdProduct": [
     {
       "id": "e5f220d7-8633-3171-98cc-bee9a3f0f35d",
@@ -18,6 +18,13 @@
         "name": "ContentKeeper Web Appliance"
       },
       "product_version": "* <125.10"
+    },
+    {
+      "id": "f996f6fb-d222-3d9d-947a-01fdd6cd8d4f",
+      "product": {
+        "name": "ContentKeeper Web Appliance"
+      },
+      "product_version": "0 <125.10"
     }
   ],
   "enisaIdVendor": [

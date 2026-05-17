@@ -2,12 +2,12 @@
   "id": "EUVD-2010-5310",
   "enisaUuid": "ba5915c4-04ab-31ba-9d9f-5756d20e31e4",
   "description": "EasyFTP Server versions up to 1.7.0.11 contain a stack-based buffer overflow vulnerability in the FTP command parser. When processing the CWD (Change Working Directory) command, the server fails to properly validate the length of the input string, allowing attackers to overwrite memory on the stack. This flaw enables remote code execution without authentication, as EasyFTP allows anonymous access by default. The vulnerability was resolved in version 1.7.0.12, after which the product was renamed \u201cUplusFtp.\u201d",
-  "datePublished": "Aug 21, 2025, 9:32:06 PM",
-  "dateUpdated": "Sep 10, 2025, 9:30:18 PM",
+  "datePublished": "Aug 21, 2025, 8:10:20 PM",
+  "dateUpdated": "May 15, 2026, 11:13:36 AM",
   "baseScore": 9.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
-  "references": "https://seclists.org/bugtraq/2010/Feb/202\nhttps://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/ftp/easyftp_cwd_fixret.rb\nhttps://paulmakowski.wordpress.com/2010/02/28/increasing-payload-size-w-return-address-overwrite/\nhttps://www.exploit-db.com/exploits/12312\nhttps://www.exploit-db.com/exploits/16737\nhttps://www.exploit-db.com/exploits/11668\nhttps://www.exploit-db.com/exploits/14402\nhttps://www.vulncheck.com/advisories/easyftp-server-cwd-command-stack-buffer-overflow\nhttps://nvd.nist.gov/vuln/detail/CVE-2010-20121\n",
+  "references": "https://seclists.org/bugtraq/2010/Feb/202\nhttps://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/ftp/easyftp_cwd_fixret.rb\nhttps://paulmakowski.wordpress.com/2010/02/28/increasing-payload-size-w-return-address-overwrite/\nhttps://www.exploit-db.com/exploits/12312\nhttps://www.exploit-db.com/exploits/16737\nhttps://www.exploit-db.com/exploits/11668\nhttps://www.exploit-db.com/exploits/14402\nhttps://www.vulncheck.com/advisories/easyftp-server-cwd-command-stack-buffer-overflow\n",
   "aliases": "GHSA-p9m6-qf43-qh47\nCVE-2010-20121\n",
   "assigner": "VulnCheck",
   "epss": 68.64,
@@ -18,6 +18,13 @@
         "name": "EasyFTP Server"
       },
       "product_version": "* \u22641.7.0.11"
+    },
+    {
+      "id": "2e606b3f-7e5e-3df0-b91a-041f5fac8579",
+      "product": {
+        "name": "EasyFTP Server"
+      },
+      "product_version": "0 \u22641.7.0.11"
     }
   ],
   "enisaIdVendor": [

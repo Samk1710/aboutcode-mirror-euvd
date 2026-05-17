@@ -3,14 +3,14 @@
   "enisaUuid": "d324640f-362e-3893-b623-f79a517cd9e3",
   "description": "An authentication bypass vulnerability exists in ETQ Reliance on the CG (legacy) platform. The application allowed login as the privileged internal SYSTEM user by manipulating the username field. The SYSTEM account does not require a password, enabling attackers with network access to the login page to obtain elevated access. Once authenticated, an attacker could achieve remote code execution by modifying Jython scripts within the application. This issue was resolved by introducing stricter validation logic to exclude internal accounts from public authentication workflows in version MP-4583.",
   "datePublished": "Jul 22, 2025, 12:31:35 PM",
-  "dateUpdated": "Nov 4, 2025, 10:24:54 PM",
+  "dateUpdated": "May 15, 2026, 11:14:53 AM",
   "baseScore": 9.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
-  "references": "https://www.etq.com/product-overview/\nhttps://www.etq.com/blog/etq-reliance-security-update/\nhttps://slcyber.io/assetnote-security-research-center/how-we-accidentally-discovered-a-remote-code-execution-vulnerability-in-etq-reliance/\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-34143\nhttps://www.vulncheck.com/advisories/etq-reliance-cg-authentication-bypass-via-trailing-space-rce\n",
+  "references": "https://www.etq.com/product-overview/\nhttps://www.etq.com/blog/etq-reliance-security-update/\nhttps://slcyber.io/assetnote-security-research-center/how-we-accidentally-discovered-a-remote-code-execution-vulnerability-in-etq-reliance/\nhttps://www.vulncheck.com/advisories/etq-reliance-cg-authentication-bypass-via-trailing-space-rce\n",
   "aliases": "GHSA-v93r-q3gh-68x8\nCVE-2025-34143\n",
   "assigner": "VulnCheck",
-  "epss": 1.5,
+  "epss": 2.06,
   "enisaIdProduct": [
     {
       "id": "73111f4c-0c9f-39cc-bb76-b15541b07183",
@@ -18,6 +18,13 @@
         "name": "Reliance CG (legacy)"
       },
       "product_version": "* <MP-4583"
+    },
+    {
+      "id": "c15469f7-04ee-33b7-8836-cd517614ef40",
+      "product": {
+        "name": "Reliance CG (legacy)"
+      },
+      "product_version": "0 <MP-4583"
     }
   ],
   "enisaIdVendor": [

@@ -3,14 +3,14 @@
   "enisaUuid": "ed7854d0-4b9d-3d22-8698-27d8429f9b0f",
   "description": "An authenticated OS command injection vulnerability exists in\u00a0Netgear routers (tested on the DGN2200B model) firmware versions 1.0.0.36 and prior via the pppoe.cgi endpoint. A remote attacker with valid credentials can execute arbitrary commands via crafted input to the pppoe_username parameter. This flaw allows full compromise of the device and may persist across reboots unless configuration is restored.",
   "datePublished": "Aug 1, 2025, 8:45:59 PM",
-  "dateUpdated": "Nov 21, 2025, 12:11:08 AM",
+  "dateUpdated": "May 15, 2026, 11:14:17 AM",
   "baseScore": 9.4,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H",
-  "references": "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/netgear_dgn2200b_pppoe_exec.rb\nhttps://www.exploit-db.com/exploits/24513\nhttps://www.exploit-db.com/exploits/24974\nhttps://web.archive.org/web/20170422033239/http://www.s3cur1ty.de/m1adv2013-015\nhttps://www.vulncheck.com/advisories/netgear-legacy-routers-rce\nhttps://nvd.nist.gov/vuln/detail/CVE-2013-10060\n",
+  "references": "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/netgear_dgn2200b_pppoe_exec.rb\nhttps://www.exploit-db.com/exploits/24513\nhttps://www.exploit-db.com/exploits/24974\nhttps://web.archive.org/web/20170422033239/http://www.s3cur1ty.de/m1adv2013-015\nhttps://www.vulncheck.com/advisories/netgear-legacy-routers-rce\n",
   "aliases": "CVE-2013-10060\nGHSA-5fhc-hfwc-c254\n",
   "assigner": "VulnCheck",
-  "epss": 61.01,
+  "epss": 64.61,
   "enisaIdProduct": [
     {
       "id": "390c526e-7578-31f9-bc38-08a8e1b67bb8",
@@ -18,6 +18,13 @@
         "name": "DGN2200B"
       },
       "product_version": "* \u22641.0.0.36"
+    },
+    {
+      "id": "d550c339-60fc-3e40-86b7-c2a5354b9435",
+      "product": {
+        "name": "DGN2200B"
+      },
+      "product_version": "0 \u22641.0.0.36"
     }
   ],
   "enisaIdVendor": [

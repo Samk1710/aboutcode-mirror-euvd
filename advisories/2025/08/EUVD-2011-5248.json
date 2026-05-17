@@ -2,15 +2,15 @@
   "id": "EUVD-2011-5248",
   "enisaUuid": "48652f31-af26-33b4-9a4b-cfa4a7d2ad27",
   "description": "Cytel Studio version 9.0 and earlier is vulnerable to a stack-based buffer overflow triggered by parsing a malformed .CY3 file. The vulnerability occurs when the application copies user-controlled strings into a fixed-size stack buffer (256 bytes) without proper bounds checking. Exploitation allows arbitrary code execution when the crafted file is opened.",
-  "datePublished": "Aug 13, 2025, 9:30:29 PM",
-  "dateUpdated": "Aug 13, 2025, 9:30:30 PM",
+  "datePublished": "Aug 13, 2025, 8:33:27 PM",
+  "dateUpdated": "May 15, 2026, 11:13:40 AM",
   "baseScore": 9.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:A/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H",
-  "references": "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/fileformat/cytel_studio_cy3.rb\nhttps://www.exploit-db.com/exploits/17930\nhttps://www.exploit-db.com/exploits/18027\nhttp://aluigi.altervista.org/adv/cytel_1-adv.txt\nhttps://web.archive.org/web/20110708215826/http://www.cytel.com/Software/LogXact.aspx\nhttps://web.archive.org/web/20110708215830/http://www.cytel.com/Software/StatXact.aspx\nhttps://web.archive.org/web/20110301000000*/http://www.cytel.com/Software/StatXact.aspx\nhttps://www.vulncheck.com/advisories/cytel-studio-cy3-file-stack-buffer-overflow\nhttps://nvd.nist.gov/vuln/detail/CVE-2011-10015\n",
+  "references": "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/fileformat/cytel_studio_cy3.rb\nhttps://www.exploit-db.com/exploits/17930\nhttps://www.exploit-db.com/exploits/18027\nhttp://aluigi.altervista.org/adv/cytel_1-adv.txt\nhttps://web.archive.org/web/20110708215826/http://www.cytel.com/Software/LogXact.aspx\nhttps://web.archive.org/web/20110708215830/http://www.cytel.com/Software/StatXact.aspx\nhttps://web.archive.org/web/20110301000000*/http://www.cytel.com/Software/StatXact.aspx\nhttps://www.vulncheck.com/advisories/cytel-studio-cy3-file-stack-buffer-overflow\n",
   "aliases": "CVE-2011-10015\nGHSA-76gc-6553-pw26\n",
   "assigner": "VulnCheck",
-  "epss": 3.47,
+  "epss": 4.19,
   "enisaIdProduct": [
     {
       "id": "0c245819-a7bc-39c1-acb7-2e196a3fd807",
@@ -18,6 +18,13 @@
         "name": "studio"
       },
       "product_version": "* \u22649.0"
+    },
+    {
+      "id": "240440bb-e387-3dd3-b19d-a7d4b5ceebfc",
+      "product": {
+        "name": "studio"
+      },
+      "product_version": "0 \u22649.0"
     },
     {
       "id": "456501b1-0db9-39b0-8b7c-f197f84a7805",

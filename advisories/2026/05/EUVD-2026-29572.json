@@ -3,14 +3,14 @@
   "enisaUuid": "4762f191-b36c-3205-bfe1-85f12e3c9d41",
   "description": "Heap-based buffer overflow in .NET allows an unauthorized attacker to elevate privileges locally.",
   "datePublished": "May 12, 2026, 4:58:15 PM",
-  "dateUpdated": "May 12, 2026, 5:53:14 PM",
+  "dateUpdated": "May 15, 2026, 5:12:03 PM",
   "baseScore": 7.3,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:L/E:U/RL:O/RC:C",
   "references": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-32177\n",
   "aliases": "CVE-2026-32177\n",
   "assigner": "microsoft",
-  "epss": 0.0,
+  "epss": 0.09,
   "enisaIdProduct": [
     {
       "id": "0d10ea47-4163-3e7c-9e4a-a8e4a9aecd2a",

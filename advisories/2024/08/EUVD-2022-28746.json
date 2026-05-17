@@ -1,17 +1,31 @@
 {
   "id": "EUVD-2022-28746",
   "enisaUuid": "9c998480-10e2-37d0-9305-4a15c4499dab",
-  "description": "Insufficient checking of memory buffer in ASP Secure OS may allow an attacker with a malicious TA to read/write to the ASP Secure OS kernel virtual address space, potentially leading to privilege escalation.",
-  "datePublished": "Aug 13, 2024, 6:31:15 PM",
-  "dateUpdated": "Aug 13, 2024, 6:31:15 PM",
-  "baseScore": 7.0,
-  "baseScoreVersion": "3.1",
-  "baseScoreVector": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
-  "references": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-4004.html\nhttps://nvd.nist.gov/vuln/detail/CVE-2022-23817\n",
+  "description": "Insufficient checking of memory buffer in AMD Secure Processor (ASP) Secure OS may allow an attacker with a malicious trusted application to read/write to the ASP Secure OS kernel virtual address space, potentially resulting in privilege escalation.",
+  "datePublished": "Aug 13, 2024, 4:51:45 PM",
+  "dateUpdated": "May 15, 2026, 3:03:25 AM",
+  "baseScore": 7.3,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:L/AC:H/AT:P/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
+  "references": "https://www.amd.com/en/resources/product-security/bulletin/AMD-SB-5002.html\nhttps://www.amd.com/en/resources/product-security/bulletin/AMD-SB-4004.html\nhttps://www.amd.com/en/resources/product-security/bulletin/AMD-SB-1029.html\nhttps://www.amd.com/en/resources/product-security/bulletin/AMD-SB-6027.html\n",
   "aliases": "GHSA-3q84-pcr7-4gjf\nCVE-2022-23817\n",
   "assigner": "AMD",
   "epss": 0.1,
   "enisaIdProduct": [
+    {
+      "id": "02b3e7e8-aa19-3512-b7c2-00ed2b893a02",
+      "product": {
+        "name": "AMD Ryzen\u2122 Threadripper\u2122 PRO 5000 WX-Series Processors"
+      },
+      "product_version": "patch: ChagallWSPI-sWRX8 1.0.0.5"
+    },
+    {
+      "id": "0baffbe8-cbd3-300d-99d2-7ca26ec96f42",
+      "product": {
+        "name": "AMD Ryzen\u2122 3000 Series Desktop Processors"
+      },
+      "product_version": "patch: ComboAM4V1 1.0.0.A"
+    },
     {
       "id": "0bf2d908-e64d-372a-887c-ed2eea4eda4f",
       "product": {
@@ -20,11 +34,46 @@
       "product_version": "patch: ComboAM4v2 PI 1.2.0.8"
     },
     {
+      "id": "106679fb-3451-3072-b4b5-a42c2378691b",
+      "product": {
+        "name": "AMD Radeon\u2122 RX 5000 Series Graphics Products"
+      },
+      "product_version": "patch: AMD Software: Adrenalin Edition 22.5.2 (22.10.17.01)"
+    },
+    {
       "id": "16c8eb13-e052-336e-9e60-e1305c556b3a",
       "product": {
         "name": "AMD Ryzen\u2122 7035 Series Processors with Radeon\u2122 Graphics"
       },
       "product_version": "patch: RembrandtPI-FP7 1.0.0.5"
+    },
+    {
+      "id": "1759804e-57e5-3159-844c-dc97a915071f",
+      "product": {
+        "name": "AMD Radeon\u2122 PRO W5000 Series Graphics Products"
+      },
+      "product_version": "patch: AMD Software: PRO Edition 22.Q2 (22.10.20)"
+    },
+    {
+      "id": "1a098232-bac1-34b3-8f39-cb465c1010dd",
+      "product": {
+        "name": "MI-100"
+      },
+      "product_version": "patch: ROCm 6.4.2"
+    },
+    {
+      "id": "1ae220a0-dd7b-3c5e-9049-48b147643472",
+      "product": {
+        "name": "AMD Radeon\u2122 RX 6000 Series Graphics Products"
+      },
+      "product_version": "patch: AMD Software: Adrenalin Edition 22.5.2 (22.10.17.01)"
+    },
+    {
+      "id": "1e52b05e-c7e4-34d7-8e3e-1a475990cc86",
+      "product": {
+        "name": "AMD Ryzen\u2122 3000 Series Desktop Processors"
+      },
+      "product_version": "patch: ComboAM4V2 1.2.0.9"
     },
     {
       "id": "207c69ad-1eeb-3b87-b78b-ef6f1d498ecb",
@@ -90,6 +139,13 @@
       "product_version": "patch: EmbeddedPI-FP6 1.0.0.8"
     },
     {
+      "id": "3a66c169-504b-30f6-acec-e271aff4d709",
+      "product": {
+        "name": "AMD Ryzen\u2122 6000 Series Processors with Radeon\u2122 Graphics"
+      },
+      "product_version": "patch: RembrandtPI-FP7_1.0.0.5"
+    },
+    {
       "id": "3fbe2894-1894-34e0-b54e-aa40a6120938",
       "product": {
         "name": "AMD Ryzen\u2122 Threadripper\u2122 PRO 3000WX Series Processors"
@@ -104,6 +160,13 @@
       "product_version": "patch: PicassoPI-FP5  1.0.0.E"
     },
     {
+      "id": "487761be-0b30-38b0-b7c4-d68b5975a45e",
+      "product": {
+        "name": "AMD Ryzen\u2122 Threadripper\u2122 PRO 3000 WX-Series Processors"
+      },
+      "product_version": "patch: CastlePeakWSPI-sWRX8 1.0.0.A"
+    },
+    {
       "id": "4b2da371-acfa-3280-b7ce-f093dea708e0",
       "product": {
         "name": "AMD Ryzen\u2122 5000 Series Desktop Processors"
@@ -116,6 +179,13 @@
         "name": "AMD Athlon\u2122 3000 Series Mobile  Processors with Radeon\u2122 Graphics"
       },
       "product_version": "patch: PollockPI-FT5  1.0.0.4"
+    },
+    {
+      "id": "5379c9cd-6835-3a8d-b6b5-56358d62a451",
+      "product": {
+        "name": "AMD Ryzen\u2122 4000 Series Mobile Processors with Radeon\u2122 Graphics"
+      },
+      "product_version": "patch: RenoirPI-FP6 1.0.0.A"
     },
     {
       "id": "5d886538-bd97-3e3f-b56e-816971727b2b",
@@ -139,11 +209,60 @@
       "product_version": "patch: CezannePI-FP6 1.0.0.C"
     },
     {
+      "id": "68c5cb8f-5c08-3130-873d-b199eb7bd161",
+      "product": {
+        "name": "AMD Ryzen\u2122 Threadripper\u2122 PRO 3000 WX-Series Processors"
+      },
+      "product_version": "patch: ChagallWSPI-sWRX8 1.0.0.5"
+    },
+    {
+      "id": "69006d7c-d5b1-303d-a677-e5f2de8e37a0",
+      "product": {
+        "name": "AMD Ryzen\u2122 2000 Mobile Processors"
+      },
+      "product_version": "patch: ComboAM4v2 PI 1.2.0.8"
+    },
+    {
+      "id": "6ba26db6-ce7d-3dfc-ad4d-27cdd1cf6913",
+      "product": {
+        "name": "AMD Ryzen\u2122 2000 Mobile Processors"
+      },
+      "product_version": "patch: ComboAM4PI 1.0.0.9"
+    },
+    {
       "id": "6d9d9c66-03de-3f4d-8d67-46e625b3884b",
       "product": {
         "name": "AMD Ryzen\u2122 5000 Series Mobile Processors with Radeon\u2122 Graphics"
       },
       "product_version": "patch: CezannePI-FP6 1.0.0.C"
+    },
+    {
+      "id": "716afacc-f650-3913-b0c1-ec7c15298cae",
+      "product": {
+        "name": "AMD Ryzen\u2122 4000 Series Desktop Processors"
+      },
+      "product_version": "patch: ComboAM4v2 PI 1.2.0.8"
+    },
+    {
+      "id": "775ea84e-453d-3895-891d-964fc031222f",
+      "product": {
+        "name": "AMD Ryzen\u2122 Embedded V1000 Series Processors (formerly codenamed \"Picasso\")"
+      },
+      "product_version": "patch: EmbeddedPI-FP5_1.2.0.A"
+    },
+    {
+      "id": "7a61590f-5fee-3d33-aa11-62bc0855a52b",
+      "product": {
+        "name": "AMD Ryzen\u2122 Embedded V3000 Series Processors"
+      },
+      "product_version": "patch: EmbeddedPI-FP7r2_1002"
+    },
+    {
+      "id": "92295bb5-82ab-3103-8556-b4352b503ba3",
+      "product": {
+        "name": "AMD Radeon\u2122 PRO W6000 Series Graphics Products"
+      },
+      "product_version": "patch: AMD Software: PRO Edition 22.Q2 (22.10.20)"
     },
     {
       "id": "923ccf30-2f8f-3100-8bed-4e4a6d3ce357",
@@ -158,6 +277,27 @@
         "name": "AMD Ryzen\u2122 Embedded V3000 Series Processors"
       },
       "product_version": "patch: EmbeddedPI-FP7r2 1.0.0.2"
+    },
+    {
+      "id": "bfe9b9c2-58b8-3566-9872-c22c01a921c8",
+      "product": {
+        "name": "AMD Ryzen\u2122 5000 Series Desktop Processors with Radeon\u2122 Graphics"
+      },
+      "product_version": "patch: ComboAM4v2 PI 1.2.0.8"
+    },
+    {
+      "id": "c3059ffc-4530-3414-aa5c-2727ec593f24",
+      "product": {
+        "name": "AMD Ryzen\u2122 3000 Series Mobile Processors with Radeon\u2122 Graphics"
+      },
+      "product_version": "patch: PicassoPI-FP5 1.0.0.E"
+    },
+    {
+      "id": "c746cadf-c14b-320d-ab74-86fb5d6e8046",
+      "product": {
+        "name": "AMD Ryzen\u2122 Embedded 5000 Series Processors"
+      },
+      "product_version": "patch: EmbAM4PI 1.0.0.2"
     },
     {
       "id": "c8cb2fba-24fb-37fb-b748-4c696a7d43fd",
@@ -188,6 +328,20 @@
       "product_version": "patch: ComboAM4V1  1.0.0.A/ComboAM4V2  1.2.0.9"
     },
     {
+      "id": "dea9d492-f787-302d-b7e3-a5f531363f2b",
+      "product": {
+        "name": "AMD Ryzen\u2122 Embedded V2000 Series Processor"
+      },
+      "product_version": "patch: EmbeddedPI-FP6_1.0.0.8"
+    },
+    {
+      "id": "e662342e-2ac2-306e-ab0f-4d83489b58a4",
+      "product": {
+        "name": "MI-25 / 50"
+      },
+      "product_version": "patch: No fix planned"
+    },
+    {
       "id": "eed9de43-17f3-3cb1-b479-cdd4c0a1c933",
       "product": {
         "name": "AMD Ryzen\u2122 Threadripper\u2122 PRO 5000WX Processors"
@@ -202,11 +356,46 @@
       "product_version": "patch: ComboAM5  1.0.8.0"
     },
     {
+      "id": "f4ac191c-29d8-39ba-b542-3a6bba68ae8c",
+      "product": {
+        "name": "AMD Athlon\u2122 3000 Series Mobile Processors with Radeon\u2122 Graphics"
+      },
+      "product_version": "patch: PicassoPI-FP5 1.0.0.E"
+    },
+    {
+      "id": "f6416c67-8fa2-3267-a0ad-e6049d161e5a",
+      "product": {
+        "name": "AMD Ryzen\u2122 Embedded V1000 Series Processors (formerly codenamed \"Raven Ridge\")"
+      },
+      "product_version": "patch: EmbeddedPI-FP5_1.2.0.A"
+    },
+    {
+      "id": "f78a647d-2c40-3050-85ee-f63e060836cf",
+      "product": {
+        "name": "AMD Instinct\u2122 MI210"
+      },
+      "product_version": "patch: ROCm 7.0"
+    },
+    {
       "id": "fad7970e-d544-3d32-b702-9d526a58665b",
       "product": {
         "name": "AMD Ryzen\u2122 7045 Series Mobile Processors"
       },
       "product_version": "patch: DragonRangeFL1PI 1.0.0.3b"
+    },
+    {
+      "id": "fd0761e8-c619-393c-be6d-9bf772191e17",
+      "product": {
+        "name": "AMD Ryzen\u2122 Embedded R1000 Series Processors"
+      },
+      "product_version": "patch: EmbeddedPI-FP5_1.2.0.A"
+    },
+    {
+      "id": "ffb535ce-f2bd-3d47-8fdc-b05cf2bc0f8f",
+      "product": {
+        "name": "AMD Instinct\u2122 MI250"
+      },
+      "product_version": "patch: ROCm 7.0"
     }
   ],
   "enisaIdVendor": [

@@ -1,0 +1,31 @@
+{
+  "id": "EUVD-2026-30509",
+  "enisaUuid": "5e5585be-48c4-3d58-a41c-73fd36dba00e",
+  "description": "The The7 theme for WordPress is vulnerable to Stored Cross-Site Scripting via the 'dt_default_button' shortcode in all versions up to, and including, 14.3.2. This is due to insufficient input sanitization and output escaping on the 'title' component of the 'link' shortcode parameter. This makes it possible for authenticated attackers, with Contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.",
+  "datePublished": "May 15, 2026, 6:45:57 AM",
+  "dateUpdated": "May 15, 2026, 1:28:14 PM",
+  "baseScore": 6.4,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:N",
+  "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/082f810c-d55e-4190-908c-c7dd9c2e59a5?source=cve\nhttps://plugins.trac.wordpress.org/browser/dt-the7/trunk/inc/shortcodes/includes/default-button/default-button.php#L112\nhttps://plugins.trac.wordpress.org/browser/dt-the7/tags/14.2.2/inc/shortcodes/includes/default-button/default-button.php#L112\nhttps://plugins.trac.wordpress.org/browser/dt-the7/trunk/inc/helpers/html-helpers.php#L945\nhttps://plugins.trac.wordpress.org/browser/dt-the7/tags/14.2.2/inc/helpers/html-helpers.php#L945\nhttps://plugins.trac.wordpress.org/browser/dt-the7/trunk/inc/shortcodes/includes/default-button/default-button.php#L108\nhttps://plugins.trac.wordpress.org/browser/dt-the7/tags/14.2.2/inc/shortcodes/includes/default-button/default-button.php#L108\nhttps://the7.io/changelog/\n",
+  "aliases": "GHSA-gf5v-5j65-7wpq\nCVE-2026-6646\n",
+  "assigner": "Wordfence",
+  "epss": 0.04,
+  "enisaIdProduct": [
+    {
+      "id": "2da69aa2-7f27-3ca2-8b44-66d986e51788",
+      "product": {
+        "name": "The7 \u2014 Website and eCommerce Builder for WordPress"
+      },
+      "product_version": "0 \u226414.3.2"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "66d2da65-cba2-37ca-9019-c98d5eccf39d",
+      "vendor": {
+        "name": "Dream-Theme"
+      }
+    }
+  ]
+}

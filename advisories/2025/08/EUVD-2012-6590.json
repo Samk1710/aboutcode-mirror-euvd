@@ -2,15 +2,15 @@
   "id": "EUVD-2012-6590",
   "enisaUuid": "bd522f12-0583-39d7-b5d6-115d404d5744",
   "description": "CuteFlow version 2.11.2 and earlier contains an arbitrary file upload vulnerability in the restart_circulation_values_write.php script. The application fails to validate or restrict uploaded file types, allowing unauthenticated attackers to upload arbitrary PHP files to the upload/___1/ directory. These files are then accessible via the web server, enabling remote code execution.",
-  "datePublished": "Aug 8, 2025, 9:30:39 PM",
-  "dateUpdated": "Aug 8, 2025, 9:30:40 PM",
+  "datePublished": "Aug 8, 2025, 6:10:03 PM",
+  "dateUpdated": "May 15, 2026, 11:13:58 AM",
   "baseScore": 9.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
-  "references": "https://web.archive.org/web/20120729071444/http://www.cuteflow.org/\nhttps://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/cuteflow_upload_exec.rb\nhttps://www.exploit-db.com/exploits/20111\nhttp://web.archive.org/web/20210922054637/https://itsecuritysolutions.org/2012-07-01-CuteFlow-2.11.2-multiple-security-vulnerabilities/\nhttps://sourceforge.net/projects/cuteflow/\nhttps://www.vulncheck.com/advisories/cuteflow-arbitrary-file-upload-rce\nhttps://nvd.nist.gov/vuln/detail/CVE-2012-10050\n",
+  "references": "https://web.archive.org/web/20120729071444/http://www.cuteflow.org/\nhttps://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/cuteflow_upload_exec.rb\nhttps://www.exploit-db.com/exploits/20111\nhttp://web.archive.org/web/20210922054637/https://itsecuritysolutions.org/2012-07-01-CuteFlow-2.11.2-multiple-security-vulnerabilities/\nhttps://sourceforge.net/projects/cuteflow/\nhttps://www.vulncheck.com/advisories/cuteflow-arbitrary-file-upload-rce\n",
   "aliases": "CVE-2012-10050\nGHSA-h3xh-crwg-5j8r\n",
   "assigner": "VulnCheck",
-  "epss": 62.13,
+  "epss": 65.65,
   "enisaIdProduct": [
     {
       "id": "74cd8a13-84c1-31f4-8e9b-dc939ac03d63",
@@ -18,6 +18,13 @@
         "name": "CuteFlow"
       },
       "product_version": "* \u22642.11.2"
+    },
+    {
+      "id": "965fc635-6f64-327a-8b0c-931b3fa612b9",
+      "product": {
+        "name": "CuteFlow"
+      },
+      "product_version": "0 \u22642.11.2"
     }
   ],
   "enisaIdVendor": [

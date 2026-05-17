@@ -3,15 +3,29 @@
   "enisaUuid": "adeea2a7-1878-30cf-8d39-882c38aa14bb",
   "description": "Vasion Print (formerly PrinterLogic) Virtual Appliance Host prior to version 22.0.843\u00a0and Application prior to version 20.0.1923\u00a0(VA/SaaS deployments) possess\u00a0CI/CD weaknesses: the build pulls an unverified third-party image, downloads the VirtualBox Extension Pack over plain HTTP without signature validation, and grants the jenkins account NOPASSWD for mount/umount. Together these allow supply chain or man-in-the-middle compromise of the build pipeline, injection of malicious firmware, and remote code execution as root on the CI host. This vulnerability has been identified by the vendor as: V-2023-007 \u2014 Supply Chain Attack.",
   "datePublished": "Sep 29, 2025, 8:36:51 PM",
-  "dateUpdated": "Nov 17, 2025, 11:56:35 PM",
+  "dateUpdated": "May 15, 2026, 11:15:23 AM",
   "baseScore": 8.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N",
-  "references": "https://pierrekim.github.io/blog/2025-04-08-vasion-printerlogic-83-vulnerabilities.html#va-supply-chain-build-system\nhttps://help.printerlogic.com/va/Print/Security/Security-Bulletins.htm\nhttps://help.printerlogic.com/saas/Print/Security/Security-Bulletins.htm\nhttps://www.vulncheck.com/advisories/vasion-print-printerlogic-insecure-build-pipeline\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-34212\n",
+  "references": "https://pierrekim.github.io/blog/2025-04-08-vasion-printerlogic-83-vulnerabilities.html#va-supply-chain-build-system\nhttps://help.printerlogic.com/va/Print/Security/Security-Bulletins.htm\nhttps://help.printerlogic.com/saas/Print/Security/Security-Bulletins.htm\nhttps://www.vulncheck.com/advisories/vasion-print-printerlogic-insecure-build-pipeline\n",
   "aliases": "CVE-2025-34212\nGHSA-fh96-4m6h-v3c2\n",
   "assigner": "VulnCheck",
-  "epss": 0.25,
+  "epss": 0.67,
   "enisaIdProduct": [
+    {
+      "id": "7485a545-523b-32b8-9fab-f7895224e421",
+      "product": {
+        "name": "Print Application"
+      },
+      "product_version": "0 <20.0.1923"
+    },
+    {
+      "id": "7cd67e8a-444b-3746-a28a-b43043cd9464",
+      "product": {
+        "name": "Print Virtual Appliance Host"
+      },
+      "product_version": "0 <22.0.843"
+    },
     {
       "id": "ad276179-a33d-3a79-9e5e-bc1ba231f809",
       "product": {

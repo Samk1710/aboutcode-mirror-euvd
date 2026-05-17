@@ -3,15 +3,22 @@
   "enisaUuid": "eb71f83f-5121-39dd-8b71-109297d76fac",
   "description": "Ilevia\u00a0EVE X1 Server firmware versions \u2264 4.7.18.0.eden contain a use of default credentials vulnerability\u00a0that allows an unauthenticated attacker to obtain remote access. Ilevia has declined to service this vulnerability, and recommends that customers not expose port 8080 to the internet.",
   "datePublished": "Oct 16, 2025, 5:52:55 PM",
-  "dateUpdated": "Nov 28, 2025, 4:05:52 PM",
+  "dateUpdated": "May 15, 2026, 11:15:46 AM",
   "baseScore": 9.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
-  "references": "https://nvd.nist.gov/vuln/detail/CVE-2025-34516\nhttps://www.ilevia.com\nhttps://www.vulncheck.com/advisories/ilevia-eve-x1-server-use-of-default-credentials\nhttps://www.ilevia.com/\nhttps://www.zeroscience.mk/en/vulnerabilities/ZSL-2025-5963.php\n",
+  "references": "https://www.ilevia.com/\nhttps://www.vulncheck.com/advisories/ilevia-eve-x1-server-use-of-default-credentials\nhttps://www.zeroscience.mk/en/vulnerabilities/ZSL-2025-5963.php\n",
   "aliases": "GHSA-c72v-jm37-87fq\nCVE-2025-34516\n",
   "assigner": "VulnCheck",
-  "epss": 0.17,
+  "epss": 0.2,
   "enisaIdProduct": [
+    {
+      "id": "13c2c399-1f0f-362b-9bd7-4a408ea2017e",
+      "product": {
+        "name": "EVE X1 Server"
+      },
+      "product_version": "0 \u22644.7.18.0.eden"
+    },
     {
       "id": "4f806351-c1b0-3b4f-8529-dd9a28e4a496",
       "product": {

@@ -3,14 +3,14 @@
   "enisaUuid": "0e488017-086d-36b3-ae67-6261c6172a40",
   "description": "Cleartext storage of sensitive information in the ModelBuilder/Serve component in Amazon SageMaker Python SDK before v2.257.2 and v3 before v3.8.0 might allow a remote authenticated actor to extract the HMAC signing key from SageMaker API responses and forge valid integrity signatures for specially crafted model artifacts, achieving code execution in inference containers. This issue requires a remote authenticated actor with permissions to call SageMaker describe APIs and S3 write access to the model artifact path.\n\n\n\nTo remediate this issue, we recommend upgrading to Amazon SageMaker Python SDK v2.257.2 or v3.8.0 and rebuild any models previously created with ModelBuilder using the updated SDK.",
   "datePublished": "May 14, 2026, 7:35:51 PM",
-  "dateUpdated": "May 14, 2026, 7:51:41 PM",
+  "dateUpdated": "May 16, 2026, 3:56:21 AM",
   "baseScore": 8.5,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:N/VA:N/SC:H/SI:H/SA:H",
   "references": "https://github.com/aws/sagemaker-python-sdk/releases/tag/v2.257.2\nhttps://github.com/aws/sagemaker-python-sdk/releases/tag/v3.8.0\nhttps://aws.amazon.com/security/security-bulletins/2026-031-aws/\nhttps://github.com/aws/sagemaker-python-sdk/security/advisories/GHSA-7hh5-prp2-mfh5\n",
   "aliases": "CVE-2026-8596\n",
   "assigner": "AMZN",
-  "epss": 0.0,
+  "epss": 0.17,
   "enisaIdProduct": [
     {
       "id": "763b04e1-ca2a-3afa-a128-144a417d3ebc",

@@ -1,16 +1,16 @@
 {
   "id": "EUVD-2024-16251",
   "enisaUuid": "daf0459b-c906-357e-a411-e06d345e1d61",
-  "description": "An authorization vulnerability exists in GitLab versions 14.0 prior to 16.6.6, 16.7 prior to 16.7.4, and 16.8 prior to 16.8.1. An unauthorized attacker is able to assign arbitrary users to MRs that they created within the project ",
-  "datePublished": "Jan 26, 2024, 3:30:19 AM",
-  "dateUpdated": "Oct 3, 2024, 9:30:34 AM",
+  "description": "An authorization vulnerability exists in GitLab versions 14.0 prior to 16.6.6, 16.7 prior to 16.7.4, and 16.8 prior to 16.8.1. An unauthorized attacker is able to assign arbitrary users to MRs that they created within the project",
+  "datePublished": "Jan 26, 2024, 1:02:43 AM",
+  "dateUpdated": "May 15, 2026, 11:00:09 PM",
   "baseScore": 4.3,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:N",
-  "references": "https://about.gitlab.com/releases/2024/01/25/critical-security-release-gitlab-16-8-1-released/\nhttps://gitlab.com/gitlab-org/gitlab/-/issues/430726\nhttps://nvd.nist.gov/vuln/detail/CVE-2024-0456\n",
+  "references": "https://about.gitlab.com/releases/2024/01/25/critical-security-release-gitlab-16-8-1-released/\nhttps://gitlab.com/gitlab-org/gitlab/-/issues/430726\n",
   "aliases": "GHSA-mr56-56j8-x6r4\nCVE-2024-0456\n",
   "assigner": "GitLab",
-  "epss": 0.1,
+  "epss": 0.15,
   "enisaIdProduct": [
     {
       "id": "96bdb980-ef3a-3aa9-b31a-59182dac5935",

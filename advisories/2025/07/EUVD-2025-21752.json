@@ -2,22 +2,36 @@
   "id": "EUVD-2025-21752",
   "enisaUuid": "95f49f4c-b572-3562-8f70-0fe5c2482051",
   "description": "A path traversal vulnerability exists in Linknat VOS Manager versions prior to 2.1.9.07, including VOS2009 and early VOS3000 builds, that allows unauthenticated remote attackers to read arbitrary files on the server. The vulnerability is accessible via multiple localized subpaths such as '/eng/', '/chs/', or '/cht/', where the 'js/lang_en_us.js' or equivalent files are loaded. By injecting encoded traversal sequences such as '%c0%ae%c0%ae' into the request path, attackers can bypass input validation and disclose sensitive files.",
-  "datePublished": "Jul 16, 2025, 9:30:36 PM",
-  "dateUpdated": "Jul 16, 2025, 9:30:36 PM",
+  "datePublished": "Jul 16, 2025, 9:03:53 PM",
+  "dateUpdated": "May 15, 2026, 11:14:47 AM",
   "baseScore": 8.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
-  "references": "http://www.linknat.com/\nhttps://web.archive.org/web/20151013001957/http://www.wooyun.org/bugs/wooyun-2010-0145458\nhttps://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/scanner/http/linknat_vos_traversal.rb\nhttps://www.vulncheck.com/advisories/linknat-vos-manager-path-traversal-file-disclosure\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-34118\n",
+  "references": "http://www.linknat.com/\nhttps://web.archive.org/web/20151013001957/http://www.wooyun.org/bugs/wooyun-2010-0145458\nhttps://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/scanner/http/linknat_vos_traversal.rb\nhttps://www.vulncheck.com/advisories/linknat-vos-manager-path-traversal-file-disclosure\n",
   "aliases": "CVE-2025-34118\nGHSA-xwwh-cr5m-xwxm\n",
   "assigner": "VulnCheck",
-  "epss": 44.93,
+  "epss": 67.44,
   "enisaIdProduct": [
+    {
+      "id": "62776a44-6ecf-304f-8791-c025d078e393",
+      "product": {
+        "name": "VOS Manager"
+      },
+      "product_version": "0 \u2264VOS2009"
+    },
     {
       "id": "9aa6ce82-3247-3963-b892-712d37a91b51",
       "product": {
         "name": "VOS Manager"
       },
       "product_version": "* \u2264VOS2009"
+    },
+    {
+      "id": "a6bf69a0-98a8-3004-93f0-c182fbd709d4",
+      "product": {
+        "name": "VOS Manager"
+      },
+      "product_version": "0 \u2264VOS3000 2.1.9.06"
     },
     {
       "id": "fe7f3fdf-4d71-32e2-857c-08f3e244588b",

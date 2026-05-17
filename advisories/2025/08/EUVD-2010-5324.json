@@ -2,15 +2,15 @@
   "id": "EUVD-2010-5324",
   "enisaUuid": "d7306740-6301-3d99-b054-ac68c597ed35",
   "description": "Steinberg MyMP3Player version 3.0 (build 3.0.0.67) is vulnerable to a stack-based buffer overflow when parsing .m3u playlist files. The application fails to properly validate the length of input data within the playlist, allowing a specially crafted file to overwrite critical memory structures and execute arbitrary code. This vulnerability can be exploited locally by convincing a user to open a malicious .m3u file.",
-  "datePublished": "Aug 21, 2025, 9:32:08 PM",
-  "dateUpdated": "Aug 21, 2025, 9:32:08 PM",
+  "datePublished": "Aug 21, 2025, 8:14:21 PM",
+  "dateUpdated": "May 15, 2026, 11:13:38 AM",
   "baseScore": 8.4,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:A/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
-  "references": "https://www.exploit-db.com/exploits/11791\nhttps://www.exploit-db.com/exploits/16633\nhttps://www.exploit-db.com/exploits/14581\nhttps://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/fileformat/mymp3player_m3u.rb\nhttps://www.fortiguard.com/encyclopedia/ips/20813/steinberg-mymp3player-buffer-overflow\nhttps://www.chip.de/downloads/myMP3-Player_13008621.html\nhttps://www.vulncheck.com/advisories/steinburg-mymp3player-buffer-overflow\nhttps://nvd.nist.gov/vuln/detail/CVE-2010-20123\n",
+  "references": "https://www.exploit-db.com/exploits/11791\nhttps://www.exploit-db.com/exploits/16633\nhttps://www.exploit-db.com/exploits/14581\nhttps://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/fileformat/mymp3player_m3u.rb\nhttps://www.fortiguard.com/encyclopedia/ips/20813/steinberg-mymp3player-buffer-overflow\nhttps://www.chip.de/downloads/myMP3-Player_13008621.html\nhttps://www.vulncheck.com/advisories/steinburg-mymp3player-buffer-overflow\n",
   "aliases": "CVE-2010-20123\nGHSA-38rv-27c8-8mp2\n",
   "assigner": "VulnCheck",
-  "epss": 3.47,
+  "epss": 4.19,
   "enisaIdProduct": [
     {
       "id": "3d6f3b64-b939-3814-846a-40050a4bbf82",
@@ -18,6 +18,13 @@
         "name": "MyMP3Player"
       },
       "product_version": "* \u22643.0.0.67"
+    },
+    {
+      "id": "ffadd32c-eacf-3dbc-a2d7-33e4ce4e1de3",
+      "product": {
+        "name": "MyMP3Player"
+      },
+      "product_version": "0 \u22643.0.0.67"
     }
   ],
   "enisaIdVendor": [

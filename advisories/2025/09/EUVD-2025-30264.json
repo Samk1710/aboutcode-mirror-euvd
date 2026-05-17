@@ -3,14 +3,14 @@
   "enisaUuid": "8a3a7729-92ca-304f-9a30-6c843fbe457a",
   "description": "Vasion Print (formerly PrinterLogic) Virtual Appliance Host versions prior to 22.0.843 and Application prior to 20.0.1923 (macOS/Linux client deployments) contain an arbitrary file write vulnerability via the response file handling. When tasks produce output the service writes response data into files under /opt/PrinterInstallerClient/tmp/responses/ reusing the requested filename. The service follows symbolic links in the responses directory and writes as the service user (typically root), allowing a local, unprivileged user to cause the service to overwrite or create arbitrary files on the filesystem as root. This can be used to modify configuration files, replace or inject binaries or drivers, and otherwise achieve local privilege escalation and full system compromise.\u00a0This vulnerability has been identified by the vendor as: V-2023-019 \u2014 Arbitrary File Write as Root.",
   "datePublished": "Sep 19, 2025, 6:51:42 PM",
-  "dateUpdated": "Nov 17, 2025, 11:56:31 PM",
+  "dateUpdated": "May 15, 2026, 11:15:11 AM",
   "baseScore": 8.5,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
-  "references": "https://nvd.nist.gov/vuln/detail/CVE-2025-34191\nhttps://help.printerlogic.com/saas/Print/Security/Security-Bulletins.htm\nhttps://help.printerlogic.com/va/Print/Security/Security-Bulletins.htm\nhttps://pierrekim.github.io/blog/2025-04-08-vasion-printerlogic-83-vulnerabilities.html#mac-arbitrary-file-write\nhttps://www.vulncheck.com/advisories/vasion-print-printerlogic-arbitrary-file-write-as-root-via-response-path-symlink-follow\n",
+  "references": "https://help.printerlogic.com/saas/Print/Security/Security-Bulletins.htm\nhttps://pierrekim.github.io/blog/2025-04-08-vasion-printerlogic-83-vulnerabilities.html#mac-arbitrary-file-write\nhttps://help.printerlogic.com/va/Print/Security/Security-Bulletins.htm\nhttps://www.vulncheck.com/advisories/vasion-print-printerlogic-arbitrary-file-write-as-root-via-response-path-symlink-follow\n",
   "aliases": "CVE-2025-34191\nGHSA-73h4-4m3x-58h5\n",
   "assigner": "VulnCheck",
-  "epss": 0.03,
+  "epss": 0.06,
   "enisaIdProduct": [
     {
       "id": "50aa750b-c881-3c10-b957-eef5a8bb041d",
@@ -25,6 +25,20 @@
         "name": "Print Virtual Appliance Host"
       },
       "product_version": "* <22.0.843"
+    },
+    {
+      "id": "e7217e09-003f-3162-a07c-e7fc86423401",
+      "product": {
+        "name": "Print Virtual Appliance Host"
+      },
+      "product_version": "0 <22.0.843"
+    },
+    {
+      "id": "e75c8852-0324-3567-8869-1fdc6545b389",
+      "product": {
+        "name": "Print Application"
+      },
+      "product_version": "0 <20.0.1923"
     }
   ],
   "enisaIdVendor": [

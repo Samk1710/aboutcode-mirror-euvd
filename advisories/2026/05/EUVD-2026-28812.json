@@ -3,15 +3,22 @@
   "enisaUuid": "9c89806f-42da-311a-a6bd-63db6ab801a6",
   "description": "A chmod call in the cPanel Nova plugin's Cpanel::Nova::Connector follows symlinks, allowing setting root permissions on arbitrary system files or directories. That can cause DoS or local privilege escalation when an authenticated cPanel user places a symlink at a user-controlled legacy Nova path under their home directory.",
   "datePublished": "May 8, 2026, 6:51:05 PM",
-  "dateUpdated": "May 9, 2026, 3:56:05 AM",
-  "baseScore": 8.8,
-  "baseScoreVersion": "3.1",
-  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+  "dateUpdated": "May 15, 2026, 5:14:52 PM",
+  "baseScore": 5.3,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:L/VA:L/SC:N/SI:N/SA:N",
   "references": "https://support.cpanel.net/hc/en-us/articles/40311543760407-Security-CVE-2026-29203-cPanel-WHM-WP2-Security-Update-May-08-2026\n",
   "aliases": "CVE-2026-29203\nGHSA-3x6m-3grh-599c\n",
   "assigner": "hackerone",
-  "epss": 0.04,
+  "epss": 0.05,
   "enisaIdProduct": [
+    {
+      "id": "04c3cd76-b8b5-3db5-a240-42c74e8ae361",
+      "product": {
+        "name": "cPanel"
+      },
+      "product_version": "0 <11.110.0.117"
+    },
     {
       "id": "0a21a6d5-7b63-32f4-82e6-2e1cdb2d495a",
       "product": {
@@ -34,11 +41,46 @@
       "product_version": "11.136.0.0 <11.136.0.9"
     },
     {
+      "id": "2d1e02bb-9b6d-3a06-aff6-0b6319a5107f",
+      "product": {
+        "name": "WP Squared"
+      },
+      "product_version": "0 <11.136.1.11"
+    },
+    {
+      "id": "49dc5aa1-b1e6-3602-b133-5d0b02c018c4",
+      "product": {
+        "name": "cPanel"
+      },
+      "product_version": "0 <11.126.0.58"
+    },
+    {
+      "id": "4a9e0d1c-25a6-3edf-b5d9-e380f11d674a",
+      "product": {
+        "name": "cPanel"
+      },
+      "product_version": "0 <11.102.0.41"
+    },
+    {
+      "id": "50fcf0a9-d014-303f-ae32-08fe05bd5c19",
+      "product": {
+        "name": "cPanel"
+      },
+      "product_version": "0 <11.134.0.25"
+    },
+    {
       "id": "53a6d6fd-3640-3e4a-af48-8834858ddb14",
       "product": {
         "name": "cPanel"
       },
       "product_version": "11.94.0.0 <11.94.0.30"
+    },
+    {
+      "id": "58a79186-4c58-3d1e-b8c3-449bcc6d2952",
+      "product": {
+        "name": "cPanel"
+      },
+      "product_version": "0 <11.130.0.22"
     },
     {
       "id": "77c3d1ed-3801-32f3-beaf-1f846061a37b",
@@ -48,11 +90,46 @@
       "product_version": "11.126.0.0 <11.126.0.58"
     },
     {
+      "id": "79d8ed17-399f-32b4-a0fb-30418b579fa5",
+      "product": {
+        "name": "cPanel"
+      },
+      "product_version": "0 <11.86.0.43"
+    },
+    {
+      "id": "8048ead6-978b-3f4e-80be-63494de84bd0",
+      "product": {
+        "name": "cPanel"
+      },
+      "product_version": "0 <11.110.0.116"
+    },
+    {
+      "id": "880aac71-3203-30a8-b7aa-17b3cd5b8d99",
+      "product": {
+        "name": "cPanel"
+      },
+      "product_version": "0 <11.124.0.37"
+    },
+    {
+      "id": "8b3239e6-d4f9-3d79-96cd-f253e30d98d4",
+      "product": {
+        "name": "cPanel"
+      },
+      "product_version": "0 <11.94.0.30"
+    },
+    {
       "id": "a7fb1ef7-cda7-3186-8675-c148e13b575c",
       "product": {
         "name": "cPanel"
       },
       "product_version": "11.86.0.0 <11.86.0.43"
+    },
+    {
+      "id": "a9c2ef55-5c9e-3684-ad54-f2794d5a5777",
+      "product": {
+        "name": "cPanel"
+      },
+      "product_version": "0 <11.118.0.66"
     },
     {
       "id": "aa2bcb89-02c8-39a8-8fa9-6a60d1b483be",
@@ -83,6 +160,27 @@
       "product_version": "11.124.0.0 <11.124.0.37"
     },
     {
+      "id": "c2c0bbc8-5d0e-393f-bfc5-7e96d6771e47",
+      "product": {
+        "name": "cPanel (CloudLinux 6, CentOS 6)"
+      },
+      "product_version": "11.110.0.0 <11.110.0.116"
+    },
+    {
+      "id": "c5c7a07d-5610-3dc8-98fc-ac3415123d3c",
+      "product": {
+        "name": "cPanel"
+      },
+      "product_version": "0 <11.136.0.9"
+    },
+    {
+      "id": "caadb214-0339-30ea-b30d-597d6f89fc90",
+      "product": {
+        "name": "cPanel"
+      },
+      "product_version": "0 <11.132.0.31"
+    },
+    {
       "id": "dae089ef-2c6a-3cb0-bc23-d0a5634c47c8",
       "product": {
         "name": "cPanel"
@@ -109,6 +207,13 @@
         "name": "cPanel"
       },
       "product_version": "11.110.0.0 <11.110.0.117"
+    },
+    {
+      "id": "fb091496-493a-3082-9909-fe9c97683235",
+      "product": {
+        "name": "cPanel (CloudLinux 6, CentOS 6)"
+      },
+      "product_version": "0 <11.110.116"
     }
   ],
   "enisaIdVendor": [
