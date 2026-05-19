@@ -3,14 +3,14 @@
   "enisaUuid": "4dd4e0f1-41f6-3056-b5e5-aec1fb57e1c0",
   "description": "A vulnerability was determined in Oinone Pamirs up to 7.2.0. Affected by this issue is the function RSQLToSQLNodeConnector.makeVariable of the component queryListByWrapper Interface. This manipulation causes sql injection. The attack can be initiated remotely. The exploit has been publicly disclosed and may be utilized. The vendor was contacted early about this disclosure but did not respond in any way.",
   "datePublished": "May 17, 2026, 5:00:12 AM",
-  "dateUpdated": "May 17, 2026, 5:00:12 AM",
+  "dateUpdated": "May 18, 2026, 12:38:34 PM",
   "baseScore": 6.9,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/364322\nhttps://vuldb.com/vuln/364322/cti\nhttps://vuldb.com/submit/809886\nhttps://github.com/SourByte05/SourByte-Lab/issues/12\n",
   "aliases": "GHSA-5x3x-5qjx-cxrc\nCVE-2026-8734\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.03,
   "enisaIdProduct": [
     {
       "id": "6a5b36f6-f00a-3480-8739-d066e07305d3",

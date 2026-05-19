@@ -3,7 +3,7 @@
   "enisaUuid": "b389ea59-8abe-3fa3-85d3-a91d6151f582",
   "description": "Zenar Content Management System contains a cross-site scripting vulnerability that allows unauthenticated attackers to inject malicious scripts by manipulating form parameters in POST requests. Attackers can inject script tags through the current_page parameter sent to the ajax.php endpoint, which reflects unsanitized user input in the response HTML to execute arbitrary JavaScript in victim browsers.",
   "datePublished": "May 17, 2026, 12:11:36 PM",
-  "dateUpdated": "May 17, 2026, 12:11:36 PM",
+  "dateUpdated": "May 18, 2026, 10:47:53 AM",
   "baseScore": 5.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:A/VC:N/VI:N/VA:N/SC:L/SI:L/SA:N",

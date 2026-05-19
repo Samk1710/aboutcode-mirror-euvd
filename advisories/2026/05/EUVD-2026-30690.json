@@ -3,14 +3,14 @@
   "enisaUuid": "b395bc25-6e7d-3b22-af7d-76f62c58211f",
   "description": "A vulnerability was determined in Open5GS up to 2.7.7. Affected is the function ogs_sbi_subscription_data_add/ogs_sbi_nf_service_add in the library /lib/sbi/context.c of the component NRF. Executing a manipulation can lead to denial of service. It is possible to launch the attack remotely. The exploit has been publicly disclosed and may be utilized. This patch is called 819db11a08b9736a3576c4f99ceb28f7eb99523a. A patch should be applied to remediate this issue.",
   "datePublished": "May 17, 2026, 9:15:11 AM",
-  "dateUpdated": "May 17, 2026, 9:15:11 AM",
+  "dateUpdated": "May 18, 2026, 4:20:24 PM",
   "baseScore": 5.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/364331\nhttps://vuldb.com/vuln/364331/cti\nhttps://vuldb.com/submit/817029\nhttps://vuldb.com/submit/817030\nhttps://github.com/open5gs/open5gs/issues/4465\nhttps://github.com/open5gs/open5gs/pull/4534\nhttps://github.com/open5gs/open5gs/issues/4466\nhttps://github.com/open5gs/open5gs/commit/819db11a08b9736a3576c4f99ceb28f7eb99523a\nhttps://github.com/open5gs/open5gs/\n",
   "aliases": "GHSA-pch7-6gr4-gw9w\nCVE-2026-8744\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.08,
   "enisaIdProduct": [
     {
       "id": "0a1c2174-df3e-344a-853f-2ab260a72bc2",

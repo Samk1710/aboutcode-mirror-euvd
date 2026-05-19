@@ -3,7 +3,7 @@
   "enisaUuid": "6daa2559-5600-3712-a013-f4832e133219",
   "description": "A vulnerability was found in adenhq hive up to 0.11.0. This affects the function _read_events_tail of the file core/framework/server/routes_sessions.py of the component Delete Request Handler. Performing a manipulation results in path traversal. The attack may be initiated remotely. The exploit has been made public and could be used. The vendor was contacted early about this disclosure but did not respond in any way.",
   "datePublished": "May 17, 2026, 1:15:09 PM",
-  "dateUpdated": "May 17, 2026, 1:15:09 PM",
+  "dateUpdated": "May 18, 2026, 2:30:03 PM",
   "baseScore": 6.9,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",

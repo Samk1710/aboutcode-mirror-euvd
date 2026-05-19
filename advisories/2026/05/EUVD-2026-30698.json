@@ -3,7 +3,7 @@
   "enisaUuid": "10824092-b657-3936-ae14-8b41e457be9c",
   "description": "A security vulnerability has been detected in kalcaddle Kodbox up to 1.64. This issue affects the function parseVideoInfo of the file /workspace/source-code/plugins/fileThumb/lib/VideoResize.class.php of the component fileThumb Plugin. The manipulation of the argument ffmpegBin leads to command injection. It is possible to initiate the attack remotely. The exploit has been disclosed publicly and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
   "datePublished": "May 17, 2026, 12:00:14 PM",
-  "dateUpdated": "May 17, 2026, 12:00:14 PM",
+  "dateUpdated": "May 18, 2026, 8:05:05 PM",
   "baseScore": 5.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",

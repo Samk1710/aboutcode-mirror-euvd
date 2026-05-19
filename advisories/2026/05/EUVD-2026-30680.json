@@ -3,14 +3,14 @@
   "enisaUuid": "f8ceca8f-4422-396b-b5d3-007d460d0e69",
   "description": "A vulnerability has been found in Open5GS up to 2.7.7. Affected is the function ogs_sbi_client_add in the library /lib/sbi/client.c of the component NRF. The manipulation of the argument client_pool leads to denial of service. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The project was informed of the problem early through an issue report but has not responded yet.",
   "datePublished": "May 17, 2026, 4:15:09 AM",
-  "dateUpdated": "May 17, 2026, 4:15:09 AM",
+  "dateUpdated": "May 18, 2026, 8:00:19 PM",
   "baseScore": 5.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/364320\nhttps://vuldb.com/vuln/364320/cti\nhttps://vuldb.com/submit/808516\nhttps://github.com/open5gs/open5gs/issues/4464\nhttps://github.com/open5gs/open5gs/\n",
   "aliases": "CVE-2026-8731\nGHSA-qq7j-v673-3qjh\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.04,
   "enisaIdProduct": [
     {
       "id": "2a59cb0f-196c-33f1-aa5c-329074cf0975",

@@ -3,7 +3,7 @@
   "enisaUuid": "59995070-6b4c-31ae-af52-6701e9baf549",
   "description": "Zechat 1.5 contains a SQL injection vulnerability in the hashtag parameter that allows unauthenticated attackers to extract database information using union-based techniques. Attackers can exploit the hashtag parameter with union-based payloads to retrieve table and column names.",
   "datePublished": "May 17, 2026, 12:11:41 PM",
-  "dateUpdated": "May 17, 2026, 12:11:41 PM",
+  "dateUpdated": "May 18, 2026, 5:53:20 PM",
   "baseScore": 8.8,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:L/VA:N/SC:N/SI:N/SA:N",

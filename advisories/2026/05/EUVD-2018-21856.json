@@ -3,7 +3,7 @@
   "enisaUuid": "529bd2a6-227c-3c54-ad07-4d965f159964",
   "description": "WordPress Plugin Peugeot Music 1.0 contains an arbitrary file upload vulnerability that allows unauthenticated attackers to upload malicious files by sending POST requests to the upload.php endpoint. Attackers can upload files with arbitrary extensions by manipulating the 'name' parameter to execute code from the uploads directory.",
   "datePublished": "May 17, 2026, 12:11:39 PM",
-  "dateUpdated": "May 17, 2026, 12:11:39 PM",
+  "dateUpdated": "May 18, 2026, 2:27:09 PM",
   "baseScore": 9.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",

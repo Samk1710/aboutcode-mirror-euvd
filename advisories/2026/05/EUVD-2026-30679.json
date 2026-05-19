@@ -3,14 +3,14 @@
   "enisaUuid": "f995bf51-4054-3373-9282-a452cb768b87",
   "description": "A vulnerability was detected in Open5GS up to 2.7.7. This affects an unknown function in the library /lib/sbi/message.c of the component NRF. Performing a manipulation of the argument service-names/snssais results in denial of service. The attack is possible to be carried out remotely. The exploit is now public and may be used. The project was informed of the problem early through an issue report but has not responded yet.",
   "datePublished": "May 17, 2026, 3:30:09 AM",
-  "dateUpdated": "May 17, 2026, 3:30:09 AM",
+  "dateUpdated": "May 18, 2026, 2:17:28 PM",
   "baseScore": 5.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/364318\nhttps://vuldb.com/vuln/364318/cti\nhttps://vuldb.com/submit/808512\nhttps://vuldb.com/submit/808513\nhttps://github.com/open5gs/open5gs/issues/4460\nhttps://github.com/open5gs/open5gs/\n",
   "aliases": "GHSA-4r7x-pm54-qxq9\nCVE-2026-8729\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.06,
   "enisaIdProduct": [
     {
       "id": "152657cb-8bcf-3bb2-8cf5-c7d090291724",

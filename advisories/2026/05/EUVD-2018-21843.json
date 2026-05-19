@@ -3,7 +3,7 @@
   "enisaUuid": "cf6a5d10-9849-327f-b572-7baf2fdb6b8d",
   "description": "Allok Fast AVI MPEG Splitter 1.2 contains a stack based buffer overflow vulnerability that allows local attackers to execute arbitrary code by supplying a malicious license name string. Attackers can craft a payload with 780 bytes of junk data followed by structured shellcode and place it in the License Name field to trigger the overflow and execute code with application privileges.",
   "datePublished": "May 17, 2026, 12:11:28 PM",
-  "dateUpdated": "May 17, 2026, 12:11:28 PM",
+  "dateUpdated": "May 18, 2026, 12:31:55 PM",
   "baseScore": 8.6,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",

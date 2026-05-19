@@ -3,14 +3,14 @@
   "enisaUuid": "22a3780f-b8b6-36b8-95b4-1461704d912b",
   "description": "Fuel CMS 1.4.13 contains a blind SQL injection vulnerability that allows authenticated attackers to manipulate database queries by injecting SQL code through the 'col' parameter in the Activity Log interface. Attackers can send requests to the logs endpoint with malicious SQL payloads in the 'col' parameter to extract database information based on response time delays.",
   "datePublished": "May 16, 2026, 3:26:19 PM",
-  "dateUpdated": "May 16, 2026, 3:26:19 PM",
+  "dateUpdated": "May 18, 2026, 1:50:17 PM",
   "baseScore": 7.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://www.exploit-db.com/exploits/50523\nhttps://www.getfuelcms.com/\nhttps://github.com/daylightstudio/FUEL-CMS/archive/1.4.13.zip\nhttps://www.vulncheck.com/advisories/fuel-cms-blind-sql-injection-via-col-parameter\n",
   "aliases": "GHSA-p5g4-2whh-fvpw\nCVE-2021-47980\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.03,
   "enisaIdProduct": [
     {
       "id": "e8c9ef17-068d-348b-8ca4-979c9191640f",

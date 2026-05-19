@@ -3,14 +3,14 @@
   "enisaUuid": "81c9e152-8c19-3c32-8ad6-d86d79e91e55",
   "description": "A security flaw has been discovered in Dataease 2.10.20. Impacted is the function SqlparserUtils.transFilter of the file SqlparserUtils.java of the component Data Dashboard. The manipulation results in sql injection. The attack may be launched remotely. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure.",
   "datePublished": "May 17, 2026, 12:30:10 AM",
-  "dateUpdated": "May 17, 2026, 12:30:10 AM",
+  "dateUpdated": "May 18, 2026, 7:14:55 PM",
   "baseScore": 5.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/364315\nhttps://vuldb.com/vuln/364315/cti\nhttps://vuldb.com/submit/804256\nhttps://github.com/xpp3901/CVE_APPLY/tree/main/V-D001_DataEase_SqlVariable_Injection\n",
   "aliases": "CVE-2026-8724\nGHSA-74x6-944v-7pxp\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.01,
   "enisaIdProduct": [
     {
       "id": "fa8cb294-405e-349e-acf1-a8b0f7e35e68",

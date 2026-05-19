@@ -1,0 +1,31 @@
+{
+  "id": "EUVD-2026-30764",
+  "enisaUuid": "bf49cdde-0001-3612-8b73-e48211e86bb0",
+  "description": "SGLangs multimodal generation runtime is vulnerable to an unauthenticated path traversal vulnerability, allowing an attacker to write arbitrary files anywhere the server process has write access, by including ../ sequences in the upload filename when sent to specific endpoints.",
+  "datePublished": "May 18, 2026, 10:39:27 AM",
+  "dateUpdated": "May 18, 2026, 2:05:33 PM",
+  "baseScore": 9.1,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:H",
+  "references": "https://github.com/sgl-project/sglang/tree/main/python/sglang\nhttps://antiproof.ai/blog/three-rces-in-sglang/\n",
+  "aliases": "GHSA-qwrp-wghp-94q2\nCVE-2026-7302\n",
+  "assigner": "certcc",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "df43131a-cbc5-34c3-b460-21c66d2805f0",
+      "product": {
+        "name": "sglang"
+      },
+      "product_version": "5.10"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "41bff825-86c1-35e3-8919-d02bdc420696",
+      "vendor": {
+        "name": "SGLang"
+      }
+    }
+  ]
+}

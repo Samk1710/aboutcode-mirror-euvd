@@ -3,7 +3,7 @@
   "enisaUuid": "16118225-f359-3b2d-996d-3015c3b1d53e",
   "description": "Woocommerce CSV Importer 3.3.6 contains a path traversal vulnerability that allows any registered user to delete arbitrary files by submitting unescaped filenames through the delete_export_file AJAX action. Attackers can craft POST requests with directory traversal sequences in the filename parameter to delete sensitive files like wp-config.php outside the intended export directory.",
   "datePublished": "May 17, 2026, 12:11:31 PM",
-  "dateUpdated": "May 17, 2026, 12:11:31 PM",
+  "dateUpdated": "May 18, 2026, 10:48:38 AM",
   "baseScore": 8.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
