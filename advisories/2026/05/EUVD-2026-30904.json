@@ -1,0 +1,16 @@
+{
+  "id": "EUVD-2026-30904",
+  "enisaUuid": "39a279ae-6290-3e58-92fd-7070a3cd7703",
+  "description": "Integer overflow in the Networking: JAR component. This vulnerability was fixed in Firefox 151, Firefox ESR 140.11, Thunderbird 151, and Thunderbird 140.11.",
+  "datePublished": "May 19, 2026, 12:29:51 PM",
+  "dateUpdated": "May 19, 2026, 5:10:49 PM",
+  "baseScore": 9.8,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+  "references": "https://bugzilla.mozilla.org/show_bug.cgi?id=2032427\nhttps://www.mozilla.org/security/advisories/mfsa2026-46/\nhttps://www.mozilla.org/security/advisories/mfsa2026-48/\nhttps://www.mozilla.org/security/advisories/mfsa2026-50/\nhttps://www.mozilla.org/security/advisories/mfsa2026-51/\n",
+  "aliases": "CVE-2026-8956\nGHSA-22h3-6xv6-p2px\n",
+  "assigner": "mozilla",
+  "epss": 0.0,
+  "enisaIdProduct": [],
+  "enisaIdVendor": []
+}

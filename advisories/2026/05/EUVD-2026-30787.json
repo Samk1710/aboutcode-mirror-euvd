@@ -3,7 +3,7 @@
   "enisaUuid": "36904092-2005-3230-af27-69285d575895",
   "description": "Improper authentication in Azure Local Disconnected Operations allows an unauthorized attacker to elevate privileges over a network.",
   "datePublished": "May 18, 2026, 5:03:24 PM",
-  "dateUpdated": "May 18, 2026, 6:10:16 PM",
+  "dateUpdated": "May 19, 2026, 3:55:46 AM",
   "baseScore": 10.0,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",

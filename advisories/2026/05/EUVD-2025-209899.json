@@ -1,0 +1,31 @@
+{
+  "id": "EUVD-2025-209899",
+  "enisaUuid": "52f0868e-fd4a-35a0-be74-a0309125e4d8",
+  "description": "In BYD Atto3, an attacker can obtain an authentication key through Brute Force attack, which is permanently available. The authentication key enables flash to the Electronic Parking Break (EPB) and Supplemental Restoration System (SRS) related ECUs.",
+  "datePublished": "May 19, 2026, 12:00:00 AM",
+  "dateUpdated": "May 19, 2026, 6:13:43 PM",
+  "baseScore": 7.5,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:C/C:L/I:H/A:H",
+  "references": "https://www.notion.so/BYD-Atto3-26215fb6156c8000b338db3c2011f637?source=copy_link\nhttps://www.notion.so/CVE-2025-61081-26215fb6156c8000b338db3c2011f637\n",
+  "aliases": "GHSA-h596-vpgv-58r7\nCVE-2025-61081\n",
+  "assigner": "mitre",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "08c6f528-1454-3f68-b1dd-718934417813",
+      "product": {
+        "name": "n/a"
+      },
+      "product_version": "n/a"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "216fad48-985e-3160-8e33-41463ffe817b",
+      "vendor": {
+        "name": "n/a"
+      }
+    }
+  ]
+}

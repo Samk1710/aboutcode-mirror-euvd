@@ -1,0 +1,16 @@
+{
+  "id": "EUVD-2026-30914",
+  "enisaUuid": "a7c6006a-40e7-3482-bd22-3dba590a67ff",
+  "description": "Spoofing issue in the Web Speech component. This vulnerability was fixed in Firefox 151 and Thunderbird 151.",
+  "datePublished": "May 19, 2026, 12:30:06 PM",
+  "dateUpdated": "May 19, 2026, 5:10:53 PM",
+  "baseScore": 7.5,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N",
+  "references": "https://bugzilla.mozilla.org/show_bug.cgi?id=2021222\nhttps://www.mozilla.org/security/advisories/mfsa2026-46/\nhttps://www.mozilla.org/security/advisories/mfsa2026-50/\n",
+  "aliases": "GHSA-7f47-q24v-32rc\nCVE-2026-8963\n",
+  "assigner": "mozilla",
+  "epss": 0.0,
+  "enisaIdProduct": [],
+  "enisaIdVendor": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "EUVD-2026-30911",
+  "enisaUuid": "c0d2d2f1-1cee-35a6-9e07-c6413fa42083",
+  "description": "Mitigation bypass in the DOM: Security component. This vulnerability was fixed in Firefox 151, Firefox ESR 140.11, Thunderbird 151, and Thunderbird 140.11.",
+  "datePublished": "May 19, 2026, 12:29:59 PM",
+  "dateUpdated": "May 19, 2026, 5:10:51 PM",
+  "baseScore": 0.0,
+  "references": "https://bugzilla.mozilla.org/show_bug.cgi?id=2004804\nhttps://www.mozilla.org/security/advisories/mfsa2026-46/\nhttps://www.mozilla.org/security/advisories/mfsa2026-48/\nhttps://www.mozilla.org/security/advisories/mfsa2026-50/\nhttps://www.mozilla.org/security/advisories/mfsa2026-51/\n",
+  "aliases": "CVE-2026-8962\nGHSA-93x2-246x-h3jh\n",
+  "assigner": "mozilla",
+  "epss": 0.0,
+  "enisaIdProduct": [],
+  "enisaIdVendor": []
+}

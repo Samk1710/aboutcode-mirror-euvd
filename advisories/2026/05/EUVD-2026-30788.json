@@ -3,7 +3,7 @@
   "enisaUuid": "125babb2-6b09-38a1-a572-17ea8069542e",
   "description": "Microsoft Edge (Chromium-based) Spoofing Vulnerability",
   "datePublished": "May 18, 2026, 5:03:17 PM",
-  "dateUpdated": "May 18, 2026, 6:10:09 PM",
+  "dateUpdated": "May 19, 2026, 12:21:44 PM",
   "baseScore": 5.4,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N/E:U/RL:O/RC:C",

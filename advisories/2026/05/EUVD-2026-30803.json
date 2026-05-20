@@ -3,7 +3,7 @@
   "enisaUuid": "5d8247b7-5632-316e-82c9-5168d0787405",
   "description": "Unsafe use of Python's eval() on server-received data in the vector_in() function in amazon-redshift-python-driver before 2.1.14 allows a rogue server or man-in-the-middle actor to execute arbitrary code on the client. \n\n\n\nTo remediate this issue, users should upgrade to version 2.1.14.",
   "datePublished": "May 18, 2026, 8:15:37 PM",
-  "dateUpdated": "May 18, 2026, 8:19:16 PM",
+  "dateUpdated": "May 19, 2026, 12:56:12 PM",
   "baseScore": 9.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",

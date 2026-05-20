@@ -1,0 +1,16 @@
+{
+  "id": "EUVD-2026-30887",
+  "enisaUuid": "70a79fb9-8fa8-3000-ba1b-f528d55c24ff",
+  "description": "A flaw was found in Keycloak. This access control vulnerability in Keycloak's OpenID Connect (OIDC) token introspection endpoint allows a confidential client to bypass audience restrictions. An attacker-controlled client with valid credentials can retrieve sensitive token claims intended for other resource servers, compromising the confidentiality of lightweight access tokens. This issue can be exploited remotely by any confidential client in the realm with valid credentials.",
+  "datePublished": "May 19, 2026, 10:52:30 AM",
+  "dateUpdated": "May 19, 2026, 1:40:07 PM",
+  "baseScore": 6.5,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N",
+  "references": "https://access.redhat.com/security/cve/CVE-2026-37979\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2455328\n",
+  "aliases": "GHSA-4x37-hw65-52w8\nCVE-2026-37979\n",
+  "assigner": "redhat",
+  "epss": 0.0,
+  "enisaIdProduct": [],
+  "enisaIdVendor": []
+}

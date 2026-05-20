@@ -1,0 +1,16 @@
+{
+  "id": "EUVD-2026-30902",
+  "enisaUuid": "c5bfc709-746b-306b-a0c7-0c635e9f97e5",
+  "description": "Privilege escalation in the Application Update component. This vulnerability was fixed in Firefox 151 and Thunderbird 151.",
+  "datePublished": "May 19, 2026, 12:29:45 PM",
+  "dateUpdated": "May 19, 2026, 5:10:53 PM",
+  "baseScore": 6.5,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N",
+  "references": "https://bugzilla.mozilla.org/show_bug.cgi?id=2021727\nhttps://www.mozilla.org/security/advisories/mfsa2026-46/\nhttps://www.mozilla.org/security/advisories/mfsa2026-50/\n",
+  "aliases": "GHSA-hrqc-vwff-62mj\nCVE-2026-8952\n",
+  "assigner": "mozilla",
+  "epss": 0.0,
+  "enisaIdProduct": [],
+  "enisaIdVendor": []
+}
