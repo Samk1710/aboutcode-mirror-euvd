@@ -3,7 +3,7 @@
   "enisaUuid": "2fd6ffde-75a5-37e9-a898-599f4dbcc39d",
   "description": "Taiko AG1000-01A SMS Alert Gateway Rev 7.3 and Rev 8 contains a stored cross-site scripting vulnerability in the embedded web configuration interface that allows authenticated attackers to execute persistent JavaScript by fragmenting malicious payloads across multiple administrative form fields. Attackers can bypass front-end length restrictions using JavaScript comments and template literals to concatenate executable script fragments that are rendered in administrative dashboard views such as index.zhtml, resulting in persistent script execution within administrative sessions.",
   "datePublished": "May 20, 2026, 8:07:27 PM",
-  "dateUpdated": "May 20, 2026, 8:07:27 PM",
+  "dateUpdated": "May 21, 2026, 2:09:22 PM",
   "baseScore": 8.4,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:A/VC:H/VI:H/VA:L/SC:N/SI:N/SA:N",

@@ -3,7 +3,7 @@
   "enisaUuid": "43626ea6-05f4-3392-b9e2-42ce6e438cc0",
   "description": "A vulnerability in the BrowserBot component of Cisco ThousandEyes Enterprise Agent could have allowed an authenticated, remote attacker to execute arbitrary commands on Agents on behalf of the BrowserBot synthetics orchestration process. Cisco has addressed this vulnerability in the Cisco ThousandEyes Enterprise Agent, and no customer action is needed.\r\n\r\nThis vulnerability was due to insufficient input validation of command arguments that are supplied by the user. Prior to this vulnerability being addressed, an attacker could have exploited this vulnerability by authenticating to the ThousandEyes SaaS and submitting crafted input into the affected parameter. A successful exploit could have allowed the attacker to execute arbitrary commands within the BrowserBot container as the node user.\r\nTo exploit this vulnerability, the attacker must have valid user credentials for the ThousandEyes SaaS and the ability to manage transaction tests.",
   "datePublished": "May 20, 2026, 4:06:32 PM",
-  "dateUpdated": "May 20, 2026, 6:32:04 PM",
+  "dateUpdated": "May 21, 2026, 1:06:27 PM",
   "baseScore": 6.3,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L",

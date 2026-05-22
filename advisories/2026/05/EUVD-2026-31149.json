@@ -3,7 +3,7 @@
   "enisaUuid": "aacad1b6-6674-3cd0-96f8-82b87248259d",
   "description": "Unrestricted Upload of File with Dangerous Type vulnerability in WP Swings Gift Cards For WooCommerce Pro allows Using Malicious Files.\n\nThis issue affects Gift Cards For WooCommerce Pro: from n/a through 4.2.6.",
   "datePublished": "May 20, 2026, 6:00:51 PM",
-  "dateUpdated": "May 20, 2026, 6:00:51 PM",
+  "dateUpdated": "May 21, 2026, 1:35:03 PM",
   "baseScore": 10.0,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",

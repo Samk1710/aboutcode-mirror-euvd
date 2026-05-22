@@ -1,0 +1,31 @@
+{
+  "id": "EUVD-2026-31227",
+  "enisaUuid": "936b519d-5169-3cf4-8e43-5b9c57fb7a12",
+  "description": "Netatalk 2.1.0 through 4.4.2 inserts LDAP simple-bind passwords into log output in cleartext, which allows an attacker with access to the log files to obtain LDAP credentials.",
+  "datePublished": "May 21, 2026, 7:34:25 AM",
+  "dateUpdated": "May 21, 2026, 12:44:56 PM",
+  "baseScore": 7.5,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+  "references": "https://netatalk.io/security/CVE-2026-44052\n",
+  "aliases": "GHSA-j6x4-pjr7-hwq4\nCVE-2026-44052\n",
+  "assigner": "securin",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "66037fd7-a33a-318e-bb9d-44431fa44174",
+      "product": {
+        "name": "Netatalk"
+      },
+      "product_version": "2.1.0 \u22644.4.2"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "ab528409-02c4-3c1c-b8ca-e3a94539137f",
+      "vendor": {
+        "name": "Netatalk"
+      }
+    }
+  ]
+}

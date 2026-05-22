@@ -3,11 +3,11 @@
   "enisaUuid": "e56690d0-bd77-3749-b1dc-cfa65800ac55",
   "description": "A flaw was found in libarchive. This heap out-of-bounds read vulnerability exists in the RAR archive processing logic due to improper validation of the LZSS sliding window size after transitions between compression methods. A remote attacker can exploit this by providing a specially crafted RAR archive, leading to the disclosure of sensitive heap memory information without requiring authentication or user interaction.",
   "datePublished": "Mar 19, 2026, 1:50:27 PM",
-  "dateUpdated": "May 9, 2026, 12:08:34 AM",
+  "dateUpdated": "May 21, 2026, 2:11:20 AM",
   "baseScore": 7.5,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
-  "references": "https://access.redhat.com/errata/RHSA-2026:10065\nhttps://access.redhat.com/errata/RHSA-2026:10097\nhttps://access.redhat.com/errata/RHSA-2026:11768\nhttps://access.redhat.com/errata/RHSA-2026:12274\nhttps://access.redhat.com/errata/RHSA-2026:13812\nhttps://access.redhat.com/errata/RHSA-2026:14937\nhttps://access.redhat.com/errata/RHSA-2026:8492\nhttps://access.redhat.com/errata/RHSA-2026:8510\nhttps://access.redhat.com/errata/RHSA-2026:8517\nhttps://access.redhat.com/errata/RHSA-2026:8521\nhttps://access.redhat.com/errata/RHSA-2026:8534\nhttps://access.redhat.com/errata/RHSA-2026:8864\nhttps://access.redhat.com/errata/RHSA-2026:8865\nhttps://access.redhat.com/errata/RHSA-2026:8866\nhttps://access.redhat.com/errata/RHSA-2026:8867\nhttps://access.redhat.com/errata/RHSA-2026:8873\nhttps://access.redhat.com/errata/RHSA-2026:8908\nhttps://access.redhat.com/errata/RHSA-2026:8944\nhttps://access.redhat.com/errata/RHSA-2026:9026\nhttps://access.redhat.com/errata/RHSA-2026:9592\nhttps://access.redhat.com/errata/RHSA-2026:9832\nhttps://access.redhat.com/security/cve/CVE-2026-4424\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2449006\nhttps://github.com/libarchive/libarchive/pull/2898\n",
+  "references": "https://access.redhat.com/errata/RHSA-2026:10065\nhttps://access.redhat.com/errata/RHSA-2026:10097\nhttps://access.redhat.com/errata/RHSA-2026:11768\nhttps://access.redhat.com/errata/RHSA-2026:12071\nhttps://access.redhat.com/errata/RHSA-2026:12274\nhttps://access.redhat.com/errata/RHSA-2026:13812\nhttps://access.redhat.com/errata/RHSA-2026:14773\nhttps://access.redhat.com/errata/RHSA-2026:14937\nhttps://access.redhat.com/errata/RHSA-2026:15087\nhttps://access.redhat.com/errata/RHSA-2026:16008\nhttps://access.redhat.com/errata/RHSA-2026:16009\nhttps://access.redhat.com/errata/RHSA-2026:16030\nhttps://access.redhat.com/errata/RHSA-2026:16174\nhttps://access.redhat.com/errata/RHSA-2026:17596\nhttps://access.redhat.com/errata/RHSA-2026:19724\nhttps://access.redhat.com/errata/RHSA-2026:19725\nhttps://access.redhat.com/errata/RHSA-2026:8492\nhttps://access.redhat.com/errata/RHSA-2026:8510\nhttps://access.redhat.com/errata/RHSA-2026:8517\nhttps://access.redhat.com/errata/RHSA-2026:8521\nhttps://access.redhat.com/errata/RHSA-2026:8534\nhttps://access.redhat.com/errata/RHSA-2026:8864\nhttps://access.redhat.com/errata/RHSA-2026:8865\nhttps://access.redhat.com/errata/RHSA-2026:8866\nhttps://access.redhat.com/errata/RHSA-2026:8867\nhttps://access.redhat.com/errata/RHSA-2026:8873\nhttps://access.redhat.com/errata/RHSA-2026:8908\nhttps://access.redhat.com/errata/RHSA-2026:8944\nhttps://access.redhat.com/errata/RHSA-2026:9026\nhttps://access.redhat.com/errata/RHSA-2026:9592\nhttps://access.redhat.com/errata/RHSA-2026:9832\nhttps://access.redhat.com/security/cve/CVE-2026-4424\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2449006\nhttps://github.com/libarchive/libarchive/pull/2898\n",
   "aliases": "CVE-2026-4424\n",
   "assigner": "redhat",
   "epss": 0.36,
@@ -41,6 +41,13 @@
       "product_version": "patch: sha256:8e13332d210961a93746eb0bd3761fa220dc710aada98b121320184aef2e5709"
     },
     {
+      "id": "161e2ce3-eb2a-3c3c-9d96-a7ed56e56b89",
+      "product": {
+        "name": "Red Hat AI Inference Server 3.2"
+      },
+      "product_version": "patch: 1779223651"
+    },
+    {
       "id": "1c2b4f30-6570-3133-9dac-ab3ee9b9aaf9",
       "product": {
         "name": "Red Hat Enterprise Linux 8"
@@ -69,6 +76,13 @@
       "product_version": "patch: 1776868774"
     },
     {
+      "id": "2f5bd669-8a17-3365-8b80-a4a72d13bebf",
+      "product": {
+        "name": "Red Hat OpenShift Container Platform 4.15"
+      },
+      "product_version": "patch: 415.92.202605060220-0"
+    },
+    {
       "id": "2f9ce043-df34-3ae8-8c6e-b217e3cfd13d",
       "product": {
         "name": "RHEL-8 based Middleware Containers"
@@ -90,11 +104,25 @@
       "product_version": "patch: 3.8.7-1.hum1"
     },
     {
+      "id": "3cbc7837-ab45-33a0-a2cf-287a0b7d9a2b",
+      "product": {
+        "name": "Red Hat AI Inference Server 3.3"
+      },
+      "product_version": "patch: 1778244546"
+    },
+    {
       "id": "3e5a3c34-7cf5-3afa-a73d-1f76ab3980ea",
       "product": {
         "name": "RHEL-8 based Middleware Containers"
       },
       "product_version": "patch: 7.13.5-4.1777325710"
+    },
+    {
+      "id": "48053221-e244-3ad1-aa7b-c195d678499f",
+      "product": {
+        "name": "Red Hat OpenShift Container Platform 4.14"
+      },
+      "product_version": "patch: 414.92.202605060243-0"
     },
     {
       "id": "4d115ff4-89e1-3aa0-adc5-f0aa11f6467e",
@@ -125,11 +153,25 @@
       "product_version": "patch: 1778101579"
     },
     {
+      "id": "5e581004-e5e2-3465-8982-612ce55b0d72",
+      "product": {
+        "name": "Red Hat OpenShift Container Platform 4.17"
+      },
+      "product_version": "patch: 417.94.202605112123-0"
+    },
+    {
       "id": "647daefa-b9e7-33af-a399-679694464c75",
       "product": {
         "name": "Red Hat Update Infrastructure 5"
       },
       "product_version": "patch: sha256:7eae5b16539484129c6ce169b41a3e1da7d7dd1296d2677acf7e9c3d1bce00ed"
+    },
+    {
+      "id": "6a62a6a7-7d92-3d0c-b384-bea6e024e301",
+      "product": {
+        "name": "Red Hat AI Inference Server 3.3"
+      },
+      "product_version": "patch: 1778244531"
     },
     {
       "id": "6b0c6f97-a141-37ca-b8c2-3740bdff669b",
@@ -251,6 +293,13 @@
       "product_version": "patch: 1776868772"
     },
     {
+      "id": "cadb2348-cbb7-3408-97aa-214db1ba102a",
+      "product": {
+        "name": "Red Hat AI Inference Server 3.2"
+      },
+      "product_version": "patch: 1779223654"
+    },
+    {
       "id": "d007452d-73eb-3e33-bc5c-0520289039be",
       "product": {
         "name": "RHEL-8 based Middleware Containers"
@@ -258,11 +307,25 @@
       "product_version": "patch: 7.13.5-4.1777325680"
     },
     {
+      "id": "d11d38f3-4fd6-3cd5-baa1-1695359bda55",
+      "product": {
+        "name": "Red Hat OpenShift Container Platform 4.18"
+      },
+      "product_version": "patch: 418.94.202604240015-0"
+    },
+    {
       "id": "d1f159c0-b6a6-34f3-a308-c8cef58a53d1",
       "product": {
         "name": "Red Hat OpenShift Container Platform 4.12"
       },
       "product_version": "patch: 412.86.202604281506-0"
+    },
+    {
+      "id": "d42f5351-0c06-345e-99f7-eab67d39828c",
+      "product": {
+        "name": "Red Hat AI Inference Server 3.3"
+      },
+      "product_version": "patch: 1778244559"
     },
     {
       "id": "d6600a3f-bd85-3e67-9243-d349fc0f5af9",
@@ -291,6 +354,13 @@
         "name": "Red Hat Enterprise Linux 8.2 Advanced Update Support"
       },
       "product_version": "patch: 0:3.3.2-8.el8_2.2"
+    },
+    {
+      "id": "ed7ba504-94ca-357c-82ab-31cd3f5154f3",
+      "product": {
+        "name": "Red Hat AI Inference Server 3.3"
+      },
+      "product_version": "patch: 1778274666"
     },
     {
       "id": "f050a4d3-7ce5-351b-961d-379d5c10bc2e",
