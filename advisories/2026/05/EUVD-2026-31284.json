@@ -3,7 +3,7 @@
   "enisaUuid": "c9b163f0-61ff-3f21-9b60-fb3a6c6785d5",
   "description": "A directory traversal vulnerability in the Apex One (on-premise) server could allow a pre-authenticated local attacker to modify a key table on the server to inject malicious code to deploy to agents on affected installations.\n\n\r\nThis vulnerability is only exploitable on the on-premise version of Apex One and a potential attacker must have access to the Apex One Server and already obtained administrative credentials to the server via some other method to exploit this vulnerability.",
   "datePublished": "May 21, 2026, 1:03:21 PM",
-  "dateUpdated": "May 21, 2026, 10:20:24 PM",
+  "dateUpdated": "May 22, 2026, 3:55:43 AM",
   "baseScore": 6.7,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:C/C:H/I:L/A:L",
@@ -11,6 +11,7 @@
   "aliases": "CVE-2026-34926\nGHSA-4ccp-cqrh-3w9v\n",
   "assigner": "trendmicro",
   "epss": 0.0,
+  "exploitedSince": "May 21, 2026, 12:00:00 AM",
   "enisaIdProduct": [
     {
       "id": "adeefb45-7f9f-33c1-90d5-1082d54a2f59",

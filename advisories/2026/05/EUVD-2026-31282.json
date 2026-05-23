@@ -3,7 +3,7 @@
   "enisaUuid": "e5fbd0f0-6b01-31d3-92b2-22e281a69d40",
   "description": "An origin validation vulnerability in the Apex One/SEP agent could allow a local attacker to escalate privileges on affected installations. This is similar to CVE-2026-34927 but exists in a different process protection mechanism.\n\nPlease note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.",
   "datePublished": "May 21, 2026, 1:04:02 PM",
-  "dateUpdated": "May 21, 2026, 2:24:37 PM",
+  "dateUpdated": "May 22, 2026, 3:55:30 AM",
   "baseScore": 7.8,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",

@@ -3,7 +3,7 @@
   "enisaUuid": "7aa7fde5-55fc-3779-835e-dbdad3e95c8c",
   "description": "A time-of-check time-of-use vulnerability in the Apex One/SEP agent could allow a local attacker to escalate privileges on affected installations.\n\nPlease note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.",
   "datePublished": "May 21, 2026, 1:04:35 PM",
-  "dateUpdated": "May 21, 2026, 2:24:16 PM",
+  "dateUpdated": "May 22, 2026, 3:55:27 AM",
   "baseScore": 7.8,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",

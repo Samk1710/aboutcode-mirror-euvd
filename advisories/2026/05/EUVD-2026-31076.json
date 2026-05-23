@@ -3,7 +3,7 @@
   "enisaUuid": "c20a06cc-8883-3222-b465-38f2210098f7",
   "description": "In `src/havegecmd.c`, the `socket_handler` function performs a credential check on the abstract UNIX socket (`\\0/sys/entropy/haveged`). However, while it detects if the connecting user is not root (`cred.uid != 0`) and prepares a negative acknowledgement (`ASCII_NAK`), it **fails to stop execution**. The code proceeds to the `switch` statement, allowing any local unprivileged user to execute privileged commands such as `MAGIC_CHROOT`.",
   "datePublished": "May 20, 2026, 8:56:14 AM",
-  "dateUpdated": "May 21, 2026, 3:55:33 AM",
+  "dateUpdated": "May 22, 2026, 3:06:22 AM",
   "baseScore": 7.8,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",

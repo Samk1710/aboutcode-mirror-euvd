@@ -3,7 +3,7 @@
   "enisaUuid": "64ed6e56-7848-395a-b715-3b4fe13f4337",
   "description": "The ConnectWise Automate\u2122 Agent does not fully verify the authenticity of components obtained during plugin loading and self-update operations. This issue is addressed in Automate 2026.5.",
   "datePublished": "May 21, 2026, 2:32:14 PM",
-  "dateUpdated": "May 21, 2026, 3:55:31 PM",
+  "dateUpdated": "May 22, 2026, 3:55:44 AM",
   "baseScore": 8.8,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",

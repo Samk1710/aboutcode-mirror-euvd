@@ -3,14 +3,14 @@
   "enisaUuid": "93231869-4120-3543-9bea-2e54920fe6db",
   "description": "ptrace(PT_SC_REMOTE) failed to properly validate parameters for the syscall(2) and __syscall(2) meta-system calls.  As a result, a user with the ability to debug a process may trigger arbitrary code execution in the kernel, even if the target process has no special privileges.\n\nThe missing validation allows an unprivileged local user to escalate privileges, potentially gaining full control of the affected system.",
   "datePublished": "May 21, 2026, 9:17:29 AM",
-  "dateUpdated": "May 21, 2026, 1:48:28 PM",
+  "dateUpdated": "May 22, 2026, 3:55:37 AM",
   "baseScore": 8.4,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
   "references": "https://security.freebsd.org/advisories/FreeBSD-SA-26:21.ptrace.asc\n",
   "aliases": "CVE-2026-45253\nGHSA-96wx-9xhw-cf8x\n",
   "assigner": "freebsd",
-  "epss": 0.0,
+  "epss": 0.02,
   "enisaIdProduct": [
     {
       "id": "61f72932-5fee-30e4-90ca-a0e26176443a",

@@ -3,7 +3,7 @@
   "enisaUuid": "b99dab73-8964-3117-8e77-c04d84b73531",
   "description": "The GSheet For Woo Importer plugin for WordPress is vulnerable to unauthorized loss of data due to a missing capability check on the process_ajax_restore_action() function in all versions up to, and including, 2.3.1. This makes it possible for authenticated attackers, with Subscriber-level access and above, to delete the plugin's Google Sheets API token and configuration options.",
   "datePublished": "May 21, 2026, 7:29:12 PM",
-  "dateUpdated": "May 21, 2026, 7:29:12 PM",
+  "dateUpdated": "May 22, 2026, 1:55:49 PM",
   "baseScore": 4.3,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:N",
