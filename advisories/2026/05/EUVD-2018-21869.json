@@ -3,14 +3,14 @@
   "enisaUuid": "82855e34-2d34-38f3-9b3d-075082ef7760",
   "description": "userSpice 4.3.24 contains a cross-site scripting vulnerability that allows attackers to inject malicious scripts through the X-Forwarded-For HTTP header. Attackers can send crafted requests to the backup.php endpoint with XSS payloads in the X-Forwarded-For header that execute when administrators visit the audit log page.",
   "datePublished": "May 23, 2026, 6:30:50 PM",
-  "dateUpdated": "May 23, 2026, 6:30:50 PM",
+  "dateUpdated": "May 24, 2026, 1:36:19 AM",
   "baseScore": 5.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:A/VC:N/VI:N/VA:N/SC:L/SI:L/SA:N",
   "references": "https://www.exploit-db.com/exploits/44871\nhttps://www.vulncheck.com/advisories/userspice-cross-site-scripting-via-x-forwarded-for-header\n",
   "aliases": "CVE-2018-25349\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.03,
   "enisaIdProduct": [
     {
       "id": "0bbb0492-1360-34c1-ae38-27afef219b5a",

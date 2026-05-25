@@ -3,14 +3,14 @@
   "enisaUuid": "ccb6bfbc-a957-30bb-ba60-0bd0cc89a1c2",
   "description": "Anote 1.0 contains a persistent cross-site scripting vulnerability that allows attackers to execute arbitrary code by injecting malicious payloads into markdown files stored within the application. Attackers can craft malicious markdown files with embedded JavaScript that executes system commands when opened, enabling remote code execution on the victim's computer.",
   "datePublished": "May 15, 2026, 6:36:29 PM",
-  "dateUpdated": "May 16, 2026, 1:15:54 AM",
+  "dateUpdated": "May 24, 2026, 1:37:15 AM",
   "baseScore": 5.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:P/VC:N/VI:N/VA:N/SC:L/SI:L/SA:N",
   "references": "https://www.exploit-db.com/exploits/49836\nhttps://github.com/AnotherNote/anote\nhttps://www.vulncheck.com/advisories/anote-persistent-cross-site-scripting-remote-code-execution\n",
   "aliases": "CVE-2021-47963\nGHSA-m43r-r9f5-m97p\n",
   "assigner": "VulnCheck",
-  "epss": 0.02,
+  "epss": 0.03,
   "enisaIdProduct": [
     {
       "id": "bb92b981-a458-3090-af93-87c28f26dc08",
