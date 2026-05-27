@@ -2,18 +2,21 @@
   "id": "EUVD-2026-31498",
   "enisaUuid": "7b283a6b-21f8-37d0-b715-23859a5d0579",
   "description": "NewNTUnicodeString does not check for string length overflow. When provided with a string that overflows the maximum size of a NTUnicodeString (a 16-bit number of bytes), it returns a truncated string rather than an error.",
-  "datePublished": "May 22, 2026, 7:39:47 PM",
-  "dateUpdated": "May 22, 2026, 7:39:47 PM",
+  "datePublished": "May 26, 2026, 1:30:20 PM",
+  "dateUpdated": "May 26, 2026, 1:30:20 PM",
   "baseScore": 0.0,
-  "references": "https://go.dev/issue/78916\nhttps://go.dev/cl/770080\nhttps://groups.google.com/g/golang-announce/c/6MMI8Lj-Atg\nhttps://pkg.go.dev/vuln/GO-2026-5024\n",
-  "aliases": "CVE-2026-39824\n",
+  "references": "https://go.dev/issue/78916\nhttps://go.dev/cl/770080\nhttps://groups.google.com/g/golang-announce/c/6MMI8Lj-Atg\nhttps://pkg.go.dev/vuln/GO-2026-5024\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-39824\n",
+  "aliases": "GHSA-4vpj-hr3r-4gpg\nCVE-2026-39824\n",
   "assigner": "Go",
-  "epss": 0.0,
+  "epss": 0.02,
   "enisaIdProduct": [
     {
       "id": "12f2b55c-6b88-383f-80b2-137300bf83ed",
       "product": {
-        "name": "golang.org/x/sys/windows"
+        "name": "golang.org/x/sys/windows",
+        "vendor": {
+          "name": "golang.org/x/sys"
+        }
       },
       "product_version": "0 <0.44.0"
     }

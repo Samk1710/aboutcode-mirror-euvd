@@ -3,24 +3,30 @@
   "enisaUuid": "52996982-b188-3702-9546-2f7e1e1820d8",
   "description": "Apache Shiro\u2019s Jakarta EE module used the HTTP Referer header in certain cases to issue redirect after a user login.\nIn affected versions, insufficient validation of this client-controlled value could allow an attacker to influence the redirect target in applications using the Jakarta EE module.\nThis issue affects Apache Shiro from 2.0-alpha to 2.2.0, and 3.0.0-alpha-1, only when using shiro-jakarta-ee integration module.",
   "datePublished": "May 25, 2026, 8:20:03 PM",
-  "dateUpdated": "May 25, 2026, 9:26:15 PM",
+  "dateUpdated": "May 26, 2026, 12:37:44 PM",
   "baseScore": null,
   "references": "https://shiro.apache.org/security-reports.html#cve_2026_48589\n",
-  "aliases": "CVE-2026-48589\n",
+  "aliases": "CVE-2026-48589\nGHSA-7pq2-fhx9-x464\n",
   "assigner": "apache",
   "epss": 0.0,
   "enisaIdProduct": [
     {
       "id": "044ef0b0-c924-3e22-80c3-7a2188fded8d",
       "product": {
-        "name": "Apache Shiro"
+        "name": "Apache Shiro",
+        "vendor": {
+          "name": "Apache Software Foundation"
+        }
       },
       "product_version": "2.0.0-alpha-0 \u22642.2.0"
     },
     {
       "id": "0be5a0ea-dcb0-3445-bcce-91d083159808",
       "product": {
-        "name": "Apache Shiro"
+        "name": "Apache Shiro",
+        "vendor": {
+          "name": "Apache Software Foundation"
+        }
       },
       "product_version": "3.0.0-alpha-0 \u22643.0.0-alpha-1"
     }

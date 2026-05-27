@@ -3,7 +3,7 @@
   "enisaUuid": "23adf871-82c3-3088-80a2-4fab3c91fc32",
   "description": "Allocation of Resources Without Limits or Throttling vulnerability in benoitc hackney allows Flooding. The URL parser in src/hackney_url.erl converts every unrecognized URL scheme to a permanent BEAM atom via binary_to_atom/2. BEAM atoms are never garbage-collected and the atom table defaults to a hard limit of 1,048,576 entries. An attacker who can supply URLs with attacker-chosen scheme prefixes \u2014 directly as request targets, as configured webhook URLs, or via Location headers followed during redirects \u2014 can exhaust the atom table and crash the entire BEAM VM with system_limit.\n\nThis issue affects hackney: from 2.0.0 before 4.0.1.",
   "datePublished": "May 25, 2026, 2:00:48 PM",
-  "dateUpdated": "May 25, 2026, 2:00:48 PM",
+  "dateUpdated": "May 26, 2026, 3:45:36 PM",
   "baseScore": 8.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
@@ -15,14 +15,20 @@
     {
       "id": "5ec00256-3bc2-3a4b-a9f9-99f75823126c",
       "product": {
-        "name": "hackney"
+        "name": "hackney",
+        "vendor": {
+          "name": "hackney"
+        }
       },
       "product_version": "2.0.0 <4.0.1"
     },
     {
       "id": "7232aa28-1434-3a21-a84d-65971945c57d",
       "product": {
-        "name": "hackney"
+        "name": "hackney",
+        "vendor": {
+          "name": "hackney"
+        }
       },
       "product_version": "d9713695c0d99855d12c73fd8a0b4be0543950c4 <31f6f0e27e096ad88743dfded4f030a3ee74972e"
     }

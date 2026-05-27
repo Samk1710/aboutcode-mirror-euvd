@@ -2,20 +2,23 @@
   "id": "EUVD-2026-31424",
   "enisaUuid": "395d1206-f708-391b-b9b4-8e3d8ccaf855",
   "description": "STER uses unencrypted TCP traffic to transmit data over the network. It allows an attacker to\u00a0conduct a Man-In-The-Middle attack and obtain sensitive data such as  passwords, personal data, or authentication tokens.\n\nThis issue was fixed in version 9.5.",
-  "datePublished": "May 22, 2026, 9:14:51 AM",
-  "dateUpdated": "May 22, 2026, 10:59:55 AM",
+  "datePublished": "May 26, 2026, 1:30:15 PM",
+  "dateUpdated": "May 26, 2026, 1:30:15 PM",
   "baseScore": 2.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:P/VC:L/VI:L/VA:N/SC:N/SI:N/SA:N",
-  "references": "https://cert.pl/posts/2026/05/CVE-2026-25606\nhttps://www.ciop.pl/CIOPPortalWAR/appmanager/ciop/pl?_nfpb=true&_pageLabel=P52000165211572544981480\n",
-  "aliases": "CVE-2026-25608\n",
+  "references": "https://cert.pl/posts/2026/05/CVE-2026-25606\nhttps://www.ciop.pl/CIOPPortalWAR/appmanager/ciop/pl?_nfpb=true&_pageLabel=P52000165211572544981480\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-25608\n",
+  "aliases": "GHSA-3mwj-g532-hjvp\nCVE-2026-25608\n",
   "assigner": "CERT-PL",
-  "epss": 0.0,
+  "epss": 0.04,
   "enisaIdProduct": [
     {
       "id": "675fc8ef-c0ce-338c-8067-ad61d9021fcc",
       "product": {
-        "name": "STER"
+        "name": "STER",
+        "vendor": {
+          "name": "Centralny Instytut Ochrony Pracy - Pa\u0144stwowy Instytut Badawczy"
+        }
       },
       "product_version": "0 <9.5"
     }

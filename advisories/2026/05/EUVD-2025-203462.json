@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2025-203462",
+  "enisaUuid": "71ce23e9-dd1a-39fb-aadb-e5e6ab33e0b9",
+  "description": "Weblate has a Server-Side Request Forgery issue",
+  "datePublished": "May 26, 2026, 4:41:13 PM",
+  "dateUpdated": "May 26, 2026, 4:41:13 PM",
+  "baseScore": 5.0,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:N/A:N",
+  "references": "https://github.com/WeblateOrg/weblate/security/advisories/GHSA-hfpv-mc5v-p9mm\nhttps://github.com/WeblateOrg/weblate/pull/17102\nhttps://github.com/WeblateOrg/weblate/pull/17103\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-66407\nhttps://github.com/pypa/advisory-database/tree/main/vulns/weblate/PYSEC-2025-231.yaml\n",
+  "aliases": "CVE-2025-66407\nPYSEC-2025-231\nGHSA-hfpv-mc5v-p9mm\n",
+  "assigner": "GitHub_M",
+  "epss": 0.02,
+  "enisaIdProduct": [
+    {
+      "id": "e2003114-4588-3e5f-a47d-eef09d4964a4",
+      "product": {
+        "name": "weblate",
+        "vendor": {
+          "name": "WeblateOrg"
+        }
+      },
+      "product_version": "< 5.15"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "2e74a5fd-6127-3f52-a4cc-0f299478da37",
+      "vendor": {
+        "name": "WeblateOrg"
+      }
+    }
+  ]
+}

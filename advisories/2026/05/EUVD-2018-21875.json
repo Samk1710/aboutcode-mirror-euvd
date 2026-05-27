@@ -2,20 +2,23 @@
   "id": "EUVD-2018-21875",
   "enisaUuid": "2f99a353-b468-34be-8bf9-68090ba76a29",
   "description": "Joomla Component jomres 9.11.2 contains a cross-site request forgery vulnerability that allows attackers to modify user account information by tricking authenticated users into visiting malicious pages. Attackers can craft HTML forms targeting the account/index endpoint with hidden fields to change passwords, email addresses, and profile details without user consent.",
-  "datePublished": "May 23, 2026, 6:30:54 PM",
-  "dateUpdated": "May 23, 2026, 6:30:54 PM",
+  "datePublished": "May 26, 2026, 1:30:27 PM",
+  "dateUpdated": "May 26, 2026, 1:30:27 PM",
   "baseScore": 5.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:L/VA:N/SC:L/SI:L/SA:L",
-  "references": "https://www.exploit-db.com/exploits/44901\nhttps://www.jomres.net/\nhttps://extensions.joomla.org/extension/jomres/\nhttps://www.vulncheck.com/advisories/joomla-component-jomres-cross-site-request-forgery\n",
-  "aliases": "CVE-2018-25354\n",
+  "references": "https://www.exploit-db.com/exploits/44901\nhttps://www.jomres.net/\nhttps://extensions.joomla.org/extension/jomres/\nhttps://www.vulncheck.com/advisories/joomla-component-jomres-cross-site-request-forgery\nhttps://nvd.nist.gov/vuln/detail/CVE-2018-25354\n",
+  "aliases": "GHSA-w384-fv8f-hx76\nCVE-2018-25354\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.01,
   "enisaIdProduct": [
     {
       "id": "b09ee357-b5f4-385d-a7d6-1720f9d4568b",
       "product": {
-        "name": "Jomres"
+        "name": "Jomres",
+        "vendor": {
+          "name": "Jomres"
+        }
       },
       "product_version": "9.11.2"
     }

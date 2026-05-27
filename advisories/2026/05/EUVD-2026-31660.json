@@ -2,20 +2,23 @@
   "id": "EUVD-2026-31660",
   "enisaUuid": "f679a4d8-b447-3310-a6ed-78ce32d3ef67",
   "description": "A vulnerability has been found in SourceCodester Simple POS and Inventory System 1.0. The affected element is an unknown function of the file /admin/edit_customer.php. Such manipulation of the argument ID leads to sql injection. The attack can be executed remotely. The exploit has been disclosed to the public and may be used.",
-  "datePublished": "May 25, 2026, 9:30:10 AM",
-  "dateUpdated": "May 25, 2026, 9:30:10 AM",
+  "datePublished": "May 26, 2026, 1:30:41 PM",
+  "dateUpdated": "May 26, 2026, 1:30:41 PM",
   "baseScore": 5.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
-  "references": "https://vuldb.com/vuln/365427\nhttps://vuldb.com/vuln/365427/cti\nhttps://vuldb.com/submit/813613\nhttps://gist.github.com/c4ttr4ck/599151a2b90c1cd620933c992873c67a\nhttps://www.sourcecodester.com/\n",
-  "aliases": "CVE-2026-9446\n",
+  "references": "https://vuldb.com/vuln/365427\nhttps://vuldb.com/vuln/365427/cti\nhttps://vuldb.com/submit/813613\nhttps://gist.github.com/c4ttr4ck/599151a2b90c1cd620933c992873c67a\nhttps://www.sourcecodester.com/\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-9446\n",
+  "aliases": "CVE-2026-9446\nGHSA-x95h-98hc-r7w9\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.03,
   "enisaIdProduct": [
     {
       "id": "d15b1b43-0bb7-3119-9c5c-a99a2ac4f9b6",
       "product": {
-        "name": "Simple POS and Inventory System"
+        "name": "Simple POS and Inventory System",
+        "vendor": {
+          "name": "SourceCodester"
+        }
       },
       "product_version": "1.0"
     }

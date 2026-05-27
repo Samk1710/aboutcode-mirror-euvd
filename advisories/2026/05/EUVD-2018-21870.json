@@ -2,20 +2,23 @@
   "id": "EUVD-2018-21870",
   "enisaUuid": "881a9356-cc2d-3732-8b35-f8135e7a81a8",
   "description": "Joomla! Component Ek Rishta 2.10 contains an SQL injection vulnerability that allows unauthenticated attackers to manipulate database queries by injecting SQL code through the cid parameter. Attackers can send GET requests to the user_detail view with malicious cid values containing SQL commands to extract sensitive database information.",
-  "datePublished": "May 23, 2026, 6:30:49 PM",
-  "dateUpdated": "May 23, 2026, 6:30:49 PM",
+  "datePublished": "May 26, 2026, 1:30:27 PM",
+  "dateUpdated": "May 26, 2026, 1:30:27 PM",
   "baseScore": 8.8,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:L/VA:N/SC:N/SI:N/SA:N",
-  "references": "https://www.exploit-db.com/exploits/44869\nhttps://www.joomlaextensions.co.in/\nhttps://extensions.joomla.org/extension/ek-rishta/\nhttps://www.vulncheck.com/advisories/joomla-component-ek-rishta-sql-injection-via-user-detail\n",
-  "aliases": "CVE-2018-25348\n",
+  "references": "https://www.exploit-db.com/exploits/44869\nhttps://www.joomlaextensions.co.in/\nhttps://extensions.joomla.org/extension/ek-rishta/\nhttps://www.vulncheck.com/advisories/joomla-component-ek-rishta-sql-injection-via-user-detail\nhttps://nvd.nist.gov/vuln/detail/CVE-2018-25348\n",
+  "aliases": "GHSA-rrm4-c4hh-wqg7\nCVE-2018-25348\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.07,
   "enisaIdProduct": [
     {
       "id": "63b690b8-1466-3382-9f2f-140969351144",
       "product": {
-        "name": "Ek Rishta"
+        "name": "Ek Rishta",
+        "vendor": {
+          "name": "harmistechnology"
+        }
       },
       "product_version": "2.10"
     }

@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2021-8907",
+  "enisaUuid": "8778008d-d8d1-388f-b8ee-6b94343db0b9",
+  "description": "A ZTE product has an information leak vulnerability. Due to improper permission settings, an attacker with ordinary user permissions could exploit this vulnerability to obtain some sensitive user information through the wizard page without authentication. This affects ZXHN H168N all versions up to V3.5.0_EG1T4_TE.",
+  "datePublished": "Jun 10, 2021, 11:18:23 AM",
+  "dateUpdated": "May 26, 2026, 5:20:48 AM",
+  "baseScore": null,
+  "references": "https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1015924\n",
+  "aliases": "CVE-2021-21735\nGHSA-j3rv-rh4f-4rf6\n",
+  "assigner": "zte",
+  "epss": 0.15,
+  "enisaIdProduct": [
+    {
+      "id": "6f97bd42-b65b-3b72-85fa-7594678df839",
+      "product": {
+        "name": "ZXHN H168N",
+        "vendor": {
+          "name": "ZTE"
+        }
+      },
+      "product_version": "All versions up to V3.5.0_EG1T4_TE"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "1bb9ff34-9f4d-34e5-be98-5450931b2e27",
+      "vendor": {
+        "name": "n/a"
+      }
+    }
+  ]
+}
