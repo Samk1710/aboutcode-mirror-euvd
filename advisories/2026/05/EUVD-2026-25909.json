@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-25909",
+  "enisaUuid": "deb8d720-209f-3752-94f9-bce1fe0144b3",
+  "description": "Pimcore Platform - SQL Injection in DataObject composite index handling during class definition import/save",
+  "datePublished": "May 28, 2026, 8:47:10 PM",
+  "dateUpdated": "May 28, 2026, 8:47:10 PM",
+  "baseScore": 7.0,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:L/VA:L/SC:N/SI:N/SA:N",
+  "references": "https://fluidattacks.com/es/advisories/dragons\nhttps://github.com/pimcore/pimcore\nhttps://github.com/pimcore/pimcore/pull/19108\nhttps://github.com/pimcore/pimcore/security/advisories/GHSA-r2f4-ff2p-xc64\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-5394\nhttps://github.com/pimcore/pimcore/commit/6df625ff74015dc11f4bbe76170ce45bbd5dd61d\nhttps://github.com/pimcore/pimcore/releases/tag/v12.3.7\n",
+  "aliases": "GHSA-r2f4-ff2p-xc64\nGHSA-c8g3-x47w-8q7p\nCVE-2026-5394\n",
+  "assigner": "Fluid Attacks",
+  "epss": 0.01,
+  "enisaIdProduct": [
+    {
+      "id": "6e39172a-ee3f-3535-94a7-05dd0401e15e",
+      "product": {
+        "name": "pimcore",
+        "vendor": {
+          "name": "pimcore"
+        }
+      },
+      "product_version": "12.3.3"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "5ccc3640-aa82-361e-a90d-7149a063f034",
+      "vendor": {
+        "name": "pimcore"
+      }
+    }
+  ]
+}

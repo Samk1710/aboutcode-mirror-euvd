@@ -3,7 +3,7 @@
   "enisaUuid": "87052586-0704-350f-b868-e16c0e937919",
   "description": "An authenticated command injection vulnerability exists in the Archer BE450 v1 and BE7200 v1 router that allows an administrator to execute arbitrary system commands through the web management interface. After successfully authenticating to the admin interface, an attacker can leverage the browser\u2019s developer console by supplying a crafted input that is passed to backend system commands without adequate sanitization. \n\nSuccessful exploitation enables execution of arbitrary commands with elevated privileges on the device, which may allow the attacker to start unauthorized services, modify system configuration, or otherwise fully compromise the router\u2019s operating environment.",
   "datePublished": "May 27, 2026, 5:26:47 PM",
-  "dateUpdated": "May 27, 2026, 5:59:21 PM",
+  "dateUpdated": "May 28, 2026, 3:55:50 AM",
   "baseScore": 8.5,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",

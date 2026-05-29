@@ -3,7 +3,7 @@
   "enisaUuid": "845ef8e6-4511-388c-a51b-a683d43ac66a",
   "description": "Gladinet Triofox Cloud Server Agent Access Service (GladServerAgentService.exe) listens on TCP port 7878 and processes remote HTTP messages with URL paths starting with /resources, /status, /sysinfo, /woshome, /Settings, /schedule, or /DavCache.",
   "datePublished": "May 27, 2026, 7:38:01 PM",
-  "dateUpdated": "May 27, 2026, 8:25:18 PM",
+  "dateUpdated": "May 28, 2026, 3:56:02 AM",
   "baseScore": 9.8,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
