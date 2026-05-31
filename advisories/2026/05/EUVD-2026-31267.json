@@ -3,40 +3,134 @@
   "enisaUuid": "7d5017fd-a23a-3952-a16c-ac124a7453fc",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\nnet/rds: reset op_nents when zerocopy page pin fails\n\nWhen iov_iter_get_pages2() fails in rds_message_zcopy_from_user(),\nthe pinned pages are released with put_page(), and\nrm->data.op_mmp_znotifier is cleared.  But we fail to properly\nclear rm->data.op_nents.\n\nLater when rds_message_purge() is called from rds_sendmsg() the\ncleanup loop iterates over the incorrectly non zero number of\nop_nents and frees them again.\n\nFix this by properly resetting op_nents when it should be in\nrds_message_zcopy_from_user().",
   "datePublished": "May 21, 2026, 10:49:21 AM",
-  "dateUpdated": "May 21, 2026, 3:04:20 PM",
-  "baseScore": 0.0,
-  "references": "https://git.kernel.org/stable/c/e174929793195e0cd6a4adb0cad731b39f9019b4\n",
+  "dateUpdated": "May 30, 2026, 10:45:08 AM",
+  "baseScore": 7.8,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+  "references": "https://git.kernel.org/stable/c/9115669faedccdda100428e2d26fd0aac8c50799\nhttps://git.kernel.org/stable/c/0bbbff00a15b1df2cac9014d6cf4b6890f473353\nhttps://git.kernel.org/stable/c/640e37f58f991546a87540d067279c2c1fa9fe51\nhttps://git.kernel.org/stable/c/290e833d1acb1093bc121fcdc97f5e6161157479\nhttps://git.kernel.org/stable/c/e174929793195e0cd6a4adb0cad731b39f9019b4\n",
   "aliases": "GHSA-m5w6-2mrp-4227\nCVE-2026-43494\n",
   "assigner": "Linux",
-  "epss": 0.0,
+  "epss": 0.01,
   "enisaIdProduct": [
     {
       "id": "0c1d976e-13d9-3d61-b64f-478010b6e228",
       "product": {
-        "name": "Linux"
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
       },
       "product_version": "patch: 7.1-rc4"
     },
     {
+      "id": "2ebd74b2-52f7-376f-bed1-e0ad78554819",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "patch: 7.0.10"
+    },
+    {
+      "id": "476bd0bc-6d0d-3b33-be80-886b87c70e70",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "0cebaccef3acbdfbc2d85880a2efb765d2f4e2e3 <640e37f58f991546a87540d067279c2c1fa9fe51"
+    },
+    {
+      "id": "58710070-1b57-3e9a-a924-46fd48db6dac",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "0cebaccef3acbdfbc2d85880a2efb765d2f4e2e3 <290e833d1acb1093bc121fcdc97f5e6161157479"
+    },
+    {
       "id": "61c24da1-bfba-3183-9d17-047204b9d810",
       "product": {
-        "name": "Linux"
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
       },
       "product_version": "4.17"
     },
     {
+      "id": "640e8182-473b-33b3-a07b-68dfac4cbfdf",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "0cebaccef3acbdfbc2d85880a2efb765d2f4e2e3 <9115669faedccdda100428e2d26fd0aac8c50799"
+    },
+    {
+      "id": "7aa0f5f7-6526-3287-848d-841ccb1d0d62",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "0cebaccef3acbdfbc2d85880a2efb765d2f4e2e3 <0bbbff00a15b1df2cac9014d6cf4b6890f473353"
+    },
+    {
+      "id": "984bbbaf-b043-330b-88d6-cc80591ba528",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "patch: 6.6.141"
+    },
+    {
       "id": "9e6c986c-281a-3323-bcd7-de4f0e22b5db",
       "product": {
-        "name": "Linux"
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
       },
       "product_version": "0cebaccef3acbdfbc2d85880a2efb765d2f4e2e3 <e174929793195e0cd6a4adb0cad731b39f9019b4"
     },
     {
       "id": "cd0a8c93-d1b1-3464-95a7-63cc77273d08",
       "product": {
-        "name": "Linux"
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
       },
       "product_version": "patch: 0"
+    },
+    {
+      "id": "dc6ea496-06c0-3edf-a55b-b1c4ad59b596",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "patch: 6.18.33"
+    },
+    {
+      "id": "e935679e-4807-31f7-ad0f-9193a27e70a5",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "patch: 6.12.91"
     }
   ],
   "enisaIdVendor": [

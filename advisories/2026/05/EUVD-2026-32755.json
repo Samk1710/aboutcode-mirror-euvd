@@ -3,12 +3,14 @@
   "enisaUuid": "918f3f9e-f405-31e5-80ed-e14cfbbefce0",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amdgpu/vcn3: Avoid overflow on msg bound check\n\nAs pointed out by SDL, the previous condition may be vulnerable to\noverflow.\n\n(cherry picked from commit db00257ac9e4a51eb2515aaea161a019f7125e10)",
   "datePublished": "May 28, 2026, 9:41:06 AM",
-  "dateUpdated": "May 28, 2026, 9:41:06 AM",
-  "baseScore": 0.0,
+  "dateUpdated": "May 30, 2026, 10:49:30 AM",
+  "baseScore": 7.1,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:H",
   "references": "https://git.kernel.org/stable/c/1936310f68c54be961de38ac539cef9b543207cb\nhttps://git.kernel.org/stable/c/e8124121b79ab5d32fa8fbbd101f7208eca9cd7d\nhttps://git.kernel.org/stable/c/016b64a0313ea5346cf526e30c8d3e66aca10175\nhttps://git.kernel.org/stable/c/2e43b66fceacd6e982b94f2e3f8b34edd7463396\nhttps://git.kernel.org/stable/c/e6e9faba8100628990cccd13f0f044a648c303cf\n",
   "aliases": "GHSA-3rxv-c424-93r3\nCVE-2026-46237\n",
   "assigner": "Linux",
-  "epss": 0.0,
+  "epss": 0.01,
   "enisaIdProduct": [
     {
       "id": "25d39005-6c73-30d6-a37a-c2f2fd074c99",

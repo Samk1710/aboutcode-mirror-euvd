@@ -3,12 +3,14 @@
   "enisaUuid": "476beefb-bc22-36b1-9e5d-574482668cef",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\nbatman-adv: fix integer overflow on buff_pos\n\nFixing an integer overflow present in batadv_iv_ogm_send_to_if. The size\ncheck is done using the int type in batadv_iv_ogm_aggr_packet whereas the\nbuff_pos variable uses the s16 type. This could lead to an out-of-bound\nread.",
   "datePublished": "May 28, 2026, 9:40:14 AM",
-  "dateUpdated": "May 28, 2026, 9:40:14 AM",
-  "baseScore": 0.0,
+  "dateUpdated": "May 30, 2026, 10:48:59 AM",
+  "baseScore": 8.8,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
   "references": "https://git.kernel.org/stable/c/f61499359fa529f0d45a53bf7c573a49eb6322e6\nhttps://git.kernel.org/stable/c/974542d1efc48b7e9fe16184e647615cba39969b\nhttps://git.kernel.org/stable/c/bf872db54f91ffe70104b98c20068b2d5910e018\nhttps://git.kernel.org/stable/c/b252797bfced986d6d92ec2f4cfcca842ce8aa78\nhttps://git.kernel.org/stable/c/0799e5943611006b346b8813c7daf7dd5aa26bfd\n",
   "aliases": "CVE-2026-46198\nGHSA-633g-3jmf-hx7h\n",
   "assigner": "Linux",
-  "epss": 0.0,
+  "epss": 0.02,
   "enisaIdProduct": [
     {
       "id": "0d00ac97-f80d-318b-9985-5c2ee83388b0",

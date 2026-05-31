@@ -3,14 +3,14 @@
   "enisaUuid": "05dabf62-119e-3dd8-a99e-a71e4721ca25",
   "description": "pypdf is a free and open-source pure-python PDF library. Prior to 6.12.0, an attacker who uses this vulnerability can craft a PDF which leads to long runtimes. This requires cross-reference streams with /W [0 0 0] values and large /Size values. This vulnerability is fixed in 6.12.0.",
   "datePublished": "May 28, 2026, 2:50:41 PM",
-  "dateUpdated": "May 28, 2026, 2:50:41 PM",
+  "dateUpdated": "May 30, 2026, 2:08:20 AM",
   "baseScore": 5.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/py-pdf/pypdf/security/advisories/GHSA-248m-82v9-q6g6\nhttps://github.com/py-pdf/pypdf/pull/3791\nhttps://github.com/py-pdf/pypdf/releases/tag/6.12.0\n",
   "aliases": "CVE-2026-48156\n",
   "assigner": "GitHub_M",
-  "epss": 0.0,
+  "epss": 0.01,
   "enisaIdProduct": [
     {
       "id": "9ece0ea2-2b3e-38e5-a0f9-20364316af32",

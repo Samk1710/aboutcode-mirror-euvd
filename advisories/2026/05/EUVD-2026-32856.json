@@ -3,13 +3,23 @@
   "enisaUuid": "c1063663-730d-336d-82e1-3590ac174807",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amdkfd: Clear VRAM on allocation to prevent stale data exposure\n\nKFD VRAM allocations set AMDGPU_GEM_CREATE_VRAM_WIPE_ON_RELEASE\nbut not AMDGPU_GEM_CREATE_VRAM_CLEARED, leaving freshly allocated\nVRAM with stale data from prior use observable by compute kernels.\n\nThe GEM ioctl path already sets VRAM_CLEARED for all userspace\nallocations via amdgpu_gem_create_ioctl() and\namdgpu_mode_dumb_create(). The KFD path was missing this flag,\nallowing stale page table remnants to leak into user buffers.\n\nThis causes crashes in RCCL P2P transport where non-zero data in\nptrExchange/head/tail fields corrupts the protocol handshake.",
   "datePublished": "May 28, 2026, 9:40:51 AM",
-  "dateUpdated": "May 28, 2026, 9:40:51 AM",
+  "dateUpdated": "May 30, 2026, 10:42:25 AM",
   "baseScore": 0.0,
   "references": "https://git.kernel.org/stable/c/1db431380879fd9d28b763a88a0c0431be5be8df\nhttps://git.kernel.org/stable/c/32b153658f017ad2f5bf8aab479e8d16ac95bc3a\nhttps://git.kernel.org/stable/c/77d0b5d11387071770246fd0185a69fa28e8e109\nhttps://git.kernel.org/stable/c/047d44d8d29a6a1a5757256837aa9dd78e3cd0b5\nhttps://git.kernel.org/stable/c/ad52d61d82181dbdb7f05826de38352d5e550cc2\n",
   "aliases": "CVE-2026-46229\nGHSA-w77m-3j47-48fr\n",
   "assigner": "Linux",
-  "epss": 0.0,
+  "epss": 0.02,
   "enisaIdProduct": [
+    {
+      "id": "0df01049-24e3-34e6-860b-1404b0ba2ddf",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "6856e4b65f64eeb3f17148f79b36c1d60c627529 <77d0b5d11387071770246fd0185a69fa28e8e109"
+    },
     {
       "id": "2942d81e-83b2-3961-88f6-1986ec52dafa",
       "product": {
@@ -41,6 +51,16 @@
       "product_version": "patch: 7.1-rc1"
     },
     {
+      "id": "573d87c0-f9ce-37ec-bd2d-ad65cd9d49de",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "6856e4b65f64eeb3f17148f79b36c1d60c627529 <047d44d8d29a6a1a5757256837aa9dd78e3cd0b5"
+    },
+    {
       "id": "60e7588c-1fa2-3c46-bbf0-091b3c5d2697",
       "product": {
         "name": "Linux",
@@ -59,6 +79,26 @@
         }
       },
       "product_version": "0 <7.0.9"
+    },
+    {
+      "id": "6aabf7b4-e616-306e-92f0-313b38010855",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "5.4"
+    },
+    {
+      "id": "73872e2f-428c-3ebc-8696-f472b77a88b1",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "6856e4b65f64eeb3f17148f79b36c1d60c627529 <32b153658f017ad2f5bf8aab479e8d16ac95bc3a"
     },
     {
       "id": "7ffdaa05-7c19-35e4-b10b-b26f64e7d04e",
@@ -101,6 +141,16 @@
       "product_version": "patch: 7.0.9"
     },
     {
+      "id": "be6dc8f3-0712-3e99-84bf-2e59f328e4d1",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "6856e4b65f64eeb3f17148f79b36c1d60c627529 <ad52d61d82181dbdb7f05826de38352d5e550cc2"
+    },
+    {
       "id": "d6421041-1fac-3d50-99c7-fbb26b78f61d",
       "product": {
         "name": "Linux",
@@ -121,6 +171,16 @@
       "product_version": "1da177e4c3f41524e886b7f1b8a0c1fc7321cac2 <77d0b5d11387071770246fd0185a69fa28e8e109"
     },
     {
+      "id": "e76b8d53-5510-3767-b08d-e7a25ff9fc49",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "patch: 0"
+    },
+    {
       "id": "eb4000b1-53a2-3b8b-a048-56a2d838261c",
       "product": {
         "name": "Linux",
@@ -139,6 +199,16 @@
         }
       },
       "product_version": "patch: 6.12.90"
+    },
+    {
+      "id": "ee4590cc-2b38-3fbc-b9f1-468f80325777",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "6856e4b65f64eeb3f17148f79b36c1d60c627529 <1db431380879fd9d28b763a88a0c0431be5be8df"
     },
     {
       "id": "f1ff3df3-2e6c-37a4-b62f-6a9999763f90",

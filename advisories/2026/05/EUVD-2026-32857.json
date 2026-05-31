@@ -3,12 +3,14 @@
   "enisaUuid": "33773473-eb3b-37e5-98df-2e4c0bf7ff80",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amdgpu/vcn3: Prevent OOB reads when parsing dec msg\n\nCheck bounds against the end of the BO whenever we access the msg.",
   "datePublished": "May 28, 2026, 9:40:52 AM",
-  "dateUpdated": "May 28, 2026, 9:40:52 AM",
-  "baseScore": 0.0,
+  "dateUpdated": "May 30, 2026, 10:49:26 AM",
+  "baseScore": 7.1,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:H",
   "references": "https://git.kernel.org/stable/c/638d3e0b9eb77aa53fdd60e2b928761d16ba76fa\nhttps://git.kernel.org/stable/c/870c8738c3774336baedddd0240951d078a703b8\nhttps://git.kernel.org/stable/c/638e48ee39d0f2af9336f917a6f5d6692dd64d93\nhttps://git.kernel.org/stable/c/e382e0b81a3e7bd21504fee1d01ae8b08f84d3a7\nhttps://git.kernel.org/stable/c/b193019860d61e92da395eae2011f2f6716b182f\n",
   "aliases": "CVE-2026-46230\nGHSA-gf2x-fj7m-8p77\n",
   "assigner": "Linux",
-  "epss": 0.0,
+  "epss": 0.01,
   "enisaIdProduct": [
     {
       "id": "151211a6-caf5-3b6f-8ef7-170196c20255",
@@ -31,6 +33,26 @@
       "product_version": "0 <6.18.32"
     },
     {
+      "id": "27f87d54-31ad-3a34-9308-12265f0b5f57",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "patch: 0"
+    },
+    {
+      "id": "5145c50c-ed52-3e88-be4d-fa7947e53238",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "87cc7f9ebf7ce10f82250002d667ef3e93a79d44 <638d3e0b9eb77aa53fdd60e2b928761d16ba76fa"
+    },
+    {
       "id": "515dc1c8-afce-3bf7-83f5-e5482de31079",
       "product": {
         "name": "Linux",
@@ -51,6 +73,16 @@
       "product_version": "1da177e4c3f41524e886b7f1b8a0c1fc7321cac2 <638e48ee39d0f2af9336f917a6f5d6692dd64d93"
     },
     {
+      "id": "57e3205e-fa0e-3309-a13b-308e2499f931",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "87cc7f9ebf7ce10f82250002d667ef3e93a79d44 <638e48ee39d0f2af9336f917a6f5d6692dd64d93"
+    },
+    {
       "id": "725573af-db52-3a0f-be4a-e346f7498a0b",
       "product": {
         "name": "Linux",
@@ -69,6 +101,16 @@
         }
       },
       "product_version": "1da177e4c3f41524e886b7f1b8a0c1fc7321cac2 <b193019860d61e92da395eae2011f2f6716b182f"
+    },
+    {
+      "id": "81161eff-f418-3d97-9d2a-588322336918",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "87cc7f9ebf7ce10f82250002d667ef3e93a79d44 <e382e0b81a3e7bd21504fee1d01ae8b08f84d3a7"
     },
     {
       "id": "864b9e0d-a470-35a1-b153-8dc3a8c1651a",
@@ -111,6 +153,16 @@
       "product_version": "0 <7.0.9"
     },
     {
+      "id": "bbcc0548-f483-301e-acd1-36527fbac268",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "5.13"
+    },
+    {
       "id": "be1e3176-edc2-379d-9665-3d3d1f5ab359",
       "product": {
         "name": "Linux",
@@ -131,6 +183,16 @@
       "product_version": "patch: 6.12.90"
     },
     {
+      "id": "cda4508e-3044-3161-95e1-514f2d97bccb",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "87cc7f9ebf7ce10f82250002d667ef3e93a79d44 <870c8738c3774336baedddd0240951d078a703b8"
+    },
+    {
       "id": "e629d1b9-782a-3ccb-9c1e-2f7cf43744ae",
       "product": {
         "name": "Linux",
@@ -139,6 +201,16 @@
         }
       },
       "product_version": "0 <6.12.90"
+    },
+    {
+      "id": "e9f2c90d-fd4a-3151-a25d-a96ce781ca20",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "87cc7f9ebf7ce10f82250002d667ef3e93a79d44 <b193019860d61e92da395eae2011f2f6716b182f"
     },
     {
       "id": "f631743b-77cf-3461-b4e5-4fcd17b6d3fc",

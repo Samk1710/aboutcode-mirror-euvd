@@ -3,12 +3,14 @@
   "enisaUuid": "7d8b48c7-c3be-3db6-885b-e88b46be2273",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\nbatman-adv: stop tp_meter sessions during mesh teardown\n\nTP meter sessions remain linked on bat_priv->tp_list after the netlink\nrequest has already finished. When the mesh interface is removed,\nbatadv_mesh_free() currently tears down the mesh without first draining\nthese sessions.\n\nA running sender thread or a late incoming tp_meter packet can then keep\nprocessing against a mesh instance which is already shutting down.\nSynchronize tp_meter with the mesh lifetime by stopping all active\nsessions from batadv_mesh_free() and waiting for sender threads to exit\nbefore teardown continues.",
   "datePublished": "May 28, 2026, 9:40:26 AM",
-  "dateUpdated": "May 28, 2026, 9:40:26 AM",
-  "baseScore": 0.0,
+  "dateUpdated": "May 30, 2026, 10:49:11 AM",
+  "baseScore": 7.8,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
   "references": "https://git.kernel.org/stable/c/79bc0eaeef2c5797317bf2da8e3159a74d62ec47\nhttps://git.kernel.org/stable/c/26dfeee8db81354bfdade155f27f9e16510ad196\nhttps://git.kernel.org/stable/c/03660dab86f93319178a24667f6998526dc4355d\nhttps://git.kernel.org/stable/c/8634c1dbd73adb74d40533ebb7e914efb82e71fb\nhttps://git.kernel.org/stable/c/3d3cf6a7314aca4df0a6dde28ce784a2a30d0166\n",
   "aliases": "GHSA-jpxw-c2j5-6fpx\nCVE-2026-46208\n",
   "assigner": "Linux",
-  "epss": 0.0,
+  "epss": 0.01,
   "enisaIdProduct": [
     {
       "id": "058f037c-9c7b-3e88-89f7-d3269ab22db6",

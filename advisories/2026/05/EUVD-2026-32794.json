@@ -3,12 +3,12 @@
   "enisaUuid": "c25c4274-3985-3a9d-b915-ca195df8e0c6",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\nusb: usblp: fix uninitialized heap leak via LPGETSTATUS ioctl\n\nJust like in a previous problem in this driver, usblp_ctrl_msg() will\ncollapse the usb_control_msg() return value to 0/-errno, discarding the\nactual number of bytes transferred.\n\nIdeally that short command should be detected and error out, but many\nprinters are known to send \"incorrect\" responses back so we can't just\ndo that.\n\nstatusbuf is kmalloc(8) at probe time and never filled before the first\nLPGETSTATUS ioctl.\n\nusblp_read_status() requests 1 byte. If a malicious printer responds\nwith zero bytes, *statusbuf is one byte of stale kmalloc heap,\nsign-extended into the local int status, which the LPGETSTATUS path then\ncopy_to_user()s directly to the ioctl caller.\n\nFix this all by just zapping out the memory buffer when allocated at\nprobe time.  If a later call does a short read, the data will be\nidentical to what the device sent it the last time, so there is no\n\"leak\" of information happening.",
   "datePublished": "May 28, 2026, 9:36:22 AM",
-  "dateUpdated": "May 28, 2026, 9:36:22 AM",
+  "dateUpdated": "May 30, 2026, 10:42:12 AM",
   "baseScore": 0.0,
   "references": "https://git.kernel.org/stable/c/d06d937b0a4cdb8867f04275c8100a8b943da31a\nhttps://git.kernel.org/stable/c/a502b997668401a6821501fc98b7f9220f9b6ff2\nhttps://git.kernel.org/stable/c/762a6ccf391db0d629e590a803a3a2231e17dd3f\nhttps://git.kernel.org/stable/c/6b0e7438e31c74b01514d31ff35c1e688c4baaba\nhttps://git.kernel.org/stable/c/b38e53cbfb9d84732e5984fbd73e128d592415c5\n",
   "aliases": "CVE-2026-46167\nGHSA-vq8g-vcx9-rmc5\n",
   "assigner": "Linux",
-  "epss": 0.0,
+  "epss": 0.02,
   "enisaIdProduct": [
     {
       "id": "0e120e58-a166-3693-8b1b-9ab381b4e0db",
@@ -39,6 +39,16 @@
         }
       },
       "product_version": "patch: 6.18.30"
+    },
+    {
+      "id": "2c6e7d09-30db-3032-a266-028288f02a0a",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "2.6.12"
     },
     {
       "id": "2f9126d3-16c4-3e49-ac4f-0c1804324e62",
@@ -99,6 +109,16 @@
         }
       },
       "product_version": "1da177e4c3f41524e886b7f1b8a0c1fc7321cac2 <d06d937b0a4cdb8867f04275c8100a8b943da31a"
+    },
+    {
+      "id": "b4d78d73-f2d1-34f1-926e-512afb912052",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "patch: 0"
     },
     {
       "id": "d60dcf5d-5b3b-3239-979d-85619e3cef39",

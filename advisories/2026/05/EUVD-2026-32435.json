@@ -3,12 +3,14 @@
   "enisaUuid": "ca62c926-79cb-34f2-9458-5edebb9a7fda",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\nnet: rds: fix MR cleanup on copy error\n\n__rds_rdma_map() hands sg/pages ownership to the transport after\nget_mr() succeeds. If copying the generated cookie back to user space\nfails after that point, the error path must not free those resources\nagain before dropping the MR reference.\n\nRemove the duplicate unpin/free from the put_user() failure branch so\nthat MR teardown is handled only through the existing final cleanup\npath.",
   "datePublished": "May 27, 2026, 12:57:11 PM",
-  "dateUpdated": "May 27, 2026, 12:57:11 PM",
-  "baseScore": 0.0,
+  "dateUpdated": "May 30, 2026, 10:47:00 AM",
+  "baseScore": 7.8,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
   "references": "https://git.kernel.org/stable/c/8fdbb6262a4a3ed44a0830a7793903b54bb27bdc\nhttps://git.kernel.org/stable/c/d95cea9298be1ba8876e3f156be96d3a492085ca\nhttps://git.kernel.org/stable/c/033370ffb3c9c0264d19f8ba9ef769523266589a\nhttps://git.kernel.org/stable/c/b3cb8cae530b2727d8245684148bb49425f6765c\nhttps://git.kernel.org/stable/c/8141a2dc70080eda1aedc0389ed2db2b292af5bd\n",
   "aliases": "CVE-2026-46053\nGHSA-p6f8-fpcw-hg3g\n",
   "assigner": "Linux",
-  "epss": 0.0,
+  "epss": 0.01,
   "enisaIdProduct": [
     {
       "id": "16967703-01f5-3f01-8705-86be50c5d591",

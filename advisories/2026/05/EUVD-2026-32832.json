@@ -3,12 +3,14 @@
   "enisaUuid": "51977840-4c01-39b8-9160-d751aafbacb6",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\nstaging: media: atomisp: Disallow all private IOCTLs\n\nDisallow all private IOCTLs. These aren't quite as safe as one could\nassume of IOCTL handlers; disable them for now. Instead of removing the\ncode, return in the beginning of the function if cmd is non-zero in order\nto keep static checkers happy.",
   "datePublished": "May 28, 2026, 9:40:23 AM",
-  "dateUpdated": "May 28, 2026, 9:40:23 AM",
-  "baseScore": 0.0,
+  "dateUpdated": "May 30, 2026, 10:49:07 AM",
+  "baseScore": 7.8,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
   "references": "https://git.kernel.org/stable/c/8c7a281a99224a5b9af99c4dcd98d68eea75926c\nhttps://git.kernel.org/stable/c/6f1ce75a75c65061e7a720c3d0ee5f8adab7a2d3\nhttps://git.kernel.org/stable/c/c7848b67ef10f581114b6a2f52b160fc20eb52c9\nhttps://git.kernel.org/stable/c/6850a439f8d23d4979624f1d6880d3118d473a28\nhttps://git.kernel.org/stable/c/2b7eb2c5dc72f0fc954ac4aa155f9e285e937f7c\n",
   "aliases": "GHSA-qv25-8qcj-cc95\nCVE-2026-46205\n",
   "assigner": "Linux",
-  "epss": 0.0,
+  "epss": 0.01,
   "enisaIdProduct": [
     {
       "id": "2e923bad-5880-390b-a5d4-c5db31a7c548",

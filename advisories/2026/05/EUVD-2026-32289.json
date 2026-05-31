@@ -2,13 +2,13 @@
   "id": "EUVD-2026-32289",
   "enisaUuid": "4de95081-34e2-3020-8103-38800bb98989",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\nLoongArch: Add spectre boundry for syscall dispatch table\n\nThe LoongArch syscall number is directly controlled by userspace, but\ndoes not have a array_index_nospec() boundry to prevent access past the\nsyscall function pointer tables.",
-  "datePublished": "May 27, 2026, 3:33:20 PM",
-  "dateUpdated": "May 27, 2026, 3:33:20 PM",
+  "datePublished": "May 27, 2026, 12:55:46 PM",
+  "dateUpdated": "May 30, 2026, 10:41:55 AM",
   "baseScore": 0.0,
-  "references": "https://git.kernel.org/stable/c/108f2cd13577a410c0ad6ea00708596d9d0dfc90\nhttps://git.kernel.org/stable/c/07040904ad217545be096d4280ed33c02f6a3750\nhttps://git.kernel.org/stable/c/85cbf7fb568af5358aae61925c4e66b8f5e1439d\nhttps://git.kernel.org/stable/c/bc84a109c2082dd0c4b38e8d923c046b41977533\nhttps://git.kernel.org/stable/c/0c965d2784fbbd7f8e3b96d875c9cfdf7c00da3d\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-45993\n",
+  "references": "https://git.kernel.org/stable/c/108f2cd13577a410c0ad6ea00708596d9d0dfc90\nhttps://git.kernel.org/stable/c/07040904ad217545be096d4280ed33c02f6a3750\nhttps://git.kernel.org/stable/c/85cbf7fb568af5358aae61925c4e66b8f5e1439d\nhttps://git.kernel.org/stable/c/bc84a109c2082dd0c4b38e8d923c046b41977533\nhttps://git.kernel.org/stable/c/0c965d2784fbbd7f8e3b96d875c9cfdf7c00da3d\n",
   "aliases": "GHSA-r2fv-v53q-68f3\nCVE-2026-45993\n",
   "assigner": "Linux",
-  "epss": 0.0,
+  "epss": 0.02,
   "enisaIdProduct": [
     {
       "id": "142f70a7-53c0-3cbe-ae60-04fca44f0223",
@@ -31,6 +31,16 @@
       "product_version": "0 <7.0.4"
     },
     {
+      "id": "208d168b-99bd-3032-8313-bd249cd349ae",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "5.19"
+    },
+    {
       "id": "3443fd28-7eb0-3da3-9502-f3bfebc205f7",
       "product": {
         "name": "Linux",
@@ -39,6 +49,36 @@
         }
       },
       "product_version": "1da177e4c3f41524e886b7f1b8a0c1fc7321cac2 <07040904ad217545be096d4280ed33c02f6a3750"
+    },
+    {
+      "id": "3ed35964-0d53-300f-93d4-ae634d0d03c1",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "patch: 0"
+    },
+    {
+      "id": "411ad9dc-5866-3077-ae8c-43705f7bb913",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "be769645a2aef577f07afdcb4de8fad20b6d57c0 <bc84a109c2082dd0c4b38e8d923c046b41977533"
+    },
+    {
+      "id": "4265c26e-ae12-3a93-a037-c540a4347871",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "be769645a2aef577f07afdcb4de8fad20b6d57c0 <108f2cd13577a410c0ad6ea00708596d9d0dfc90"
     },
     {
       "id": "52a9b09d-1b59-3385-9c26-bfb8a138c176",
@@ -101,6 +141,16 @@
       "product_version": "patch: 7.1-rc1"
     },
     {
+      "id": "9e21d1e8-0363-31cb-aa9f-0c9c55eddbd9",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "be769645a2aef577f07afdcb4de8fad20b6d57c0 <85cbf7fb568af5358aae61925c4e66b8f5e1439d"
+    },
+    {
       "id": "9e3410ac-0189-3cc1-a6a4-06d39c1c9a96",
       "product": {
         "name": "Linux",
@@ -119,6 +169,16 @@
         }
       },
       "product_version": "1da177e4c3f41524e886b7f1b8a0c1fc7321cac2 <85cbf7fb568af5358aae61925c4e66b8f5e1439d"
+    },
+    {
+      "id": "b7124b47-6bf5-3494-9cb5-627ab429d3c7",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "be769645a2aef577f07afdcb4de8fad20b6d57c0 <0c965d2784fbbd7f8e3b96d875c9cfdf7c00da3d"
     },
     {
       "id": "ce4881c1-c246-3476-8170-7acf085bb373",
@@ -149,6 +209,16 @@
         }
       },
       "product_version": "patch: 6.6.140"
+    },
+    {
+      "id": "e78aafa0-53d4-38a0-9070-74843c3b1dd7",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "be769645a2aef577f07afdcb4de8fad20b6d57c0 <07040904ad217545be096d4280ed33c02f6a3750"
     }
   ],
   "enisaIdVendor": [
