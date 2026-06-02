@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-33756",
+  "enisaUuid": "8244d60e-8756-3f86-aa3d-802c8acab656",
+  "description": "A vulnerability was found in CodeAstro Payroll System 1.0. This affects an unknown part of the file /home_employee.php. The manipulation of the argument emp_id results in sql injection. The attack may be performed from remote. The exploit has been made public and could be used.",
+  "datePublished": "Jun 1, 2026, 7:30:09 PM",
+  "dateUpdated": "Jun 1, 2026, 7:30:09 PM",
+  "baseScore": 5.3,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
+  "references": "https://vuldb.com/vuln/367579\nhttps://vuldb.com/vuln/367579/cti\nhttps://vuldb.com/cve/CVE-2026-10286\nhttps://vuldb.com/submit/825566\nhttps://github.com/yihaofuweng/cve/issues/65\nhttps://codeastro.com/\n",
+  "aliases": "CVE-2026-10286\nGHSA-9fq5-fpxf-7g86\n",
+  "assigner": "VulDB",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "de83d35e-f9db-3b42-acac-effb17f10c30",
+      "product": {
+        "name": "Payroll System",
+        "vendor": {
+          "name": "CodeAstro"
+        }
+      },
+      "product_version": "1.0"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "0f5213e8-c3e3-3329-91a6-71a6863ab17e",
+      "vendor": {
+        "name": "CodeAstro"
+      }
+    }
+  ]
+}

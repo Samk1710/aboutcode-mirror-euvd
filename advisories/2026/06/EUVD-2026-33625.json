@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-33625",
+  "enisaUuid": "009218be-ef06-3437-a7d8-b1c20bace5f1",
+  "description": "A security flaw has been discovered in itsourcecode Online Blood Bank Management System 1.0. The affected element is an unknown function of the file /admin/campsdetails.php. Performing a manipulation of the argument hospital results in sql injection. The attack is possible to be carried out remotely. The exploit has been released to the public and may be used for attacks.",
+  "datePublished": "Jun 1, 2026, 10:45:07 AM",
+  "dateUpdated": "Jun 1, 2026, 1:02:18 PM",
+  "baseScore": 6.9,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
+  "references": "https://vuldb.com/vuln/367528\nhttps://vuldb.com/vuln/367528/cti\nhttps://vuldb.com/cve/CVE-2026-10250\nhttps://vuldb.com/submit/824047\nhttps://github.com/zhengdexu-bot/zhengdexu/issues/2\nhttps://itsourcecode.com/\n",
+  "aliases": "CVE-2026-10250\nGHSA-8wv4-h2m6-qrm3\n",
+  "assigner": "VulDB",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "28773f74-a096-3c9f-ab48-7d4019ea7dba",
+      "product": {
+        "name": "Online Blood Bank Management System",
+        "vendor": {
+          "name": "itsourcecode"
+        }
+      },
+      "product_version": "1.0"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "1e1e5176-3d29-36d2-bcf7-3f43b76e5036",
+      "vendor": {
+        "name": "itsourcecode"
+      }
+    }
+  ]
+}
