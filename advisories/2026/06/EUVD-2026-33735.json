@@ -3,7 +3,7 @@
   "enisaUuid": "71fc5d49-bbbc-3ca7-81eb-9b70d1f77741",
   "description": "IBM WebSphere Application Server 9.0, and 8.5 is vulnerable to remote code execution caused by the bypass of security controls.",
   "datePublished": "Jun 1, 2026, 5:49:42 PM",
-  "dateUpdated": "Jun 1, 2026, 9:21:26 PM",
+  "dateUpdated": "Jun 2, 2026, 3:56:05 AM",
   "baseScore": 9.0,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H",

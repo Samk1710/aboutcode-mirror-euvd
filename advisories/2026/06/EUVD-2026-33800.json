@@ -3,10 +3,10 @@
   "enisaUuid": "8f2fcc8f-72a4-3140-bb75-d2e51aa27b6c",
   "description": "In getCallingAppLabel of CertInstaller.java, there is a possible way to hide a sensitive security dialogue due to misleading or insufficient UI. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
   "datePublished": "Jun 1, 2026, 9:14:54 PM",
-  "dateUpdated": "Jun 1, 2026, 9:14:54 PM",
+  "dateUpdated": "Jun 2, 2026, 3:56:24 AM",
   "baseScore": 0.0,
   "references": "https://source.android.com/docs/security/bulletin/2026/2026-06-01\n",
-  "aliases": "CVE-2026-0088\n",
+  "aliases": "GHSA-758m-99jr-7j44\nCVE-2026-0088\n",
   "assigner": "google_android",
   "epss": 0.0,
   "enisaIdProduct": [

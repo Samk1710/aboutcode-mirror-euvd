@@ -3,7 +3,7 @@
   "enisaUuid": "d62d4cc8-a46b-3158-a657-8537a6dd73ed",
   "description": "Insufficient granularity of access control in ASP (AMD Secure Processor) may allow an attacker with an untrusted user space application to map sensitive SMN (System Management Network) apertures leading to a potential escalation of privileges.",
   "datePublished": "Jun 1, 2026, 7:01:27 PM",
-  "dateUpdated": "Jun 1, 2026, 7:01:27 PM",
+  "dateUpdated": "Jun 2, 2026, 3:56:08 AM",
   "baseScore": 7.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:H/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",

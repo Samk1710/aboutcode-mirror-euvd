@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-34024",
+  "enisaUuid": "b51fefd1-d44d-3cc5-915b-caa4e80538e3",
+  "description": "A vulnerability has been found in SourceCodester Human Resource Management 1.0. Affected by this vulnerability is an unknown functionality of the file /detailview.php of the component Employee View Page. Such manipulation of the argument employeeid leads to improper control of resource identifiers. The attack may be performed from remote. The exploit has been disclosed to the public and may be used.",
+  "datePublished": "Jun 2, 2026, 8:30:10 PM",
+  "dateUpdated": "Jun 2, 2026, 8:30:10 PM",
+  "baseScore": 5.3,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N/E:P",
+  "references": "https://vuldb.com/vuln/367929\nhttps://vuldb.com/vuln/367929/cti\nhttps://vuldb.com/cve/CVE-2026-10624\nhttps://vuldb.com/submit/829766\nhttps://r4sh7n.medium.com/insecure-direct-object-reference-idor-vulnerability-in-employee-management-functionality-70df8ac5b1d3?postPublishedType=repub\nhttps://www.sourcecodester.com/\n",
+  "aliases": "CVE-2026-10624\nGHSA-pqvj-h8m2-63h6\n",
+  "assigner": "VulDB",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "36aeb865-976d-3222-8f62-bb7fd2212f9a",
+      "product": {
+        "name": "Human Resource Management",
+        "vendor": {
+          "name": "SourceCodester"
+        }
+      },
+      "product_version": "1.0"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "d020f2aa-a86e-3465-8882-f27aa58c9831",
+      "vendor": {
+        "name": "SourceCodester"
+      }
+    }
+  ]
+}
