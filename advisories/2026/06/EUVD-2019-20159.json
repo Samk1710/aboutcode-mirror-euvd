@@ -3,7 +3,7 @@
   "enisaUuid": "6d642618-b9b0-3361-bb6e-856cc461fe0e",
   "description": "Dr\u00e4ger Perseus A500 software versions 2.00 through 2.02 contains an improper input handling vulnerability that allows external attackers to cause a denial of service by sending specifically crafted non-Medibus-compliant data through the Medibus interface. Attackers can overload the internal processor with malformed data to trigger a warm restart, causing ventilation pressure to drop to ambient level and interrupting ventilation for several seconds before therapy resumes.",
   "datePublished": "Jun 2, 2026, 7:00:19 PM",
-  "dateUpdated": "Jun 2, 2026, 7:00:19 PM",
+  "dateUpdated": "Jun 3, 2026, 1:56:45 PM",
   "baseScore": 6.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:L",

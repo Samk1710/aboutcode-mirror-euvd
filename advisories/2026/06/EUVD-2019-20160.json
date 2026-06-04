@@ -3,7 +3,7 @@
   "enisaUuid": "58148713-72dc-3423-a232-f7ccb22f4e1f",
   "description": "Dr\u00e4ger Infinity M300 patient worn monitors with software version VG2.x and earlier contain a network-based denial of service vulnerability that allows attackers with access to the hospital or Infinity Network to repeatedly trigger device reboots until the device enters a fail state requiring manual restart. Attackers can exploit this vulnerability to cause loss of wireless network connectivity, temporary loss of patient monitoring, and interruption of alarm functionality until the device is manually recovered.",
   "datePublished": "Jun 2, 2026, 7:11:51 PM",
-  "dateUpdated": "Jun 2, 2026, 7:11:51 PM",
+  "dateUpdated": "Jun 3, 2026, 2:38:43 PM",
   "baseScore": 7.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",

@@ -3,7 +3,7 @@
   "enisaUuid": "4359ab5b-2382-34f8-bcb2-615d21eb1cff",
   "description": "authentik is an open-source identity provider. Prior to version 2026.2.3, the WS-Federation provider validates the user-supplied wreply parameter using a raw string prefix check rather than proper URL parsing. An attacker who can craft a login link can supply a wreply value on a different origin that passes the check (e.g. https://portal.example.com.evil.tld/), causing the victim's browser to POST the signed WS-Federation login response to attacker-controlled infrastructure. This issue has been patched in version 2026.2.3.",
   "datePublished": "Jun 2, 2026, 8:30:21 PM",
-  "dateUpdated": "Jun 2, 2026, 8:30:21 PM",
+  "dateUpdated": "Jun 3, 2026, 2:29:52 PM",
   "baseScore": 6.9,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:N/SC:N/SI:N/SA:N",

@@ -3,7 +3,7 @@
   "enisaUuid": "8797c3ad-779d-3390-9ea0-db85ef216dcc",
   "description": "OpenCTI is an open source platform for managing cyber threat intelligence knowledge and observables. Versions prior to 7.260227.0 are vulnerable to XSS in the rendering of email-message observable body data. The content of the body field isn't appropriately sanitized when being rendered. Does require user interaction but could be exploited by someone sharing stix or any of the ingester. This could lead to CSRF and then large scale session theft. Version 7.260227.0 contains a fix.",
   "datePublished": "Jun 2, 2026, 9:28:59 PM",
-  "dateUpdated": "Jun 2, 2026, 9:28:59 PM",
+  "dateUpdated": "Jun 3, 2026, 2:23:27 PM",
   "baseScore": 5.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:N/SC:L/SI:L/SA:N",
