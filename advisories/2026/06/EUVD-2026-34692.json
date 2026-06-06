@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-34692",
+  "enisaUuid": "31a767c4-9148-3cb9-92e9-6f5c53bd4dcb",
+  "description": "Inappropriate implementation in Safe Browsing in Google Chrome on Mac prior to 149.0.7827.53 allowed a remote attacker to execute arbitrary code via a malicious file. (Chromium security severity: Low)",
+  "datePublished": "Jun 4, 2026, 11:05:54 PM",
+  "dateUpdated": "Jun 5, 2026, 1:40:38 PM",
+  "baseScore": 8.1,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N",
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/495840862\n",
+  "aliases": "GHSA-9mqr-hr5g-5p48\nCVE-2026-11231\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "d60906f6-c122-3764-a3f2-0f826bc7d990",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "149.0.7827.53 <149.0.7827.53"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "2703e393-b45b-3406-a2c7-a4845b467aa9",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

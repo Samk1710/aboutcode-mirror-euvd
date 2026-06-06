@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-34743",
+  "enisaUuid": "672a882f-4667-3570-b041-d30285ed2da2",
+  "description": "Insufficient policy enforcement in Sandbox in Google Chrome on Linux prior to 149.0.7827.53 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page. (Chromium security severity: Low)",
+  "datePublished": "Jun 4, 2026, 11:06:17 PM",
+  "dateUpdated": "Jun 5, 2026, 7:17:03 PM",
+  "baseScore": 9.6,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:H",
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/502023400\n",
+  "aliases": "GHSA-gmvx-mxmx-j4x2\nCVE-2026-11282\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "8d4ebff9-65ef-3f3a-850e-c5180460fd09",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "149.0.7827.53 <149.0.7827.53"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "aa29a3f8-d552-3d97-b283-f12ea8ccf998",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

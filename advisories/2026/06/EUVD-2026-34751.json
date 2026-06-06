@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-34751",
+  "enisaUuid": "4bb41f63-5c86-39c4-851a-0b3950184f4a",
+  "description": "Integer overflow in WebView in Google Chrome on Android prior to 149.0.7827.53 allowed a local attacker to cause a denial of service via a malicious file. (Chromium security severity: Low)",
+  "datePublished": "Jun 4, 2026, 11:06:20 PM",
+  "dateUpdated": "Jun 5, 2026, 6:59:41 PM",
+  "baseScore": 5.0,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H",
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/502264647\n",
+  "aliases": "CVE-2026-11290\nGHSA-32x7-f6p3-x83q\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "c9814520-7bb8-31f8-b4b5-a956d1b71964",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "149.0.7827.53 <149.0.7827.53"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "8554e85d-ac5b-3542-808d-bc7d1b323b15",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

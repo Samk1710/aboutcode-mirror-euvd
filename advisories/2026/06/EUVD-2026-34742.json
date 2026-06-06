@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-34742",
+  "enisaUuid": "fbeee2ae-bf89-3a65-86af-63fad802da51",
+  "description": "Integer overflow in Chromoting in Google Chrome on Windows prior to 149.0.7827.53 allowed a local attacker to obtain potentially sensitive information from process memory via a crafted ETW event. (Chromium security severity: Low)",
+  "datePublished": "Jun 4, 2026, 11:06:16 PM",
+  "dateUpdated": "Jun 5, 2026, 7:23:16 PM",
+  "baseScore": 5.0,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:N/A:N",
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/501900366\n",
+  "aliases": "CVE-2026-11281\nGHSA-3xwm-4qrj-6qxr\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "341942a4-9da1-35e5-a52c-e1b8cfdb2a1f",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "149.0.7827.53 <149.0.7827.53"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "7c25a928-e613-388b-bca3-fce6802a7341",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

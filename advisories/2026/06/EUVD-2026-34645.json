@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-34645",
+  "enisaUuid": "c241454b-2aeb-3d47-9607-b248b40b4b0e",
+  "description": "Insufficient policy enforcement in Actor in Google Chrome prior to 149.0.7827.53 allowed a remote attacker to bypass navigation restrictions via a crafted HTML page. (Chromium security severity: Medium)",
+  "datePublished": "Jun 4, 2026, 11:05:34 PM",
+  "dateUpdated": "Jun 5, 2026, 12:51:22 PM",
+  "baseScore": 6.3,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L",
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/502777516\n",
+  "aliases": "GHSA-6w6g-q7qh-cv9h\nCVE-2026-11184\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "a92694c4-dee6-323f-b4e3-4d05f2e9ddf9",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "149.0.7827.53 <149.0.7827.53"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "b01ef3f8-2458-3afe-884e-7ebffa32a064",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

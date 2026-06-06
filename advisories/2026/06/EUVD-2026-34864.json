@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-34864",
+  "enisaUuid": "037a61e2-d203-3c02-bfa7-5fc0ef586cf8",
+  "description": "A vulnerability has been found in code-projects Hotel and Tourism Reservation System 1.0. This affects an unknown function of the file /details.php. Such manipulation of the argument room leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.",
+  "datePublished": "Jun 5, 2026, 5:00:10 PM",
+  "dateUpdated": "Jun 5, 2026, 7:04:01 PM",
+  "baseScore": 6.9,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
+  "references": "https://vuldb.com/vuln/368883\nhttps://vuldb.com/vuln/368883/cti\nhttps://vuldb.com/cve/CVE-2026-11342\nhttps://vuldb.com/submit/832902\nhttps://github.com/khanfyhhfgfe-cmyk/ht-sql/blob/main/ht_sql.md\nhttps://code-projects.org/\n",
+  "aliases": "GHSA-h9q5-44xj-9xmq\nCVE-2026-11342\n",
+  "assigner": "VulDB",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "15d96c7c-301f-3279-b126-9063774c46ba",
+      "product": {
+        "name": "Hotel and Tourism Reservation System",
+        "vendor": {
+          "name": "code-projects"
+        }
+      },
+      "product_version": "1.0"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "8967efc8-0c2d-3f8c-984c-4348e5d7c219",
+      "vendor": {
+        "name": "code-projects"
+      }
+    }
+  ]
+}
