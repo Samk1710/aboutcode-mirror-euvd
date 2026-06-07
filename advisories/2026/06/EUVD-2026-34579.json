@@ -3,14 +3,14 @@
   "enisaUuid": "539652ba-6f3a-320c-ac60-c6a90569628d",
   "description": "Use after free in WebRTC in Google Chrome prior to 149.0.7827.53 allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. (Chromium security severity: Medium)",
   "datePublished": "Jun 4, 2026, 11:05:07 PM",
-  "dateUpdated": "Jun 5, 2026, 12:26:23 AM",
+  "dateUpdated": "Jun 6, 2026, 3:56:24 AM",
   "baseScore": 8.8,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
   "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/501424047\n",
   "aliases": "CVE-2026-11118\nGHSA-47p6-3xx4-p3qm\n",
   "assigner": "Chrome",
-  "epss": 0.0,
+  "epss": 0.07,
   "enisaIdProduct": [
     {
       "id": "78d54e2a-22ef-3055-90e8-395f278c3bce",

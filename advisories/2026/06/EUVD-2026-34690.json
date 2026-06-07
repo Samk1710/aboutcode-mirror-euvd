@@ -3,14 +3,14 @@
   "enisaUuid": "ed2c3b06-e45d-35e2-afb4-75ee72c8aaf4",
   "description": "Inappropriate implementation in Enterprise in Google Chrome prior to 149.0.7827.53 allowed a local attacker to perform privilege escalation via physical access to the device. (Chromium security severity: Low)",
   "datePublished": "Jun 4, 2026, 11:05:53 PM",
-  "dateUpdated": "Jun 5, 2026, 1:42:07 PM",
-  "baseScore": 4.6,
+  "dateUpdated": "Jun 6, 2026, 12:09:44 PM",
+  "baseScore": 6.1,
   "baseScoreVersion": "3.1",
-  "baseScoreVector": "CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+  "baseScoreVector": "CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N",
   "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/482713603\n",
   "aliases": "GHSA-9wx5-rmpr-qj4p\nCVE-2026-11229\n",
   "assigner": "Chrome",
-  "epss": 0.0,
+  "epss": 0.01,
   "enisaIdProduct": [
     {
       "id": "90939a8c-c0f7-3132-aa8b-5139009647ab",

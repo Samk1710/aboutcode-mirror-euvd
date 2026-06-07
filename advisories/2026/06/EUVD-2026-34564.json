@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-34564",
+  "enisaUuid": "4ae1285a-78e6-315d-a5b7-da951393c948",
+  "description": "Inappropriate implementation in Installer in Google Chrome on Windows prior to 149.0.7827.53 allowed a local attacker to perform OS-level privilege escalation via a malicious file. (Chromium security severity: Medium)",
+  "datePublished": "Jun 4, 2026, 11:04:57 PM",
+  "dateUpdated": "Jun 6, 2026, 12:16:54 PM",
+  "baseScore": 7.8,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/500483038\n",
+  "aliases": "GHSA-qqjc-r7fp-h3vj\nCVE-2026-11103\n",
+  "assigner": "Chrome",
+  "epss": 0.01,
+  "enisaIdProduct": [
+    {
+      "id": "10bdc750-8978-3c49-8700-ec308a95ea23",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "149.0.7827.53 <149.0.7827.53"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "6e8dd847-b997-33b3-8957-881bd250f3cc",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

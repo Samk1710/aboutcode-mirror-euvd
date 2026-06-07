@@ -3,14 +3,14 @@
   "enisaUuid": "56929019-f09b-389d-aa67-66b2400c827a",
   "description": "Out of bounds write in V8 in Google Chrome prior to 149.0.7827.53 allowed a remote attacker who had compromised the renderer process to execute arbitrary code inside a sandbox via a crafted HTML page. (Chromium security severity: Medium)",
   "datePublished": "Jun 4, 2026, 11:05:30 PM",
-  "dateUpdated": "Jun 5, 2026, 12:40:59 AM",
+  "dateUpdated": "Jun 6, 2026, 3:56:15 AM",
   "baseScore": 8.8,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
   "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/502337304\n",
   "aliases": "CVE-2026-11173\nGHSA-hx8j-9g3q-7c97\n",
   "assigner": "Chrome",
-  "epss": 0.0,
+  "epss": 0.08,
   "enisaIdProduct": [
     {
       "id": "331909d5-fb12-3a48-95c9-16ada59847ec",
