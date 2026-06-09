@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-35022",
+  "enisaUuid": "d3908c96-3e66-3625-87ef-4b1d1777c4da",
+  "description": "A vulnerability was identified in CodeAstro Human Resource Management System 1.0. Impacted is an unknown function of the file /notice/All_notice of the component Notice Board Management. Such manipulation of the argument Notice Title with the input <svg onload=\"alert('Stored XSS Triggered by Ashik Mohamed')\"> as part of POST leads to cross site scripting. It is possible to launch the attack remotely. The exploit is publicly available and might be used.",
+  "datePublished": "Jun 8, 2026, 5:15:08 AM",
+  "dateUpdated": "Jun 8, 2026, 4:32:27 PM",
+  "baseScore": 4.8,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:P/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N/E:P",
+  "references": "https://vuldb.com/vuln/369111\nhttps://vuldb.com/vuln/369111/cti\nhttps://vuldb.com/cve/CVE-2026-11491\nhttps://vuldb.com/submit/834747\nhttps://github.com/ashikmd0507/CVE/blob/main/CVE-2026-11491/README.md\nhttps://codeastro.com/\n",
+  "aliases": "CVE-2026-11491\nGHSA-2hp8-8xwj-c2gv\n",
+  "assigner": "VulDB",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "b0bf2759-c998-3745-9fe8-e96f30da51f3",
+      "product": {
+        "name": "Human Resource Management System",
+        "vendor": {
+          "name": "itsourcecode"
+        }
+      },
+      "product_version": "1.0"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "7c0fd899-95d9-3ae3-98e6-536a8a30fa05",
+      "vendor": {
+        "name": "CodeAstro"
+      }
+    }
+  ]
+}

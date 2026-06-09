@@ -3,7 +3,7 @@
   "enisaUuid": "b7986cf6-646f-31d7-ba58-f5a1a61b91e6",
   "description": "A flaw has been found in Boost Serialization up to 1.91. The impacted element is an unknown function. This manipulation causes improper validation of specified type of input. It is possible to initiate the attack remotely. The exploit has been published and may be used. The maintainer was notified on Aug 2025 and a disclosure deadline was set for 90 days. The maintainer acknowledged but postponed indefinitely citing time concerns. No patch is currently available and the disclosure deadline has expired.",
   "datePublished": "Jun 7, 2026, 7:30:10 PM",
-  "dateUpdated": "Jun 7, 2026, 7:30:10 PM",
+  "dateUpdated": "Jun 8, 2026, 1:45:44 PM",
   "baseScore": 6.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",

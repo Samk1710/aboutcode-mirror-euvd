@@ -1,0 +1,104 @@
+{
+  "id": "EUVD-2026-21581",
+  "enisaUuid": "77c1d0ae-3fb8-3c2a-bcf6-ae4944cea64a",
+  "description": "GeoNode contains a server-side request forgery vulnerability in the service registration endpoint",
+  "datePublished": "Jun 8, 2026, 12:51:32 PM",
+  "dateUpdated": "Jun 8, 2026, 12:51:32 PM",
+  "baseScore": 5.3,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:L/VA:N/SC:L/SI:L/SA:L",
+  "references": "https://github.com/GeoNode/geonode/security/advisories/GHSA-hw9r-6m78-w6h3\nhttps://www.vulncheck.com/advisories/geonode-ssrf-via-service-registration\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-39922\nhttps://github.com/GeoNode/geonode/releases/tag/4.4.5\nhttps://github.com/GeoNode/geonode/releases/tag/5.0.2\nhttps://github.com/pypa/advisory-database/tree/main/vulns/geonode/PYSEC-2026-61.yaml\n",
+  "aliases": "GHSA-hw9r-6m78-w6h3\nCVE-2026-39922\nGHSA-v8f7-cg9p-w5jx\nPYSEC-2026-61\n",
+  "assigner": "VulnCheck",
+  "epss": 0.04,
+  "enisaIdProduct": [
+    {
+      "id": "07505ae6-9225-3255-a372-4e8373c1bcef",
+      "product": {
+        "name": "geonode",
+        "vendor": {
+          "name": "GeoNode"
+        }
+      },
+      "product_version": "4.0 <4.4.5"
+    },
+    {
+      "id": "1af0aa36-2f45-3931-989b-ae0028b02e96",
+      "product": {
+        "name": "geonode",
+        "vendor": {
+          "name": "GeoNode"
+        }
+      },
+      "product_version": "4.0 \u22644.4.5"
+    },
+    {
+      "id": "260851bd-82ec-31ae-ae43-ba3594144a0c",
+      "product": {
+        "name": "geonode",
+        "vendor": {
+          "name": "GeoNode"
+        }
+      },
+      "product_version": "4.0 <4.4.5"
+    },
+    {
+      "id": "42654e71-95d0-3f61-9ef2-4bc807d25c96",
+      "product": {
+        "name": "geonode",
+        "vendor": {
+          "name": "GeoNode"
+        }
+      },
+      "product_version": "5.0 \u22645.0.2"
+    },
+    {
+      "id": "7a3fe1bd-9687-3a79-aef4-27167c7ae4bd",
+      "product": {
+        "name": "geonode",
+        "vendor": {
+          "name": "GeoNode"
+        }
+      },
+      "product_version": "5.0 <5.0.2"
+    },
+    {
+      "id": "a03e363a-4467-3270-a0d0-266a11aef9d1",
+      "product": {
+        "name": "geonode",
+        "vendor": {
+          "name": "GeoNode"
+        }
+      },
+      "product_version": "4.0.0 \u22644.4.5"
+    },
+    {
+      "id": "b514fa77-c6d6-3aa2-ac9e-7e82e60c6e86",
+      "product": {
+        "name": "geonode",
+        "vendor": {
+          "name": "GeoNode"
+        }
+      },
+      "product_version": "5.0.0 \u22645.0.2"
+    },
+    {
+      "id": "f7aaafdd-94af-3fcf-a55e-1706bce7f70c",
+      "product": {
+        "name": "geonode",
+        "vendor": {
+          "name": "GeoNode"
+        }
+      },
+      "product_version": "5.0 <5.0.2"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "6f12c542-1aca-3c6f-bf23-9290dc8717a9",
+      "vendor": {
+        "name": "GeoNode"
+      }
+    }
+  ]
+}

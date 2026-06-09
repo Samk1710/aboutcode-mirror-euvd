@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-35002",
+  "enisaUuid": "3e2e6ac8-54be-3166-8b8d-deddc73ad9a8",
+  "description": "A vulnerability was found in SourceCodester Class and Exam Timetabling System 1.0. The impacted element is an unknown function of the file /index2.php. The manipulation of the argument Password results in sql injection. It is possible to launch the attack remotely. The exploit has been made public and could be used.",
+  "datePublished": "Jun 8, 2026, 12:15:08 AM",
+  "dateUpdated": "Jun 8, 2026, 1:43:20 PM",
+  "baseScore": 6.9,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
+  "references": "https://vuldb.com/vuln/369091\nhttps://vuldb.com/vuln/369091/cti\nhttps://vuldb.com/cve/CVE-2026-11471\nhttps://vuldb.com/submit/833858\nhttps://github.com/Icecream102/cve/issues/4\nhttps://www.sourcecodester.com/\n",
+  "aliases": "GHSA-rphr-w9mf-j735\nCVE-2026-11471\n",
+  "assigner": "VulDB",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "5e5a5d2e-9400-3a0c-a369-44555e935443",
+      "product": {
+        "name": "Class and Exam Timetabling System",
+        "vendor": {
+          "name": "SourceCodester"
+        }
+      },
+      "product_version": "1.0"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "3a687b8b-46dd-355f-a6f2-735d2cdd9a88",
+      "vendor": {
+        "name": "SourceCodester"
+      }
+    }
+  ]
+}

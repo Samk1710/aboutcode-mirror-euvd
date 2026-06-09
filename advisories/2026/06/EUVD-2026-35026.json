@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-35026",
+  "enisaUuid": "655aaad2-552d-37cf-b6fa-300318cc743f",
+  "description": "A vulnerability was detected in CodeAstro Ingredients Stock Management System 1.0. This impacts an unknown function of the file /Ingredients-Stock/add_stock.php. The manipulation of the argument ID results in sql injection. The attack may be launched remotely. The exploit is now public and may be used.",
+  "datePublished": "Jun 8, 2026, 6:15:13 AM",
+  "dateUpdated": "Jun 8, 2026, 10:46:45 AM",
+  "baseScore": 5.3,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
+  "references": "https://vuldb.com/vuln/369115\nhttps://vuldb.com/vuln/369115/cti\nhttps://vuldb.com/cve/CVE-2026-11495\nhttps://vuldb.com/submit/835035\nhttps://github.com/yihaofuweng/cve/issues/66\nhttps://codeastro.com/\n",
+  "aliases": "CVE-2026-11495\nGHSA-c2x4-3659-mm9x\n",
+  "assigner": "VulDB",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "9b240e84-975a-3656-b836-c899d2c55d5f",
+      "product": {
+        "name": "Ingredients Stock Management System",
+        "vendor": {
+          "name": "CodeAstro"
+        }
+      },
+      "product_version": "1.0"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "faa15368-e1ae-3ae1-8e1b-e460ef4f03b2",
+      "vendor": {
+        "name": "CodeAstro"
+      }
+    }
+  ]
+}
