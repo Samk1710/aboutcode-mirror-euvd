@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-35463",
+  "enisaUuid": "2b8f38fc-c3c0-3cbb-8f0b-c3ff91d90f0f",
+  "description": "Insufficient input validation vulnerability in the\u00a0listed NETGEAR models allows\u00a0authenticated administrators connected to the local network to make unauthorized modification of router software and functionality.",
+  "datePublished": "Jun 9, 2026, 6:30:40 PM",
+  "dateUpdated": "Jun 9, 2026, 6:30:40 PM",
+  "baseScore": 4.3,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:A/AC:L/AT:N/PR:H/UI:N/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N/E:U",
+  "references": "https://www.netgear.com/support/product/rbe970/\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-0414\n",
+  "aliases": "CVE-2026-0414\nGHSA-2w26-w7q4-pcw2\n",
+  "assigner": "NETGEAR",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "67380568-0287-3e03-b754-cfaad7afee15",
+      "product": {
+        "name": "RBE97x",
+        "vendor": {
+          "name": "Netgear"
+        }
+      },
+      "product_version": "0 <V9.12.4.9"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "6deac4cd-e5b9-3fed-92d7-563703771b13",
+      "vendor": {
+        "name": "Netgear"
+      }
+    }
+  ]
+}

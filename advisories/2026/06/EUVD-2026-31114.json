@@ -1,0 +1,44 @@
+{
+  "id": "EUVD-2026-31114",
+  "enisaUuid": "ce944b70-345f-3c98-b12a-82ff45d76e05",
+  "description": "PhoenixStorybook: Unbounded atom creation from LiveView event params (atom-table DoS)",
+  "datePublished": "Jun 9, 2026, 9:59:07 PM",
+  "dateUpdated": "Jun 9, 2026, 9:59:07 PM",
+  "baseScore": 8.2,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
+  "references": "https://github.com/phenixdigital/phoenix_storybook/security/advisories/GHSA-833p-95jq-929q\nhttps://cna.erlef.org/cves/CVE-2026-8469.html\nhttps://osv.dev/vulnerability/EEF-CVE-2026-8469\nhttps://github.com/phenixdigital/phoenix_storybook/commit/96d524690af0fe197a49f60d18e564a620b9ef81\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-8469\n",
+  "aliases": "GHSA-833p-95jq-929q\nCVE-2026-8469\n",
+  "assigner": "EEF",
+  "epss": 0.06,
+  "enisaIdProduct": [
+    {
+      "id": "0a912fe2-4590-37de-89c3-30fb7ea7f0f0",
+      "product": {
+        "name": "phoenix_storybook",
+        "vendor": {
+          "name": "phenixdigital"
+        }
+      },
+      "product_version": "0.2.0 <1.1.0"
+    },
+    {
+      "id": "3ab6e15a-b1bf-32db-afa2-e37b5bf6df4d",
+      "product": {
+        "name": "phoenix_storybook",
+        "vendor": {
+          "name": "phenixdigital"
+        }
+      },
+      "product_version": "0228669d55c23a754d1ef11f49a32121129d5395 <96d524690af0fe197a49f60d18e564a620b9ef81"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "742b521a-9729-3a5e-8987-cd5e710a10d2",
+      "vendor": {
+        "name": "phenixdigital"
+      }
+    }
+  ]
+}

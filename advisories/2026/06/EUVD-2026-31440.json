@@ -1,0 +1,16 @@
+{
+  "id": "EUVD-2026-31440",
+  "enisaUuid": "eebde3cc-80a8-318f-b2ff-83e798565542",
+  "description": "shell-quote quote() does not escape newlines in object .op values",
+  "datePublished": "Jun 9, 2026, 2:27:15 PM",
+  "dateUpdated": "Jun 9, 2026, 2:27:15 PM",
+  "baseScore": 9.2,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
+  "references": "https://github.com/ljharb/shell-quote/security/advisories/GHSA-w7jw-789q-3m8p\nhttps://github.com/ljharb/shell-quote/commit/1518179\nhttps://github.com/ljharb/shell-quote\nhttps://www.npmjs.com/package/shell-quote\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-9277\nhttp://www.openwall.com/lists/oss-security/2026/05/23/2\n",
+  "aliases": "GHSA-w7jw-789q-3m8p\nCVE-2026-9277\n",
+  "assigner": "harborist",
+  "epss": 0.07,
+  "enisaIdProduct": [],
+  "enisaIdVendor": []
+}

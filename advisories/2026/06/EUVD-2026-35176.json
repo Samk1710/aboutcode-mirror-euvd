@@ -3,7 +3,7 @@
   "enisaUuid": "0c52d91f-1385-34d8-95af-c8d2a106ea0c",
   "description": "A command Injection vulnerability exists in the WireGuard client configuration of Archer MR600 v5 due to improper neutralization of user-controlled input within the web management interface. An authenticated attacker with administrative privileges may be able to execute arbitrary commands when applying configuration changes.Successful exploitation may result in a full compromise of confidentiality, integrity, and availability of the affected device.",
   "datePublished": "Jun 8, 2026, 5:21:45 PM",
-  "dateUpdated": "Jun 8, 2026, 6:24:56 PM",
+  "dateUpdated": "Jun 9, 2026, 3:55:38 AM",
   "baseScore": 8.5,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
