@@ -1,16 +1,16 @@
 {
   "id": "EUVD-2026-35395",
   "enisaUuid": "e0dfa451-b535-38ef-9662-5fde150c2636",
-  "description": "Editors with access to create or modify page content were able to include HTML markup in page titles that were stored in the search index without sanitization. When displayed in frontend search results via the Indexed Search plugin, these titles were rendered without proper output encoding, resulting in a Cross-Site Scripting vulnerability. This issue affects TYPO3 CMS versions 13.0.0-13.4.30 and 14.0.0-14.3.2.",
-  "datePublished": "Jun 9, 2026, 10:51:29 AM",
-  "dateUpdated": "Jun 9, 2026, 2:27:49 PM",
+  "description": "TYPO3 CMS has Cross-Site Scripting in Indexed Search",
+  "datePublished": "Jun 12, 2026, 7:06:52 PM",
+  "dateUpdated": "Jun 12, 2026, 7:06:52 PM",
   "baseScore": 5.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:P/VC:L/VI:L/VA:N/SC:N/SI:L/SA:N",
-  "references": "https://typo3.org/security/advisory/typo3-core-sa-2026-010\nhttps://github.com/TYPO3/typo3/commit/2e96dd0e9fab7ad877b741fb9f6fc645b4270a3e\nhttps://github.com/TYPO3/typo3/commit/8004b91a5951cfe01dda8554f77d0daa82d6b899\n",
-  "aliases": "CVE-2026-47348\n",
+  "references": "https://typo3.org/security/advisory/typo3-core-sa-2026-010\nhttps://github.com/TYPO3/typo3/commit/2e96dd0e9fab7ad877b741fb9f6fc645b4270a3e\nhttps://github.com/TYPO3/typo3/commit/8004b91a5951cfe01dda8554f77d0daa82d6b899\nhttps://github.com/TYPO3/typo3/security/advisories/GHSA-cg75-qfg2-w9hj\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-47348\nhttps://github.com/FriendsOfPHP/security-advisories/blob/master/typo3/cms-core/CVE-2026-47348.yaml\n",
+  "aliases": "GHSA-cg75-qfg2-w9hj\nCVE-2026-47348\n",
   "assigner": "TYPO3",
-  "epss": 0.0,
+  "epss": 0.04,
   "enisaIdProduct": [
     {
       "id": "246eb18b-bcf6-3899-af7a-7ee3a4e091e9",

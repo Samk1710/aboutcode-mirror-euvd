@@ -3,7 +3,7 @@
   "enisaUuid": "51521cff-a27d-3328-b03b-61ec9045e950",
   "description": "Summarize before 0.17.0 contains a resource exhaustion vulnerability that allows remote attackers to cause disk exhaustion by serving media responses that bypass the enforced size limit through missing or misreported Content-Length headers, chunked transfer encoding, or failed HEAD requests. Attackers who control a podcast feed or media URL can stream an unbounded response to local storage via the temp-file download path, exhausting disk or system resources on the host running the CLI.",
   "datePublished": "Jun 11, 2026, 7:11:49 PM",
-  "dateUpdated": "Jun 11, 2026, 7:11:49 PM",
+  "dateUpdated": "Jun 12, 2026, 10:30:13 AM",
   "baseScore": 5.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",

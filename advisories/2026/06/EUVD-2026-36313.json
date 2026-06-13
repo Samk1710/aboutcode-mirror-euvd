@@ -3,7 +3,7 @@
   "enisaUuid": "f272b213-0a7c-3a8d-832b-3a19748a20c8",
   "description": "OpenClaw before 2026.5.6 contains an authorization bypass vulnerability in Telegram interactive callbacks that allows authenticated users to skip commands.allowFrom validation. Attackers can invoke affected callbacks to mark themselves as authorized senders before allowlist checks are applied, triggering command behavior outside configured Telegram sender restrictions.",
   "datePublished": "Jun 11, 2026, 8:05:48 PM",
-  "dateUpdated": "Jun 11, 2026, 8:05:48 PM",
+  "dateUpdated": "Jun 12, 2026, 1:47:09 PM",
   "baseScore": 7.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",

@@ -3,7 +3,7 @@
   "enisaUuid": "ecbde664-ca09-3f45-a680-897201423fd4",
   "description": "OpenClaw before 2026.5.18 contains a code execution vulnerability where marketplace runtime extension metadata can redirect loading toward unscanned package payloads. Attackers with trusted operator access can manipulate extension metadata to load plugin code outside reviewed package entry points, bypassing security scanning.",
   "datePublished": "Jun 11, 2026, 8:07:04 PM",
-  "dateUpdated": "Jun 11, 2026, 8:07:04 PM",
+  "dateUpdated": "Jun 12, 2026, 10:08:43 AM",
   "baseScore": 7.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:P/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",

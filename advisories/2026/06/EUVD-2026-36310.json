@@ -3,7 +3,7 @@
   "enisaUuid": "dd6bfa04-837b-3bf3-a2be-47da64cb9e89",
   "description": "Brickcom cameras\nship with default credentials that allows any unauthenticated remote attacker to silently access camera feeds.",
   "datePublished": "Jun 11, 2026, 7:49:17 PM",
-  "dateUpdated": "Jun 11, 2026, 7:49:17 PM",
+  "dateUpdated": "Jun 12, 2026, 1:48:25 PM",
   "baseScore": 8.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:H/SI:H/SA:N",

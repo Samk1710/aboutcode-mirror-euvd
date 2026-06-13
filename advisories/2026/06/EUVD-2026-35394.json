@@ -1,16 +1,16 @@
 {
   "id": "EUVD-2026-35394",
   "enisaUuid": "24f96a40-2318-332e-a0e0-003bae6bf1e5",
-  "description": "Applications that use GeneralUtility::sanitizeLocalUrl to allow only local URLs are vulnerable to open redirect attacks if the URL is used after it has passed the aforementioned sanitization checks. This enables attackers to redirect users to external content and carry out phishing attacks. This issue affects TYPO3 CMS versions before 10.4.57, 11.0.0-11.5.50, 12.0.0-12.4.45, 13.0.0-13.4.30 and 14.0.0-14.3.2.",
-  "datePublished": "Jun 9, 2026, 10:51:00 AM",
-  "dateUpdated": "Jun 9, 2026, 1:53:41 PM",
+  "description": "TYPO3 CMS has an Open Redirect Vulnerability via Core Utilities",
+  "datePublished": "Jun 12, 2026, 8:07:58 PM",
+  "dateUpdated": "Jun 12, 2026, 8:07:58 PM",
   "baseScore": 5.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:N/SC:N/SI:L/SA:N",
-  "references": "https://typo3.org/security/advisory/typo3-core-sa-2026-009\nhttps://github.com/TYPO3/typo3/commit/3ffc0835012c6199db0e1dc4b56a77147d8600e0\nhttps://github.com/TYPO3/typo3/commit/22c2dd5398ebc4cb7aa4aa37e02cb39181dee0cd\n",
-  "aliases": "CVE-2026-47347\n",
+  "references": "https://typo3.org/security/advisory/typo3-core-sa-2026-009\nhttps://github.com/TYPO3/typo3/commit/3ffc0835012c6199db0e1dc4b56a77147d8600e0\nhttps://github.com/TYPO3/typo3/commit/22c2dd5398ebc4cb7aa4aa37e02cb39181dee0cd\nhttps://github.com/TYPO3/typo3/security/advisories/GHSA-3p42-w5ch-gg42\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-47347\nhttps://github.com/FriendsOfPHP/security-advisories/blob/master/typo3/cms-core/CVE-2026-47347.yaml\n",
+  "aliases": "GHSA-3p42-w5ch-gg42\nCVE-2026-47347\n",
   "assigner": "TYPO3",
-  "epss": 0.0,
+  "epss": 0.04,
   "enisaIdProduct": [
     {
       "id": "33014c95-8ba6-3d96-bde4-90563ce07939",
