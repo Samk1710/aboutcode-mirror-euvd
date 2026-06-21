@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:L/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/Cap-go/capgo/security/advisories/GHSA-w2cr-vcwj-69x2\nhttps://www.vulncheck.com/advisories/capgo-improper-2fa-enforcement-logic-via-team-security-settings\n",
-  "aliases": "CVE-2026-56212\n",
+  "aliases": "CVE-2026-56212\nGHSA-4f3c-ph4g-54q4\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [
