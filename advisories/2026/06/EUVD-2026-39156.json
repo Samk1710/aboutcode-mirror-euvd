@@ -8,7 +8,7 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
   "references": "https://github.com/openbsd/src/commit/1957873d2063db11dab780eca75b5e629d1e838d\nhttps://openai.com/index/patch-the-planet/\n",
-  "aliases": "CVE-2026-57589\n",
+  "aliases": "CVE-2026-57589\nGHSA-w3gf-4959-2377\n",
   "assigner": "mitre",
   "epss": 0.0,
   "enisaIdProduct": [
