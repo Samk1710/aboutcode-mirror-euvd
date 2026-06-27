@@ -1,16 +1,16 @@
 {
   "id": "EUVD-2026-36192",
   "enisaUuid": "6543f588-6791-3d46-98b2-29b4d6ff9331",
-  "description": "ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to version 7.1.2-25, a crafted multi-frame can result in a heap buffer over-write when encoding it with the SF3 encoder. This issue has been patched in version 7.1.2-25.",
-  "datePublished": "Jun 10, 2026, 10:07:50 PM",
-  "dateUpdated": "Jun 11, 2026, 2:07:06 PM",
+  "description": "ImageMagick has a Heap Buffer Over-Write in SF3 encoder when writing multi-frame image",
+  "datePublished": "Jun 26, 2026, 11:11:49 PM",
+  "dateUpdated": "Jun 26, 2026, 11:11:50 PM",
   "baseScore": 6.2,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
-  "references": "https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-44cp-c3ww-9rv5\n",
-  "aliases": "CVE-2026-53465\n",
+  "references": "https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-44cp-c3ww-9rv5\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-53465\nhttps://github.com/dlemstra/Magick.NET/releases/tag/14.14.0\n",
+  "aliases": "CVE-2026-53465\nGHSA-44cp-c3ww-9rv5\n",
   "assigner": "GitHub_M",
-  "epss": 0.0,
+  "epss": 0.11,
   "enisaIdProduct": [
     {
       "id": "24a9831e-3266-3334-b8e6-2dba9aaeb9b4",
