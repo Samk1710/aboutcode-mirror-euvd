@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/374526\nhttps://vuldb.com/vuln/374526/cti\nhttps://vuldb.com/cve/CVE-2026-13518\nhttps://vuldb.com/submit/838889\nhttps://github.com/cve-a/Vampirensa/issues/4\nhttps://www.tenda.com.cn/\n",
-  "aliases": "CVE-2026-13518\n",
+  "aliases": "GHSA-rh6c-34q4-p28r\nCVE-2026-13518\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
