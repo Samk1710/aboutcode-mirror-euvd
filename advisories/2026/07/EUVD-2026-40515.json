@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2026-40515",
+  "enisaUuid": "0950e3fc-0a7b-3dc5-aef3-8f1068792b83",
+  "description": "Insufficient validation of untrusted input in Settings in Google Chrome on Windows prior to 150.0.7871.47 allowed a remote attacker who had compromised the renderer process to potentially perform a sandbox escape via a crafted HTML page. (Chromium security severity: High)",
+  "datePublished": "Jul 1, 2026, 12:34:03 AM",
+  "dateUpdated": "Jul 1, 2026, 12:34:04 AM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0175352312.html\nhttps://issues.chromium.org/issues/513490996\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-13829\n",
+  "aliases": "GHSA-wv8r-qr8m-692h\nCVE-2026-13829\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "11c924fd-0898-39dd-92f7-81ad9f8e752a",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "150.0.7871.47 <150.0.7871.47"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "3da2129d-4e6c-370f-9863-b67019430885",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

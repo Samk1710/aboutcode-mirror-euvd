@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2026-40787",
+  "enisaUuid": "2489328f-ae2c-37f3-8370-b26fd44217b5",
+  "description": "Insufficient data validation in NetworkCache in Google Chrome prior to 150.0.7871.47 allowed a remote attacker to leak cross-origin data via a crafted HTML page. (Chromium security severity: Low)",
+  "datePublished": "Jul 1, 2026, 12:34:10 AM",
+  "dateUpdated": "Jul 1, 2026, 12:34:11 AM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0175352312.html\nhttps://issues.chromium.org/issues/513383891\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-14100\n",
+  "aliases": "CVE-2026-14100\nGHSA-5q2c-j4wm-4656\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "0e969819-d825-30e5-a754-bac1e6899458",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "150.0.7871.47 <150.0.7871.47"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "e15cc726-669c-319b-8e56-8fe54474b9b6",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

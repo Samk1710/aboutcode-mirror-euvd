@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2026-40830",
+  "enisaUuid": "2597dc62-ba59-38ef-bd39-cd505968eedc",
+  "description": "Incorrect security UI in Passwords in Google Chrome on iOS prior to 150.0.7871.47 allowed a remote attacker to perform UI spoofing via a crafted HTML page. (Chromium security severity: Low)",
+  "datePublished": "Jul 1, 2026, 12:34:12 AM",
+  "dateUpdated": "Jul 1, 2026, 12:34:12 AM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0175352312.html\nhttps://issues.chromium.org/issues/514075028\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-14143\n",
+  "aliases": "GHSA-h865-62xx-m869\nCVE-2026-14143\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "c05223fe-a621-36d2-9dd1-95389a02ab60",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "150.0.7871.47 <150.0.7871.47"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "033923b8-3185-361f-9066-da379fd0bdbb",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

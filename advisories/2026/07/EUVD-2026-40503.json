@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2026-40503",
+  "enisaUuid": "57aea48c-a93e-3cbc-aa32-fb759f4ceb1a",
+  "description": "Insufficient validation of untrusted input in Glic in Google Chrome prior to 150.0.7871.47 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page. (Chromium security severity: High)",
+  "datePublished": "Jul 1, 2026, 12:34:03 AM",
+  "dateUpdated": "Jul 1, 2026, 12:34:03 AM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0175352312.html\nhttps://issues.chromium.org/issues/511739631\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-13817\n",
+  "aliases": "CVE-2026-13817\nGHSA-mcqp-c62v-fcg4\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "a149b690-8756-38d9-8373-1097ae59da19",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "150.0.7871.47 <150.0.7871.47"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "530cc2df-03e9-3d0e-9a98-7b22fbe5e392",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

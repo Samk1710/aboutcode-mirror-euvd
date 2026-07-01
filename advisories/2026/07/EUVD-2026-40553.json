@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2026-40553",
+  "enisaUuid": "b28691d5-3f78-3c26-b080-04d41a736467",
+  "description": "Inappropriate implementation in Geolocation in Google Chrome prior to 150.0.7871.47 allowed a remote attacker to perform UI spoofing via a crafted HTML page. (Chromium security severity: Medium)",
+  "datePublished": "Jul 1, 2026, 12:34:04 AM",
+  "dateUpdated": "Jul 1, 2026, 12:34:04 AM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0175352312.html\nhttps://issues.chromium.org/issues/497345177\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-13867\n",
+  "aliases": "GHSA-4742-633w-44xh\nCVE-2026-13867\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "285546fd-cd0a-36f6-afc3-4bb720a6f8a2",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "150.0.7871.47 <150.0.7871.47"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "0ca60e6c-1570-3187-99a9-0d85c2c0c99e",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

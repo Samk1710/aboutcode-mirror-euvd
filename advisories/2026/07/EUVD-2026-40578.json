@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2026-40578",
+  "enisaUuid": "b2560308-a409-3320-9bdb-2b2c34b59e3c",
+  "description": "Inappropriate implementation in Chrome for iOS in Google Chrome on iOS prior to 150.0.7871.47 allowed a remote attacker who convinced a user to engage in specific UI gestures to leak cross-origin data via a crafted HTML page. (Chromium security severity: Medium)",
+  "datePublished": "Jul 1, 2026, 12:34:05 AM",
+  "dateUpdated": "Jul 1, 2026, 12:34:05 AM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0175352312.html\nhttps://issues.chromium.org/issues/501674841\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-13892\n",
+  "aliases": "GHSA-q7jp-jrxx-2jjj\nCVE-2026-13892\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "7a5c4716-2d78-30a7-8d16-a0becd10b9c5",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "150.0.7871.47 <150.0.7871.47"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "e535c0d7-15b0-3d0b-87fa-9523d2963eb3",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

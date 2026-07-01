@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2026-40488",
+  "enisaUuid": "7c9b9921-36ed-3fe7-9549-ef00b7067c3e",
+  "description": "Use after free in Views in Google Chrome prior to 150.0.7871.47 allowed a remote attacker who convinced a user to engage in specific UI gestures to execute arbitrary code via a crafted HTML page. (Chromium security severity: High)",
+  "datePublished": "Jul 1, 2026, 12:34:03 AM",
+  "dateUpdated": "Jul 1, 2026, 12:34:03 AM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0175352312.html\nhttps://issues.chromium.org/issues/501623322\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-13802\n",
+  "aliases": "CVE-2026-13802\nGHSA-6h63-qwh3-v8vp\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "8bd2e8c9-4baa-3a2c-9151-8e0a913560f8",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "150.0.7871.47 <150.0.7871.47"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "10d4dc65-90c4-3ff9-820c-195ca2e819ba",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

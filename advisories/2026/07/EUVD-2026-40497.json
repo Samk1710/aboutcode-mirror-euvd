@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2026-40497",
+  "enisaUuid": "1e5cdc8b-30d0-3146-bf7e-e6ababfd257b",
+  "description": "Use after free in IME in Google Chrome prior to 150.0.7871.47 allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. (Chromium security severity: High)",
+  "datePublished": "Jul 1, 2026, 12:34:03 AM",
+  "dateUpdated": "Jul 1, 2026, 12:34:03 AM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0175352312.html\nhttps://issues.chromium.org/issues/506149253\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-13811\n",
+  "aliases": "CVE-2026-13811\nGHSA-cw27-h8qh-jv94\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "fe754962-622e-34bf-9653-cfd09d7f993b",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "150.0.7871.47 <150.0.7871.47"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "ccb132f4-812d-3372-8f80-5cda135873df",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

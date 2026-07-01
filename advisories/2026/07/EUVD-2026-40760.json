@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2026-40760",
+  "enisaUuid": "de93113b-a464-3b34-a9a5-0f408f608bd2",
+  "description": "Insufficient validation of untrusted input in WebXR in Google Chrome prior to 150.0.7871.47 allowed a remote attacker to bypass navigation restrictions via a crafted HTML page. (Chromium security severity: Low)",
+  "datePublished": "Jul 1, 2026, 12:34:10 AM",
+  "dateUpdated": "Jul 1, 2026, 12:34:10 AM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0175352312.html\nhttps://issues.chromium.org/issues/507237563\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-14073\n",
+  "aliases": "GHSA-5x5m-vp5v-xf5w\nCVE-2026-14073\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "fec48ff3-decf-3d89-be4c-5ed9b91f8b65",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "150.0.7871.47 <150.0.7871.47"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "e4b9468e-984d-37d0-8615-1e80453798ef",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

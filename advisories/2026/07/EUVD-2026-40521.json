@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2026-40521",
+  "enisaUuid": "a1d4b11f-3de5-3905-b686-ba2348c70a43",
+  "description": "Inappropriate implementation in XML in Google Chrome prior to 150.0.7871.47 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)",
+  "datePublished": "Jul 1, 2026, 12:34:04 AM",
+  "dateUpdated": "Jul 1, 2026, 12:34:04 AM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0175352312.html\nhttps://issues.chromium.org/issues/514338102\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-13835\n",
+  "aliases": "GHSA-785q-pvw8-v82f\nCVE-2026-13835\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "5147ff82-7239-370f-a948-f5fcc75b1b32",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "150.0.7871.47 <150.0.7871.47"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "53ecf11d-d8ee-3dca-80ae-bf543850fd10",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}
