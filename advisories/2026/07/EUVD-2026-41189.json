@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2026-41189",
+  "enisaUuid": "3e2cc740-220e-3d1c-9592-17688254e5f5",
+  "description": "Uninitialized Use in ANGLE in Google Chrome on Windows prior to 150.0.7871.46 allowed a remote attacker to obtain potentially sensitive information from process memory via a crafted HTML page. (Chromium security severity: High)",
+  "datePublished": "Jul 2, 2026, 12:31:41 AM",
+  "dateUpdated": "Jul 2, 2026, 12:31:41 AM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0175352312.html\nhttps://issues.chromium.org/issues/513051340\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-14402\n",
+  "aliases": "CVE-2026-14402\nGHSA-8353-c32h-g49g\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "4dd69830-1943-31bd-9610-7ed5a8cd5484",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "150.0.7871.46 <150.0.7871.46"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "b754959c-2742-3d57-a89c-1e6c87ff585d",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

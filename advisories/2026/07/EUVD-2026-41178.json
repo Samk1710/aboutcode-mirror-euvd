@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2026-41178",
+  "enisaUuid": "805a788e-3f10-33be-bd45-31ae25516d06",
+  "description": "Out of bounds read in ANGLE in Google Chrome prior to 150.0.7871.46 allowed a remote attacker to leak cross-origin data via a crafted HTML page. (Chromium security severity: High)",
+  "datePublished": "Jul 2, 2026, 12:31:41 AM",
+  "dateUpdated": "Jul 2, 2026, 12:31:41 AM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0175352312.html\nhttps://issues.chromium.org/issues/511737097\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-14396\n",
+  "aliases": "GHSA-q6j6-g24g-p9x4\nCVE-2026-14396\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "f0f277f1-db0c-3588-b659-84ca2ded75cd",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "150.0.7871.46 <150.0.7871.46"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "02386102-ed5f-3f76-9617-40894b263b6d",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}
