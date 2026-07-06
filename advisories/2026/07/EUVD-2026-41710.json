@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/376284\nhttps://vuldb.com/vuln/376284/cti\nhttps://vuldb.com/cve/CVE-2026-14688\nhttps://vuldb.com/submit/846809\nhttps://github.com/geminipolo1991-vampire/CVE---Web/issues/1\nhttps://itsourcecode.com/\n",
-  "aliases": "CVE-2026-14688\n",
+  "aliases": "GHSA-w4jw-95f5-j2x5\nCVE-2026-14688\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

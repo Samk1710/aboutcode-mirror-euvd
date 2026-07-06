@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:L/UI:N/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/376282\nhttps://vuldb.com/vuln/376282/cti\nhttps://vuldb.com/cve/CVE-2026-14686\nhttps://vuldb.com/submit/846762\nhttps://github.com/HdrHistogram/HdrHistogram/issues/222\nhttps://github.com/HdrHistogram/HdrHistogram/\n",
-  "aliases": "CVE-2026-14686\n",
+  "aliases": "GHSA-pcmr-4mmx-225x\nCVE-2026-14686\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

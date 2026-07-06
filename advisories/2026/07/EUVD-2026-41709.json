@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/376283\nhttps://vuldb.com/vuln/376283/cti\nhttps://vuldb.com/cve/CVE-2026-14687\nhttps://vuldb.com/submit/846753\nhttps://github.com/666ghj/BettaFish/issues/688\nhttps://github.com/666ghj/BettaFish/pull/689\nhttps://github.com/666ghj/BettaFish/\n",
-  "aliases": "CVE-2026-14687\n",
+  "aliases": "CVE-2026-14687\nGHSA-v6hv-2p8r-43v4\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
