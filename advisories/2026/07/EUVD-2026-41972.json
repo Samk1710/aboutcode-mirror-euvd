@@ -1,0 +1,14 @@
+{
+  "id": "EUVD-2026-41972",
+  "enisaUuid": "9248ccd3-ddaa-317f-a8e9-93c8d6d2f141",
+  "description": "A malicious webpage could interrupt a pending navigation by enqueuing a synchronous JavaScript dialog, causing the browser UI to display the destination origin in the address bar while continuing to render attacker-controlled content. This vulnerability was fixed in Firefox for iOS 152.3.",
+  "datePublished": "Jul 7, 2026, 12:30:59 AM",
+  "dateUpdated": "Jul 7, 2026, 12:30:59 AM",
+  "baseScore": 0.0,
+  "references": "https://bugzilla.mozilla.org/show_bug.cgi?id=2047768\nhttps://www.mozilla.org/security/advisories/mfsa2026-65/\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-13356\n",
+  "aliases": "CVE-2026-13356\nGHSA-66fv-p34j-fwgr\n",
+  "assigner": "mozilla",
+  "epss": 0.0,
+  "enisaIdProduct": [],
+  "enisaIdVendor": []
+}
