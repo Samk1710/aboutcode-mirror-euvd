@@ -1,0 +1,44 @@
+{
+  "id": "EUVD-2026-34014",
+  "enisaUuid": "b8952fbe-a473-321d-a4d7-f2e75aa2d708",
+  "description": "Tesla: Authorization header leaks on cross-origin redirect via case-sensitive filtering",
+  "datePublished": "Jul 10, 2026, 12:03:31 AM",
+  "dateUpdated": "Jul 10, 2026, 12:03:31 AM",
+  "baseScore": 8.2,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
+  "references": "https://github.com/elixir-tesla/tesla/security/advisories/GHSA-9m9w-gxf7-rh8m\nhttps://cna.erlef.org/cves/CVE-2026-48595.html\nhttps://osv.dev/vulnerability/EEF-CVE-2026-48595\nhttps://github.com/elixir-tesla/tesla/commit/db963dba67651b9abd1fc420a1d9679cf6efe182\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-48595\n",
+  "aliases": "CVE-2026-48595\nGHSA-9m9w-gxf7-rh8m\n",
+  "assigner": "EEF",
+  "epss": 0.4,
+  "enisaIdProduct": [
+    {
+      "id": "83f912ef-d998-3b95-9f90-297baed9bd50",
+      "product": {
+        "name": "Tesla",
+        "vendor": {
+          "name": "NVIDIA"
+        }
+      },
+      "product_version": "2d937d5813d7cda5cd726f41824985fb655c920f <db963dba67651b9abd1fc420a1d9679cf6efe182"
+    },
+    {
+      "id": "cc1eb988-038d-3e73-beb9-a37b4d1a0eec",
+      "product": {
+        "name": "Tesla",
+        "vendor": {
+          "name": "NVIDIA"
+        }
+      },
+      "product_version": "1.4.0 <1.18.3"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "08fee070-ff29-3adc-9630-7d57a6b12a86",
+      "vendor": {
+        "name": "elixir-tesla"
+      }
+    }
+  ]
+}

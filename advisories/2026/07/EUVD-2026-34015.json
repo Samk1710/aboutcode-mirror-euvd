@@ -1,0 +1,44 @@
+{
+  "id": "EUVD-2026-34015",
+  "enisaUuid": "947c7f02-f93e-3f60-a2d8-c7159bc2e8d1",
+  "description": "Tesla has decompression bomb on response body",
+  "datePublished": "Jul 10, 2026, 12:03:23 AM",
+  "dateUpdated": "Jul 10, 2026, 12:03:23 AM",
+  "baseScore": 8.2,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
+  "references": "https://github.com/elixir-tesla/tesla/security/advisories/GHSA-mc85-72gr-vm9f\nhttps://cna.erlef.org/cves/CVE-2026-48594.html\nhttps://osv.dev/vulnerability/EEF-CVE-2026-48594\nhttps://github.com/elixir-tesla/tesla/commit/340f75b5d191dc747ef7ac6365bd002d1cd55a9d\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-48594\n",
+  "aliases": "GHSA-mc85-72gr-vm9f\nCVE-2026-48594\n",
+  "assigner": "EEF",
+  "epss": 0.33,
+  "enisaIdProduct": [
+    {
+      "id": "b5f93953-ef1a-32e9-99cb-6a5168b52991",
+      "product": {
+        "name": "Tesla",
+        "vendor": {
+          "name": "NVIDIA"
+        }
+      },
+      "product_version": "5bd90bb5cf0d15e375edc2a66fa322292940fce2 <340f75b5d191dc747ef7ac6365bd002d1cd55a9d"
+    },
+    {
+      "id": "bc333275-497a-3284-9379-e1bcc61baa03",
+      "product": {
+        "name": "Tesla",
+        "vendor": {
+          "name": "NVIDIA"
+        }
+      },
+      "product_version": "0.6.0 <1.18.3"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "ad808609-9160-3466-ba2a-6dbbf8608906",
+      "vendor": {
+        "name": "elixir-tesla"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "EUVD-2026-33941",
+  "enisaUuid": "a100a17a-472e-3235-8c07-453a90de492f",
+  "description": "mint: Content-Length header accepts non-RFC \"+\" sign prefix",
+  "datePublished": "Jul 9, 2026, 11:19:16 PM",
+  "dateUpdated": "Jul 9, 2026, 11:19:17 PM",
+  "baseScore": 6.3,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:L/VA:N/SC:L/SI:L/SA:N",
+  "references": "https://github.com/elixir-mint/mint/security/advisories/GHSA-mjqx-c6f6-7rc2\nhttps://cna.erlef.org/cves/CVE-2026-49753.html\nhttps://osv.dev/vulnerability/EEF-CVE-2026-49753\nhttps://github.com/elixir-mint/mint/commit/47e48027480228e4e32a0b4df39db497b4804921\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-49753\n",
+  "aliases": "GHSA-mjqx-c6f6-7rc2\nCVE-2026-49753\n",
+  "assigner": "EEF",
+  "epss": 0.3,
+  "enisaIdProduct": [
+    {
+      "id": "8c4aafda-12bb-3f69-9551-44b004f7442e",
+      "product": {
+        "name": "Mint",
+        "vendor": {
+          "name": "LinuxMint"
+        }
+      },
+      "product_version": "65e0e86d799a6d3b08e4372fccdd9747535e0dd6 <47e48027480228e4e32a0b4df39db497b4804921"
+    },
+    {
+      "id": "a04d6117-9430-34eb-9639-dd50edbc61e6",
+      "product": {
+        "name": "Mint",
+        "vendor": {
+          "name": "LinuxMint"
+        }
+      },
+      "product_version": "0.1.0 <1.9.0"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "0d33e591-a124-3705-953a-e16b738d92a0",
+      "vendor": {
+        "name": "elixir-mint"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "EUVD-2026-33940",
+  "enisaUuid": "8edfd493-8f6d-3810-a69d-fbc5981b8e58",
+  "description": "mint: Unbounded CONTINUATION/HEADERS frame accumulation (CONTINUATION flood)",
+  "datePublished": "Jul 9, 2026, 11:19:23 PM",
+  "dateUpdated": "Jul 9, 2026, 11:19:23 PM",
+  "baseScore": 8.2,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
+  "references": "https://github.com/elixir-mint/mint/security/advisories/GHSA-2p26-p43x-fhp8\nhttps://cna.erlef.org/cves/CVE-2026-49754.html\nhttps://osv.dev/vulnerability/EEF-CVE-2026-49754\nhttps://github.com/elixir-mint/mint/commit/b662d127d3028b5426c88d4c9cc7fe430491a10b\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-49754\n",
+  "aliases": "CVE-2026-49754\nGHSA-2p26-p43x-fhp8\n",
+  "assigner": "EEF",
+  "epss": 0.38,
+  "enisaIdProduct": [
+    {
+      "id": "d14d32e1-d4e6-38bc-86a6-77f8d0d8ae7c",
+      "product": {
+        "name": "Mint",
+        "vendor": {
+          "name": "LinuxMint"
+        }
+      },
+      "product_version": "596ca4304504be68939c4929e0831557097962b8 <b662d127d3028b5426c88d4c9cc7fe430491a10b"
+    },
+    {
+      "id": "ee712ed0-71d8-3c96-be33-cf88953542d1",
+      "product": {
+        "name": "Mint",
+        "vendor": {
+          "name": "LinuxMint"
+        }
+      },
+      "product_version": "0.1.0 <1.9.0"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "fd9bbebd-7a2d-3d87-b98c-acdfbe251860",
+      "vendor": {
+        "name": "elixir-mint"
+      }
+    }
+  ]
+}

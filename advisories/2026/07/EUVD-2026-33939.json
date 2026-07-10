@@ -1,0 +1,44 @@
+{
+  "id": "EUVD-2026-33939",
+  "enisaUuid": "989dacfa-67f4-37b6-9f83-75ca3cbd0557",
+  "description": "mint: Unbounded streams map growth via PUSH_PROMISE without follow-up HEADERS",
+  "datePublished": "Jul 9, 2026, 11:19:29 PM",
+  "dateUpdated": "Jul 9, 2026, 11:19:29 PM",
+  "baseScore": 8.2,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
+  "references": "https://github.com/elixir-mint/mint/security/advisories/GHSA-g586-ccqf-7x4r\nhttps://cna.erlef.org/cves/CVE-2026-48862.html\nhttps://osv.dev/vulnerability/EEF-CVE-2026-48862\nhttps://github.com/elixir-mint/mint/commit/70b97b6a5209fb288b0e04d8e657dda26c59de67\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-48862\n",
+  "aliases": "GHSA-g586-ccqf-7x4r\nCVE-2026-48862\n",
+  "assigner": "EEF",
+  "epss": 0.38,
+  "enisaIdProduct": [
+    {
+      "id": "1ba8589e-4df5-324b-accf-0e89a4d28d7e",
+      "product": {
+        "name": "Mint",
+        "vendor": {
+          "name": "LinuxMint"
+        }
+      },
+      "product_version": "0.2.0 <1.9.0"
+    },
+    {
+      "id": "755bb880-f0b0-360d-a88b-6706c4035053",
+      "product": {
+        "name": "Mint",
+        "vendor": {
+          "name": "LinuxMint"
+        }
+      },
+      "product_version": "65c6394d05a1b8aa4a7461708c3aa173e8d7a5cf <70b97b6a5209fb288b0e04d8e657dda26c59de67"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "3abe6139-a426-3929-b1fa-e25b3b745cff",
+      "vendor": {
+        "name": "elixir-mint"
+      }
+    }
+  ]
+}

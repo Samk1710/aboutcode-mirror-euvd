@@ -1,0 +1,44 @@
+{
+  "id": "EUVD-2026-34016",
+  "enisaUuid": "39a7ebd6-0997-3323-aa0d-e7f7f4a32298",
+  "description": "Tesla has CRLF injection in request `Content-Type` header via `add_content_type_param`",
+  "datePublished": "Jul 10, 2026, 12:03:12 AM",
+  "dateUpdated": "Jul 10, 2026, 12:03:12 AM",
+  "baseScore": 2.1,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:P/PR:N/UI:N/VC:N/VI:N/VA:N/SC:N/SI:L/SA:N",
+  "references": "https://github.com/elixir-tesla/tesla/security/advisories/GHSA-q7jx-v53g-848w\nhttps://cna.erlef.org/cves/CVE-2026-48596.html\nhttps://osv.dev/vulnerability/EEF-CVE-2026-48596\nhttps://github.com/elixir-tesla/tesla/commit/23601edac5d22ba9407b427967b5bdbda201aec2\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-48596\n",
+  "aliases": "GHSA-q7jx-v53g-848w\nCVE-2026-48596\n",
+  "assigner": "EEF",
+  "epss": 0.17,
+  "enisaIdProduct": [
+    {
+      "id": "1f0b6811-fe99-31ef-8073-ba9489b33645",
+      "product": {
+        "name": "Tesla",
+        "vendor": {
+          "name": "NVIDIA"
+        }
+      },
+      "product_version": "6ebfdb9abe9c6f119408045b933d82462decd351 <23601edac5d22ba9407b427967b5bdbda201aec2"
+    },
+    {
+      "id": "c5c6b1f5-e8c7-324e-8528-e2dd03ef28d6",
+      "product": {
+        "name": "Tesla",
+        "vendor": {
+          "name": "NVIDIA"
+        }
+      },
+      "product_version": "0.8.0 <1.18.3"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "de233f4a-0d05-3842-9d1c-c9f9a6d810a8",
+      "vendor": {
+        "name": "elixir-tesla"
+      }
+    }
+  ]
+}

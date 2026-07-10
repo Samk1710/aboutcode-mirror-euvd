@@ -1,0 +1,44 @@
+{
+  "id": "EUVD-2026-34012",
+  "enisaUuid": "bc85c7da-5cc3-3415-9ae9-0989bd54f54d",
+  "description": "Tesla vulnerable to multipart part smuggling via unescaped `content-disposition` values",
+  "datePublished": "Jul 10, 2026, 12:04:37 AM",
+  "dateUpdated": "Jul 10, 2026, 12:04:37 AM",
+  "baseScore": 2.1,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:P/PR:N/UI:N/VC:N/VI:N/VA:N/SC:N/SI:L/SA:N",
+  "references": "https://github.com/elixir-tesla/tesla/security/advisories/GHSA-28jh-g32x-v9v4\nhttps://cna.erlef.org/cves/CVE-2026-48598.html\nhttps://osv.dev/vulnerability/EEF-CVE-2026-48598\nhttps://github.com/elixir-tesla/tesla/commit/bb1a2c3da2775924d96e3db8e315dcc4d5d2246e\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-48598\n",
+  "aliases": "GHSA-28jh-g32x-v9v4\nCVE-2026-48598\n",
+  "assigner": "EEF",
+  "epss": 0.14,
+  "enisaIdProduct": [
+    {
+      "id": "d3b4fc99-0ece-3746-93cb-d0aff26eddff",
+      "product": {
+        "name": "Tesla",
+        "vendor": {
+          "name": "NVIDIA"
+        }
+      },
+      "product_version": "0.8.0 <1.18.3"
+    },
+    {
+      "id": "e96230be-56d4-3a77-97d8-2d1a975d3d7c",
+      "product": {
+        "name": "Tesla",
+        "vendor": {
+          "name": "NVIDIA"
+        }
+      },
+      "product_version": "6ebfdb9abe9c6f119408045b933d82462decd351 <bb1a2c3da2775924d96e3db8e315dcc4d5d2246e"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "938496f4-15c7-32fc-b64a-c04007126885",
+      "vendor": {
+        "name": "elixir-tesla"
+      }
+    }
+  ]
+}

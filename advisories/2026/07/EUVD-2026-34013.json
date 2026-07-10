@@ -1,0 +1,44 @@
+{
+  "id": "EUVD-2026-34013",
+  "enisaUuid": "27a50f63-dbb6-386d-8cef-853a15f403d5",
+  "description": "Tesla vulnerable to atom exhaustion via untrusted URL scheme",
+  "datePublished": "Jul 10, 2026, 12:03:51 AM",
+  "dateUpdated": "Jul 10, 2026, 12:03:51 AM",
+  "baseScore": 8.2,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
+  "references": "https://github.com/elixir-tesla/tesla/security/advisories/GHSA-h74c-q9j7-mpcm\nhttps://cna.erlef.org/cves/CVE-2026-48597.html\nhttps://osv.dev/vulnerability/EEF-CVE-2026-48597\nhttps://github.com/elixir-tesla/tesla/commit/4699c3cb3e2fd6078f99f45f11cf7466aeedbf0e\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-48597\n",
+  "aliases": "GHSA-h74c-q9j7-mpcm\nCVE-2026-48597\n",
+  "assigner": "EEF",
+  "epss": 0.3,
+  "enisaIdProduct": [
+    {
+      "id": "56f12bb6-d370-3af3-84e3-11b37d9e1f7d",
+      "product": {
+        "name": "Tesla",
+        "vendor": {
+          "name": "NVIDIA"
+        }
+      },
+      "product_version": "1.3.0 <1.18.3"
+    },
+    {
+      "id": "edb0c427-95a6-3dac-84ab-d70c3f7f5b44",
+      "product": {
+        "name": "Tesla",
+        "vendor": {
+          "name": "NVIDIA"
+        }
+      },
+      "product_version": "ccd0823d4ba37581a37d8f6108f9a81b263237ef <4699c3cb3e2fd6078f99f45f11cf7466aeedbf0e"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "09b73b9d-f04f-36cb-8507-3dda99aef57e",
+      "vendor": {
+        "name": "elixir-tesla"
+      }
+    }
+  ]
+}
