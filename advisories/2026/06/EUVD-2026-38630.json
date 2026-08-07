@@ -10,7 +10,7 @@
   "references": "https://github.com/python/cpython/issues/151981\nhttps://github.com/python/cpython/pull/151982\nhttps://mail.python.org/archives/list/security-announce@python.org/thread/AXPSKKTSRKXTTJULW3XSIC74WZNAAPPB/\nhttps://github.com/python/cpython/commit/3f031d431f80668e14f3bc066bbf4369cd9281b9\nhttps://github.com/python/cpython/commit/4ce6bf7c8aa7725828a38981c306f214c1f29365\nhttps://github.com/python/cpython/commit/7f0dc59c9a70f8f3b4da33d7c4a2ba552a7acc21\nhttps://github.com/python/cpython/commit/e86666c9dd256d52d0fbef6feb1ea4a51768fdec\nhttps://github.com/python/cpython/commit/eb63c0f94dfcbea7fda8eab6213818e134d67192\nhttps://github.com/python/cpython/commit/f50bf13566189c8d0ce5a814f33eff3d89951896\nhttps://github.com/python/cpython/commit/f5e2776ff0383a902c12acf2b703e7e951fc8438\n",
   "aliases": "CVE-2026-11972\nGHSA-wqxf-pjxh-hh4h\n",
   "assigner": "PSF",
-  "epss": 0.43,
+  "epss": 0.45,
   "enisaIdProduct": [
     {
       "id": "3e82a47c-39a4-314f-936b-b321b05e4adc",
