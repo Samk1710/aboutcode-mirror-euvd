@@ -3,7 +3,7 @@
   "enisaUuid": "48e62d7a-eb30-3590-9d90-d6782a554512",
   "description": "Opening a crafted DICOM file containing malicious JPEG-compressed pixel data triggers an attacker-controlled heap out-of-bounds write, which may allow an attacker to remotely execute arbitrary code.",
   "datePublished": "Aug 6, 2026, 10:13:03 PM",
-  "dateUpdated": "Aug 6, 2026, 10:13:03 PM",
+  "dateUpdated": "Aug 7, 2026, 1:19:33 PM",
   "baseScore": 5.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",

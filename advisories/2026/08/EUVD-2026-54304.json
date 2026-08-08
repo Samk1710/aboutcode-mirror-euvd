@@ -3,7 +3,7 @@
   "enisaUuid": "11399265-c04d-32c0-b075-60ebe8bb4b4b",
   "description": "The Payment Gateway for Redsys & WooCommerce Lite WordPress plugin before 7.0.2 does not verify the authenticity of incoming payment-provider notifications for one of its payment methods before marking orders as paid, allowing unauthenticated attackers to forge a payment-confirmation callback and complete their own orders without paying.",
   "datePublished": "Aug 6, 2026, 4:48:24 PM",
-  "dateUpdated": "Aug 6, 2026, 4:48:24 PM",
+  "dateUpdated": "Aug 7, 2026, 3:46:29 PM",
   "baseScore": 7.5,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N",
