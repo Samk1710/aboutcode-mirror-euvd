@@ -2,13 +2,13 @@
   "id": "EUVD-2026-57039",
   "enisaUuid": "9b4a7ad0-17ed-3822-b687-538244277c2f",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\nksmbd: validate minimum PDU size for transform requests\n\nThe receive path applies the minimum SMB2 PDU size check only when\nProtocolId is SMB2_PROTO_NUMBER. A packet carrying\nSMB2_TRANSFORM_PROTO_NUM bypasses the check even when the negotiated\ndialect does not provide transform handling.\n\nOn an SMB 2.1 connection, a short transform packet therefore reaches\ninit_smb2_rsp_hdr(), which interprets the request as a full SMB2 header\nand reads beyond the request allocation. The copied fields can then be\nreturned to the unauthenticated client.\n\nCompression transforms are converted to ordinary SMB2 messages before\nprotocol validation. After that conversion, validate ordinary SMB2\nrequests against SMB2_MIN_SUPPORTED_PDU_SIZE and require encryption\ntransform requests to contain both a transform header and an SMB2\nheader. This rejects truncated requests before work allocation.",
-  "datePublished": "Aug 12, 2026, 12:31:12 AM",
-  "dateUpdated": "Aug 12, 2026, 12:31:12 AM",
+  "datePublished": "Aug 12, 2026, 12:07:17 AM",
+  "dateUpdated": "Aug 12, 2026, 12:07:17 AM",
   "baseScore": 0.0,
-  "references": "https://git.kernel.org/stable/c/b62c510f59803f82f9b4c76ead2a56833b2984c7\nhttps://git.kernel.org/stable/c/cfc0b8e5080aec87700774e8568765eaa4b7b92b\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-68431\n",
+  "references": "https://git.kernel.org/stable/c/b62c510f59803f82f9b4c76ead2a56833b2984c7\nhttps://git.kernel.org/stable/c/cfc0b8e5080aec87700774e8568765eaa4b7b92b\n",
   "aliases": "GHSA-6pm5-g7cv-g948\nCVE-2026-68431\n",
   "assigner": "Linux",
-  "epss": 0.0,
+  "epss": 0.11,
   "enisaIdProduct": [
     {
       "id": "25da6243-d16b-3098-8fec-fe1c6f586bd2",

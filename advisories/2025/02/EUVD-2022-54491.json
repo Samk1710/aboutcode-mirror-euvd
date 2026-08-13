@@ -1,0 +1,122 @@
+{
+  "id": "EUVD-2022-54491",
+  "enisaUuid": "3dbc343e-8636-3d22-9636-38d270b83d86",
+  "description": "In the Linux kernel, the following vulnerability has been resolved:\n\nceph: fix inode reference leakage in ceph_get_snapdir()\n\nThe ceph_get_inode() will search for or insert a new inode into the\nhash for the given vino, and return a reference to it. If new is\nnon-NULL, its reference is consumed.\n\nWe should release the reference when in error handing cases.",
+  "datePublished": "Feb 26, 2025, 1:54:55 AM",
+  "dateUpdated": "Aug 12, 2026, 11:57:43 PM",
+  "baseScore": 0.0,
+  "references": "https://git.kernel.org/stable/c/3ae7163598c611a8892698e0c056fe794e52b44b\nhttps://git.kernel.org/stable/c/9cd21981dedfb4fe9f344529e4be35727cb10940\nhttps://git.kernel.org/stable/c/b2d9bb3f06abddefdfa740b0a604575b6797e1bf\nhttps://git.kernel.org/stable/c/322794d3355c33adcc4feace0045d85a8e4ed813\n",
+  "aliases": "GHSA-79jr-4vr5-352r\nCVE-2022-49109\n",
+  "assigner": "Linux",
+  "epss": 0.25,
+  "enisaIdProduct": [
+    {
+      "id": "0486a30a-f339-3ff5-8847-fa2a6f878aae",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "3e10a15ffc8d77f05e655d14fd48c0b790dede35 <b2d9bb3f06abddefdfa740b0a604575b6797e1bf"
+    },
+    {
+      "id": "108347bd-16ed-30eb-bb7f-f117b169b787",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "patch: 5.18"
+    },
+    {
+      "id": "45ed5c54-c4a0-3f25-b513-a983d4e5e324",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "3e10a15ffc8d77f05e655d14fd48c0b790dede35 <9cd21981dedfb4fe9f344529e4be35727cb10940"
+    },
+    {
+      "id": "4f5244cc-b807-31c2-b916-6aacd29ae805",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "3e10a15ffc8d77f05e655d14fd48c0b790dede35 <3ae7163598c611a8892698e0c056fe794e52b44b"
+    },
+    {
+      "id": "603f9749-2e3d-3570-83cf-5785a5b50db9",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "patch: 5.17.3"
+    },
+    {
+      "id": "673a5f93-70ea-3821-908f-c6e9283a532e",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "patch: 5.16.20"
+    },
+    {
+      "id": "82abae8e-34a5-3c64-b5e6-ae95df8bd3b6",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "5.13"
+    },
+    {
+      "id": "be2aef59-aa9f-3d5b-a85e-740b468a095e",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "3e10a15ffc8d77f05e655d14fd48c0b790dede35 <322794d3355c33adcc4feace0045d85a8e4ed813"
+    },
+    {
+      "id": "e09739c7-e6a9-3f5a-835b-6c5cc8c1088a",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "patch: 5.15.34"
+    },
+    {
+      "id": "fa73b03a-711f-3c87-b944-731dc1841cc2",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "patch: 0"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "0ffd8dd1-477f-3b36-b366-d8cc145403d3",
+      "vendor": {
+        "name": "Linux"
+      }
+    }
+  ]
+}

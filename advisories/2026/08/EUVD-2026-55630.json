@@ -3,14 +3,14 @@
   "enisaUuid": "4ef472b6-1c96-3eb4-812d-c53d1e32988c",
   "description": "Attacker-controlled CSV samples can trigger super-linear \nregular-expression work during dialect sniffing and consume significant \nCPU when applications pass unbounded input to csv.Sniffer.sniff().",
   "datePublished": "Aug 10, 2026, 1:45:31 PM",
-  "dateUpdated": "Aug 10, 2026, 5:56:28 PM",
+  "dateUpdated": "Aug 13, 2026, 12:28:22 AM",
   "baseScore": 2.4,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:L/UI:P/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",
-  "references": "https://mail.python.org/archives/list/security-announce@python.org/thread/KQ7NBMCPAZJHRROQXJQE4GMXGLD5KHBS/\nhttps://github.com/python/cpython/pull/153694\nhttps://github.com/python/cpython/issues/98820\nhttps://github.com/python/cpython/commit/063d4555c94ef412c731527dbf30193327f2ee82\nhttps://github.com/python/cpython/commit/476fb09cdb0d73e645849d98c610e7e5697ce7c9\nhttps://github.com/python/cpython/commit/89f29c760c02774b099ddd6863268eb13fa3946a\nhttps://github.com/python/cpython/commit/b30c7fa9edd921a118f286e9f90f560777fa693b\n",
+  "references": "https://mail.python.org/archives/list/security-announce@python.org/thread/KQ7NBMCPAZJHRROQXJQE4GMXGLD5KHBS/\nhttps://github.com/python/cpython/pull/153694\nhttps://github.com/python/cpython/issues/98820\nhttps://github.com/python/cpython/commit/063d4555c94ef412c731527dbf30193327f2ee82\nhttps://github.com/python/cpython/commit/476fb09cdb0d73e645849d98c610e7e5697ce7c9\nhttps://github.com/python/cpython/commit/89f29c760c02774b099ddd6863268eb13fa3946a\nhttps://github.com/python/cpython/commit/b30c7fa9edd921a118f286e9f90f560777fa693b\nhttps://github.com/python/cpython/commit/b09a67a20c464f8288c9f9a6b9c7082a74560024\nhttps://github.com/python/cpython/commit/fd78b565d7c326f96ae903ab945b47f35d829cf4\n",
   "aliases": "GHSA-2345-wr3r-cxf2\nCVE-2026-18503\n",
   "assigner": "PSF",
-  "epss": 0.0,
+  "epss": 0.12,
   "enisaIdProduct": [
     {
       "id": "58b10a3e-ce61-3433-ace0-c84c19e3efaa",
@@ -23,6 +23,26 @@
       "product_version": "3.15.0a1 <3.15.0rc1"
     },
     {
+      "id": "7e63ebd3-306c-3629-b740-100a240d3752",
+      "product": {
+        "name": "CPython",
+        "vendor": {
+          "name": "Python Software Foundation"
+        }
+      },
+      "product_version": "3.12.0 <3.12.14"
+    },
+    {
+      "id": "8ff1d048-9d5c-3073-a84f-5e07d2acdd0c",
+      "product": {
+        "name": "CPython",
+        "vendor": {
+          "name": "Python Software Foundation"
+        }
+      },
+      "product_version": "3.11.0 <3.11.16"
+    },
+    {
       "id": "c3fde785-6e3c-3db0-ac6e-e68589e5f25a",
       "product": {
         "name": "CPython",
@@ -33,14 +53,24 @@
       "product_version": "3.14.0 <3.14.7"
     },
     {
-      "id": "e5e7c982-7fff-3eae-9569-c6a20956e866",
+      "id": "e49c93e9-12dd-3579-923b-92f9a789d0f1",
       "product": {
         "name": "CPython",
         "vendor": {
           "name": "Python Software Foundation"
         }
       },
-      "product_version": "0 <3.13.15"
+      "product_version": "0 <3.10.21"
+    },
+    {
+      "id": "f0ffe121-224c-32f1-9ced-7b02a4befb1d",
+      "product": {
+        "name": "CPython",
+        "vendor": {
+          "name": "Python Software Foundation"
+        }
+      },
+      "product_version": "3.13.0 <3.13.15"
     }
   ],
   "enisaIdVendor": [

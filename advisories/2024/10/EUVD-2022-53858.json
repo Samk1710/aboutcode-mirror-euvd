@@ -3,7 +3,7 @@
   "enisaUuid": "44ac3b2b-cb5c-3b30-95c6-c2c3637576b5",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amd/display: fix array index out of bound error in DCN32 DML\n\n[Why&How]\nLinkCapacitySupport array is indexed with the number of voltage states and\nnot the number of max DPPs. Fix the error by changing the array\ndeclaration to use the correct (larger) array size of total number of\nvoltage states.",
   "datePublished": "Oct 21, 2024, 8:05:57 PM",
-  "dateUpdated": "Aug 5, 2026, 8:53:13 AM",
+  "dateUpdated": "Aug 12, 2026, 11:57:22 PM",
   "baseScore": 7.8,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
@@ -13,14 +13,14 @@
   "epss": 0.22,
   "enisaIdProduct": [
     {
-      "id": "30c5186d-0e3a-36d5-b0c7-9fea385795c6",
+      "id": "35a5f598-73b3-3a3e-975c-aba3ba47e4cb",
       "product": {
         "name": "Linux",
         "vendor": {
           "name": "Linux"
         }
       },
-      "product_version": "4.15"
+      "product_version": "74458c081fcfb0423877e630de2746daefdb16e4 <aeffc8fb2174f017a10df114bc312f899904dc68"
     },
     {
       "id": "3d141099-06e1-368d-be4e-b7477b91b478",
@@ -33,24 +33,14 @@
       "product_version": "patch: 6.0.13"
     },
     {
-      "id": "7cc12f10-bbcd-3c6e-a353-e01ec178b3bf",
+      "id": "9418a965-009f-394a-8c9d-a375f83687ce",
       "product": {
         "name": "Linux",
         "vendor": {
           "name": "Linux"
         }
       },
-      "product_version": "4562236b3bc0a28aeb6ee93b2d8a849a4c4e1c7c <3d8a298b2e83b98042e6ec726e934f535b23e6aa"
-    },
-    {
-      "id": "a9e47809-3f35-3139-9ecc-13dca126af63",
-      "product": {
-        "name": "Linux",
-        "vendor": {
-          "name": "Linux"
-        }
-      },
-      "product_version": "4562236b3bc0a28aeb6ee93b2d8a849a4c4e1c7c <aeffc8fb2174f017a10df114bc312f899904dc68"
+      "product_version": "74458c081fcfb0423877e630de2746daefdb16e4 <3d8a298b2e83b98042e6ec726e934f535b23e6aa"
     },
     {
       "id": "df01bbd8-830a-325f-bf7e-bb53e50d46f3",
@@ -61,6 +51,16 @@
         }
       },
       "product_version": "patch: 0"
+    },
+    {
+      "id": "e46e2e5b-d679-38b5-8b89-edba788afdc0",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "5.14"
     },
     {
       "id": "fcdb9773-b4bc-3caf-93d1-529f231098e2",
