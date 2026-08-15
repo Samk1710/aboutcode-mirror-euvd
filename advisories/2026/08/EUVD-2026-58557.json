@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:N/VI:L/VA:L/SC:N/SI:N/SA:N/E:X",
   "references": "https://vuldb.com/vuln/389666\nhttps://vuldb.com/vuln/389666/cti\nhttps://vuldb.com/cve/CVE-2026-19763\nhttps://vuldb.com/submit/868967\nhttps://github.com/DTStack/Taier/issues/1204\nhttps://github.com/DTStack/Taier/commit/ec8c59c76aceb04ab3080543ab2d9c6a4b674729\nhttps://github.com/DTStack/Taier/releases/tag/v1.5.0\nhttps://github.com/DTStack/Taier/\n",
-  "aliases": "CVE-2026-19763\n",
+  "aliases": "CVE-2026-19763\nGHSA-v3r7-p73g-2j3x\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
