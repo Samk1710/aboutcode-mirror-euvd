@@ -3,7 +3,7 @@
   "enisaUuid": "d747fbfc-74c6-3ce1-a6fe-f0c27868e897",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\nusb: gadget: function: rndis: add length check to response query\n\nAdd variable representations for BufLength and BufOffset in\nrndis_query_response(), and perform a length check on them.\n\nThis is identical to how rndis_set_response() handles these parameters.",
   "datePublished": "Aug 10, 2026, 11:51:42 AM",
-  "dateUpdated": "Aug 12, 2026, 11:58:26 PM",
+  "dateUpdated": "Aug 17, 2026, 4:58:35 AM",
   "baseScore": 0.0,
   "references": "https://git.kernel.org/stable/c/efcf4e4eeea0d69d8da72a7bc5cbd49b6192260e\nhttps://git.kernel.org/stable/c/bb2b4402b4571b0c989b977779f7be01107ca425\nhttps://git.kernel.org/stable/c/585921866d2d7d65d4b0d89927c78f784668cf5f\nhttps://git.kernel.org/stable/c/caea8b120604312bab2bfeb1a972f9cd17019e93\nhttps://git.kernel.org/stable/c/f5870777458d8be65d7cd08bc750a03f17998350\nhttps://git.kernel.org/stable/c/e01e7814b4223560eab0513b7c15b8c82bdc83f3\nhttps://git.kernel.org/stable/c/b09716040f3fa4a252eeda3ceb5295ea0e39c1fb\nhttps://git.kernel.org/stable/c/95f90eea070837f7c72207d5520f805bdefc3bc5\n",
   "aliases": "GHSA-56w3-ch4f-hr74\nCVE-2026-68088\n",
@@ -29,6 +29,16 @@
         }
       },
       "product_version": "340600ab4cf0cc41efd01a65af97ebb7d35a7f85 <e01e7814b4223560eab0513b7c15b8c82bdc83f3"
+    },
+    {
+      "id": "2e9d3fee-f2e2-3bdf-ab05-2edc91d3855f",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "patch: 7.2"
     },
     {
       "id": "302c9a42-2ba3-3b26-8093-4c21e95aee65",
@@ -179,16 +189,6 @@
         }
       },
       "product_version": "340600ab4cf0cc41efd01a65af97ebb7d35a7f85 <f5870777458d8be65d7cd08bc750a03f17998350"
-    },
-    {
-      "id": "e84f6f2c-bb47-3623-9f6b-8de33689ecee",
-      "product": {
-        "name": "Linux",
-        "vendor": {
-          "name": "Linux"
-        }
-      },
-      "product_version": "patch: 7.2-rc3"
     }
   ],
   "enisaIdVendor": [

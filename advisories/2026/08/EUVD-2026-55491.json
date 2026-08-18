@@ -3,7 +3,7 @@
   "enisaUuid": "768a6daf-14cb-3b8c-b432-2c15e444a1d7",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amdgpu/sdma4.4.2: replace BUG_ON() with WARN_ON()\n\nThere's no need to crash the kernel for these cases.\n\n(cherry picked from commit fa4f86a148271e325e95287630a3a15a9cd35fdc)",
   "datePublished": "Aug 10, 2026, 11:58:27 AM",
-  "dateUpdated": "Aug 12, 2026, 11:58:48 PM",
+  "dateUpdated": "Aug 17, 2026, 4:58:59 AM",
   "baseScore": 0.0,
   "references": "https://git.kernel.org/stable/c/256d6f4803a93df96579c1ffdcb56518b9304f76\nhttps://git.kernel.org/stable/c/ca50e541191fab519ed628182e1472e21d60e2ce\nhttps://git.kernel.org/stable/c/dc3f5da1ba8e280d31676ce15b937e4302235b03\nhttps://git.kernel.org/stable/c/cbe3b293d0ee926e595f53513d7c027d1c3e5be5\nhttps://git.kernel.org/stable/c/40cdbe9fa424cc6264a7aed93a04bd7d69109d9e\n",
   "aliases": "CVE-2026-68110\nGHSA-mjv8-c7xr-7hmg\n",
@@ -39,16 +39,6 @@
         }
       },
       "product_version": "patch: 7.1.6"
-    },
-    {
-      "id": "46aa23cd-b505-3b98-8ebc-55ddbe532927",
-      "product": {
-        "name": "Linux",
-        "vendor": {
-          "name": "Linux"
-        }
-      },
-      "product_version": "patch: 7.2-rc2"
     },
     {
       "id": "4890aa19-b659-3cdd-8f43-b5cd4d50e6a4",
@@ -119,6 +109,16 @@
         }
       },
       "product_version": "7138fc88fdc1f999a547657af8623d3a2a862fc1 <256d6f4803a93df96579c1ffdcb56518b9304f76"
+    },
+    {
+      "id": "b1e0e658-d3fb-3c99-9e6b-3813574faca1",
+      "product": {
+        "name": "Linux",
+        "vendor": {
+          "name": "Linux"
+        }
+      },
+      "product_version": "patch: 7.2"
     },
     {
       "id": "f0cc65cd-381f-3d64-9846-85d4b6ec2209",
