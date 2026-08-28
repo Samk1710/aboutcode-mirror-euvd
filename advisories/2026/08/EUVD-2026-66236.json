@@ -10,7 +10,7 @@
   "references": "https://security.freebsd.org/advisories/FreeBSD-SA-26:58.sound.asc\n",
   "aliases": "CVE-2026-58091\n",
   "assigner": "freebsd",
-  "epss": 0.16,
+  "epss": 0.13,
   "enisaIdProduct": [
     {
       "id": "21ad7e11-e71b-37c5-8590-8cfb65260095",

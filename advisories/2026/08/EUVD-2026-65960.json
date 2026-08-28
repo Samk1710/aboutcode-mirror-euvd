@@ -10,7 +10,7 @@
   "references": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0013\n",
   "aliases": "GHSA-6xwp-x9rh-9cvm\nCVE-2026-66153\n",
   "assigner": "sonicwall",
-  "epss": 0.2,
+  "epss": 0.19,
   "enisaIdProduct": [
     {
       "id": "138644a4-736a-309b-bcd0-ed6443b51732",

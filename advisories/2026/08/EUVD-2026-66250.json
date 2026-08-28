@@ -10,7 +10,7 @@
   "references": "https://security.freebsd.org/advisories/FreeBSD-SA-26:62.tty.asc\n",
   "aliases": "CVE-2026-58093\n",
   "assigner": "freebsd",
-  "epss": 0.13,
+  "epss": 0.09,
   "enisaIdProduct": [
     {
       "id": "7a9a0d6d-9577-3f12-9cfe-75830848eaf9",

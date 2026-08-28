@@ -10,7 +10,7 @@
   "references": "https://gitlab.com/gitlab-org/gitlab/-/work_items/607342\nhttps://hackerone.com/reports/3863650\nhttps://docs.gitlab.com/releases/patches/patch-release-gitlab-19-3-1-released/\n",
   "aliases": "GHSA-gjcp-3p8v-jvrw\nCVE-2026-18252\n",
   "assigner": "GitLab",
-  "epss": 0.0,
+  "epss": 0.34,
   "enisaIdProduct": [
     {
       "id": "2826a000-ff23-3323-97c4-07edc12c6ef0",

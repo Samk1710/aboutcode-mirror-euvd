@@ -10,7 +10,7 @@
   "references": "https://security.freebsd.org/advisories/FreeBSD-SA-26:63.posixshm.asc\n",
   "aliases": "CVE-2026-58094\n",
   "assigner": "freebsd",
-  "epss": 0.13,
+  "epss": 0.11,
   "enisaIdProduct": [
     {
       "id": "2f438771-e36e-3846-9b7d-f9eba6b9750a",

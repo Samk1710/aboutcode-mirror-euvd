@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:60386\nhttps://access.redhat.com/errata/RHSA-2026:60387\nhttps://access.redhat.com/errata/RHSA-2026:60388\nhttps://access.redhat.com/errata/RHSA-2026:60389\nhttps://access.redhat.com/errata/RHSA-2026:60390\nhttps://access.redhat.com/errata/RHSA-2026:60391\nhttps://access.redhat.com/security/cve/CVE-2026-73834\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2517904\n",
   "aliases": "CVE-2026-73834\nGHSA-8m45-79jm-xw59\n",
   "assigner": "redhat",
-  "epss": 0.08,
+  "epss": 0.09,
   "enisaIdProduct": [
     {
       "id": "52a818c3-184f-3f37-be68-d111f9c4e1b6",

@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:60386\nhttps://access.redhat.com/errata/RHSA-2026:60387\nhttps://access.redhat.com/errata/RHSA-2026:60388\nhttps://access.redhat.com/errata/RHSA-2026:60389\nhttps://access.redhat.com/errata/RHSA-2026:60390\nhttps://access.redhat.com/errata/RHSA-2026:60391\nhttps://access.redhat.com/security/cve/CVE-2026-70496\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2511032\n",
   "aliases": "CVE-2026-70496\nGHSA-xg68-vc28-3f79\n",
   "assigner": "redhat",
-  "epss": 0.26,
+  "epss": 0.43,
   "enisaIdProduct": [
     {
       "id": "58f5af98-216c-3147-ae4d-3ba9d233ade2",

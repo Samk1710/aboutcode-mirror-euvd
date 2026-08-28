@@ -10,7 +10,7 @@
   "references": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1068\n",
   "aliases": "CVE-2019-1068\nGHSA-62pw-5pr4-ghr5\n",
   "assigner": "microsoft",
-  "epss": 44.67,
+  "epss": 52.85,
   "exploitedSince": "Aug 26, 2026, 12:00:00 AM",
   "enisaIdProduct": [
     {

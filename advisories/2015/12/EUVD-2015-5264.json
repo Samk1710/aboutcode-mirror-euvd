@@ -10,7 +10,7 @@
   "references": "http://rhn.redhat.com/errata/RHSA-2015-2505.html\nhttps://www.exploit-db.com/exploits/38832/\nhttp://www.openwall.com/lists/oss-security/2015/12/01/1\nhttp://www.oracle.com/technetwork/topics/security/linuxbulletinoct2015-2719645.html\nhttps://bugzilla.redhat.com/show_bug.cgi?id=1266837\nhttp://www.securityfocus.com/bid/78137\nhttps://github.com/abrt/abrt/commit/3c1b60cfa62d39e5fff5a53a5bc53dae189e740e\nhttp://packetstormsecurity.com/files/154592/ABRT-sosreport-Privilege-Escalation.html\n",
   "aliases": "GHSA-hf8c-7p7w-mch5\nCVE-2015-5287\n",
   "assigner": "redhat",
-  "epss": 3.41,
+  "epss": 4.96,
   "exploitedSince": "Aug 26, 2026, 12:00:00 AM",
   "enisaIdProduct": [
     {

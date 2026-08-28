@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:60399\nhttps://access.redhat.com/errata/RHSA-2026:60400\nhttps://access.redhat.com/errata/RHSA-2026:60401\nhttps://access.redhat.com/errata/RHSA-2026:60402\nhttps://access.redhat.com/errata/RHSA-2026:60403\nhttps://access.redhat.com/errata/RHSA-2026:60404\nhttps://access.redhat.com/security/cve/CVE-2026-76139\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2519852\n",
   "aliases": "GHSA-37hx-9chj-hc3m\nCVE-2026-76139\n",
   "assigner": "redhat",
-  "epss": 0.33,
+  "epss": 0.45,
   "enisaIdProduct": [
     {
       "id": "0e6cacca-3fad-3c31-acdd-21e7eabe02e7",

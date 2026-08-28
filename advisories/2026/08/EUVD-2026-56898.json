@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:60386\nhttps://access.redhat.com/errata/RHSA-2026:60387\nhttps://access.redhat.com/errata/RHSA-2026:60388\nhttps://access.redhat.com/errata/RHSA-2026:60389\nhttps://access.redhat.com/errata/RHSA-2026:60390\nhttps://access.redhat.com/errata/RHSA-2026:60391\nhttps://access.redhat.com/security/cve/CVE-2026-71845\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2512568\n",
   "aliases": "GHSA-h2jx-ffv3-pwqm\nCVE-2026-71845\n",
   "assigner": "redhat",
-  "epss": 0.21,
+  "epss": 0.28,
   "enisaIdProduct": [
     {
       "id": "3eba8082-a4ac-3e02-9464-9fb472160e34",

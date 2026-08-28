@@ -10,7 +10,7 @@
   "references": "https://spring.io/security/cve-2026-47841\n",
   "aliases": "CVE-2026-47841\nGHSA-326h-rh66-6gp9\n",
   "assigner": "vmware",
-  "epss": 0.0,
+  "epss": 0.3,
   "enisaIdProduct": [
     {
       "id": "92d668e1-b6c1-3f86-aa35-81266397f64a",

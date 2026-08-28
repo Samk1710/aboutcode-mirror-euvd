@@ -10,7 +10,7 @@
   "references": "https://github.com/ipld/go-ipld-prime/security/advisories/GHSA-c653-6hhg-9x92\nhttps://github.com/ipld/go-ipld-prime/pull/472\nhttps://github.com/ipld/go-ipld-prime/releases/tag/v0.19.0\n",
   "aliases": "GHSA-c653-6hhg-9x92\nCVE-2023-22460\n",
   "assigner": "GitHub_M",
-  "epss": 0.95,
+  "epss": 0.97,
   "enisaIdProduct": [
     {
       "id": "cb522fb2-ff4e-399a-9f26-28259b0fb857",

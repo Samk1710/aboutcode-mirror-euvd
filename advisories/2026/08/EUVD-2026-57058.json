@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:60386\nhttps://access.redhat.com/errata/RHSA-2026:60387\nhttps://access.redhat.com/errata/RHSA-2026:60388\nhttps://access.redhat.com/errata/RHSA-2026:60389\nhttps://access.redhat.com/errata/RHSA-2026:60390\nhttps://access.redhat.com/errata/RHSA-2026:60391\nhttps://access.redhat.com/security/cve/CVE-2026-70398\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2514228\n",
   "aliases": "GHSA-cjw2-r57r-pwvf\nCVE-2026-70398\n",
   "assigner": "redhat",
-  "epss": 0.25,
+  "epss": 0.32,
   "enisaIdProduct": [
     {
       "id": "2da4e379-794d-3e1a-b4f4-a25615945d4c",

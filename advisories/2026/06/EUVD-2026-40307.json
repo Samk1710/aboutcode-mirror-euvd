@@ -10,7 +10,7 @@
   "references": "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX696604\n",
   "aliases": "CVE-2026-8452\nGHSA-r7wg-r5wj-c765\n",
   "assigner": "NetScaler",
-  "epss": 1.04,
+  "epss": 1.61,
   "exploitedSince": "Aug 26, 2026, 12:00:00 AM",
   "enisaIdProduct": [
     {

@@ -10,7 +10,7 @@
   "references": "http://www.securityfocus.com/bid/76022\nhttp://lists.fedoraproject.org/pipermail/package-announce/2015-July/162947.html\nhttps://www.exploit-db.com/exploits/44633/\nhttps://access.redhat.com/articles/1537873\nhttp://rhn.redhat.com/errata/RHSA-2015-1482.html\nhttp://lists.fedoraproject.org/pipermail/package-announce/2015-August/163044.html\nhttp://lists.opensuse.org/opensuse-security-announce/2015-08/msg00000.html\nhttps://www.qualys.com/2015/07/23/cve-2015-3245-cve-2015-3246/cve-2015-3245-cve-2015-3246.txt\nhttp://www.securitytracker.com/id/1033040\nhttp://rhn.redhat.com/errata/RHSA-2015-1483.html\n",
   "aliases": "GHSA-f52h-j689-x786\nCVE-2015-3246\n",
   "assigner": "redhat",
-  "epss": 7.09,
+  "epss": 8.8,
   "exploitedSince": "Aug 26, 2026, 12:00:00 AM",
   "enisaIdProduct": [
     {

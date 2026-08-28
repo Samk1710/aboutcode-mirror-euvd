@@ -10,7 +10,7 @@
   "references": "https://security.freebsd.org/advisories/FreeBSD-SA-26:60.ppp.asc\n",
   "aliases": "CVE-2026-58097\nGHSA-8qxx-j2rw-6vhr\n",
   "assigner": "freebsd",
-  "epss": 0.27,
+  "epss": 0.22,
   "enisaIdProduct": [
     {
       "id": "1731d1c9-0a2f-342c-9f0b-3be98a148bc7",
