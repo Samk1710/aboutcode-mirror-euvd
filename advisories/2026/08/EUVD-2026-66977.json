@@ -10,7 +10,7 @@
   "references": "https://spring.io/security/cve-2026-59354\nhttps://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:N&version=3.1\n",
   "aliases": "CVE-2026-59354\nGHSA-j9pv-5342-rrx5\n",
   "assigner": "vmware",
-  "epss": 0.25,
+  "epss": 0.37,
   "enisaIdProduct": [
     {
       "id": "2cfc270a-b5dc-314a-928a-a6c288f15397",

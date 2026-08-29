@@ -3,14 +3,14 @@
   "enisaUuid": "c0f5f173-b792-35bf-ac2d-dca24eebd5cf",
   "description": "WatchGuard Dimension's Web UI exposes an administrator passphrase change action that lacks CSRF protection. An attacker who can induce an authenticated global administrator's browser to visit a crafted link or page can change that administrator's passphrase to an attacker-chosen value without the administrator's consent.",
   "datePublished": "Aug 27, 2026, 11:26:31 PM",
-  "dateUpdated": "Aug 27, 2026, 11:26:31 PM",
+  "dateUpdated": "Aug 28, 2026, 3:56:36 PM",
   "baseScore": 8.4,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:A/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://psirt.watchguard.com/CVE-2026-78610\n",
   "aliases": "CVE-2026-78610\nGHSA-gmp7-88g9-vp39\n",
   "assigner": "WatchGuard",
-  "epss": 0.0,
+  "epss": 0.15,
   "enisaIdProduct": [
     {
       "id": "d9e7fecb-b245-3457-b889-4eeea9e46ea5",

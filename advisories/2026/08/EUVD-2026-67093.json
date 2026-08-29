@@ -10,7 +10,7 @@
   "references": "https://spring.io/security/cve-2026-59272\n",
   "aliases": "GHSA-fp2f-68v2-xw9x\nCVE-2026-59272\n",
   "assigner": "vmware",
-  "epss": 0.0,
+  "epss": 0.16,
   "enisaIdProduct": [
     {
       "id": "2aead29f-866d-341c-8c22-457b4f345f20",

@@ -3,7 +3,7 @@
   "enisaUuid": "b9f3ab74-3693-3447-be56-6f6a22e5dd31",
   "description": "Unauthenticated SQL Injection in Visitor Traffic Real Time Statistics Pro <= 11.17 versions.",
   "datePublished": "Aug 27, 2026, 8:59:51 AM",
-  "dateUpdated": "Aug 27, 2026, 9:03:41 AM",
+  "dateUpdated": "Aug 28, 2026, 6:35:57 PM",
   "baseScore": 9.3,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:N/A:L",

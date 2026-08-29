@@ -3,14 +3,14 @@
   "enisaUuid": "7adfeec3-cac1-335d-8fb2-10ff16b62e5b",
   "description": "An out-of-bounds read vulnerability in the WatchGuard Fireware OS iked process allows a remote unauthenticated attacker to create a Denial of Service (DoS) condition in VPN processing by sending specially crafted network traffic.",
   "datePublished": "Aug 27, 2026, 11:24:33 PM",
-  "dateUpdated": "Aug 27, 2026, 11:24:33 PM",
+  "dateUpdated": "Aug 28, 2026, 4:51:00 PM",
   "baseScore": 8.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://psirt.watchguard.com/CVE-2026-19317\n",
   "aliases": "CVE-2026-19317\nGHSA-fj8p-qfhx-jffx\n",
   "assigner": "WatchGuard",
-  "epss": 0.0,
+  "epss": 0.32,
   "enisaIdProduct": [
     {
       "id": "460df199-6de8-3c89-b34a-19e04bbcab1e",

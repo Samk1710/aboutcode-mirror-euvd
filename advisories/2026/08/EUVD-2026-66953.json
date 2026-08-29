@@ -3,7 +3,7 @@
   "enisaUuid": "8271186b-560d-37a1-8cf6-d5cd39330c6f",
   "description": "Unauthenticated Broken Access Control in Kali Forms <= 2.4.23 versions.",
   "datePublished": "Aug 27, 2026, 9:00:09 AM",
-  "dateUpdated": "Aug 27, 2026, 9:00:09 AM",
+  "dateUpdated": "Aug 28, 2026, 6:35:56 PM",
   "baseScore": 5.3,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",

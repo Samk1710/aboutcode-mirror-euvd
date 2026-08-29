@@ -3,7 +3,7 @@
   "enisaUuid": "34797b4d-e6ad-3839-b169-4ae51e8f191d",
   "description": "Joomla Extension - joomlaeventmanager.net - Cross-user event and venue takeover through forged form fields in Joomla Event Manager < 5.0.1 - A registered user with edit-own rights (the eventowner=1 setting or core.edit.own) can POST another user's record id together with their own id as created_by and take over that record.",
   "datePublished": "Aug 27, 2026, 5:46:06 AM",
-  "dateUpdated": "Aug 27, 2026, 1:50:55 PM",
+  "dateUpdated": "Aug 28, 2026, 7:43:42 AM",
   "baseScore": 5.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N",

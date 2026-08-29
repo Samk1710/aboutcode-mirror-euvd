@@ -10,7 +10,7 @@
   "references": "https://www.oracle.com/security-alerts/cspuaug2026.html\n",
   "aliases": "GHSA-9r92-ww66-j949\nCVE-2026-70908\n",
   "assigner": "oracle",
-  "epss": 0.44,
+  "epss": 0.45,
   "enisaIdProduct": [
     {
       "id": "20828320-74a2-3d8f-a5ec-aa69ebb18a5b",

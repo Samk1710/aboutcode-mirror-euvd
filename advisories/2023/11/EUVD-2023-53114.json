@@ -10,7 +10,7 @@
   "references": "https://owncloud.org/security\nhttps://owncloud.com/security-advisories/webdav-api-authentication-bypass-using-pre-signed-urls/\n",
   "aliases": "CVE-2023-49105\nGHSA-585g-f852-v6p4\n",
   "assigner": "mitre",
-  "epss": 11.07,
+  "epss": 41.19,
   "exploitedSince": "Aug 27, 2026, 12:00:00 AM",
   "enisaIdProduct": [
     {

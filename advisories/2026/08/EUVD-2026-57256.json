@@ -10,7 +10,7 @@
   "references": "https://docs.jfrog.com/releases/docs/jfrog-security-advisories\nhttps://docs.jfrog.com/releases/docs/artifactory-self-managed-releases\n",
   "aliases": "GHSA-g2mp-x73p-93xc\nCVE-2026-66384\n",
   "assigner": "JFROG",
-  "epss": 0.26,
+  "epss": 0.54,
   "exploitedSince": "Aug 27, 2026, 12:00:00 AM",
   "enisaIdProduct": [
     {
