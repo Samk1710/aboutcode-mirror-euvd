@@ -3,7 +3,7 @@
   "enisaUuid": "41f11372-1a74-37fd-b16d-72b276b56481",
   "description": "A buffer overflow vulnerability in the WatchGuard Fireware OS Management Web UI allows an authenticated administrator with network access to cause a denial of service (DoS) condition or potentially execute arbitrary code by sending specially crafted network traffic.",
   "datePublished": "Aug 27, 2026, 11:24:32 PM",
-  "dateUpdated": "Aug 28, 2026, 5:37:45 PM",
+  "dateUpdated": "Aug 29, 2026, 3:56:05 AM",
   "baseScore": 8.6,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",

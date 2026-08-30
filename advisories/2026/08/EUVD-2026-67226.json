@@ -3,7 +3,7 @@
   "enisaUuid": "3695e38f-0920-3bfd-a3ae-7f8c00bd82bf",
   "description": "SpeechBrain before 1.1.1 contains an arbitrary code execution vulnerability that allows attackers to execute arbitrary code by supplying a crafted CKPT.yaml checkpoint metadata file parsed with PyYAML's unsafe loader during candidate enumeration in Checkpointer.recover_if_possible(). Attackers can embed malicious Python object construction tags such as !!python/object/apply in any CKPT.yaml file within the configured checkpoint path to trigger code execution during candidate discovery, even if the malicious checkpoint is never selected for recovery.",
   "datePublished": "Aug 27, 2026, 7:36:57 PM",
-  "dateUpdated": "Aug 28, 2026, 6:01:19 PM",
+  "dateUpdated": "Aug 29, 2026, 11:47:29 AM",
   "baseScore": 8.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
