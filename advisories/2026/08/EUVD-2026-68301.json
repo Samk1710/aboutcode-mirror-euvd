@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/397100\nhttps://vuldb.com/vuln/397100/cti\nhttps://vuldb.com/cve/CVE-2026-82598\nhttps://vuldb.com/submit/892763\nhttps://github.com/T-Chachamaru/seacms-13.6-security-advisories/blob/a084a3e573240d54860153321df271280daec262/c-009-search-cascade-template-rce.md\n",
-  "aliases": "CVE-2026-82598\n",
+  "aliases": "CVE-2026-82598\nGHSA-95g6-8p7m-qc3f\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
