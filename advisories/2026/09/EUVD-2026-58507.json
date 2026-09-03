@@ -1,0 +1,44 @@
+{
+  "id": "EUVD-2026-58507",
+  "enisaUuid": "7ccf627c-9b09-3105-aeb2-6abcc52aa228",
+  "description": "OpenChoreo: Cross-project command execution and wirelog view access via OpenChoreo openchoreo-api exec and wirelogs endpoints",
+  "datePublished": "Sep 2, 2026, 11:44:51 PM",
+  "dateUpdated": "Sep 2, 2026, 11:44:51 PM",
+  "baseScore": 8.8,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+  "references": "https://github.com/openchoreo/openchoreo/security/advisories/GHSA-52gf-6rpq-fgmx\nhttps://github.com/openchoreo/openchoreo/pull/4251\nhttps://github.com/openchoreo/openchoreo/pull/4516\nhttps://github.com/openchoreo/openchoreo/pull/4538\nhttps://github.com/openchoreo/openchoreo/commit/4d372eaf1f07525663dcca5257062f4b051b9820\nhttps://github.com/openchoreo/openchoreo/commit/9d77b64f747eba89247c47ebfeffec591c4cd2d8\nhttps://github.com/openchoreo/openchoreo/commit/c9390e4fcb9953f43b07cb48197576182301593d\nhttps://github.com/openchoreo/openchoreo/releases/tag/v1.1.6\nhttps://github.com/openchoreo/openchoreo/releases/tag/v1.2.3\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-73841\n",
+  "aliases": "GHSA-52gf-6rpq-fgmx\nCVE-2026-73841\n",
+  "assigner": "GitHub_M",
+  "epss": 0.35,
+  "enisaIdProduct": [
+    {
+      "id": "478bb41c-0543-3f95-b3c2-d49ea818a8dd",
+      "product": {
+        "name": "openchoreo",
+        "vendor": {
+          "name": "openchoreo"
+        }
+      },
+      "product_version": "< 1.1.6"
+    },
+    {
+      "id": "9875e379-009a-39c7-b6af-f2abafd65b18",
+      "product": {
+        "name": "openchoreo",
+        "vendor": {
+          "name": "openchoreo"
+        }
+      },
+      "product_version": "1.2.0-m.1, < 1.2.3"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "28a4724e-33d3-3e9c-8ab4-5d3c96ed0eb9",
+      "vendor": {
+        "name": "openchoreo"
+      }
+    }
+  ]
+}

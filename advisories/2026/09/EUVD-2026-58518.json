@@ -1,0 +1,44 @@
+{
+  "id": "EUVD-2026-58518",
+  "enisaUuid": "13f0f33e-dda4-3865-a059-8e17b6a322ff",
+  "description": "OpenChoreo: Unauthenticated access to data-plane operations via OpenChoreo cluster-gateway management APIs",
+  "datePublished": "Sep 2, 2026, 11:43:55 PM",
+  "dateUpdated": "Sep 2, 2026, 11:43:55 PM",
+  "baseScore": 9.6,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
+  "references": "https://github.com/openchoreo/openchoreo/security/advisories/GHSA-qh9r-j7rp-4x2m\nhttps://github.com/openchoreo/openchoreo/pull/4122\nhttps://github.com/openchoreo/openchoreo/commit/047d80ddc63b4b4b9dd67044d5cffcdbd77685ce\nhttps://github.com/openchoreo/openchoreo/commit/0aa0ffe1623bd8eb4235cb2a5854336695953c3a\nhttps://github.com/openchoreo/openchoreo/commit/b42eeb0f5dce95195a9781d7c5a1fe9e38f5da8f\nhttps://github.com/openchoreo/openchoreo/releases/tag/v1.0.2\nhttps://github.com/openchoreo/openchoreo/releases/tag/v1.1.2\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-73843\nhttps://github.com/openchoreo/openchoreo/releases/tag/v1.2.0\n",
+  "aliases": "CVE-2026-73843\nGHSA-qh9r-j7rp-4x2m\n",
+  "assigner": "GitHub_M",
+  "epss": 0.29,
+  "enisaIdProduct": [
+    {
+      "id": "5ed22ce1-5156-300f-831b-1b320a54be13",
+      "product": {
+        "name": "openchoreo",
+        "vendor": {
+          "name": "openchoreo"
+        }
+      },
+      "product_version": "1.1.0, < 1.1.2"
+    },
+    {
+      "id": "b5f7e752-ad62-3ba3-8316-8d6fe09ab075",
+      "product": {
+        "name": "openchoreo",
+        "vendor": {
+          "name": "openchoreo"
+        }
+      },
+      "product_version": "< 1.0.2"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "1773bb63-81a9-34d3-9067-e712db0de636",
+      "vendor": {
+        "name": "openchoreo"
+      }
+    }
+  ]
+}
