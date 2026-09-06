@@ -3,7 +3,7 @@
   "enisaUuid": "baf0051e-aae8-32e1-8068-5d25c0d41ff6",
   "description": "A flaw was found in search-indexer. This vulnerability allows a registered and authenticated managed cluster to tamper with or delete another cluster's indexed search data. This is possible because the delta-sync write paths in search-indexer do not properly restrict UPDATE/DELETE operations to data owned by the calling cluster. An attacker could exploit this by crafting specific user identifiers (UIDs) with a different cluster's prefix.",
   "datePublished": "Aug 19, 2026, 8:56:17 PM",
-  "dateUpdated": "Aug 27, 2026, 2:21:05 AM",
+  "dateUpdated": "Sep 5, 2026, 5:08:45 PM",
   "baseScore": 6.8,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:C/C:N/I:H/A:N",

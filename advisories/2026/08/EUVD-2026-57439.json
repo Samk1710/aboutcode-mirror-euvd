@@ -3,7 +3,7 @@
   "enisaUuid": "fe7cbea0-3f60-3925-8b01-a507f5f44623",
   "description": "A flaw was found in the cluster-curator-controller component. A local user, by creating a ClusterCurator resource with a specific naming convention, can trigger the creation of a cluster-scoped ClusterRoleBinding. This allows the user to escalate their privileges from namespace-local access to cluster-wide control. This privilege escalation grants broad permissions, including the ability to access and manipulate secrets, manage cluster actions, and delete hosted clusters or node pools.",
   "datePublished": "Aug 12, 2026, 7:05:05 PM",
-  "dateUpdated": "Aug 26, 2026, 4:19:48 AM",
+  "dateUpdated": "Sep 5, 2026, 2:11:54 PM",
   "baseScore": 9.9,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H",
@@ -53,16 +53,6 @@
       "product_version": "patch: 1787264185"
     },
     {
-      "id": "cbd9e71d-f358-3d69-9c0a-14638f785d45",
-      "product": {
-        "name": "multicluster engine for Kubernetes 2.10",
-        "vendor": {
-          "name": "Red Hat"
-        }
-      },
-      "product_version": "patch: 1787201612"
-    },
-    {
       "id": "d9e4fbc6-9c7d-3734-a97d-a5261f4e40e9",
       "product": {
         "name": "multicluster engine for Kubernetes 2.17",
@@ -71,6 +61,16 @@
         }
       },
       "product_version": "patch: 1786750700"
+    },
+    {
+      "id": "db3ee8af-0327-343a-b0c3-0eec11f26404",
+      "product": {
+        "name": "multicluster engine for Kubernetes 2.1",
+        "vendor": {
+          "name": "Red Hat"
+        }
+      },
+      "product_version": "patch: 1787201612"
     }
   ],
   "enisaIdVendor": [
