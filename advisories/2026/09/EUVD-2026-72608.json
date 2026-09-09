@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:P",
   "references": "https://vuldb.com/vuln/399662\nhttps://vuldb.com/vuln/399662/cti\nhttps://vuldb.com/cve/CVE-2026-86509\nhttps://vuldb.com/submit/906298\nhttps://tzh00203.notion.site/D-Link-DIR-895L-Stack-Overflow-in-udhcpd-TR-111-Option-125-Parsing-33cb5c52018a80dc8140e1502e4814d0\nhttps://www.dlink.com/\n",
-  "aliases": "CVE-2026-86509\n",
+  "aliases": "CVE-2026-86509\nGHSA-xq27-3vwq-mgr2\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
