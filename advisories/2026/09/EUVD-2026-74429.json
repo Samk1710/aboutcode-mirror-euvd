@@ -6,7 +6,7 @@
   "dateUpdated": "Sep 9, 2026, 12:09:59 AM",
   "baseScore": 0.0,
   "references": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0808145027.html\nhttps://issues.chromium.org/issues/553155590\n",
-  "aliases": "CVE-2026-87626\n",
+  "aliases": "GHSA-h39m-337p-pwp4\nCVE-2026-87626\n",
   "assigner": "Chrome",
   "epss": 0.0,
   "enisaIdProduct": [

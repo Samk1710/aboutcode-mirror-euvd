@@ -6,7 +6,7 @@
   "dateUpdated": "Sep 9, 2026, 12:09:58 AM",
   "baseScore": 0.0,
   "references": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0808145027.html\nhttps://issues.chromium.org/issues/543938457\n",
-  "aliases": "CVE-2026-87591\n",
+  "aliases": "GHSA-5jfr-9xvq-fx78\nCVE-2026-87591\n",
   "assigner": "Chrome",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -6,7 +6,7 @@
   "dateUpdated": "Sep 9, 2026, 12:10:05 AM",
   "baseScore": 0.0,
   "references": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0808145027.html\nhttps://issues.chromium.org/issues/540013886\n",
-  "aliases": "CVE-2026-87575\n",
+  "aliases": "GHSA-8832-mqfr-j2f5\nCVE-2026-87575\n",
   "assigner": "Chrome",
   "epss": 0.0,
   "enisaIdProduct": [
