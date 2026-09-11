@@ -3,14 +3,14 @@
   "enisaUuid": "abd587e9-2ef0-326a-a343-3e51c8a016bb",
   "description": "Heap-based buffer overflow in Windows Work Folders allows an authorized attacker to elevate privileges locally.",
   "datePublished": "Sep 8, 2026, 5:13:53 PM",
-  "dateUpdated": "Sep 9, 2026, 9:31:00 PM",
+  "dateUpdated": "Sep 10, 2026, 11:06:32 PM",
   "baseScore": 7.8,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
   "references": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-80075\n",
   "aliases": "GHSA-gp9h-2629-q8m7\nCVE-2026-80075\n",
   "assigner": "microsoft",
-  "epss": 0.0,
+  "epss": 0.32,
   "enisaIdProduct": [
     {
       "id": "15210f67-4944-3d95-9f1d-305925e6b1e4",
