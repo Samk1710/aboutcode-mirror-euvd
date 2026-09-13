@@ -10,7 +10,7 @@
   "references": "https://mail.python.org/archives/list/security-announce@python.org/thread/57TBTLL2W6APMZR3A25B2YV7GL3EPTDJ/\nhttps://github.com/python/cpython/pull/157266\nhttps://github.com/python/cpython/issues/157265\nhttps://github.com/python/cpython/commit/d9565e54b1fc6d63c5be9afd58114499128fa57b\nhttps://github.com/python/cpython/commit/fb2f0bbc3b35264f09cc2cb2934b7987527a6bc2\n",
   "aliases": "CVE-2026-87910\nGHSA-rj44-3777-mh5x\n",
   "assigner": "PSF",
-  "epss": 0.0,
+  "epss": 0.42,
   "enisaIdProduct": [
     {
       "id": "5479826a-8329-347b-a6fd-de089d64b0ad",
