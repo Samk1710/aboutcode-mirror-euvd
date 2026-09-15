@@ -3,7 +3,7 @@
   "enisaUuid": "1f288916-7828-3c96-90f3-b2423600d8fa",
   "description": "An issue was discovered in the buffer queue driver in Samsung Automotive Processor Exynos Auto 8890, V7, V9, and V920. Lack of a length check leads to a Denial of Service in the kernel.",
   "datePublished": "Sep 13, 2026, 12:00:00 AM",
-  "dateUpdated": "Sep 13, 2026, 11:40:46 PM",
+  "dateUpdated": "Sep 14, 2026, 6:16:48 PM",
   "baseScore": 5.7,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:N/I:L/A:H",

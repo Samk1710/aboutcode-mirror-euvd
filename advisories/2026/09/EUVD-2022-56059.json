@@ -3,7 +3,7 @@
   "enisaUuid": "12c656fe-c68f-392c-bd34-5d1c7020d8a1",
   "description": "In FRRouting FRR before 8.5, the service user (usually frr) can escalate its privileges to root by monitoring the configuration directory (/etc/frr) and replacing config files upon creation with, for example, symlinks to change the ownership of arbitrary files. This is a TOCTOU Race Condition caused by a combination of touch and chown.",
   "datePublished": "Sep 13, 2026, 12:00:00 AM",
-  "dateUpdated": "Sep 13, 2026, 11:27:43 PM",
+  "dateUpdated": "Sep 14, 2026, 6:15:19 PM",
   "baseScore": 6.7,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:U/C:H/I:H/A:H",
