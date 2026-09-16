@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:L/SI:L/SA:L/E:P",
   "references": "https://vuldb.com/vuln/403395\nhttps://vuldb.com/vuln/403395/cti\nhttps://vuldb.com/cve/CVE-2026-90843\nhttps://vuldb.com/submit/925586\nhttps://calledstriker.gitbook.io/blog/security-research/webmap\nhttps://raw.githubusercontent.com/CalledSTRIKER/CalledSTRIKER-gitbook/refs/heads/main/security-research/2026-05-30_12-29.png\nhttps://github.com/SabyasachiRana/WebMap/commit/3d52f65803a2716bff14d938352c6fef45b0cfb6\nhttps://github.com/SabyasachiRana/WebMap/\n",
-  "aliases": "CVE-2026-90843\n",
+  "aliases": "CVE-2026-90843\nGHSA-pp25-fxhh-fhqj\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
