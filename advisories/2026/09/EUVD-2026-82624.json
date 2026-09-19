@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/406613\nhttps://vuldb.com/vuln/406613/cti\nhttps://vuldb.com/cve/CVE-2026-93314\nhttps://vuldb.com/submit/942347\nhttps://gitlab.freedesktop.org/poppler/poppler/-/work_items/1761\nhttps://gitlab.freedesktop.org/poppler/poppler/-/merge_requests/2315\nhttps://github.com/r1ck9-2q/cve_summit/blob/main/Signed-integer-overflow-in-FoFiTrueType-mapCodeToGID-FoFiTrueType.cc-608.md\nhttps://gitlab.freedesktop.org/poppler/poppler/-/commit/ed2a5538cf0a8d3ff908191eda9b73f91a5f952a?merge_request_iid=2315\n",
-  "aliases": "CVE-2026-93314\n",
+  "aliases": "GHSA-2g5c-g4rf-f9jv\nCVE-2026-93314\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

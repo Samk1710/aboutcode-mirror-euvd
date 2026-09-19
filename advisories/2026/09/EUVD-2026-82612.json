@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/406609\nhttps://vuldb.com/vuln/406609/cti\nhttps://vuldb.com/cve/CVE-2026-93311\nhttps://vuldb.com/submit/942344\nhttps://gitlab.freedesktop.org/poppler/poppler/-/work_items/1758\nhttps://github.com/r1ck9-2q/cve_summit/blob/main/Shift-exponent-undefined-behavior-in-SampledFunction-Function.cc-376.md\n",
-  "aliases": "CVE-2026-93311\n",
+  "aliases": "CVE-2026-93311\nGHSA-9p2x-92wc-v6h2\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

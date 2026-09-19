@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/406610\nhttps://vuldb.com/vuln/406610/cti\nhttps://vuldb.com/cve/CVE-2026-93312\nhttps://vuldb.com/submit/942345\nhttps://gitlab.freedesktop.org/poppler/poppler/-/work_items/1759\nhttps://gitlab.freedesktop.org/poppler/poppler/-/merge_requests/2314\nhttps://github.com/r1ck9-2q/cve_summit/blob/main/Null-pointer-offset-undefined-behavior-in-JBIG2Stream-rewind-JBIG2Stream.cc-1229.md\nhttps://gitlab.freedesktop.org/poppler/poppler/-/commit/5e49250f13b0390edeb3f90eb4c02c9941f97067\n",
-  "aliases": "CVE-2026-93312\n",
+  "aliases": "GHSA-mm25-wh7f-mmv7\nCVE-2026-93312\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
