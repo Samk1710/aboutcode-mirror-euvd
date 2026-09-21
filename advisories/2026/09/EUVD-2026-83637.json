@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:P",
   "references": "https://vuldb.com/vuln/407917\nhttps://vuldb.com/vuln/407917/cti\nhttps://vuldb.com/cve/CVE-2026-93958\nhttps://vuldb.com/submit/944149\nhttps://github.com/FoundTL/D-Link-R95-BE9500\nhttps://www.dlink.com/\n",
-  "aliases": "CVE-2026-93958\n",
+  "aliases": "CVE-2026-93958\nGHSA-964w-qqjq-2jm4\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

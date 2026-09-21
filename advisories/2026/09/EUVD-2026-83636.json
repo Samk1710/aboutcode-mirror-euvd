@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/407916\nhttps://vuldb.com/vuln/407916/cti\nhttps://vuldb.com/cve/CVE-2026-93957\nhttps://vuldb.com/submit/943923\nhttps://github.com/olivier-ls/php-fts/issues/2\nhttps://github.com/sumo166/CVE-apply/blob/main/olivier-ls/PHP-FTS/SearchEngine%20matchesSingleFilter%20Loose%20Comparison%20Filter%20Bypass%20(CWE-697)_cve.md\nhttps://github.com/olivier-ls/php-fts/commit/0b2fae333d6b022da7ed4c43e2d41aa03f91dff3\nhttps://github.com/olivier-ls/php-fts/releases/tag/v1.1.4\nhttps://github.com/olivier-ls/php-fts/\n",
-  "aliases": "CVE-2026-93957\n",
+  "aliases": "GHSA-hvmw-v77x-f8j7\nCVE-2026-93957\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
