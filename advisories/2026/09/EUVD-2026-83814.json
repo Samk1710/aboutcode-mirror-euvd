@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/408032\nhttps://vuldb.com/vuln/408032/cti\nhttps://vuldb.com/cve/CVE-2026-94102\nhttps://vuldb.com/submit/892905\nhttps://github.com/ArrestX/wuzhicms-advisories/blob/main/advisories/VULN-021-member-open-redirect.md\n",
-  "aliases": "CVE-2026-94102\n",
+  "aliases": "GHSA-cw5f-qg9v-pqvg\nCVE-2026-94102\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

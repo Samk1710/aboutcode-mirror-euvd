@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:P",
   "references": "https://vuldb.com/vuln/408028\nhttps://vuldb.com/vuln/408028/cti\nhttps://vuldb.com/cve/CVE-2026-94099\nhttps://vuldb.com/submit/892992\nhttps://app.notion.com/p/Netcore-NBR200V2-Vul-7-39f797159f158028ab02c136450d87e4\n",
-  "aliases": "CVE-2026-94099\n",
+  "aliases": "CVE-2026-94099\nGHSA-25m6-m9q2-9cpx\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
