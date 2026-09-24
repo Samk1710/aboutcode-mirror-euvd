@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/MacWarrior/clipbucket-v5/pull/874\nhttps://github.com/MacWarrior/clipbucket-v5/commit/7fd0af6f8b5826c2d6ef0976dbb1867f5c36b707\nhttps://github.com/MacWarrior/clipbucket-v5/blob/57b0235f2eae390f4946c042bf81c182a9f82782/upload/includes/classes/photos.class.php#L408-L413\nhttps://hackmd.io/@leediay/sqli-photo-seach-clipbucketv5\nhttps://github.com/MacWarrior/clipbucket-v5\nhttps://www.vulncheck.com/advisories/clipbucket-v5-before-5.5.3-182-sql-injection-via-search-result-php\n",
-  "aliases": "CVE-2026-96272\n",
+  "aliases": "CVE-2026-96272\nGHSA-x2pv-2g6c-6vc3\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [
