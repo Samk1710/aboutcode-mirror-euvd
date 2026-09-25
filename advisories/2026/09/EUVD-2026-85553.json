@@ -3,7 +3,7 @@
   "enisaUuid": "a54ce37f-0339-346a-b962-5cc2321a7f7f",
   "description": "Insecure access controls on internal service ports in Brocade SANnav versions before 3.0.1a allow local, non-administrative host users to communicate directly with backend management services. A local attacker can leverage this exposed access to transmit commands to connected Fabric OS switches under the security context of the SANnav management user.",
   "datePublished": "Sep 23, 2026, 6:40:05 PM",
-  "dateUpdated": "Sep 23, 2026, 7:56:54 PM",
+  "dateUpdated": "Sep 24, 2026, 11:35:11 PM",
   "baseScore": 8.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",

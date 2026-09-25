@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/409018\nhttps://vuldb.com/vuln/409018/cti\nhttps://vuldb.com/cve/CVE-2026-96763\nhttps://vuldb.com/submit/904605\nhttps://gist.github.com/yyymk/fea24846dc31042cb472d7bd496a8438\n",
-  "aliases": "CVE-2026-96763\n",
+  "aliases": "CVE-2026-96763\nGHSA-c29f-6gh6-wwv9\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
