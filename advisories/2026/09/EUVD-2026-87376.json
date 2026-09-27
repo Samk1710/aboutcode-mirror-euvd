@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:A/VC:N/VI:N/VA:N/SC:L/SI:L/SA:N",
   "references": "https://github.com/Cotonti/Cotonti/issues/1907\nhttps://github.com/Cotonti/Cotonti/pull/1908\nhttps://github.com/Cotonti/Cotonti/blob/1.0.0/plugins/search/search.header.php\nhttps://github.com/Cotonti/Cotonti/blob/1.0.0/plugins/search/search.page.first.php\nhttps://github.com/Cotonti/Cotonti\nhttps://www.vulncheck.com/advisories/cotonti-through-1.0.0-reflected-xss-via-search-highlight-parameter\n",
-  "aliases": "CVE-2026-100521\n",
+  "aliases": "CVE-2026-100521\nGHSA-9chp-6f7w-99jg\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.2,
   "enisaIdProduct": [
     {
       "id": "be33d7bf-b468-30d5-beb1-eeeedf83c1bc",

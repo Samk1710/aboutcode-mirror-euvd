@@ -10,7 +10,7 @@
   "references": "https://github.com/Haitam-lazaar/libextractor-privesc\nhttps://git.gnunet.org/gnunet/libextractor/commit/6edfa653c048800e24a17f7e8cc2bb42659b8d01.html\nhttps://ftp.gnu.org/gnu/libextractor/\nhttps://www.gnu.org/software/libextractor/\nhttps://www.vulncheck.com/advisories/gnu-libextractor-before-1.16-privilege-escalation-via-libextractor-prefix\n",
   "aliases": "CVE-2026-100310\nGHSA-rxpm-xfjv-mq65\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.14,
   "enisaIdProduct": [
     {
       "id": "1a35c190-74f1-3664-ba7a-c30aaee3590e",

@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/crivion/laranode/security/advisories/GHSA-34h2-2696-vfvr\nhttps://github.com/crivion/laranode/pull/21\nhttps://github.com/crivion/laranode/commit/5c2b18ae99caf77a6fb6cc5c0ab66562bd673424\nhttps://github.com/crivion/laranode/releases/tag/v1.2.1\nhttps://github.com/crivion/laranode/blob/v1.2/app/Actions/Filemanager/UploadFileAction.php\nhttps://github.com/crivion/laranode\nhttps://www.vulncheck.com/advisories/laranode-before-1.2.1-path-traversal-in-file-manager-upload-endpoint\n",
-  "aliases": "CVE-2026-100520\n",
+  "aliases": "GHSA-7q7h-5g76-8cq4\nCVE-2026-100520\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.94,
   "enisaIdProduct": [
     {
       "id": "58f9c895-316d-320b-a75a-db60debb4e87",

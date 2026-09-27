@@ -10,7 +10,7 @@
   "references": "https://github.com/sunnyadn/js-toml/security/advisories/GHSA-3g82-77xr-68x5\nhttps://github.com/sunnyadn/js-toml/commit/4e10acf1f99ff3cb443c58b8f0a57664e41e87c6\nhttps://github.com/sunnyadn/js-toml/releases/tag/v1.1.3\n",
   "aliases": "CVE-2026-63386\n",
   "assigner": "GitHub_M",
-  "epss": 0.51,
+  "epss": 0.36,
   "enisaIdProduct": [
     {
       "id": "850afcdf-7375-3c68-8bf2-b25dc2104a0b",

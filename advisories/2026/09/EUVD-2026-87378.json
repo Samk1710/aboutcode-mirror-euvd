@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:A/VC:N/VI:N/VA:N/SC:L/SI:L/SA:N",
   "references": "https://github.com/Cotonti/Cotonti/issues/1907\nhttps://github.com/Cotonti/Cotonti/pull/1908\nhttps://github.com/Cotonti/Cotonti/blob/1.0.0/message.php\nhttps://github.com/Cotonti/Cotonti/blob/1.0.0/system/common.php\nhttps://github.com/Cotonti/Cotonti\nhttps://www.vulncheck.com/advisories/cotonti-through-1.0.0-open-redirect-via-message-php-redirect-parameter\n",
-  "aliases": "CVE-2026-100523\n",
+  "aliases": "CVE-2026-100523\nGHSA-g8jm-3grw-8wh2\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.19,
   "enisaIdProduct": [
     {
       "id": "b227e757-da7f-3a7b-bd91-e77a92d64e8b",
