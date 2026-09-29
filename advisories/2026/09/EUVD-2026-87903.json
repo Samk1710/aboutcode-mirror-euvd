@@ -10,7 +10,7 @@
   "references": "https://wpscan.com/vulnerability/6ea7d2b5-8406-4efe-9b61-465af40d9a32/\n",
   "aliases": "GHSA-54ch-5mxc-g8cx\nCVE-2026-97319\n",
   "assigner": "WPScan",
-  "epss": 0.0,
+  "epss": 0.15,
   "enisaIdProduct": [
     {
       "id": "03f94121-da82-3528-98ba-a32d3b681064",

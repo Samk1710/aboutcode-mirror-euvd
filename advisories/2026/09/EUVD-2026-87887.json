@@ -10,7 +10,7 @@
   "references": "https://wpscan.com/vulnerability/52f39a82-89ee-43f1-ba9c-3ea646fb0a0e/\n",
   "aliases": "GHSA-c9rv-8jhm-3c35\nCVE-2026-82841\n",
   "assigner": "WPScan",
-  "epss": 0.0,
+  "epss": 0.14,
   "enisaIdProduct": [
     {
       "id": "3c83e379-687f-30d6-9c5c-dfd89ed67154",

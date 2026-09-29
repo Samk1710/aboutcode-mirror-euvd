@@ -10,7 +10,7 @@
   "references": "https://wpscan.com/vulnerability/7ab467f9-4340-464c-a436-978a5acbad3a/\n",
   "aliases": "GHSA-2hrm-754x-j578\nCVE-2026-96896\n",
   "assigner": "WPScan",
-  "epss": 0.0,
+  "epss": 0.18,
   "enisaIdProduct": [
     {
       "id": "95ffb5a6-bd7a-34a5-8d85-2da1a8ffafac",

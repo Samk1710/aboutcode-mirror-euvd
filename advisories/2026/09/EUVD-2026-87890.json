@@ -10,7 +10,7 @@
   "references": "https://wpscan.com/vulnerability/3ab8b879-3ef7-4aa4-8620-1bde99697dcb/\n",
   "aliases": "GHSA-36wf-cx88-gfjh\nCVE-2026-86839\n",
   "assigner": "WPScan",
-  "epss": 0.0,
+  "epss": 0.13,
   "enisaIdProduct": [
     {
       "id": "511a10b9-500e-3821-8407-19c97a066379",

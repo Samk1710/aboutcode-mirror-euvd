@@ -10,7 +10,7 @@
   "references": "https://wpscan.com/vulnerability/9b891cf0-c663-48ae-adf4-4693b46d0529/\n",
   "aliases": "CVE-2026-89003\nGHSA-jghr-cfvc-958g\n",
   "assigner": "WPScan",
-  "epss": 0.0,
+  "epss": 0.13,
   "enisaIdProduct": [
     {
       "id": "523588c9-eed2-36c3-8760-bbb8a98f6bdc",

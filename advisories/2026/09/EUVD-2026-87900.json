@@ -10,7 +10,7 @@
   "references": "https://wpscan.com/vulnerability/f9fd04f4-282d-486f-8561-dbf02250282a/\n",
   "aliases": "GHSA-fx75-253r-968v\nCVE-2026-96897\n",
   "assigner": "WPScan",
-  "epss": 0.0,
+  "epss": 0.14,
   "enisaIdProduct": [
     {
       "id": "f5651432-82cd-37ca-91ab-b1aaccfa2eef",

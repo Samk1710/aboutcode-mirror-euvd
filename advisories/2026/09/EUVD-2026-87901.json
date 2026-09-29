@@ -10,7 +10,7 @@
   "references": "https://wpscan.com/vulnerability/649584c7-0549-4080-92f0-bf4b9e8ee789/\n",
   "aliases": "GHSA-xprw-377p-8v85\nCVE-2026-96899\n",
   "assigner": "WPScan",
-  "epss": 0.0,
+  "epss": 0.15,
   "enisaIdProduct": [
     {
       "id": "9fbbffe6-b5a0-3a0b-94f6-3f24f2fae6b4",
