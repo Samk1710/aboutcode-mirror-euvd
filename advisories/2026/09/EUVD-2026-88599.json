@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/411038\nhttps://vuldb.com/vuln/411038/cti\nhttps://vuldb.com/cve/CVE-2026-101281\nhttps://vuldb.com/submit/918284\nhttps://github.com/trusteddomainproject/OpenDMARC/issues/262\nhttps://github.com/trusteddomainproject/OpenDMARC/pull/328\nhttps://xuyongzhe-vt.github.io/share/opendmarc-spf-postmaster-macro.html\nhttps://github.com/trusteddomainproject/OpenDMARC/commit/c48a74c758677fc5272a73eff15ffdbf8afda1a6\n",
-  "aliases": "CVE-2026-101281\n",
+  "aliases": "GHSA-fvpv-g9f4-87fc\nCVE-2026-101281\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

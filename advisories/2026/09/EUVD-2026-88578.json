@@ -3,7 +3,7 @@
   "enisaUuid": "4fefe987-8f4d-3a56-9139-ca6fc0c4acd7",
   "description": "mall4j through 4.0 fails to implement authentication controls on the DELETE /prodComm endpoint in ProdCommController. Unauthenticated attackers can delete arbitrary product reviews by supplying the prodCommId parameter without authorization checks.",
   "datePublished": "Sep 28, 2026, 11:34:27 PM",
-  "dateUpdated": "Sep 28, 2026, 11:34:27 PM",
+  "dateUpdated": "Sep 29, 2026, 12:03:33 PM",
   "baseScore": 6.9,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N",

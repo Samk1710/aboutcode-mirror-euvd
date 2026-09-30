@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/411035\nhttps://vuldb.com/vuln/411035/cti\nhttps://vuldb.com/cve/CVE-2026-101278\nhttps://vuldb.com/submit/918273\nhttps://xuyongzhe-vt.github.io/share/opendmarc-psl-wildcard-orgdomain.html\n",
-  "aliases": "CVE-2026-101278\n",
+  "aliases": "CVE-2026-101278\nGHSA-f9p6-hxqg-x7r4\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

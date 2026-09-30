@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://gestsup.fr/index.php?page=changelog\nhttps://gestsup.fr/index.php?page=download\nhttps://gestsup.fr/index.php?page=download&channel=stable&version=3.2.62&type=patch\nhttps://www.vulncheck.com/advisories/gestsup-before-3.2.62-private-ticket-comment-disclosure-via-threadedit-parameter\n",
-  "aliases": "CVE-2026-102373\n",
+  "aliases": "CVE-2026-102373\nGHSA-wcm4-67q4-6r6m\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

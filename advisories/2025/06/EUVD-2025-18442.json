@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:36734\nhttps://access.redhat.com/errata/RHSA-2026:39304\nhttps://access.redhat.com/errata/RHSA-2026:39317\nhttps://access.redhat.com/errata/RHSA-2026:44481\nhttps://access.redhat.com/errata/RHSA-2026:46836\nhttps://access.redhat.com/errata/RHSA-2026:53371\nhttps://access.redhat.com/errata/RHSA-2026:58981\nhttps://access.redhat.com/errata/RHSA-2026:70596\nhttps://access.redhat.com/errata/RHSA-2026:70639\nhttps://access.redhat.com/errata/RHSA-2026:72394\nhttps://access.redhat.com/errata/RHSA-2026:72395\nhttps://access.redhat.com/errata/RHSA-2026:72399\nhttps://access.redhat.com/errata/RHSA-2026:72470\nhttps://access.redhat.com/errata/RHSA-2026:72475\nhttps://access.redhat.com/errata/RHSA-2026:72476\nhttps://access.redhat.com/errata/RHSA-2026:72502\nhttps://access.redhat.com/errata/RHSA-2026:7519\nhttps://access.redhat.com/security/cve/CVE-2025-6170\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2372952\nhttps://gitlab.gnome.org/GNOME/libxml2/-/issues/941\n",
   "aliases": "GHSA-6qrf-r65h-2r77\nCVE-2025-6170\n",
   "assigner": "redhat",
-  "epss": 0.32,
+  "epss": 0.31,
   "enisaIdProduct": [
     {
       "id": "01efd84e-a862-3998-9549-67d12810502f",

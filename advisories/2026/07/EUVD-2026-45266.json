@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:64799\nhttps://access.redhat.com/errata/RHSA-2026:64800\nhttps://access.redhat.com/errata/RHSA-2026:66451\nhttps://access.redhat.com/errata/RHSA-2026:67956\nhttps://access.redhat.com/errata/RHSA-2026:70636\nhttps://access.redhat.com/errata/RHSA-2026:71403\nhttps://access.redhat.com/errata/RHSA-2026:71404\nhttps://access.redhat.com/errata/RHSA-2026:71405\nhttps://access.redhat.com/errata/RHSA-2026:72394\nhttps://access.redhat.com/errata/RHSA-2026:72395\nhttps://access.redhat.com/errata/RHSA-2026:72399\nhttps://access.redhat.com/errata/RHSA-2026:72470\nhttps://access.redhat.com/errata/RHSA-2026:72475\nhttps://access.redhat.com/errata/RHSA-2026:72476\nhttps://access.redhat.com/errata/RHSA-2026:72502\nhttps://access.redhat.com/security/cve/CVE-2026-16118\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2501732\nhttps://gitlab.freedesktop.org/xdg/xdgmime/-/work_items/41\n",
   "aliases": "GHSA-cp7g-r78m-cc2g\nCVE-2026-16118\n",
   "assigner": "redhat",
-  "epss": 0.27,
+  "epss": 0.28,
   "enisaIdProduct": [
     {
       "id": "053412bf-6722-3836-a906-19ebba3de19d",

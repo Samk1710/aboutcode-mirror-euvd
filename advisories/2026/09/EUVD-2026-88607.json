@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/411140\nhttps://vuldb.com/vuln/411140/cti\nhttps://vuldb.com/cve/CVE-2026-102241\nhttps://vuldb.com/submit/931269\nhttps://github.com/senxitoyshuyi-ui/HACKALL/blob/main/netcore_NAP930%20V0.1.241010.141410%20Router/NAP930_backup_hardcoded_aes_key.md\n",
-  "aliases": "CVE-2026-102241\n",
+  "aliases": "GHSA-jxpp-wwfc-2fm6\nCVE-2026-102241\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
