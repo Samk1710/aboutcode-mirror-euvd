@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:P/PR:N/UI:N/VC:N/VI:L/VA:L/SC:N/SI:N/SA:L",
   "references": "https://www.zetetic.net/blog/2026/04/28/sqlcipher-4.15.0-release/\nhttps://github.com/sqlcipher/sqlcipher/commit/30842cda35c88cdfc7a8adba1c9b20821d2c08d1\n",
-  "aliases": "CVE-2026-51936\n",
+  "aliases": "GHSA-7w4j-532w-pgpj\nCVE-2026-51936\n",
   "assigner": "mitre",
   "epss": 0.0,
   "enisaIdProduct": [
