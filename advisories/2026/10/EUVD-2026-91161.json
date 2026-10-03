@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/412764\nhttps://vuldb.com/vuln/412764/cti\nhttps://vuldb.com/cve/CVE-2026-104120\nhttps://vuldb.com/submit/960099\nhttps://github.com/modelcontextprotocol/servers/issues/4492\nhttps://github.com/modelcontextprotocol/servers/pull/4890\n",
-  "aliases": "CVE-2026-104120\n",
+  "aliases": "GHSA-v78q-44mm-wf7q\nCVE-2026-104120\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

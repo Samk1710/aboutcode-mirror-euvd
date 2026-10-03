@@ -3,7 +3,7 @@
   "enisaUuid": "d913daa4-8cb3-3dc0-9f52-48d1acea31e2",
   "description": "PictShare before version 3.7.1 contains a weak randomness vulnerability where the getRandomString() function uses the non-cryptographic rand() PRNG to generate the delete_code authorization token in src/inc/core.php. Attackers can predict or infer the PRNG state to guess valid delete_code values and perform unauthorized deletion of hosted files without needing to read the code from the info endpoint.",
   "datePublished": "Oct 1, 2026, 9:21:45 PM",
-  "dateUpdated": "Oct 1, 2026, 9:21:45 PM",
+  "dateUpdated": "Oct 2, 2026, 6:24:02 PM",
   "baseScore": 8.2,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",

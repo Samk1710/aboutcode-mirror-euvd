@@ -3,7 +3,7 @@
   "enisaUuid": "35c979a7-d006-3222-bf75-e180d6f85ae9",
   "description": "Office-PowerPoint-MCP-Server through 2.0.7 contains a path traversal vulnerability that allows MCP callers to write and read files outside the working directory by supplying absolute paths or ../ sequences. Attackers can steer an AI agent via prompt injection to abuse save_presentation, open_presentation, or manage_image output_path to overwrite any server-writable file or load external files.",
   "datePublished": "Oct 1, 2026, 10:53:04 PM",
-  "dateUpdated": "Oct 1, 2026, 10:53:04 PM",
+  "dateUpdated": "Oct 2, 2026, 7:44:18 PM",
   "baseScore": 7.6,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:P/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N",
