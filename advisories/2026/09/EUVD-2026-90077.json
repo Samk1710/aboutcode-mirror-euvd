@@ -10,7 +10,7 @@
   "references": "https://github.com/python/cpython/pull/158504\nhttps://mail.python.org/archives/list/security-announce@python.org/thread/QMQIUQB6WGGC3MI7I3WKQXOYOBDSPPS3/\nhttps://github.com/python/cpython/issues/156293\nhttps://github.com/python/cpython/commit/34a53dce8174da2fceb12fe084a4def02a10053d\nhttps://github.com/python/cpython/commit/46133cd57d309652139ada74014aca7665ac552b\nhttps://github.com/python/cpython/commit/63fab143d94cafae71850831acfb52041ba44af7\nhttps://github.com/python/cpython/commit/cd7e51e7d4563866fbaa1e2521ae69b45daf3698\nhttps://github.com/python/cpython/commit/d8717ed01717a9641686e6e6f83f0ab8af235e2c\nhttps://github.com/python/cpython/commit/b12968cefe69ca1dcb8606c832ff73ee7dbf4ba8\nhttps://github.com/python/cpython/commit/ec44b5a3258cbda947d5e07242ee562ed05ef24b\n",
   "aliases": "CVE-2026-19445\nGHSA-7jvw-f348-84gq\n",
   "assigner": "PSF",
-  "epss": 0.51,
+  "epss": 0.43,
   "enisaIdProduct": [
     {
       "id": "25f72154-1023-3fa5-967f-0d97f27a0a7a",

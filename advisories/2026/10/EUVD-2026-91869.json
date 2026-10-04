@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/AcademySoftwareFoundation/openapv/issues/219\nhttps://github.com/AcademySoftwareFoundation/openapv/tree/kp_handling_issues_20260713\nhttps://github.com/AcademySoftwareFoundation/openapv/commit/b5cc54bc786040ba3ac54020e7320e0add51e107\nhttps://github.com/AcademySoftwareFoundation/openapv/compare/v0.3.0.0...v1.1.1.0\nhttps://github.com/AcademySoftwareFoundation/openapv/pull/226\nhttps://aswf.io\n",
-  "aliases": "CVE-2026-79113\n",
+  "aliases": "CVE-2026-79113\nGHSA-cqc9-4w54-7f36\n",
   "assigner": "mitre",
-  "epss": 0.0,
+  "epss": 0.14,
   "enisaIdProduct": [
     {
       "id": "91dfdab4-1f24-37b1-af85-f5a69101ca63",
