@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/mayswind/ezbookkeeping/security/advisories/GHSA-wq25-mpcf-2mfc\nhttps://github.com/mayswind/ezbookkeeping/commit/9a92b07be8a7034665abfdb35b036210a1d57bf9\nhttps://github.com/mayswind/ezbookkeeping/releases/tag/v2.0.1\nhttps://github.com/mayswind/ezbookkeeping/blob/v2.0.0/pkg/api/tokens.go#L327-L380\nhttps://github.com/mayswind/ezbookkeeping\nhttps://www.vulncheck.com/advisories/mayswind-ezbookkeeping-1.2.0-before-2.0.1-privilege-escalation-via-token-refresh-endpoint\n",
-  "aliases": "CVE-2026-105131\n",
+  "aliases": "CVE-2026-105131\nGHSA-983g-gj75-pg7f\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [
