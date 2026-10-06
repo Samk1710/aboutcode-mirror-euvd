@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-89334",
+  "enisaUuid": "1b1c0811-ada6-3e60-ad49-945fc086b6c7",
+  "description": "simple-git unsafe-operation guard does not block trailer command configuration",
+  "datePublished": "Oct 5, 2026, 11:48:14 PM",
+  "dateUpdated": "Oct 5, 2026, 11:48:14 PM",
+  "baseScore": 9.2,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
+  "references": "https://github.com/steveukx/git-js/security/advisories/GHSA-x6jw-m9v5-85vh\nhttps://github.com/steveukx/git-js/pull/1198\nhttps://github.com/steveukx/git-js/commit/d762810c13b331ff1e5eb24c0b434646d2a8d1b3\nhttps://github.com/steveukx/git-js/releases/tag/simple-git@4.0.1\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-102828\n",
+  "aliases": "CVE-2026-102828\nGHSA-x6jw-m9v5-85vh\n",
+  "assigner": "GitHub_M",
+  "epss": 0.28,
+  "enisaIdProduct": [
+    {
+      "id": "6eeb5685-ef78-3e0e-86b6-4329cb538e4b",
+      "product": {
+        "name": "git-js",
+        "vendor": {
+          "name": "steveukx"
+        }
+      },
+      "product_version": "3.15.0, < 4.0.1"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "1de88fae-5eb7-340f-b458-82ea78e5d169",
+      "vendor": {
+        "name": "steveukx"
+      }
+    }
+  ]
+}

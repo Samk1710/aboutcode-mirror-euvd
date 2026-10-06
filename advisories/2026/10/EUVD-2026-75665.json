@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-75665",
+  "enisaUuid": "6cf2f59b-03f6-38dd-b615-c81ed9855d61",
+  "description": "pymongo: PYTHON-5994 Use exact match for file ID in GridFS delete methods",
+  "datePublished": "Oct 5, 2026, 11:27:13 PM",
+  "dateUpdated": "Oct 5, 2026, 11:27:13 PM",
+  "baseScore": 6.1,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:L/VI:H/VA:H/SC:N/SI:N/SA:N",
+  "references": "https://jira.mongodb.org/browse/PYTHON-5994\nhttps://github.com/mongodb/mongo-python-driver/security/advisories/GHSA-8fvv-fgr5-f8ch\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-88029\nhttps://github.com/mongodb/mongo-python-driver/pull/3046\nhttps://github.com/mongodb/mongo-python-driver/commit/3ef1c607859589a0086446ad6f557791a2813681\nhttps://github.com/mongodb/mongo-python-driver/commit/fa676586ba4b399168a4d1d41c30dc2166cc44fd\nhttps://github.com/mongodb/mongo-python-driver/releases/tag/4.18.1\nhttps://jira.mongodb.org/browse/PYTHON-5992\n",
+  "aliases": "CVE-2026-88029\nGHSA-8h2c-ghff-mpg9\nGHSA-8fvv-fgr5-f8ch\n",
+  "assigner": "mongodb",
+  "epss": 0.48,
+  "enisaIdProduct": [
+    {
+      "id": "bf49538c-f4f1-3103-ab34-e12c065efa93",
+      "product": {
+        "name": "Python Driver",
+        "vendor": {
+          "name": "MONGODB"
+        }
+      },
+      "product_version": "1.6.0 <4.18.1"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "96804c83-a6a5-314f-a77b-8dfc378090f1",
+      "vendor": {
+        "name": "MONGODB"
+      }
+    }
+  ]
+}

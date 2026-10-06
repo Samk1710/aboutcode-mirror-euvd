@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-89332",
+  "enisaUuid": "365dd248-b44b-311a-927a-638a2fee97a1",
+  "description": "simple-git allows command execution through unblocked Git configuration includes",
+  "datePublished": "Oct 5, 2026, 11:48:05 PM",
+  "dateUpdated": "Oct 5, 2026, 11:48:05 PM",
+  "baseScore": 8.1,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
+  "references": "https://github.com/steveukx/git-js/security/advisories/GHSA-g4wm-2vf7-vfgr\nhttps://github.com/steveukx/git-js/pull/1193\nhttps://github.com/steveukx/git-js/commit/98864c678444d9336357c844efa4fd5a7984c0d7\nhttps://github.com/steveukx/git-js/releases/tag/simple-git@4.0.0\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-102826\n",
+  "aliases": "GHSA-g4wm-2vf7-vfgr\nCVE-2026-102826\n",
+  "assigner": "GitHub_M",
+  "epss": 0.46,
+  "enisaIdProduct": [
+    {
+      "id": "807d58b9-9b35-34fa-bde0-fc3c8e48f541",
+      "product": {
+        "name": "git-js",
+        "vendor": {
+          "name": "steveukx"
+        }
+      },
+      "product_version": "< 4.0.0"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "dba9099f-bdbe-323d-81f7-99616b059361",
+      "vendor": {
+        "name": "steveukx"
+      }
+    }
+  ]
+}

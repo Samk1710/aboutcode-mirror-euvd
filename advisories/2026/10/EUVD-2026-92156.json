@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:P/VC:H/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/Chaterm/Chaterm/pull/2326\nhttps://github.com/Chaterm/Chaterm/commit/41f747f17845cd980f289cc9ea8ff9978b6f7ad6\nhttps://github.com/Chaterm/Chaterm\nhttps://github.com/Chaterm/Chaterm/releases/tag/v0.12.1\nhttps://github.com/Chaterm/Chaterm/blob/v0.12.0/src/main/index.ts#L3442-L3455\nhttps://www.vulncheck.com/advisories/chaterm-before-0.12.1-login-csrf-via-chaterm-oauth-callback\n",
-  "aliases": "CVE-2026-105292\n",
+  "aliases": "CVE-2026-105292\nGHSA-xv7q-7232-3gx8\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

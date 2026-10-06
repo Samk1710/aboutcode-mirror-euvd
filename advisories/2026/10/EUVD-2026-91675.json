@@ -1,16 +1,16 @@
 {
   "id": "EUVD-2026-91675",
   "enisaUuid": "45db7019-03fb-374e-86d9-b54d4898f53c",
-  "description": "uv is a Python package and project manager written in Rust. From 0.12.7 until 0.12.18, uv wheel extraction on Windows can process a malicious wheel in a way that writes a file outside the installation prefix, including an executable in a directory already present on the user's PATH. Non-Windows hosts are not affected. This issue is fixed in version 0.12.18.",
-  "datePublished": "Oct 2, 2026, 3:29:15 PM",
-  "dateUpdated": "Oct 2, 2026, 4:00:53 PM",
+  "description": "uv: Path traversal on Windows through wheel extraction",
+  "datePublished": "Oct 5, 2026, 11:42:09 PM",
+  "dateUpdated": "Oct 5, 2026, 11:42:09 PM",
   "baseScore": 5.9,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:A/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N",
-  "references": "https://github.com/astral-sh/uv/security/advisories/GHSA-2cv4-cqwr-gwf7\nhttps://github.com/astral-sh/uv/pull/21923\nhttps://github.com/astral-sh/uv/commit/67169645278ce082638d619beefa6d062540843b\nhttps://github.com/astral-sh/uv/releases/tag/0.12.18\n",
-  "aliases": "CVE-2026-104843\n",
+  "references": "https://github.com/astral-sh/uv/security/advisories/GHSA-2cv4-cqwr-gwf7\nhttps://github.com/astral-sh/uv/pull/21923\nhttps://github.com/astral-sh/uv/commit/67169645278ce082638d619beefa6d062540843b\nhttps://github.com/astral-sh/uv/releases/tag/0.12.18\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-104843\n",
+  "aliases": "CVE-2026-104843\nGHSA-2cv4-cqwr-gwf7\n",
   "assigner": "GitHub_M",
-  "epss": 0.0,
+  "epss": 0.43,
   "enisaIdProduct": [
     {
       "id": "200daa96-ce4a-3fee-bf8b-ab4c23023e88",

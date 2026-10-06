@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-88980",
+  "enisaUuid": "08374434-aef2-3337-a8e4-0aad72573234",
+  "description": "Werkzeug safe_join() allows Windows special device names",
+  "datePublished": "Oct 5, 2026, 11:48:39 PM",
+  "dateUpdated": "Oct 5, 2026, 11:48:39 PM",
+  "baseScore": 6.3,
+  "baseScoreVersion": "4.0",
+  "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",
+  "references": "https://github.com/pallets/werkzeug/security/advisories/GHSA-g6x2-hccm-hh4m\nhttps://github.com/pallets/werkzeug/pull/3309\nhttps://github.com/pallets/werkzeug/commit/8d77320bcdf3a34941ec06dcf16b03c065cd21b6\nhttps://github.com/pallets/werkzeug/releases/tag/3.1.9\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-102598\n",
+  "aliases": "GHSA-g6x2-hccm-hh4m\nCVE-2026-102598\n",
+  "assigner": "GitHub_M",
+  "epss": 0.37,
+  "enisaIdProduct": [
+    {
+      "id": "881c6d13-fa86-33f9-bb06-c7c3f97fe06f",
+      "product": {
+        "name": "werkzeug",
+        "vendor": {
+          "name": "pallets"
+        }
+      },
+      "product_version": "< 3.1.9"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "61e34f26-66fa-3fae-8db4-90fa9b52ee44",
+      "vendor": {
+        "name": "pallets"
+      }
+    }
+  ]
+}

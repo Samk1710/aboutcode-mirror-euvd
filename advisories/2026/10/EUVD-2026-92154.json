@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/413406\nhttps://vuldb.com/vuln/413406/cti\nhttps://vuldb.com/cve/CVE-2026-105174\nhttps://vuldb.com/submit/970586\nhttps://github.com/Gerapy/Gerapy/issues/317\nhttps://github.com/Gerapy/Gerapy/pull/319\nhttps://github.com/Gerapy/Gerapy/commit/6e481078cfba6388a67ca2d9792288405019ba3e\nhttps://github.com/Gerapy/Gerapy/\n",
-  "aliases": "CVE-2026-105174\n",
+  "aliases": "CVE-2026-105174\nGHSA-5chj-52p4-fv78\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
