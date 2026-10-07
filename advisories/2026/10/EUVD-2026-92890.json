@@ -8,7 +8,7 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:N",
   "references": "https://access.redhat.com/security/cve/CVE-2026-104033\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2479271\n",
-  "aliases": "CVE-2026-104033\n",
+  "aliases": "CVE-2026-104033\nGHSA-v9m6-j2qm-86p2\n",
   "assigner": "redhat",
   "epss": 0.0,
   "enisaIdProduct": [],

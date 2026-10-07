@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/413618\nhttps://vuldb.com/vuln/413618/cti\nhttps://vuldb.com/cve/CVE-2026-105472\nhttps://vuldb.com/submit/984338\nhttps://github.com/girishsaraf/Online-Appointment-Booking-System/issues/10\nhttps://github.com/girishsaraf/Online-Appointment-Booking-System/\n",
-  "aliases": "CVE-2026-105472\n",
+  "aliases": "GHSA-9m7v-32rc-q7qc\nCVE-2026-105472\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
