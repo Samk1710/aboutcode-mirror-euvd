@@ -10,7 +10,7 @@
   "references": "https://www.fanvil.com/products/p5/wulianwangwangguan_1/20210921/5035.html\nhttp://download.fanvil.com/Firmware/Release/PA2S/\nhttps://www.darkpoint.ca/blog/2026/02/27/Fanvil-x7a-PA2S-Vulnerability-Disclosure\n",
   "aliases": "CVE-2025-70522\nGHSA-mqgg-wf4q-w7jv\n",
   "assigner": "mitre",
-  "epss": 0.0,
+  "epss": 0.16,
   "enisaIdProduct": [
     {
       "id": "dbcf99ab-ea9a-364b-8ba5-e815f7264fe9",

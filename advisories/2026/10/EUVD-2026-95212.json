@@ -3,7 +3,7 @@
   "enisaUuid": "8927a4a4-37fc-3da2-9683-7bf749c230c1",
   "description": "Indico is an event management system that uses Flask-Multipass, a multi-backend authentication system for Flask. Prior to 3.3.13, the previous fix for CVE-2026-25738 did not cover an edge case, allowing an event organizer to submit a crafted URL that points to a prohibited local target but is accepted as valid by Indico. The organizer can read data returned by the target through affected Indico features. This issue is fixed in version 3.3.13.",
   "datePublished": "Oct 8, 2026, 7:55:07 PM",
-  "dateUpdated": "Oct 8, 2026, 7:55:07 PM",
+  "dateUpdated": "Oct 9, 2026, 3:54:49 PM",
   "baseScore": 6.8,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:C/C:H/I:N/A:N",

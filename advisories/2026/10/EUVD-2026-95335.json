@@ -3,7 +3,7 @@
   "enisaUuid": "d5b7d38e-c2c0-36f0-bcd9-da643adc6f86",
   "description": "Satel Netco Design versions prior to v2.1.7 contains a stored cross site scripting vulnerability. An authenticated user with Network Operator privileges could store untrusted content that is rendered without adequate neutralization. Successful exploitation could allow script execution in another user's browser when the affected content is viewed.",
   "datePublished": "Oct 8, 2026, 9:29:11 PM",
-  "dateUpdated": "Oct 8, 2026, 9:29:11 PM",
+  "dateUpdated": "Oct 9, 2026, 2:30:43 PM",
   "baseScore": 8.5,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:P/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",

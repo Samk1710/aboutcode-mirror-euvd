@@ -10,7 +10,7 @@
   "references": "https://www.fanvil.com/products/p1/x/20210921/5043.html\nhttp://download.fanvil.com/Firmware/Release/X7A/\nhttps://www.darkpoint.ca/blog/2026/02/27/Fanvil-x7a-PA2S-Vulnerability-Disclosure\n",
   "aliases": "GHSA-38rq-jxrp-p3mq\nCVE-2025-70517\n",
   "assigner": "mitre",
-  "epss": 0.0,
+  "epss": 0.16,
   "enisaIdProduct": [
     {
       "id": "7c5fd007-5a66-3d78-83d2-53e30a51ef07",
