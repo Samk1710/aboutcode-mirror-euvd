@@ -3,7 +3,7 @@
   "enisaUuid": "7dc83414-0268-3381-b543-e0651d7eb472",
   "description": "Unauthenticated Cross Site Scripting (XSS) in TechOne <= 3.0.3 versions.",
   "datePublished": "Oct 10, 2026, 7:35:53 PM",
-  "dateUpdated": "Oct 10, 2026, 7:38:09 PM",
+  "dateUpdated": "Oct 11, 2026, 11:42:58 AM",
   "baseScore": 7.1,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:L",

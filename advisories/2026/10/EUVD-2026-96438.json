@@ -3,7 +3,7 @@
   "enisaUuid": "1d22d569-01d6-3592-9746-255d42f8c7cd",
   "description": "Unauthenticated Cross Site Scripting (XSS) in Social Share Icons & Social Share Buttons <= 3.7.5 versions.",
   "datePublished": "Oct 10, 2026, 7:35:09 PM",
-  "dateUpdated": "Oct 10, 2026, 7:35:09 PM",
+  "dateUpdated": "Oct 11, 2026, 11:42:59 AM",
   "baseScore": 7.1,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:L",

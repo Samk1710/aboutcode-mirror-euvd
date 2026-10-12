@@ -3,7 +3,7 @@
   "enisaUuid": "98ed93db-e2a2-31b3-b04b-f254a53c8566",
   "description": "Subscriber Bypass Vulnerability in MicroPayments <= 3.2.9 versions.",
   "datePublished": "Oct 10, 2026, 7:36:24 PM",
-  "dateUpdated": "Oct 10, 2026, 7:36:24 PM",
+  "dateUpdated": "Oct 11, 2026, 12:13:33 PM",
   "baseScore": 5.4,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:L",

@@ -3,7 +3,7 @@
   "enisaUuid": "670394db-e0d8-3b88-a56e-9b9e8f0d1069",
   "description": "The Motors \u2013 Car Dealership & Classified Listings Plugin plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'stm_f_s' parameter in all versions up to, and including, 1.4.123 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with subscriber-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. The nonce required by the stm_ajax_add_a_car AJAX handler is emitted in wp_footer on every page, making it accessible to any authenticated user and removing any practical barrier to exploitation at the Subscriber level.",
   "datePublished": "Oct 10, 2026, 7:41:42 AM",
-  "dateUpdated": "Oct 10, 2026, 7:41:42 AM",
+  "dateUpdated": "Oct 11, 2026, 12:13:44 PM",
   "baseScore": 6.4,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:N",

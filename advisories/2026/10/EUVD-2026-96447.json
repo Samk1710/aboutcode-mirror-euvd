@@ -3,7 +3,7 @@
   "enisaUuid": "14a8f13f-073f-3f80-96b8-16833c53ac21",
   "description": "Unauthenticated Cross Site Scripting (XSS) in Photo Gallery by 10Web <= 1.8.47 versions.",
   "datePublished": "Oct 10, 2026, 7:35:16 PM",
-  "dateUpdated": "Oct 10, 2026, 7:35:16 PM",
+  "dateUpdated": "Oct 11, 2026, 11:42:59 AM",
   "baseScore": 7.1,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:L",

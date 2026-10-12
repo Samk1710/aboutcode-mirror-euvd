@@ -3,7 +3,7 @@
   "enisaUuid": "3deb2245-ce1b-327f-8f03-fa9360c72f29",
   "description": "Unauthenticated Remote Code Execution (RCE) in SiteVault \u2013 Backup, Restore, Migration &amp; Cloning <= 1.5.19 versions.",
   "datePublished": "Oct 10, 2026, 7:35:08 PM",
-  "dateUpdated": "Oct 10, 2026, 7:35:08 PM",
+  "dateUpdated": "Oct 11, 2026, 12:13:35 PM",
   "baseScore": 10.0,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",

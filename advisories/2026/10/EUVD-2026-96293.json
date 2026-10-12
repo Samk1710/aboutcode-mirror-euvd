@@ -3,7 +3,7 @@
   "enisaUuid": "720c68ec-c105-3c5f-a34f-8860d792386f",
   "description": "The WP Photo Album Plus plugin for WordPress is vulnerable to Stored Cross-Site Scripting via REQUEST_URI Session History in all versions up to, and including, 9.3.03.002 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. The bypass works because esc_url_raw() strips literal angle brackets but retains HTML entities, which wppaEntityDecode() silently converts back to live HTML tags before jQuery('#wppa-modal-container').html() renders them.",
   "datePublished": "Oct 10, 2026, 7:41:42 AM",
-  "dateUpdated": "Oct 10, 2026, 7:41:42 AM",
+  "dateUpdated": "Oct 11, 2026, 12:13:44 PM",
   "baseScore": 7.2,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:L/I:L/A:N",

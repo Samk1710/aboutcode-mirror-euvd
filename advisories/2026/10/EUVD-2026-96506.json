@@ -3,7 +3,7 @@
   "enisaUuid": "85be767d-ddfb-3660-bae0-fbea7a1087cc",
   "description": "Unauthenticated Broken Access Control in Barcode Scanner with Inventory & Order Manager <= 1.13.1 versions.",
   "datePublished": "Oct 10, 2026, 7:36:01 PM",
-  "dateUpdated": "Oct 10, 2026, 7:36:01 PM",
+  "dateUpdated": "Oct 11, 2026, 12:13:34 PM",
   "baseScore": 7.3,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L",

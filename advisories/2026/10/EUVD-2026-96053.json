@@ -3,7 +3,7 @@
   "enisaUuid": "352813ca-888f-37b6-8ff2-6e370cce6618",
   "description": "The Data Tables Generator by Supsystic plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Table Cell 'data' Value via updateRows Action in all versions up to, and including, 1.15.1 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with subscriber-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. This is only exploitable by Subscriber-level users when an administrator has added their role to the plugin's 'access_roles' setting, which is a documented and explicitly supported plugin feature that grants lower-privileged users access to the dtgs_nonce required to reach the vulnerable updateRows action handler.",
   "datePublished": "Oct 10, 2026, 4:26:42 AM",
-  "dateUpdated": "Oct 10, 2026, 4:26:42 AM",
+  "dateUpdated": "Oct 11, 2026, 12:23:59 PM",
   "baseScore": 6.4,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:N",

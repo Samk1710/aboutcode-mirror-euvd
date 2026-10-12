@@ -3,7 +3,7 @@
   "enisaUuid": "c8f6d969-1e0e-3697-8205-1b67b016599f",
   "description": "The Bookly \u2013 Online Scheduling and Appointment Booking System plugin for WordPress is vulnerable to Sensitive Information Exposure in versions up to, and including, 28.4 via the classic booking form's Details step. The endpoint bookly_render_details is registered for both wp_ajax and wp_ajax_nopriv, the module overrides csrfTokenValid() to always return true, and Bookly\\Frontend\\Components\\Booking\\InfoText::getCodes() calls UserBookingData::getCustomer() to load the persisted Customer entity keyed solely by the attacker-supplied phone (or email) with no invocation of the plugin's own customerIdentityConfirmed() predicate. When a site owner has placed the supported {client_name}, {client_email}, {client_phone}, or {client_note} placeholders into the Details step's Appearance information text, the matched customer's stored name, email, phone and internal notes are substituted into the returned HTML. This makes it possible for unauthenticated attackers who know only a registered customer's primary phone (or email) to read that customer's stored personal data.",
   "datePublished": "Oct 10, 2026, 3:26:45 AM",
-  "dateUpdated": "Oct 10, 2026, 3:26:45 AM",
+  "dateUpdated": "Oct 11, 2026, 4:55:19 PM",
   "baseScore": 5.3,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",

@@ -3,7 +3,7 @@
   "enisaUuid": "203084d5-eb90-3e3a-88c5-e72963b320a4",
   "description": "Unauthenticated Cross Site Scripting (XSS) in Slider by 10Web <= 1.2.63 versions.",
   "datePublished": "Oct 10, 2026, 7:35:14 PM",
-  "dateUpdated": "Oct 10, 2026, 7:35:14 PM",
+  "dateUpdated": "Oct 11, 2026, 11:42:59 AM",
   "baseScore": 7.1,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:L",

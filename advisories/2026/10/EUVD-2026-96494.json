@@ -3,7 +3,7 @@
   "enisaUuid": "62db0b09-3809-33ed-9b79-8513429a4cb8",
   "description": "Unauthenticated Cross Site Scripting (XSS) in Armania <= 1.4.8 versions.",
   "datePublished": "Oct 10, 2026, 7:35:52 PM",
-  "dateUpdated": "Oct 10, 2026, 7:38:06 PM",
+  "dateUpdated": "Oct 11, 2026, 11:42:58 AM",
   "baseScore": 7.1,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:L",

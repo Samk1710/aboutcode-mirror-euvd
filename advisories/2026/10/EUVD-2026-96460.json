@@ -3,7 +3,7 @@
   "enisaUuid": "40f9ddd1-2ce9-3add-8e93-f403383125ed",
   "description": "Subscriber PHP Object Injection in Angio <= 1.1.1 versions.",
   "datePublished": "Oct 10, 2026, 7:35:26 PM",
-  "dateUpdated": "Oct 10, 2026, 7:37:35 PM",
+  "dateUpdated": "Oct 11, 2026, 12:13:35 PM",
   "baseScore": 8.8,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",

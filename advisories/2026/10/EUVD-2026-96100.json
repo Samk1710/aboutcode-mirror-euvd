@@ -3,7 +3,7 @@
   "enisaUuid": "f326b19e-bbd2-3763-ab99-b1696bc9f9e9",
   "description": "The Church Admin plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'email' parameter in all versions up to, and including, 5.1.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with subscriber-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.",
   "datePublished": "Oct 10, 2026, 5:31:01 AM",
-  "dateUpdated": "Oct 10, 2026, 5:31:01 AM",
+  "dateUpdated": "Oct 11, 2026, 12:23:57 PM",
   "baseScore": 6.4,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:N",

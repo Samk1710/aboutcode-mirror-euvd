@@ -3,7 +3,7 @@
   "enisaUuid": "d16a7f9a-054b-37be-9a01-07f57c9dcc1f",
   "description": "Subscriber Arbitrary File Deletion in PeepSo <= 9.0.5.4 versions.",
   "datePublished": "Oct 10, 2026, 7:35:02 PM",
-  "dateUpdated": "Oct 10, 2026, 7:37:15 PM",
+  "dateUpdated": "Oct 11, 2026, 12:13:35 PM",
   "baseScore": 7.7,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:N/I:N/A:H",
