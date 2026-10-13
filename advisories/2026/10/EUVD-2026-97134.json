@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/416559\nhttps://vuldb.com/vuln/416559/cti\nhttps://vuldb.com/cve/CVE-2026-108779\nhttps://vuldb.com/submit/959638\n",
-  "aliases": "CVE-2026-108779\n",
+  "aliases": "CVE-2026-108779\nGHSA-4mf5-cv4x-v6qh\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.19,
   "enisaIdProduct": [
     {
       "id": "cfaa3cf9-d9a7-3483-99f2-dd9d55f51e78",

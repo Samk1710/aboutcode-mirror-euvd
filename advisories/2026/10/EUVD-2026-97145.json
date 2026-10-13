@@ -8,9 +8,9 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
   "references": "https://github.com/kashishtopi/blinko-plugin-path-traversal-rce\nhttps://github.com/blinkospace/blinko/blob/178e4b3538a21823a50ac2481e653d56cb1ffa86/server/routerTrpc/plugin.ts#L273\nhttps://github.com/blinkospace/blinko/blob/178e4b3538a21823a50ac2481e653d56cb1ffa86/app/src/pages/signin.tsx#L238-L243\n",
-  "aliases": "CVE-2026-108980\n",
+  "aliases": "GHSA-q62g-66hr-78pq\nCVE-2026-108980\n",
   "assigner": "mitre",
-  "epss": 0.0,
+  "epss": 1.06,
   "enisaIdProduct": [
     {
       "id": "6332e20c-7f7d-3f82-872d-dac46495afb0",

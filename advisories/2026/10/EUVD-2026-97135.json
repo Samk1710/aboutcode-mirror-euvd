@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/416560\nhttps://vuldb.com/vuln/416560/cti\nhttps://vuldb.com/cve/CVE-2026-108781\nhttps://vuldb.com/submit/959640\n",
-  "aliases": "CVE-2026-108781\n",
+  "aliases": "CVE-2026-108781\nGHSA-mcrh-cw8w-39qp\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.2,
   "enisaIdProduct": [
     {
       "id": "c8bedd77-2688-3963-9706-34569d1c9467",

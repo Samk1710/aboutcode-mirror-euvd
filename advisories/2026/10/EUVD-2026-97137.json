@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/416562\nhttps://vuldb.com/vuln/416562/cti\nhttps://vuldb.com/cve/CVE-2026-108783\nhttps://vuldb.com/submit/959275\nhttps://github.com/ASantsSec/CVE/issues/27\n",
-  "aliases": "CVE-2026-108783\n",
+  "aliases": "GHSA-68rx-43cf-mfgv\nCVE-2026-108783\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.38,
   "enisaIdProduct": [
     {
       "id": "0b070a18-fda4-3d22-a27b-f9acc65c267e",
