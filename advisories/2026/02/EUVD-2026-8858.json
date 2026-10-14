@@ -3,7 +3,7 @@
   "enisaUuid": "4934694f-a0f5-3064-a8b4-15a3f3f897e1",
   "description": "VideoLAN VLC for Android prior to version 3.7.0 contains a path traversal vulnerability in the Remote Access Server routing for the authenticated endpoint GET /download. The file query parameter is concatenated into a filesystem path under the configured download directory without canonicalization or directory containment checks, allowing an authenticated attacker with network reachability to the Remote Access Server to request files outside the intended directory. The impact is bounded by the Android application sandbox and storage restrictions, typically limiting exposure to app-internal and app-specific external storage.",
   "datePublished": "Feb 26, 2026, 3:21:00 PM",
-  "dateUpdated": "Oct 13, 2026, 1:42:20 AM",
+  "dateUpdated": "Oct 13, 2026, 11:20:55 AM",
   "baseScore": 2.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:L/VI:N/VA:L/SC:N/SI:N/SA:N",

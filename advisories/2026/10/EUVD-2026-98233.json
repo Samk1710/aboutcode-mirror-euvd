@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:A/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://doi.org/10.3390/s26206448\nhttps://www.vulncheck.com/advisories/opens100-s-102-parser-integer-overflow-heap-buffer-overflow\n",
-  "aliases": "CVE-2026-35001\n",
+  "aliases": "GHSA-636c-c9vm-prrj\nCVE-2026-35001\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

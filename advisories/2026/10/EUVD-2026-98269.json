@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/416778\nhttps://vuldb.com/vuln/416778/cti\nhttps://vuldb.com/cve/CVE-2026-108959\nhttps://vuldb.com/submit/997932\nhttps://github.com/baijuyiqs/submit/issues/1\nhttps://itsourcecode.com/\n",
-  "aliases": "CVE-2026-108959\n",
+  "aliases": "CVE-2026-108959\nGHSA-45xr-9jx2-8qgr\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

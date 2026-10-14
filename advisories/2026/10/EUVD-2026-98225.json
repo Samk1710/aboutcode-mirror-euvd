@@ -8,7 +8,7 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N",
   "references": "https://gitlab.com/gitlab-org/gitlab/-/work_items/604841\nhttps://hackerone.com/reports/3809364\nhttps://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/\n",
-  "aliases": "CVE-2026-14552\n",
+  "aliases": "GHSA-7rx8-qc4h-gmx2\nCVE-2026-14552\n",
   "assigner": "GitLab",
   "epss": 0.0,
   "enisaIdProduct": [

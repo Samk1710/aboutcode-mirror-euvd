@@ -8,7 +8,7 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N",
   "references": "https://github.com/SAP/cloud-sdk-python/security/advisories/GHSA-4mv3-jxxm-9cx2\nhttps://url.sap/sapsecuritypatchday\n",
-  "aliases": "CVE-2026-89111\n",
+  "aliases": "GHSA-m3j7-wp2j-mhc3\nCVE-2026-89111\n",
   "assigner": "sap",
   "epss": 0.0,
   "enisaIdProduct": [

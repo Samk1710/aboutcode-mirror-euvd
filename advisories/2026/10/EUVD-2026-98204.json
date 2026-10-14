@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:L/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:X",
   "references": "https://vuldb.com/vuln/416770\nhttps://vuldb.com/vuln/416770/cti\nhttps://vuldb.com/cve/CVE-2026-108945\nhttps://vuldb.com/submit/997729\nhttps://github.com/iMoonLab/yolov13/issues/81\nhttps://github.com/iMoonLab/yolov13/\n",
-  "aliases": "CVE-2026-108945\n",
+  "aliases": "GHSA-qmg4-358m-mfg3\nCVE-2026-108945\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

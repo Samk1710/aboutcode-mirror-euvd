@@ -3,7 +3,7 @@
   "enisaUuid": "b36656b5-dbf8-34e7-85d1-2d02b8c5e140",
   "description": "Frappe ERPNext before 15.121.0 and 16.x before 16.34.0 contains a missing authorization vulnerability in certain endpoints that fail to enforce proper authorization checks. Authenticated users can call these endpoints to modify data beyond what their assigned role permits.",
   "datePublished": "Oct 12, 2026, 10:21:59 PM",
-  "dateUpdated": "Oct 12, 2026, 10:21:59 PM",
+  "dateUpdated": "Oct 13, 2026, 1:36:22 PM",
   "baseScore": 5.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N",

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/416777\nhttps://vuldb.com/vuln/416777/cti\nhttps://vuldb.com/cve/CVE-2026-108958\nhttps://vuldb.com/submit/997885\nhttps://github.com/tensorlayer/TensorLayer/issues/1169\nhttps://github.com/tensorlayer/TensorLayer/\n",
-  "aliases": "CVE-2026-108958\n",
+  "aliases": "CVE-2026-108958\nGHSA-8vxw-f7hc-g4ph\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:U/C:L/I:L/A:L",
   "references": "https://gitlab.com/gitlab-org/gitlab/-/work_items/627507\nhttps://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/\n",
-  "aliases": "CVE-2026-100755\n",
+  "aliases": "GHSA-xw26-h8vq-gff9\nCVE-2026-100755\n",
   "assigner": "GitLab",
   "epss": 0.0,
   "enisaIdProduct": [

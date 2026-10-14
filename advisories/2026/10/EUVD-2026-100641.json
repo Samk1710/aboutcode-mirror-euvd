@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2026-100641",
+  "enisaUuid": "93960bf3-ee66-3111-b6f5-3c566d920bb8",
+  "description": "Use after free in Passwords in Google Chrome prior to 155.0.8059.79 allowed a remote attacker who had compromised the renderer process to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+  "datePublished": "Oct 14, 2026, 12:31:46 AM",
+  "dateUpdated": "Oct 14, 2026, 12:31:46 AM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html\nhttps://issues.chromium.org/issues/562242421\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-110158\n",
+  "aliases": "GHSA-p4wg-mr3g-xcc6\nCVE-2026-110158\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "ffc0ab06-99f9-3d68-9ba8-327c75be1915",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "155.0.8059.79 <155.0.8059.79"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "d890f602-5af9-3b92-8880-18ce3602d435",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

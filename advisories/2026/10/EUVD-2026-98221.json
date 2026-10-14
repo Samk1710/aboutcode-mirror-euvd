@@ -8,7 +8,7 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:L/I:L/A:N",
   "references": "https://gitlab.com/gitlab-org/gitlab/-/work_items/621535\nhttps://hackerone.com/reports/3893467\nhttps://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/\n",
-  "aliases": "CVE-2026-78335\n",
+  "aliases": "GHSA-fqqc-43f5-5hmg\nCVE-2026-78335\n",
   "assigner": "GitLab",
   "epss": 0.0,
   "enisaIdProduct": [

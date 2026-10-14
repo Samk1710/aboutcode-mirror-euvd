@@ -8,7 +8,7 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L",
   "references": "https://github.com/fail2ban/fail2ban/commit/ddd879d22664904ace24e1255ac6571808c58187\nhttps://coredump.ws/repos/mail-hardening.git/\n",
-  "aliases": "CVE-2026-109786\n",
+  "aliases": "CVE-2026-109786\nGHSA-xw36-3g63-5wfw\n",
   "assigner": "mitre",
   "epss": 0.0,
   "enisaIdProduct": [

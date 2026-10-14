@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/416773\nhttps://vuldb.com/vuln/416773/cti\nhttps://vuldb.com/cve/CVE-2026-108954\nhttps://vuldb.com/submit/997824\nhttps://github.com/k2-fsa/sherpa-onnx/issues/3983\nhttps://github.com/k2-fsa/sherpa-onnx/issues/3983#issuecomment-5871985324\nhttps://github.com/k2-fsa/sherpa-onnx/\n",
-  "aliases": "CVE-2026-108954\n",
+  "aliases": "CVE-2026-108954\nGHSA-f5q5-vp8g-wh4x\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

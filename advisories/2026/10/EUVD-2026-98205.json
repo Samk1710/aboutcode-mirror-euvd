@@ -8,7 +8,7 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
   "references": "https://github.com/rapid7/metasploit-framework/releases/tag/6.5.5\nhttps://github.com/rapid7/metasploit-framework\nhttps://github.com/rapid7/metasploit-framework/releases/tag/6.5.5\n",
-  "aliases": "CVE-2026-87689\n",
+  "aliases": "GHSA-4r4h-q2gr-cvcv\nCVE-2026-87689\n",
   "assigner": "rapid7",
   "epss": 0.0,
   "enisaIdProduct": [

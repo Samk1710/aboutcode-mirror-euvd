@@ -3,7 +3,7 @@
   "enisaUuid": "afdf9c14-6368-37b8-8243-c438d9238cb2",
   "description": "IBM Planning Analytics 2.0, and 2.1 could allow a remote authenticated attacker to execute arbitrary JavaScript due to improper output encoding.",
   "datePublished": "Oct 12, 2026, 10:40:18 PM",
-  "dateUpdated": "Oct 12, 2026, 10:40:18 PM",
+  "dateUpdated": "Oct 13, 2026, 1:48:38 PM",
   "baseScore": 5.4,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N",

@@ -3,7 +3,7 @@
   "enisaUuid": "f18728cc-173e-394d-9b22-b9a1bdbd763f",
   "description": "IBM Planning Analytics 2.0, and 2.1 could allow a remote attacker to bypass authentication and escalate privileges due to improper validation of sub-requests.",
   "datePublished": "Oct 12, 2026, 10:40:20 PM",
-  "dateUpdated": "Oct 12, 2026, 10:40:20 PM",
+  "dateUpdated": "Oct 13, 2026, 1:48:38 PM",
   "baseScore": 8.8,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
