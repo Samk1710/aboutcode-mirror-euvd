@@ -3,7 +3,7 @@
   "enisaUuid": "e276c053-7efd-38da-89ab-f505d4ef6683",
   "description": "ExifTool for photo and video 5.0.1-gms by CellHubs constructs shell command strings from file paths and invokes /system/bin/sh -c. In the CSV-export path, the selected media path is merely surrounded with single quotes; embedded single quotes are not escaped.",
   "datePublished": "Oct 10, 2026, 3:06:42 AM",
-  "dateUpdated": "Oct 10, 2026, 3:06:42 AM",
+  "dateUpdated": "Oct 15, 2026, 6:17:26 PM",
   "baseScore": 8.4,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:A/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
