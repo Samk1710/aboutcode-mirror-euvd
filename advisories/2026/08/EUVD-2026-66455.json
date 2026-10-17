@@ -3,7 +3,7 @@
   "enisaUuid": "1f38ff2a-c89c-337d-81ba-f2135aab2a86",
   "description": "In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amdgpu: Fix UVD decode image min size calculation\n\nThis needs to use pitch instead of width. Also reject pitch\nover 4096 to avoid overflow.\n\n(cherry picked from commit b41c8cb12e202b220353332ab87dc01a11f69304)",
   "datePublished": "Aug 26, 2026, 2:37:13 PM",
-  "dateUpdated": "Aug 27, 2026, 5:01:29 AM",
+  "dateUpdated": "Oct 16, 2026, 7:26:25 PM",
   "baseScore": 7.8,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",

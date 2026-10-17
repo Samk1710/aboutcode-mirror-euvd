@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:L/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:X",
   "references": "https://vuldb.com/vuln/420764\nhttps://vuldb.com/vuln/420764/cti\nhttps://vuldb.com/cve/CVE-2026-111237\nhttps://vuldb.com/submit/1004882\nhttps://github.com/CASIA-LMC-Lab/FastSAM/issues/288\n",
-  "aliases": "CVE-2026-111237\n",
+  "aliases": "CVE-2026-111237\nGHSA-gcxq-hrqr-8hc4\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
