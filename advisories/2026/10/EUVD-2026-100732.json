@@ -10,7 +10,7 @@
   "references": "https://www.adobe.com/trust/security/products/content-credentials-sdk/apsb26-163.html\n",
   "aliases": "CVE-2026-95633\nGHSA-6ch8-vmf7-6q8j\n",
   "assigner": "adobe",
-  "epss": 0.46,
+  "epss": 0.43,
   "enisaIdProduct": [
     {
       "id": "4476d680-a40b-3cd8-b060-ab57d1ecfbf4",

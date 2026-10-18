@@ -10,7 +10,7 @@
   "references": "https://www.adobe.com/trust/security/products/content-credentials-sdk/apsb26-163.html\n",
   "aliases": "GHSA-c2g9-v538-mg8q\nCVE-2026-100123\n",
   "assigner": "adobe",
-  "epss": 0.3,
+  "epss": 0.28,
   "enisaIdProduct": [
     {
       "id": "b81ece5f-0c02-3467-b2a5-d7a2d653869e",

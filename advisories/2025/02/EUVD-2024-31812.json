@@ -10,7 +10,7 @@
   "references": "https://mail.python.org/archives/list/security-announce@python.org/thread/CDXW34ND2LSAOYAR5N6UNONP4ZBX4D6R/\nhttps://github.com/python/cpython/issues/159428\nhttps://github.com/python/cpython/commit/04a29bf8f9ff8526cd96cb7368400173303a390a\nhttps://github.com/python/cpython/commit/5550519259656cbb8eeac09e3dbc0d5c248a4dea\nhttps://github.com/python/cpython/commit/76f4555c4ff10f5dda58d6528c17787df41e256c\n",
   "aliases": "CVE-2024-3220\nGHSA-74p9-4v44-wwx5\n",
   "assigner": "PSF",
-  "epss": 0.53,
+  "epss": 0.6,
   "enisaIdProduct": [
     {
       "id": "28f5bf26-f362-3950-8a81-e4c4b4ad58a7",
