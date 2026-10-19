@@ -3,7 +3,7 @@
   "enisaUuid": "b549556c-cf3a-314f-9f93-c946920af009",
   "description": "The WP Booking System \u2013 Booking Calendar plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 2.1.0.3 via the 'id' parameter. This makes it possible for authenticated attackers, with subscriber-level access and above, to extract private per-event booking descriptions and booking IDs from any calendar managed by the site.",
   "datePublished": "Oct 17, 2026, 3:43:27 AM",
-  "dateUpdated": "Oct 17, 2026, 3:43:27 AM",
+  "dateUpdated": "Oct 18, 2026, 11:22:47 AM",
   "baseScore": 6.5,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N",
