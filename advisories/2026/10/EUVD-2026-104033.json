@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:P/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/421686\nhttps://vuldb.com/vuln/421686/cti\nhttps://vuldb.com/cve/CVE-2026-112038\nhttps://vuldb.com/submit/1008080\nhttps://github.com/diem-project/diem/issues/455\nhttps://github.com/diem-project/diem/\n",
-  "aliases": "CVE-2026-112038\n",
+  "aliases": "GHSA-f334-cccv-q38h\nCVE-2026-112038\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
