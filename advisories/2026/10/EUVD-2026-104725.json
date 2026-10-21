@@ -6,7 +6,7 @@
   "dateUpdated": "Oct 20, 2026, 12:50:53 AM",
   "baseScore": 0.0,
   "references": "https://support.apple.com/en-us/149035\n",
-  "aliases": "CVE-2026-86935\n",
+  "aliases": "GHSA-254r-9hrv-hg33\nCVE-2026-86935\n",
   "assigner": "apple",
   "epss": 0.0,
   "enisaIdProduct": [

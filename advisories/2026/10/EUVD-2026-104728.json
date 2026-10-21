@@ -6,7 +6,7 @@
   "dateUpdated": "Oct 20, 2026, 12:50:54 AM",
   "baseScore": 0.0,
   "references": "https://support.apple.com/en-us/149040\n",
-  "aliases": "CVE-2026-86948\n",
+  "aliases": "CVE-2026-86948\nGHSA-79mp-j3j2-g5p4\n",
   "assigner": "apple",
   "epss": 0.0,
   "enisaIdProduct": [

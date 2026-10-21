@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2026-105644",
+  "enisaUuid": "774a17ea-f73f-3ecd-86ab-7633b2ef8d8e",
+  "description": "Memory corruption in GPU in Google Chrome on on Android prior to 156.0.8078.47 allowed a remote attacker to potentially read memory inside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
+  "datePublished": "Oct 21, 2026, 12:32:51 AM",
+  "dateUpdated": "Oct 21, 2026, 12:32:51 AM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html\nhttps://issues.chromium.org/issues/559720179\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-113304\n",
+  "aliases": "GHSA-m7v6-pc28-prvg\nCVE-2026-113304\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "fd850a76-ed28-3275-804a-f107af637d10",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "156.0.8078.47 <156.0.8078.47"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "715f325c-7578-3d30-930c-45bb58e4cae1",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   "dateUpdated": "Oct 20, 2026, 12:50:37 AM",
   "baseScore": 0.0,
   "references": "https://support.apple.com/en-us/149034\nhttps://support.apple.com/en-us/149035\nhttps://support.apple.com/en-us/149036\nhttps://support.apple.com/en-us/149037\nhttps://support.apple.com/en-us/149038\n",
-  "aliases": "CVE-2026-84582\n",
+  "aliases": "GHSA-3934-4xv3-w89q\nCVE-2026-84582\n",
   "assigner": "apple",
   "epss": 0.0,
   "enisaIdProduct": [

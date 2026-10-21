@@ -6,7 +6,7 @@
   "dateUpdated": "Oct 20, 2026, 12:50:42 AM",
   "baseScore": 0.0,
   "references": "https://support.apple.com/en-us/149035\nhttps://support.apple.com/en-us/149042\nhttps://support.apple.com/en-us/149043\n",
-  "aliases": "CVE-2026-86868\n",
+  "aliases": "GHSA-2c2f-8p99-6q46\nCVE-2026-86868\n",
   "assigner": "apple",
   "epss": 0.0,
   "enisaIdProduct": [

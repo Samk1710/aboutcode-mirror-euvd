@@ -6,7 +6,7 @@
   "dateUpdated": "Oct 20, 2026, 12:50:57 AM",
   "baseScore": 0.0,
   "references": "https://support.apple.com/en-us/149034\n",
-  "aliases": "CVE-2026-86977\n",
+  "aliases": "CVE-2026-86977\nGHSA-pf5v-xx6f-ccgf\n",
   "assigner": "apple",
   "epss": 0.0,
   "enisaIdProduct": [

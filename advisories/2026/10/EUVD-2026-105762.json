@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2026-105762",
+  "enisaUuid": "c7e3a091-9bc6-36b4-9ac1-ad5c492a674f",
+  "description": "Memory corruption in Loader in Google Chrome prior to 156.0.8078.47 allowed a remote attacker to potentially read memory inside the sandbox via a crafted HTML page. (Chromium security severity: Low)",
+  "datePublished": "Oct 21, 2026, 12:32:42 AM",
+  "dateUpdated": "Oct 21, 2026, 12:32:42 AM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html\nhttps://issues.chromium.org/issues/563016452\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-113122\n",
+  "aliases": "CVE-2026-113122\nGHSA-424x-xx6w-9r49\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "353f8d5e-8354-32e9-83ec-fe14053d3dd4",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "156.0.8078.47 <156.0.8078.47"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "7b4a340c-3d3d-3845-ac40-a87e90e50332",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

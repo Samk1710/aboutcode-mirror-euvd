@@ -6,7 +6,7 @@
   "dateUpdated": "Oct 20, 2026, 12:50:04 AM",
   "baseScore": 0.0,
   "references": "https://support.apple.com/en-us/149035\n",
-  "aliases": "CVE-2026-28854\n",
+  "aliases": "GHSA-4w84-q78m-3mfj\nCVE-2026-28854\n",
   "assigner": "apple",
   "epss": 0.0,
   "enisaIdProduct": [

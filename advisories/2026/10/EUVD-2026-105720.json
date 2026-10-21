@@ -1,0 +1,34 @@
+{
+  "id": "EUVD-2026-105720",
+  "enisaUuid": "58b52718-b908-34a5-81dc-c965b055dae5",
+  "description": "Memory corruption in DevTools in Google Chrome prior to 156.0.8078.47 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Low)",
+  "datePublished": "Oct 21, 2026, 12:32:45 AM",
+  "dateUpdated": "Oct 21, 2026, 12:32:45 AM",
+  "baseScore": 9.6,
+  "baseScoreVersion": "3.1",
+  "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:H",
+  "references": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html\nhttps://issues.chromium.org/issues/533644359\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-113186\n",
+  "aliases": "CVE-2026-113186\nGHSA-27fc-p5mc-p548\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "3b712c98-9c2f-30a9-b9d9-713b394db193",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "156.0.8078.47 <156.0.8078.47"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "82d9b3eb-7a6a-332f-a626-89d5f71fd1a6",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}

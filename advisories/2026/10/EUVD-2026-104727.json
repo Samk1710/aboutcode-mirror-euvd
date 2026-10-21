@@ -6,7 +6,7 @@
   "dateUpdated": "Oct 20, 2026, 12:50:53 AM",
   "baseScore": 0.0,
   "references": "https://support.apple.com/en-us/149041\nhttps://support.apple.com/en-us/149042\nhttps://support.apple.com/en-us/149043\n",
-  "aliases": "CVE-2026-86944\n",
+  "aliases": "CVE-2026-86944\nGHSA-fcpj-78rx-jrg9\n",
   "assigner": "apple",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -1,0 +1,32 @@
+{
+  "id": "EUVD-2026-105753",
+  "enisaUuid": "a2102d01-6079-34d7-b5a0-ef76c7ad3083",
+  "description": "Memory corruption in Chromoting in Google Chrome prior to 156.0.8078.47 allowed a remote attacker to read memory inside the sandbox via a crafted HTML page. (Chromium security severity: Low)",
+  "datePublished": "Oct 21, 2026, 12:32:47 AM",
+  "dateUpdated": "Oct 21, 2026, 12:32:47 AM",
+  "baseScore": 0.0,
+  "references": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html\nhttps://issues.chromium.org/issues/562978160\nhttps://nvd.nist.gov/vuln/detail/CVE-2026-113237\n",
+  "aliases": "CVE-2026-113237\nGHSA-2r3p-gpf4-7w5c\n",
+  "assigner": "Chrome",
+  "epss": 0.0,
+  "enisaIdProduct": [
+    {
+      "id": "9ff834c2-0a28-3c27-8d3c-3e4d1f1284d4",
+      "product": {
+        "name": "Chrome",
+        "vendor": {
+          "name": "Google"
+        }
+      },
+      "product_version": "156.0.8078.47 <156.0.8078.47"
+    }
+  ],
+  "enisaIdVendor": [
+    {
+      "id": "f770174e-e405-3973-bb27-51f3d86d95bb",
+      "vendor": {
+        "name": "Google"
+      }
+    }
+  ]
+}
