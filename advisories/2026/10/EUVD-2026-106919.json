@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:P/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/vyperlang/vyper/security/advisories/GHSA-wvx7-39qj-2g9v\nhttps://www.vulncheck.com/advisories/vyper-through-0.5-0b1-literal-value-manipulation-via-line-separators\n",
-  "aliases": "CVE-2026-114116\n",
+  "aliases": "CVE-2026-114116\nGHSA-2gvm-cwr3-3pcg\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

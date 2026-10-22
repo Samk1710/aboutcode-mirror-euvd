@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/vyperlang/vyper/security/advisories/GHSA-4v7v-gqf9-ww2g\nhttps://www.vulncheck.com/advisories/vyper-before-0.2.6-call-stack-corruption-via-complex-type-function-arguments\n",
-  "aliases": "CVE-2020-37287\n",
+  "aliases": "CVE-2020-37287\nGHSA-cqxq-3fq9-6g4p\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

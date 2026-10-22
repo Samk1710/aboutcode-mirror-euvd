@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/FreeRDP/FreeRDP/security/advisories/GHSA-262p-h989-vmpv\nhttps://www.vulncheck.com/advisories/freerdp-before-3.32.1-android-client-heap-oob-read-via-graphics-pipeline\n",
-  "aliases": "CVE-2026-114044\n",
+  "aliases": "GHSA-mp7g-v56c-664p\nCVE-2026-114044\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

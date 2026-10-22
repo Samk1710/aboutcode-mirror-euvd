@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:L/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/vyperlang/vyper/security/advisories/GHSA-fxg7-4wqg-c8gh\nhttps://www.vulncheck.com/advisories/vyper-0.3.4-through-0.5-0b1-create-from-blueprint-offset-validation-bypass-via-unsigned-wraparound\n",
-  "aliases": "CVE-2026-114118\n",
+  "aliases": "GHSA-p4mc-qjvf-mf2m\nCVE-2026-114118\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

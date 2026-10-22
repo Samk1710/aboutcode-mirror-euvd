@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/vllm-project/vllm/security/advisories/GHSA-h3rc-6mm3-gc2m\nhttps://github.com/vllm-project/vllm/commit/570735520942b6428ae98f1eb442c6d88adae55e\nhttps://www.vulncheck.com/advisories/vllm-0.7.3-before-0.31.0-rce-via-mm-processor-kwargs-code-revision\n",
-  "aliases": "CVE-2026-114053\n",
+  "aliases": "GHSA-f623-hjm8-5wg5\nCVE-2026-114053\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

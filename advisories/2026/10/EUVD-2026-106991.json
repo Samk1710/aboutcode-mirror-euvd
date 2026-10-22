@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/422910\nhttps://vuldb.com/vuln/422910/cti\nhttps://vuldb.com/cve/CVE-2026-113738\nhttps://vuldb.com/submit/1016281\nhttps://github.com/R6410418/Jackrong-llm-finetuning-guide/issues/16\nhttps://github.com/user-attachments/files/33115067/poc.zip\nhttps://github.com/R6410418/Jackrong-llm-finetuning-guide/\n",
-  "aliases": "CVE-2026-113738\n",
+  "aliases": "GHSA-q5q6-rw2f-74pm\nCVE-2026-113738\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/cthackers/adm-zip/security/advisories/GHSA-8238-w5pm-2374\nhttps://www.vulncheck.com/advisories/adm-zip-before-0.6.1-denial-of-service-via-inflateasync-unhandled-error-event\n",
-  "aliases": "CVE-2026-114102\n",
+  "aliases": "GHSA-f9g8-qp78-x5c2\nCVE-2026-114102\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

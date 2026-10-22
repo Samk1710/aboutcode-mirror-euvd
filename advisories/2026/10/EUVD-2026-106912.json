@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/astral-sh/uv/security/advisories/GHSA-4gg8-gxpx-9rph\nhttps://www.vulncheck.com/advisories/uv-before-0.11.15-arbitrary-file-write-via-entry-point-names\n",
-  "aliases": "CVE-2026-114109\n",
+  "aliases": "CVE-2026-114109\nGHSA-m8vc-5xpp-qpqf\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

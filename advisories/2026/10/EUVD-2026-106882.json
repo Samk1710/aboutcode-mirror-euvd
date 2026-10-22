@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:L/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/triggerdotdev/trigger.dev/security/advisories/GHSA-4672-hwv6-gq62\nhttps://www.vulncheck.com/advisories/trigger-dev-before-4.5.6-cross-environment-deployment-cancel-via-cancel-endpoint\n",
-  "aliases": "CVE-2026-114079\n",
+  "aliases": "GHSA-49rg-27pr-85f9\nCVE-2026-114079\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

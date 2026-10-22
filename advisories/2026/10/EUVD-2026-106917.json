@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:P/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/vyperlang/vyper/security/advisories/GHSA-r3c7-7xwm-6vfw\nhttps://www.vulncheck.com/advisories/vyper-through-0.5-0b1-literal-value-substitution-via-multi-byte-characters\n",
-  "aliases": "CVE-2026-114114\n",
+  "aliases": "CVE-2026-114114\nGHSA-vchg-h45q-h36m\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

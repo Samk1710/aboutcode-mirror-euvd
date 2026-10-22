@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/triggerdotdev/trigger.dev/security/advisories/GHSA-gx7f-q62h-9fxp\nhttps://www.vulncheck.com/advisories/trigger-dev-before-4.5.0-rc.3-path-traversal-via-packets-presigned-url-endpoints\n",
-  "aliases": "CVE-2026-114083\n",
+  "aliases": "GHSA-r9qj-p24x-r8fw\nCVE-2026-114083\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

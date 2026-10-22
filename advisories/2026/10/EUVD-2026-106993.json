@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/FreeRDP/FreeRDP/security/advisories/GHSA-5xjc-c64q-m8r6\nhttps://www.vulncheck.com/advisories/freerdp-3.32.0-use-after-free-via-drdynvc-virtual-channel-pdu\n",
-  "aliases": "CVE-2026-114042\n",
+  "aliases": "GHSA-72vv-4hwf-qhx6\nCVE-2026-114042\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

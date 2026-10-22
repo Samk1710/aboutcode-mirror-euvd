@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/vyperlang/vyper/security/advisories/GHSA-mr6r-mvw4-736g\nhttps://www.vulncheck.com/advisories/vyper-before-0.3.1-improper-input-validation-of-uint8-interface-return-values\n",
-  "aliases": "CVE-2020-37289\n",
+  "aliases": "GHSA-6j8p-r676-fv69\nCVE-2020-37289\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

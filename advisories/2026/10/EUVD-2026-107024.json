@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/triggerdotdev/trigger.dev/security/advisories/GHSA-fj2x-mqqp-3v2w\nhttps://www.vulncheck.com/advisories/trigger-dev-cli-before-4.5.9-secret-exposure-via-debug-deployment-logs\n",
-  "aliases": "CVE-2026-114073\n",
+  "aliases": "GHSA-45vw-83pv-f4m9\nCVE-2026-114073\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

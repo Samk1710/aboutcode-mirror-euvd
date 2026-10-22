@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/vyperlang/vyper/security/advisories/GHSA-7f92-rr6w-cq64\nhttps://www.vulncheck.com/advisories/vyper-0.2.13-before-0.2.15-storage-corruption-via-nonreentrant-decorator\n",
-  "aliases": "CVE-2021-48018\n",
+  "aliases": "CVE-2021-48018\nGHSA-57w3-rr8j-wp9c\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:L/VA:N/SC:L/SI:L/SA:L",
   "references": "https://github.com/triggerdotdev/trigger.dev/security/advisories/GHSA-hc5h-gqhc-4h79\nhttps://www.vulncheck.com/advisories/trigger-dev-before-4.5.12-csrf-via-slack-oauth-callback-state\n",
-  "aliases": "CVE-2026-114072\n",
+  "aliases": "CVE-2026-114072\nGHSA-8fgg-399q-2r8f\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

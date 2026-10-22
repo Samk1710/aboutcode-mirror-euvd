@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/HKUDS/Vibe-Trading/security/advisories/GHSA-v2f8-6655-7grj\nhttps://www.vulncheck.com/advisories/hkuds-vibe-trading-before-0.1.7-missing-authentication-in-fastapi-server-enabling-rce\n",
-  "aliases": "CVE-2026-114108\n",
+  "aliases": "GHSA-6gpw-8ggq-h6c8\nCVE-2026-114108\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

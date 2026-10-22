@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/triggerdotdev/trigger.dev/security/advisories/GHSA-pqxw-g93w-hj9x\nhttps://www.vulncheck.com/advisories/trigger-dev-before-4.5.6-authentication-bypass-via-hardcoded-default-secrets\n",
-  "aliases": "CVE-2026-114087\n",
+  "aliases": "GHSA-jm68-q9wf-qf39\nCVE-2026-114087\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

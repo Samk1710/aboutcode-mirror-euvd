@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/422892\nhttps://vuldb.com/vuln/422892/cti\nhttps://vuldb.com/cve/CVE-2026-113736\nhttps://vuldb.com/submit/1015789\nhttps://github.com/XueDugu/dlink-dhp-w610av-empty-admin-password-evidence\nhttps://github.com/XueDugu/dlink-dhp-w610av-empty-admin-password-evidence/blob/main/poc/poc_dhp610av_login.py\nhttps://www.dlink.com/\n",
-  "aliases": "CVE-2026-113736\n",
+  "aliases": "GHSA-7g5v-6vjx-9m7w\nCVE-2026-113736\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

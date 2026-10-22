@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:H/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/vyperlang/vyper/security/advisories/GHSA-2r3x-4mrv-mcxf\nhttps://www.vulncheck.com/advisories/vyper-0.1-0b4-before-0.3.0-memory-corruption-via-nested-internal-function-calls\n",
-  "aliases": "CVE-2020-37286\n",
+  "aliases": "GHSA-3w56-2qv9-5m4p\nCVE-2020-37286\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

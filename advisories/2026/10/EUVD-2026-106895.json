@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/triggerdotdev/trigger.dev/security/advisories/GHSA-pp95-gc86-jq6q\nhttps://github.com/triggerdotdev/trigger.dev/security/advisories/GHSA-9fq3-68cw-r7p2\nhttps://www.vulncheck.com/advisories/trigger-dev-before-4.5.0-missing-authentication-in-dashboard-run-replay-action\n",
-  "aliases": "CVE-2026-114092\n",
+  "aliases": "CVE-2026-114092\nGHSA-4ggh-4c33-wrjj\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

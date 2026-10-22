@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/triggerdotdev/trigger.dev/security/advisories/GHSA-gg6r-gp4c-89hp\nhttps://www.vulncheck.com/advisories/trigger-dev-before-4.5.4-hardcoded-coordinator-secret-authentication-bypass-via-socket-io\n",
-  "aliases": "CVE-2026-114088\n",
+  "aliases": "GHSA-j3cj-67wq-q96g\nCVE-2026-114088\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

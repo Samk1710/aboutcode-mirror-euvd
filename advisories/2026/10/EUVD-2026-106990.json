@@ -8,7 +8,7 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:L",
   "references": "https://access.redhat.com/security/cve/CVE-2026-114038\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2469787\n",
-  "aliases": "CVE-2026-114038\n",
+  "aliases": "GHSA-7rmr-p966-7g82\nCVE-2026-114038\n",
   "assigner": "redhat",
   "epss": 0.0,
   "enisaIdProduct": [],

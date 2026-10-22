@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/ArcadeData/arcadedb/security/advisories/GHSA-9c7g-grf7-j2r5\nhttps://www.vulncheck.com/advisories/arcadedb-from-26.8.1-before-26.10.1-authorization-bypass-via-alter-type-with\n",
-  "aliases": "CVE-2026-114056\n",
+  "aliases": "CVE-2026-114056\nGHSA-7762-mmrx-x9p5\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

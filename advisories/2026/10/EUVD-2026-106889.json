@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/triggerdotdev/trigger.dev/security/advisories/GHSA-59h8-w5q6-mfmp\nhttps://www.vulncheck.com/advisories/trigger-dev-before-4.5.5-unauthenticated-realtime-stream-data-injection-via-streams-endpoint\n",
-  "aliases": "CVE-2026-114086\n",
+  "aliases": "CVE-2026-114086\nGHSA-h43q-m2j9-rjvp\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

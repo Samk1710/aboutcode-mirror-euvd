@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:P/VC:N/VI:N/VA:N/SC:L/SI:L/SA:N",
   "references": "https://github.com/sveltejs/kit/security/advisories/GHSA-27mw-82g8-phjj\nhttps://www.vulncheck.com/advisories/sveltekit-before-3.0.0-xss-via-cache-control-header-in-prerendered-pages\n",
-  "aliases": "CVE-2026-114061\n",
+  "aliases": "GHSA-85pr-xr59-r75h\nCVE-2026-114061\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

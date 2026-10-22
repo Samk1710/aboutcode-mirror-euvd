@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/FreeRDP/FreeRDP/security/advisories/GHSA-f3vg-h45x-6wgf\nhttps://www.vulncheck.com/advisories/vulnerability-in-freerdp\n",
-  "aliases": "CVE-2026-114043\n",
+  "aliases": "CVE-2026-114043\nGHSA-wfxj-44r2-v2c3\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

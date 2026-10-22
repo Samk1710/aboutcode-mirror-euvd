@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:L/UI:N/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/triggerdotdev/trigger.dev/security/advisories/GHSA-m8pr-xr7c-frh3\nhttps://www.vulncheck.com/advisories/trigger-dev-before-4.5.12-authorization-bypass-via-waitpoint-complete-route\n",
-  "aliases": "CVE-2026-114071\n",
+  "aliases": "CVE-2026-114071\nGHSA-3p6g-7xq3-87rv\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

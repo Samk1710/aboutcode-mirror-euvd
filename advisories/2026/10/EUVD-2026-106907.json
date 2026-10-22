@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/cthackers/adm-zip/security/advisories/GHSA-p634-w6r4-rjp2\nhttps://www.vulncheck.com/advisories/adm-zip-before-0.6.1-duplicate-zip-entry-name-validation-bypass\n",
-  "aliases": "CVE-2026-114104\n",
+  "aliases": "GHSA-mr8q-rv22-x3fr\nCVE-2026-114104\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

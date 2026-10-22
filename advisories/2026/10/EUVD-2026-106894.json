@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/triggerdotdev/trigger.dev/security/advisories/GHSA-9fq3-68cw-r7p2\nhttps://www.vulncheck.com/advisories/trigger-dev-before-4.5.0-cross-tenant-run-payload-disclosure-via-api-replay-route\n",
-  "aliases": "CVE-2026-114091\n",
+  "aliases": "CVE-2026-114091\nGHSA-633q-685h-8gxm\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

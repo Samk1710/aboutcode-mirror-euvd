@@ -10,7 +10,7 @@
   "references": "https://github.com/abraxas/pfsense-unbound-acl-crlf\nhttps://abraxaslabs.tech/research/pfsense-ce-leftovers\nhttps://github.com/pfsense/pfsense/blob/9363ac5b8651a1c7a333180425ce7719070f95f9/src/etc/inc/unbound.inc#L1094-L1112\nhttps://github.com/pfsense/pfsense/blob/9363ac5b8651a1c7a333180425ce7719070f95f9/src/usr/local/www/services_unbound_acls.php#L121-L142\nhttps://www.vulncheck.com/advisories/netgate-pfsense-ce-through-2.9.0-crlf-injection-via-services-unbound-acls-php\n",
   "aliases": "GHSA-4m9r-jxrh-x66q\nCVE-2026-111227\n",
   "assigner": "VulnCheck",
-  "epss": 0.81,
+  "epss": 1.84,
   "enisaIdProduct": [
     {
       "id": "85d6c6bf-93ba-389f-ad57-92c30fb8de80",

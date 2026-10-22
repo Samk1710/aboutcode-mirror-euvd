@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/triggerdotdev/trigger.dev/security/advisories/GHSA-2cqj-rq4j-8835\nhttps://www.vulncheck.com/advisories/trigger-dev-before-4.5.6-cross-site-request-forgery-via-logout-endpoint\n",
-  "aliases": "CVE-2026-114093\n",
+  "aliases": "GHSA-pfmq-q2wh-m57j\nCVE-2026-114093\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

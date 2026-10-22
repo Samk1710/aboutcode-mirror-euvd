@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:L/VI:H/VA:H/SC:L/SI:H/SA:H",
   "references": "https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2026/MNDT-2026-0038.md\n",
-  "aliases": "CVE-2026-105044\n",
+  "aliases": "CVE-2026-105044\nGHSA-9g2h-r3hx-cgvq\n",
   "assigner": "Mandiant",
   "epss": 0.0,
   "enisaIdProduct": [

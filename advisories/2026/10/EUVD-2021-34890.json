@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:H/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/vyperlang/vyper/security/advisories/GHSA-22wc-c9wj-6q2v\nhttps://www.vulncheck.com/advisories/vyper-before-0.3.0-memory-corruption-via-internal-function-calls-in-arrays\n",
-  "aliases": "CVE-2021-48020\n",
+  "aliases": "CVE-2021-48020\nGHSA-vq78-2j7f-9gqx\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:P/PR:N/UI:P/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/jelmer/dulwich/security/advisories/GHSA-5fqc-mrg8-w798\nhttps://www.vulncheck.com/advisories/dulwich-0.23.1-before-1.2.8-symlink-path-traversal-via-filter-branch-index-filter\n",
-  "aliases": "CVE-2026-114097\n",
+  "aliases": "GHSA-4hjw-xcwg-8xfj\nCVE-2026-114097\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/triggerdotdev/trigger.dev/security/advisories/GHSA-4gjx-f5hj-678x\nhttps://www.vulncheck.com/advisories/trigger-dev-before-4.6.0-root-secret-disclosure-via-envvars-api-endpoint\n",
-  "aliases": "CVE-2026-114069\n",
+  "aliases": "CVE-2026-114069\nGHSA-8jgj-f949-3f8m\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

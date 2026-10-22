@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:L/UI:N/VC:L/VI:H/VA:H/SC:L/SI:H/SA:H",
   "references": "https://github.com/lovell/sharp/security/advisories/GHSA-f88m-g3jw-g9cj\nhttps://www.vulncheck.com/advisories/sharp-before-0.35.0-multiple-vulnerabilities-via-bundled-libvips-image-decoders\n",
-  "aliases": "CVE-2026-114113\n",
+  "aliases": "CVE-2026-114113\nGHSA-7vv3-w8cj-2245\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [
