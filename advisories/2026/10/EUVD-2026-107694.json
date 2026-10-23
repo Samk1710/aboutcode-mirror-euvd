@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:P",
   "references": "https://vuldb.com/vuln/424943\nhttps://vuldb.com/vuln/424943/cti\nhttps://vuldb.com/cve/CVE-2026-114575\nhttps://vuldb.com/submit/1021292\nhttps://gist.github.com/H3rmesk1t/3a629799af33425e07571182e539a794\nhttps://www.totolink.net/\n",
-  "aliases": "CVE-2026-114575\n",
+  "aliases": "GHSA-8wp9-f64g-53hq\nCVE-2026-114575\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
