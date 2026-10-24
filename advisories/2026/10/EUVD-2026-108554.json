@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:P/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/425388\nhttps://vuldb.com/vuln/425388/cti\nhttps://vuldb.com/cve/CVE-2026-115535\nhttps://vuldb.com/submit/1021799\nhttps://github.com/gedelumbung/HospitalManagement/issues/15\nhttps://github.com/gedelumbung/HospitalManagement/\n",
-  "aliases": "CVE-2026-115535\n",
+  "aliases": "CVE-2026-115535\nGHSA-m63v-2h45-gjqm\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

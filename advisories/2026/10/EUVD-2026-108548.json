@@ -3,7 +3,7 @@
   "enisaUuid": "7db24ecf-50ce-3677-91b4-1f35024fc76c",
   "description": "The system control service on affected Kiloview E3 NDI encoder firmware fails to sanitize the hostname parameter accepted by its device naming endpoint, passing it unquoted into a shell command. An authenticated web user with access to this function can embed characters to execute arbitrary operating system commands as root, resulting in full device compromise.",
   "datePublished": "Oct 22, 2026, 10:04:32 PM",
-  "dateUpdated": "Oct 22, 2026, 10:04:32 PM",
+  "dateUpdated": "Oct 23, 2026, 10:56:08 AM",
   "baseScore": 9.4,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H",

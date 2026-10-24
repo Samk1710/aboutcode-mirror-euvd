@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://frevvo-docs.atlassian.net/wiki/spaces/frevvo110/pages/1069273270/Detailed+Release+Notes\nhttps://frevvo-docs.atlassian.net/wiki/spaces/frevvo110/overview?homepageId=1069252609\n",
-  "aliases": "CVE-2026-19677\n",
+  "aliases": "CVE-2026-19677\nGHSA-542f-hr4v-mv7f\n",
   "assigner": "MON-CSIRT",
   "epss": 0.0,
   "enisaIdProduct": [

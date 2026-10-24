@@ -3,7 +3,7 @@
   "enisaUuid": "42d0ac8c-2b42-33e3-a5ad-c9bfcfff484e",
   "description": "A vulnerability exists in the the time zone parameter and does not properly validate user input, which may allow an authenticated user to cause /etc/localtime to point to a file outside the intended zoneinfo directory\n\n.",
   "datePublished": "Oct 22, 2026, 9:58:34 PM",
-  "dateUpdated": "Oct 22, 2026, 9:58:34 PM",
+  "dateUpdated": "Oct 23, 2026, 10:56:09 AM",
   "baseScore": 6.0,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:N/PR:L/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
