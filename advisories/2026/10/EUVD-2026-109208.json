@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:P/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/mongodb-js/compass/releases/tag/v1.53.1\nhttps://releases.electronjs.org/release/v44.9.1\nhttps://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/\n",
-  "aliases": "CVE-2026-115929\n",
+  "aliases": "GHSA-r9qr-cj53-q38x\nCVE-2026-115929\n",
   "assigner": "mongodb",
-  "epss": 0.0,
+  "epss": 0.25,
   "enisaIdProduct": [
     {
       "id": "b740f395-39be-3670-a487-7f2428e3b413",
