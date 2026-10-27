@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:P/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/426168\nhttps://vuldb.com/vuln/426168/cti\nhttps://vuldb.com/cve/CVE-2026-116100\nhttps://vuldb.com/submit/1002525\nhttps://github.com/yuhuixiaowu/cve/blob/main/gougucms_v4.08.18_XSS.md\n",
-  "aliases": "CVE-2026-116100\n",
+  "aliases": "CVE-2026-116100\nGHSA-9wwg-c5q6-j74r\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

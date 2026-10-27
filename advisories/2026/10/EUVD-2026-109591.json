@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/426171\nhttps://vuldb.com/vuln/426171/cti\nhttps://vuldb.com/cve/CVE-2026-116103\nhttps://vuldb.com/submit/1003039\nhttps://github.com/3em0/cve_repo/blob/main/2026/Neural-Network-Libraries-(nnabla)%E2%89%A4v1.39.0-Python-eval()-Code-Injection-in-'nnabla_cli%20encode_param'-Leading-to-Arbitrary-Command-Execution.md\n",
-  "aliases": "CVE-2026-116103\n",
+  "aliases": "GHSA-c33q-pqr3-xjv6\nCVE-2026-116103\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

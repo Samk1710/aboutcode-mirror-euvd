@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/426172\nhttps://vuldb.com/vuln/426172/cti\nhttps://vuldb.com/cve/CVE-2026-116104\nhttps://vuldb.com/submit/1003040\nhttps://github.com/3em0/cve_repo/blob/main/2026/Sony-NNabla-1.39.0-Code-Injection-in-NNP-Converter-('function.type'-eval()).md\n",
-  "aliases": "CVE-2026-116104\n",
+  "aliases": "GHSA-4vrm-q3gq-97hp\nCVE-2026-116104\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
