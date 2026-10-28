@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/426511\nhttps://vuldb.com/vuln/426511/cti\nhttps://vuldb.com/cve/CVE-2026-116605\nhttps://vuldb.com/submit/1022965\nhttps://github.com/CyberShailendra/SourceCodesterOrderPrice-AmountTamperingviaHiddenFormFields\nhttps://www.sourcecodester.com/\n",
-  "aliases": "CVE-2026-116605\n",
+  "aliases": "GHSA-f5q2-p5c3-3xqr\nCVE-2026-116605\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

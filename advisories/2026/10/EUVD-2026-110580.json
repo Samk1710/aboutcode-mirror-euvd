@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:P/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/426580\nhttps://vuldb.com/vuln/426580/cti\nhttps://vuldb.com/cve/CVE-2026-116639\nhttps://vuldb.com/submit/1024501\nhttps://github.com/MD-MAFUJUL-HASAN/Online-Payroll-Management-System/issues/2\nhttps://github.com/MD-MAFUJUL-HASAN/Online-Payroll-Management-System/\n",
-  "aliases": "CVE-2026-116639\n",
+  "aliases": "GHSA-2r7q-339v-2m8g\nCVE-2026-116639\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

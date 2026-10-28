@@ -3,7 +3,7 @@
   "enisaUuid": "8d47341a-58b8-3252-9ce8-dbfe0b1f21e8",
   "description": "HTSlib through 1.24 contains a heap out-of-bounds write and read vulnerability in bgzf_index_load_hfile() in bgzf.c that allows attackers to corrupt heap memory by supplying a crafted .gzi index entry count. A count of 0xFFFFFFFF truncates noffs to zero, causing writes past a malloc(0) buffer and an offs[-1] read in bgzf_useek(), resulting in heap corruption or crashes in tools like samtools and bcftools.",
   "datePublished": "Oct 26, 2026, 9:52:41 PM",
-  "dateUpdated": "Oct 26, 2026, 9:52:41 PM",
+  "dateUpdated": "Oct 27, 2026, 2:16:48 PM",
   "baseScore": 4.8,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:N/VI:L/VA:L/SC:N/SI:N/SA:N",

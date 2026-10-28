@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/mistralai/mistral-vibe/issues/997\nhttps://github.com/mistralai/mistral-vibe/commit/7bb48f213ac677f943d5c791199ed3dddf302f00\nhttps://github.com/mistralai/mistral-vibe/releases/tag/v3.0.3\nhttps://github.com/mistralai/mistral-vibe/blob/v2.24.1/vibe/core/worktree.py#L303-L317\nhttps://www.vulncheck.com/advisories/mistral-vibe-before-3.0.3-rce-via-git-filter-drivers-in-worktree-mode\n",
-  "aliases": "CVE-2026-116843\n",
+  "aliases": "GHSA-xwx6-2mm7-g8wj\nCVE-2026-116843\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

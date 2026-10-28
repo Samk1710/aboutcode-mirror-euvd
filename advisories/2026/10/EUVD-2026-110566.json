@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/426516\nhttps://vuldb.com/vuln/426516/cti\nhttps://vuldb.com/cve/CVE-2026-116608\nhttps://vuldb.com/submit/1022955\nhttps://github.com/DAMO-NLP-SG/VideoLLaMA2/issues/182\n",
-  "aliases": "CVE-2026-116608\n",
+  "aliases": "GHSA-98hf-f439-379p\nCVE-2026-116608\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

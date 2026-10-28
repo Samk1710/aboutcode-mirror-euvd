@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/ggml-org/llama.cpp/pull/25969\nhttps://github.com/ggml-org/llama.cpp/pull/26511\nhttps://github.com/ggml-org/llama.cpp/commit/cf06ad7dfe79e7bf2934150d4fefe1ce8db05490\nhttps://github.com/ggml-org/llama.cpp/blob/b10259/src/llama-vocab.cpp#L1376-L1377\nhttps://github.com/ggml-org/llama.cpp/releases/tag/b10261\nhttps://www.vulncheck.com/advisories/llama-cpp-b5899-before-b10261-heap-out-of-bounds-write-via-plamo2-tokenizer\n",
-  "aliases": "CVE-2026-116816\n",
+  "aliases": "GHSA-3r8c-j789-2864\nCVE-2026-116816\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [
