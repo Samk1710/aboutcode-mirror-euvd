@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/427569\nhttps://vuldb.com/vuln/427569/cti\nhttps://vuldb.com/cve/CVE-2026-118271\nhttps://vuldb.com/submit/1015115\nhttps://github.com/a2ui-project/a2ui/issues/2384\nhttps://github.com/a2ui-project/a2ui/pull/2417\nhttps://github.com/a2ui-project/a2ui/commit/eb314e14fabd29cfb4a74e1202afc4fe2081efa2\nhttps://github.com/a2ui-project/a2ui/\n",
-  "aliases": "CVE-2026-118271\n",
+  "aliases": "CVE-2026-118271\nGHSA-42fj-5gr6-hr6m\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [
