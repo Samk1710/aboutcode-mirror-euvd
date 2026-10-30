@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/650d346d-c30a-4ee1-ac50-6a264e181174?source=cve\nhttps://avada.com/blog/version-7-16-3-security-update/\n",
   "aliases": "GHSA-w8x6-5chw-44wx\nCVE-2026-104729\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.16,
   "enisaIdProduct": [
     {
       "id": "36727c97-b1d3-3271-81f3-5a11a99ea84c",

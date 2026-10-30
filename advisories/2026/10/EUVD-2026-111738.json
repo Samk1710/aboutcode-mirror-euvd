@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/1fdc5c50-1d5b-4141-9524-f0e01c097a87?source=cve\nhttps://plugins.trac.wordpress.org/browser/uichemy/tags/5.2.5/uichemy-composer/includes/admin/widgets/class-uichemy-composer-widget.php#L1428\nhttps://plugins.trac.wordpress.org/browser/uichemy/tags/5.2.5/uichemy-composer/includes/admin/widgets/class-uichemy-composer-widget.php#L3580\nhttps://plugins.trac.wordpress.org/browser/uichemy/tags/5.2.5/uichemy-composer/includes/admin/widgets/class-uichemy-composer-widget.php#L476\nhttps://plugins.trac.wordpress.org/browser/uichemy/tags/5.2.5/uichemy-composer/includes/admin/class-uichemy-composer-manager.php#L3746\nhttps://wordpress.org/plugins/uichemy/\nhttps://plugins.trac.wordpress.org/changeset/3754473/uichemy/trunk/uichemy-composer/includes/admin/widgets/class-uichemy-composer-widget.php\n",
   "aliases": "GHSA-prw3-6895-6mv7\nCVE-2026-109385\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.26,
   "enisaIdProduct": [
     {
       "id": "936668ed-e96b-3daa-9303-ddeb92b114fb",

@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/2100f72a-ff75-4429-8dc6-be5b6e3c84cb?source=cve\nhttps://plugins.trac.wordpress.org/browser/tour-booking-manager/tags/2.3.6/inc/TTBM_Shortcodes.php#L91\nhttps://plugins.trac.wordpress.org/browser/tour-booking-manager/tags/2.3.6/inc/TTBM_Shortcodes.php#L76\nhttps://github.com/magepeopleteam/tour-booking-manager\nhttps://plugins.trac.wordpress.org/changeset/3757674/tour-booking-manager/trunk/inc/TTBM_Shortcodes.php\n",
   "aliases": "GHSA-3rwh-2x2v-9479\nCVE-2026-109590\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.24,
   "enisaIdProduct": [
     {
       "id": "5ac6c463-3612-37c2-8525-dcc7212762ab",

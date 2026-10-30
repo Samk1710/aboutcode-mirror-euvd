@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://advisories.octopus.com/post/2026/sa2026-18\n",
-  "aliases": "CVE-2026-118426\n",
+  "aliases": "GHSA-j7xx-fgfg-xff8\nCVE-2026-118426\n",
   "assigner": "Octopus",
   "epss": 0.0,
   "enisaIdProduct": [

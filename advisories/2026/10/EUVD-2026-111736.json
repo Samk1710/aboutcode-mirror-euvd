@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/0b284bf9-8720-4417-9433-be147b06023a?source=cve\nhttps://plugins.trac.wordpress.org/browser/mxchat-basic/tags/3.2.25/js/mxchat_transcripts.js#L267\nhttps://plugins.trac.wordpress.org/browser/mxchat-basic/tags/3.2.25/js/mxchat_transcripts.js#L1252\nhttps://plugins.trac.wordpress.org/browser/mxchat-basic/tags/3.2.25/js/mxchat_transcripts.js#L427\nhttps://plugins.trac.wordpress.org/browser/mxchat-basic/tags/3.2.25/includes/class-mxchat-admin.php#L3824\nhttps://plugins.trac.wordpress.org/browser/mxchat-basic/tags/3.2.25/mxchat-basic.php#L2340\nhttps://plugins.trac.wordpress.org/changeset/3751971/mxchat-basic/trunk/js/mxchat_transcripts.js\n",
   "aliases": "GHSA-jgfm-j27x-x26p\nCVE-2026-110662\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.31,
   "enisaIdProduct": [
     {
       "id": "40e313cf-e0ae-3303-9df3-0e4b41cc3883",

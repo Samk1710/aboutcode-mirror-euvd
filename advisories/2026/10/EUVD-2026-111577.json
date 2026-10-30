@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/dd0e4753-222a-421f-a830-58f6af055dd8?source=cve\nhttps://plugins.trac.wordpress.org/browser/appointment-booking-calendar/tags/1.4.05/inc/cpabc_scheduler.inc.php#L194\nhttps://plugins.trac.wordpress.org/browser/appointment-booking-calendar/tags/1.4.05/inc/cpabc_apps_go.inc.php#L690\nhttps://plugins.trac.wordpress.org/browser/appointment-booking-calendar/tags/1.4.05/inc/cpabc_apps_go.inc.php#L102\nhttps://plugins.trac.wordpress.org/browser/appointment-booking-calendar/tags/1.4.05/inc/cpabc_apps_go.inc.php#L616\nhttps://plugins.trac.wordpress.org/browser/appointment-booking-calendar/tags/1.4.05/inc/cpabc_apps_on.inc.php#L398\nhttps://plugins.trac.wordpress.org/log/appointment-booking-calendar/\nhttps://plugins.trac.wordpress.org/changeset/3750835/appointment-booking-calendar/trunk/inc/cpabc_scheduler.inc.php\n",
   "aliases": "CVE-2026-111727\nGHSA-fpgw-376p-gw9c\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.21,
   "enisaIdProduct": [
     {
       "id": "b1bae5cb-a13e-37d6-a110-736070a5e237",

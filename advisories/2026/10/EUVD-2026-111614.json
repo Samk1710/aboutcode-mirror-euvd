@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/f0682bf7-0b5a-402f-9ae0-34e2f0f65bcf?source=cve\nhttps://plugins.trac.wordpress.org/browser/wp-inventory-manager/tags/2.5.0/includes/wpinventory.category.class.php#L78\nhttps://plugins.trac.wordpress.org/browser/wp-inventory-manager/tags/2.5.1/includes/wpinventory.category.class.php#L78\nhttps://plugins.trac.wordpress.org/browser/wp-inventory-manager/tags/2.5.1/includes/wpinventory.shortcodes.class.php#L107\nhttps://plugins.trac.wordpress.org/browser/wp-inventory-manager/tags/2.5.1/includes/wpinventory.shortcodes.class.php#L38\nhttps://plugins.trac.wordpress.org/browser/wp-inventory-manager/tags/2.5.0/includes/wpinventory.shortcodes.class.php#L107\nhttps://plugins.trac.wordpress.org/browser/wp-inventory-manager/tags/2.5.0/includes/wpinventory.shortcodes.class.php#L38\nhttps://plugins.trac.wordpress.org/changeset?reponame=&old=3712512%40wp-inventory-manager&new=3712512%40wp-inventory-manager\n",
   "aliases": "CVE-2026-76005\nGHSA-4mfw-7m87-4pf8\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.28,
   "enisaIdProduct": [
     {
       "id": "40edb1bb-2dd7-3f4c-865a-61f912ee804a",

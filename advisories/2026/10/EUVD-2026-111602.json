@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/97215367-08c0-46cc-a595-4475274a5a1c?source=cve\nhttps://plugins.trac.wordpress.org/browser/cmb2/tags/2.13.4/includes/CMB2_Field.php#L715\nhttps://plugins.trac.wordpress.org/browser/cmb2/tags/2.13.4/includes/types/CMB2_Type_Wysiwyg.php#L93\nhttps://plugins.trac.wordpress.org/browser/cmb2/tags/2.13.4/includes/helper-functions.php#L320\nhttps://plugins.trac.wordpress.org/browser/cmb2/tags/2.13.4/includes/CMB2_Sanitize.php#L447\nhttps://github.com/CMB2/CMB2/commit/fbeb7c4688dc5b8635a34978d837f1d458dcac44\nhttps://plugins.trac.wordpress.org/changeset/3767609/cmb2/trunk/includes/CMB2_Field.php\n",
   "aliases": "GHSA-rfx8-wq2m-j436\nCVE-2026-116761\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.22,
   "enisaIdProduct": [
     {
       "id": "eafa44e1-b7dd-38ad-9b87-5190b7a1bae1",

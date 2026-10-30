@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/3673560a-6f72-42ea-8b0d-f866dca33638?source=cve\nhttps://plugins.trac.wordpress.org/browser/if-so/tags/1.10.2/extensions/ifso-extended-shortcodes/extended-shortcodes.php#L267\nhttps://plugins.trac.wordpress.org/browser/if-so/tags/1.10.2/extensions/ifso-extended-shortcodes/extended-shortcodes.php#L258\nhttps://plugins.trac.wordpress.org/changeset/3748902/if-so/trunk/extensions/ifso-extended-shortcodes/extended-shortcodes.php\n",
   "aliases": "GHSA-qrm9-mc67-x9f8\nCVE-2026-104740\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.24,
   "enisaIdProduct": [
     {
       "id": "41c96620-ac20-3523-8928-523261ee81d0",

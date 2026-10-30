@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/33e9f3e2-2631-4c8d-b705-6bb592a1f7a3?source=cve\nhttps://plugins.trac.wordpress.org/browser/cozy-addons/tags/2.2.27/blocks/product-tab/render.php#L936\nhttps://plugins.trac.wordpress.org/browser/cozy-addons/tags/2.2.27/blocks/product-tab/render.php#L934\nhttps://plugins.trac.wordpress.org/changeset?reponame=&old=3752142%40cozy-addons&new=3752142%40cozy-addons\n",
   "aliases": "GHSA-fxpc-x8v9-wxxx\nCVE-2026-109978\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.24,
   "enisaIdProduct": [
     {
       "id": "e2826dd2-2661-3b4c-9973-d2a723655312",

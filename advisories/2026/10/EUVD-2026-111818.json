@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/3bfab9cf-4ccb-45fc-83ce-b5250f0f6482?source=cve\nhttps://plugins.trac.wordpress.org/browser/echo-knowledge-base/tags/17.214.0/includes/features/articles/class-epkb-articles-setup.php#L319\nhttps://plugins.trac.wordpress.org/browser/echo-knowledge-base/tags/17.214.0/includes/features/articles/class-epkb-articles-setup.php#L131\nhttps://plugins.trac.wordpress.org/browser/echo-knowledge-base/tags/17.214.0/includes/admin/editor/class-epkb-frontend-editor.php#L848\nhttps://plugins.trac.wordpress.org/browser/echo-knowledge-base/tags/17.214.0/includes/admin/editor/class-epkb-frontend-editor.php#L1072\nhttps://plugins.trac.wordpress.org/browser/echo-knowledge-base/tags/17.214.0/includes/class-epkb-utilities.php#L836\nhttps://plugins.trac.wordpress.org/browser/echo-knowledge-base/tags/17.214.0/includes/features/layouts/class-epkb-layouts-setup.php#L45\nhttps://plugins.trac.wordpress.org/changeset/3727663/echo-knowledge-base/trunk/includes/admin/editor/class-epkb-frontend-editor.php\nhttps://plugins.trac.wordpress.org/changeset?reponame=&new=3727647%40echo-knowledge-base%2Ftags%2F17.311.0&old=3672811%40echo-knowledge-base%2Ftags%2F17.214.0\n",
   "aliases": "CVE-2026-101935\nGHSA-7f9m-hhf7-j63p\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.25,
   "enisaIdProduct": [
     {
       "id": "14a555d7-c7c9-39d8-aaba-d6b07fc675a0",

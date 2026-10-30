@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/2314df91-4e0a-4c8b-8f8e-8b8ae1b88524?source=cve\nhttps://plugins.trac.wordpress.org/browser/designsetgo/tags/2.11.0/includes/admin/class-block-migrator.php#L1229\nhttps://plugins.trac.wordpress.org/browser/designsetgo/tags/2.11.0/includes/admin/class-block-migrator.php#L1134\nhttps://plugins.trac.wordpress.org/browser/designsetgo/tags/2.11.0/includes/admin/class-block-migrator.php#L144\nhttps://github.com/jnealey-godaddy/designsetgo/pull/659\nhttps://plugins.trac.wordpress.org/changeset/3762066/designsetgo/trunk/includes/admin/class-block-migrator.php\n",
   "aliases": "GHSA-pff7-36wv-mf7h\nCVE-2026-111068\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.21,
   "enisaIdProduct": [
     {
       "id": "b71e3e61-a901-3197-a183-4bc16167e42e",

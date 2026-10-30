@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/c0ceea54-924a-41c1-a157-8eba24b5f666?source=cve\nhttps://plugins.trac.wordpress.org/browser/affiliate-toolkit-starter/tags/3.9.2/includes/helper/atkp_formatter.php#L2842\nhttps://plugins.trac.wordpress.org/browser/affiliate-toolkit-starter/tags/3.9.2/includes/basics/ATKPTools.php#L1470\nhttps://plugins.trac.wordpress.org/browser/affiliate-toolkit-starter/tags/3.9.2/includes/atkp_posttypes_product.php#L3183\nhttps://plugins.trac.wordpress.org/browser/affiliate-toolkit-starter/tags/3.9.2/includes/helper/atkp_formatter.php#L2895\nhttps://plugins.trac.wordpress.org/changeset?reponame=&old=3759575%40affiliate-toolkit-starter&new=3759575%40affiliate-toolkit-starter\n",
   "aliases": "CVE-2026-111314\nGHSA-37cc-r8jg-x2q6\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.24,
   "enisaIdProduct": [
     {
       "id": "1cda1f7c-2a97-3fc3-bd8b-8096e4f7179b",

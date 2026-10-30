@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/57ccea1b-d579-444e-a7e6-ae1ed218ea59?source=cve\nhttps://plugins.trac.wordpress.org/browser/acf-views/tags/3.9.6/src/Cpt/Data_Vendors/Wp/Fields/Comment/Comment_Content_Field.php#L27\nhttps://plugins.trac.wordpress.org/browser/acf-views/tags/3.9.6/src/Cpt/Data_Vendors/Wp/Fields/Comment/Comment_Content_Field.php#L50\nhttps://plugins.trac.wordpress.org/browser/acf-views/tags/3.9.6/src/Cpt/Data_Vendors/Base/Fields/Custom_Field.php#L70\nhttps://plugins.trac.wordpress.org/browser/acf-views/tags/3.9.7/src/Cpt/Data_Vendors/Wp/Fields/Comment/Comment_Content_Field.php\n",
   "aliases": "GHSA-678p-m5qh-f4jf\nCVE-2026-109995\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.24,
   "enisaIdProduct": [
     {
       "id": "bebafbdb-f65f-335b-8b7d-f380674b4040",

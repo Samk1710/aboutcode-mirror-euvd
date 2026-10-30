@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/8385dd30-28e5-4572-8504-2f3e7029bad6?source=cve\nhttps://pieregister.com/\n",
   "aliases": "GHSA-356m-cxhj-j59p\nCVE-2026-84999\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.48,
   "enisaIdProduct": [
     {
       "id": "f55d90bf-87f4-3732-bb99-8251cf06d54e",

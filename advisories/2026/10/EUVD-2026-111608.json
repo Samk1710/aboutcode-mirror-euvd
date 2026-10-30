@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/b359ef59-4c2e-4d4e-b000-1845525131de?source=cve\nhttps://plugins.trac.wordpress.org/browser/contact-manager/tags/9.1.2/includes/add-message.php#L256\nhttps://plugins.trac.wordpress.org/browser/contact-manager/tags/9.1.2/includes/add-message.php#L254\nhttps://plugins.trac.wordpress.org/browser/contact-manager/tags/9.1.2/contact-manager.php#L42\nhttps://plugins.trac.wordpress.org/browser/contact-manager/tags/9.1.2/includes/forms/processing.php#L102\nhttps://fr.wordpress.org/plugins/contact-manager/\nhttps://plugins.trac.wordpress.org/changeset?reponame=&new=3767815%40contact-manager%2Ftags%2F9.1.3&old=3661172%40contact-manager%2Ftags%2F9.1.2\n",
   "aliases": "CVE-2026-109218\nGHSA-gfc3-vp5h-pp8w\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.64,
   "enisaIdProduct": [
     {
       "id": "63fade81-9cdf-373c-a7c8-2cbe1bce19f6",

@@ -10,7 +10,7 @@
   "references": "https://www.dell.com/support/kbdoc/en-us/000515178/dsa-2026-416-security-update-for-dell-powerprotect-data-domain-multiple-vulnerabilities\n",
   "aliases": "CVE-2026-68866\nGHSA-p762-c52w-926c\n",
   "assigner": "dell",
-  "epss": 0.0,
+  "epss": 0.22,
   "enisaIdProduct": [
     {
       "id": "5ca8f203-b622-36d0-9cdb-4a4966408db4",

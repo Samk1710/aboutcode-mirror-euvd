@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/99c24e6f-396a-45bd-b16e-cb3b30aff25c?source=cve\nhttps://plugins.trac.wordpress.org/browser/woo-custom-product-addons/tags/3.1.8/templates/cart/cart-item-data.php#L14\nhttps://plugins.trac.wordpress.org/browser/woo-custom-product-addons/tags/3.1.8/includes/backend/api.php#L237\nhttps://plugins.trac.wordpress.org/browser/woo-custom-product-addons/tags/3.1.8/includes/helper.php#L284\nhttps://plugins.trac.wordpress.org/browser/woo-custom-product-addons/tags/3.1.8/includes/process/process.php#L262\nhttps://plugins.trac.wordpress.org/browser/woo-custom-product-addons/tags/3.1.8/includes/process/cart.php#L109\nhttps://wordpress.org/plugins/woo-custom-product-addons/\nhttps://plugins.trac.wordpress.org/changeset/3756829/woo-custom-product-addons/trunk/templates/cart/cart-item-data.php\n",
   "aliases": "CVE-2026-109988\nGHSA-xqcg-xmfg-qf64\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.21,
   "enisaIdProduct": [
     {
       "id": "e8b52076-8d7b-3528-9029-71bd18ae9ee4",

@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/aff42473-63c6-41ca-8312-058f213e2302?source=cve\nhttps://plugins.trac.wordpress.org/browser/enable-media-replace/tags/4.2.2/build/shortpixel/replacer/src/Replacer.php#L250\nhttps://plugins.trac.wordpress.org/browser/enable-media-replace/tags/4.2.2/classes/ViewController/UploadViewController.php#L59\nhttps://plugins.trac.wordpress.org/browser/enable-media-replace/tags/4.2.2/classes/ViewController/UploadViewController.php#L66\nhttps://plugins.trac.wordpress.org/browser/enable-media-replace/tags/4.2.2/classes/Controller/ReplaceController.php#L253\nhttps://plugins.trac.wordpress.org/browser/enable-media-replace/tags/4.1.9/build/shortpixel/replacer/src/Replacer.php#L250\nhttps://plugins.trac.wordpress.org/browser/enable-media-replace/tags/4.1.9/classes/ViewController/UploadViewController.php#L59\nhttps://plugins.trac.wordpress.org/browser/enable-media-replace/tags/4.1.9/classes/ViewController/UploadViewController.php#L66\nhttps://plugins.trac.wordpress.org/browser/enable-media-replace/tags/4.1.9/classes/Controller/ReplaceController.php#L253\nhttps://github.com/short-pixel-optimizer/enable-media-replace/releases/tag/v4.2.3\n",
   "aliases": "GHSA-582x-674x-hc38\nCVE-2026-85655\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.27,
   "enisaIdProduct": [
     {
       "id": "4f992e9b-b2d8-32b4-bd00-e6dcce0db54b",

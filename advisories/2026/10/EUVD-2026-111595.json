@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/a4a1fb57-84b2-4849-a4d5-9381baf43ff5?source=cve\nhttps://plugins.trac.wordpress.org/browser/lumise/trunk/core/cart.php#L209\n",
   "aliases": "CVE-2026-15323\nGHSA-23m5-26m5-cmpf\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.86,
   "enisaIdProduct": [
     {
       "id": "99f916a5-b4e5-3ba7-8ef2-8d07bca15fe3",

@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/1ad42de2-9ed1-4cf6-a031-22789be4cbe2?source=cve\nhttps://plugins.trac.wordpress.org/changeset/3759312/jupiterx-core/trunk/includes/extensions/raven/includes/modules/forms/classes/social-login-handler/twitter.php\n",
   "aliases": "CVE-2026-106013\nGHSA-5x75-7jgc-v7c2\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.55,
   "enisaIdProduct": [
     {
       "id": "4611b688-45b0-32d6-ae83-702a33834b26",

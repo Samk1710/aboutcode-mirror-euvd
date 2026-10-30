@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/c956f1d0-f3fc-4da2-b6d8-3a294a033f3c?source=cve\nhttps://plugins.trac.wordpress.org/browser/vikrentcar/tags/1.4.10/modules/mod_vikrentcar_cars/helper.php#L95\nhttps://plugins.trac.wordpress.org/browser/vikrentcar/tags/1.4.10/libraries/adapter/module/widget.php#L900\nhttps://plugins.trac.wordpress.org/browser/vikrentcar/tags/1.4.11/modules/mod_vikrentcar_cars/helper.php#L98\n",
   "aliases": "CVE-2026-116750\nGHSA-c7qj-47g3-72x8\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.26,
   "enisaIdProduct": [
     {
       "id": "579e68d2-6f7c-3617-9f84-273238b51ef1",

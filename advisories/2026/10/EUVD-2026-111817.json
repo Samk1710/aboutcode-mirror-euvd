@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/2fb6cdd0-cd48-49a5-b998-f1c3fbdc25f7?source=cve\nhttps://memberpress.com/change-log/#1.14.2\n",
   "aliases": "CVE-2026-92797\nGHSA-wc55-5qpx-prwh\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.15,
   "enisaIdProduct": [
     {
       "id": "95efe1ec-b541-36da-a710-fac3b0b32f2f",

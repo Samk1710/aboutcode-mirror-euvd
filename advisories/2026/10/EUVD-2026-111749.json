@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/41348b65-97d7-467f-801f-a168eb366bba?source=cve\nhttps://plugins.trac.wordpress.org/browser/waitlist-woocommerce/tags/2.9.0/includes/xoo-wl-functions.php#L114\nhttps://plugins.trac.wordpress.org/browser/waitlist-woocommerce/tags/2.9.0/includes/xoo-wl-functions.php#L155\nhttps://plugins.trac.wordpress.org/browser/waitlist-woocommerce/tags/2.9.0/includes/xoo-wl-functions.php#L170\nhttps://plugins.trac.wordpress.org/changeset/3765571/waitlist-woocommerce/trunk/includes/xoo-wl-functions.php\n",
   "aliases": "GHSA-9v87-xmhx-x7mr\nCVE-2026-77188\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.19,
   "enisaIdProduct": [
     {
       "id": "1a3d9c63-b6a0-31cc-94d0-1e885dbb5915",

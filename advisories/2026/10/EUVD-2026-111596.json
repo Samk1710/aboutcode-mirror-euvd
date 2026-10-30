@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/775a8904-0c6a-4968-8efb-b6ef1a599818?source=cve\nhttps://plugins.trac.wordpress.org/browser/vikrentcar/tags/1.4.10/libraries/adapter/module/widget.php#L191\nhttps://plugins.trac.wordpress.org/browser/vikrentcar/tags/1.4.10/libraries/adapter/module/widget.php#L910\nhttps://plugins.trac.wordpress.org/browser/vikrentcar/tags/1.4.11/libraries/adapter/module/widget.php#L196\n",
   "aliases": "CVE-2026-116749\nGHSA-57m3-rqpq-7chf\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.19,
   "enisaIdProduct": [
     {
       "id": "37eb2bb0-5140-31cd-bea8-1ca18ea5e3e8",

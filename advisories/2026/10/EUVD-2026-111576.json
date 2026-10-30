@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/cd4395be-7b4c-46b0-be00-7dedc6691f4a?source=cve\nhttps://plugins.trac.wordpress.org/browser/seo-by-rank-math/tags/1.0.263/includes/rest/class-shared.php#L446\nhttps://plugins.trac.wordpress.org/browser/seo-by-rank-math/tags/1.0.263/includes/modules/schema/class-db.php#L66\nhttps://plugins.trac.wordpress.org/browser/seo-by-rank-math/tags/1.0.263/includes/rest/class-sanitize.php#L110\nhttps://plugins.trac.wordpress.org/changeset/3666725/\n",
   "aliases": "GHSA-f7v4-wpwr-74r2\nCVE-2026-1928\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.54,
   "enisaIdProduct": [
     {
       "id": "983fe7e3-4cf3-329d-a74b-820e8bf349e5",

@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/a46c37f4-245d-423f-bdad-296fdf377ecc?source=cve\nhttps://plugins.trac.wordpress.org/browser/post-snippets/tags/4.2.3/src/PostSnippets/Shortcode.php#L183\nhttps://plugins.trac.wordpress.org/browser/post-snippets/tags/4.2.4/src/PostSnippets/Shortcode.php#L183\nhttps://plugins.trac.wordpress.org/browser/post-snippets/tags/4.2.4/src/PostSnippets/Shortcode.php#L140\nhttps://plugins.trac.wordpress.org/browser/post-snippets/tags/4.2.4/src/PostSnippets/Shortcode.php#L70\nhttps://plugins.trac.wordpress.org/browser/post-snippets/tags/4.2.4/src/PostSnippets/Shortcode.php#L29\nhttps://plugins.trac.wordpress.org/browser/post-snippets/tags/4.2.3/src/PostSnippets/Shortcode.php#L140\nhttps://plugins.trac.wordpress.org/browser/post-snippets/tags/4.2.3/src/PostSnippets/Shortcode.php#L70\nhttps://plugins.trac.wordpress.org/browser/post-snippets/tags/4.2.3/src/PostSnippets/Shortcode.php#L29\nhttps://plugins.trac.wordpress.org/changeset/3759640/post-snippets/trunk/src/PostSnippets/Shortcode.php\n",
   "aliases": "GHSA-6hh4-5cgj-w743\nCVE-2026-77871\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.24,
   "enisaIdProduct": [
     {
       "id": "46fc32e9-7724-3718-a578-2ed5d298b6a8",

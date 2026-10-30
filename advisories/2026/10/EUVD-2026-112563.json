@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:P/VC:N/VI:N/VA:N/SC:L/SI:L/SA:N",
   "references": "https://github.com/openequella/openEQUELLA/security/advisories/GHSA-q2xv-rffq-mj5w\nhttps://openequella.github.io/guides/\n",
-  "aliases": "CVE-2026-16889\n",
+  "aliases": "CVE-2026-16889\nGHSA-jj9r-xgj6-prvj\n",
   "assigner": "MON-CSIRT",
   "epss": 0.0,
   "enisaIdProduct": [

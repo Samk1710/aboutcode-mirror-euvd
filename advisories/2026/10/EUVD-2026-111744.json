@@ -10,7 +10,7 @@
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/3408f728-48e9-4f96-98d4-748f51686e26?source=cve\nhttps://plugins.trac.wordpress.org/browser/woowbot-woocommerce-chatbot/tags/5.0.0/includes/class-qcld-bot-rag.php#L816\nhttps://plugins.trac.wordpress.org/browser/woowbot-woocommerce-chatbot/tags/5.0.0/includes/class-qcld-bot-rag.php#L27\nhttps://plugins.trac.wordpress.org/browser/woowbot-woocommerce-chatbot/tags/5.0.0/qcld-woowbot.php#L331\nhttps://plugins.trac.wordpress.org/browser/woowbot-woocommerce-chatbot/tags/5.0.1/includes/class-qcld-bot-rag.php#L816\n",
   "aliases": "CVE-2026-111372\nGHSA-7vq9-r7c4-w548\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.27,
   "enisaIdProduct": [
     {
       "id": "6184ca20-7f07-3758-a68a-ba2913185632",
