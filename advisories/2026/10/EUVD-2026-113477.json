@@ -6,7 +6,7 @@
   "dateUpdated": "Oct 30, 2026, 1:52:21 AM",
   "baseScore": 0.0,
   "references": "https://www.imaginationtech.com/gpu-driver-vulnerabilities/\n",
-  "aliases": "CVE-2026-65584\n",
+  "aliases": "CVE-2026-65584\nGHSA-6892-6w2m-w923\n",
   "assigner": "imaginationtech",
   "epss": 0.0,
   "enisaIdProduct": [

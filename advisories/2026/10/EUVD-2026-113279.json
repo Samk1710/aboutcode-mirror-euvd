@@ -3,7 +3,7 @@
   "enisaUuid": "ae06af7f-ca5c-3b58-be50-98226f141965",
   "description": "socket.getaddrinfo() previously accepted null bytes within *host* and *port* parameters which can cause the values to be silently truncated.",
   "datePublished": "Oct 29, 2026, 5:45:47 PM",
-  "dateUpdated": "Oct 30, 2026, 12:31:35 AM",
+  "dateUpdated": "Oct 30, 2026, 5:18:15 PM",
   "baseScore": 5.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:L/AT:P/PR:H/UI:P/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N",

@@ -6,7 +6,7 @@
   "dateUpdated": "Oct 30, 2026, 2:03:39 AM",
   "baseScore": 0.0,
   "references": "https://www.imaginationtech.com/gpu-driver-vulnerabilities/\n",
-  "aliases": "CVE-2026-19199\n",
+  "aliases": "GHSA-gvjc-68xv-fh4m\nCVE-2026-19199\n",
   "assigner": "imaginationtech",
   "epss": 0.0,
   "enisaIdProduct": [

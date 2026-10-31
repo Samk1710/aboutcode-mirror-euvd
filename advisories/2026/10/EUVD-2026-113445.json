@@ -6,7 +6,7 @@
   "dateUpdated": "Oct 30, 2026, 12:26:43 AM",
   "baseScore": 0.0,
   "references": "https://support.apple.com/en-us/149589\n",
-  "aliases": "CVE-2026-112602\n",
+  "aliases": "CVE-2026-112602\nGHSA-93hr-9r36-3cx8\n",
   "assigner": "apple",
   "epss": 0.0,
   "enisaIdProduct": [

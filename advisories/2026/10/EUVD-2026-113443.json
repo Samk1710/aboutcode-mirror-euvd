@@ -8,7 +8,7 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:N",
   "references": "https://access.redhat.com/security/cve/CVE-2026-118959\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2563288\n",
-  "aliases": "CVE-2026-118959\n",
+  "aliases": "CVE-2026-118959\nGHSA-74cm-5prx-222c\n",
   "assigner": "redhat",
   "epss": 0.0,
   "enisaIdProduct": [],

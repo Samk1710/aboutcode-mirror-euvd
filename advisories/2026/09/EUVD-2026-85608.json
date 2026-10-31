@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:86331\nhttps://access.redhat.com/errata/RHSA-2026:86841\nhttps://access.redhat.com/errata/RHSA-2026:86842\nhttps://access.redhat.com/errata/RHSA-2026:86921\nhttps://access.redhat.com/errata/RHSA-2026:92212\nhttps://access.redhat.com/errata/RHSA-2026:92213\nhttps://access.redhat.com/errata/RHSA-2026:92214\nhttps://access.redhat.com/errata/RHSA-2026:92218\nhttps://access.redhat.com/errata/RHSA-2026:92336\nhttps://access.redhat.com/errata/RHSA-2026:92353\nhttps://access.redhat.com/errata/RHSA-2026:92382\nhttps://access.redhat.com/errata/RHSA-2026:92573\nhttps://access.redhat.com/errata/RHSA-2026:92579\nhttps://access.redhat.com/security/cve/CVE-2026-96889\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2539279\nhttps://crates.io/crates/librsvg\nhttps://gitlab.gnome.org/GNOME/librsvg/-/work_items/1241\nhttps://rustsec.org/advisories/RUSTSEC-2026-0305.html\n",
   "aliases": "GHSA-cpvr-w4j5-2mpg\nCVE-2026-96889\n",
   "assigner": "redhat",
-  "epss": 0.53,
+  "epss": 0.54,
   "enisaIdProduct": [
     {
       "id": "1933fa59-e537-3aae-af89-a360e8a74e7f",
