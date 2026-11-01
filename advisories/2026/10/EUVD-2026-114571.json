@@ -8,9 +8,9 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:A/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H",
   "references": "https://advisories.softiron.cloud/\n",
-  "aliases": "CVE-2026-116755\n",
+  "aliases": "CVE-2026-116755\nGHSA-qhpq-4pf4-cqxv\n",
   "assigner": "SoftIron",
-  "epss": 0.0,
+  "epss": 0.93,
   "enisaIdProduct": [
     {
       "id": "20c72814-7213-3999-bcc7-6e104c2ffecc",

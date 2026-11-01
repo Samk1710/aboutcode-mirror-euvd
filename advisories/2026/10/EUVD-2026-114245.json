@@ -3,14 +3,14 @@
   "enisaUuid": "00642bb8-b967-31f2-a616-0e995adf8aab",
   "description": "In JetBrains Toolbox App before 3.9.1 and 3.8.2; IntelliJ IDEA before 2026.3 and 2026.2.4, the jetbrainsd daemon trusted compromised intermediate certificates",
   "datePublished": "Oct 30, 2026, 5:31:26 PM",
-  "dateUpdated": "Oct 30, 2026, 6:49:59 PM",
+  "dateUpdated": "Oct 31, 2026, 3:56:43 AM",
   "baseScore": 9.0,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H",
   "references": "https://www.jetbrains.com/privacy-security/issues-fixed/\nhttps://blog.jetbrains.com/security/2026/10/compromised-emudhra-certificates-ides/\nhttps://emudhra.com/en/post/certificate-security-incident\nhttps://bugzilla.mozilla.org/show_bug.cgi?id=2083449\n",
   "aliases": "GHSA-c9gr-394r-65gg\nCVE-2026-118697\n",
   "assigner": "JetBrains",
-  "epss": 0.0,
+  "epss": 0.28,
   "enisaIdProduct": [
     {
       "id": "60e3a04d-f83e-3393-8d83-bf28375719b0",

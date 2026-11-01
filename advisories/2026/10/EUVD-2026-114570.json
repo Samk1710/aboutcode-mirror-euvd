@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://www.herodevs.com/vulnerability-directory/cve-2026-110176\nhttps://d7es.tag1.com/security-advisories/file-force-download-critical-access-bypass\n",
-  "aliases": "CVE-2026-110176\n",
+  "aliases": "CVE-2026-110176\nGHSA-wc74-vwp5-gqfv\n",
   "assigner": "drupal",
-  "epss": 0.0,
+  "epss": 0.25,
   "enisaIdProduct": [
     {
       "id": "2b6e7fa9-4038-367b-9023-ccf1def365a7",

@@ -10,7 +10,7 @@
   "references": "https://vuldb.com/vuln/426279\nhttps://vuldb.com/vuln/426279/cti\nhttps://vuldb.com/cve/CVE-2026-116230\nhttps://vuldb.com/submit/1007147\nhttps://drbloop.dev/blog/one-click-rce-plauge-inc\nhttps://store.steampowered.com/news/app/246620/view/708909893000628135\n",
   "aliases": "CVE-2026-116230\nGHSA-vghg-vcj3-xq5j\n",
   "assigner": "VulDB",
-  "epss": 0.32,
+  "epss": 0.27,
   "enisaIdProduct": [
     {
       "id": "58593bb6-90e2-3c6e-a90e-0f351405c2c4",
