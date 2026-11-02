@@ -3,7 +3,7 @@
   "enisaUuid": "5b16d3a1-dfcb-34b3-9914-b46aa5884fd9",
   "description": "The Smart Post \u2013 Post Grid, Post Carousel, Post Slider Gutenberg Blocks for Blog & News plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'display_name' parameter in all versions up to, and including, 4.0.9 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with subscriber-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. Exploitation requires the victim page to contain an Author Filter block alongside a grid or live-filter block, and execution is triggered by a visitor clicking the attacker's author entry in the dropdown \u2014 a standard filter interaction requiring no elevated privileges from the victim.",
   "datePublished": "Oct 31, 2026, 8:30:46 AM",
-  "dateUpdated": "Oct 31, 2026, 8:30:46 AM",
+  "dateUpdated": "Nov 1, 2026, 5:34:19 PM",
   "baseScore": 6.4,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:N",

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:P/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/429529\nhttps://vuldb.com/vuln/429529/cti\nhttps://vuldb.com/cve/CVE-2026-120190\nhttps://vuldb.com/submit/1027356\nhttps://github.com/mvdicarlo/postybirb-plus/issues/504\nhttps://github.com/mvdicarlo/postybirb-plus/pull/506\nhttps://github.com/user-attachments/files/32685547/report.md\nhttps://github.com/mvdicarlo/postybirb-plus/commit/6b11c2345ad98ae59fd5404a9f1024eb1d10c8a4\nhttps://github.com/mvdicarlo/postybirb-plus/releases/tag/v3.1.76\n",
-  "aliases": "CVE-2026-120190\n",
+  "aliases": "GHSA-ggpr-cj64-vcq3\nCVE-2026-120190\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

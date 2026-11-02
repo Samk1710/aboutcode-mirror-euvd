@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/429531\nhttps://vuldb.com/vuln/429531/cti\nhttps://vuldb.com/cve/CVE-2026-120192\nhttps://vuldb.com/submit/1027385\nhttps://github.com/presenton/presenton/issues/973\nhttps://github.com/presenton/presenton/pull/980\nhttps://github.com/presenton/presenton/commit/44c8a61122b21f17642d717b0c4d6f2c54c0f180\nhttps://github.com/presenton/presenton/releases/tag/v0.9.12-beta\nhttps://github.com/presenton/presenton/\n",
-  "aliases": "CVE-2026-120192\n",
+  "aliases": "CVE-2026-120192\nGHSA-rgjm-77r7-28xg\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

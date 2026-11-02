@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:H/AT:P/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/marketcalls/openalgo/commit/af5d5f2cc564ee31cdd1159bc147a9b03cc713ac\nhttps://github.com/marketcalls/openalgo/blob/main/docs/releases/version-2.0.3.1-released.md\nhttps://github.com/marketcalls/openalgo/blob/96e5927e5adbff146f203bf72c7a79add9e6622c/utils/email_utils.py#L403-L406\nhttps://github.com/marketcalls/openalgo\nhttps://www.vulncheck.com/advisories/openalgo-1.0.0.29-before-2.0.3.1-improper-certificate-validation-in-smtp-connections\n",
-  "aliases": "CVE-2026-120250\n",
+  "aliases": "GHSA-pxjx-g7g8-jwq6\nCVE-2026-120250\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

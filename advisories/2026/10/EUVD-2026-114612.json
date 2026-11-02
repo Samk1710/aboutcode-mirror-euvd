@@ -3,7 +3,7 @@
   "enisaUuid": "836356f2-626a-37e6-9ba0-2302a8107a7a",
   "description": "The VikRentCar Car Rental Management System plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'optionals' parameter in all versions up to, and including, 1.4.10 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.",
   "datePublished": "Oct 31, 2026, 6:44:22 AM",
-  "dateUpdated": "Oct 31, 2026, 6:44:22 AM",
+  "dateUpdated": "Nov 1, 2026, 5:44:28 PM",
   "baseScore": 7.2,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:L/I:L/A:N",

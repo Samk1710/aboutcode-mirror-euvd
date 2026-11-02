@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/cgohlke/imagecodecs/issues/157\nhttps://github.com/cgohlke/imagecodecs/blob/v2026.10.10/3rdparty/jpegsof3/jpegsof3.cpp#L394\nhttps://github.com/cgohlke/imagecodecs\nhttps://www.vulncheck.com/advisories/imagecodecs-2023.1.23-through-2026.10.10-stack-buffer-overflow-via-jpegsof3-decode\n",
-  "aliases": "CVE-2026-120252\n",
+  "aliases": "CVE-2026-120252\nGHSA-89vm-wj4q-hr3r\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

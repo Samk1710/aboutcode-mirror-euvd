@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://code.ffmpeg.org/FFmpeg/FFmpeg/pulls/24869\nhttps://github.com/FFmpeg/FFmpeg/commit/7c73707355708c846f718cca90096bc1a33c8989\nhttps://github.com/FFmpeg/FFmpeg/blob/n9.0.2/libavcodec/huffyuvdec.c#L802\nhttps://github.com/FFmpeg/FFmpeg\nhttps://www.vulncheck.com/advisories/ffmpeg-2.3-through-9.0.2-huffyuv-decoder-uninitialized-heap-memory-disclosure\n",
-  "aliases": "CVE-2026-120247\n",
+  "aliases": "GHSA-rp9m-mw76-ppmp\nCVE-2026-120247\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [
