@@ -3,7 +3,7 @@
   "enisaUuid": "a1a30cb0-9724-326f-969a-cf3da3f8f2e8",
   "description": "A vulnerability was detected in WAVLINK WN536AX6-A V260507_2.0.0. Impacted is the function sub_416d48/sub_41a7c0 of the file /bin/ioos of the component VPN Client List Handler. Performing a manipulation of the argument opt results in missing authentication. The attack can be initiated remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure.",
   "datePublished": "Nov 1, 2026, 11:45:16 PM",
-  "dateUpdated": "Nov 1, 2026, 11:45:16 PM",
+  "dateUpdated": "Nov 2, 2026, 5:40:30 PM",
   "baseScore": 6.9,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N/E:P",

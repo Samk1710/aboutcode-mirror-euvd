@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:P",
   "references": "https://vuldb.com/vuln/429624\nhttps://vuldb.com/vuln/429624/cti\nhttps://vuldb.com/cve/CVE-2026-120280\nhttps://vuldb.com/submit/919789\nhttps://github.com/pipiyyb/cve/blob/main/WAVLINK%20WN536AX6-A/WN536AX6-A_group_id.md\n",
-  "aliases": "CVE-2026-120280\n",
+  "aliases": "GHSA-q3mh-mrr2-xh2h\nCVE-2026-120280\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

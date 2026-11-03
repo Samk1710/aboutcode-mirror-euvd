@@ -3,7 +3,7 @@
   "enisaUuid": "8d3d0698-aeeb-31a9-a342-8b504acbde65",
   "description": "The The Ninja Forms \u2013 Contact Form Builder with Calculators, Quizzes, Signatures & AI Form Builder plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to, and including, 3.15.5 This is due to the software allowing users to execute an action that does not properly validate a value before running do_shortcode. This makes it possible for unauthenticated attackers to execute arbitrary shortcodes.",
   "datePublished": "Oct 31, 2026, 5:33:08 AM",
-  "dateUpdated": "Oct 31, 2026, 5:33:08 AM",
+  "dateUpdated": "Nov 2, 2026, 2:50:42 PM",
   "baseScore": 6.5,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N",
