@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/usnistgov/labbench/pull/32\nhttps://github.com/usnistgov/labbench/commit/ac9b9b18cba67cb8e85eb563b6bb7dc1092b4c54\nhttps://github.com/usnistgov/labbench/blob/0.46.0/src/labbench/_data.py#L1664-L1666\nhttps://github.com/usnistgov/labbench/blob/0.46.1/ChangeLog.md\nhttps://pypi.org/project/labbench/0.46.1/\nhttps://github.com/usnistgov/labbench\nhttps://www.vulncheck.com/advisories/labbench-before-0.46.1-deserialization-of-untrusted-data-via-read-pickle-auto-dispatch\n",
-  "aliases": "CVE-2026-120833\n",
+  "aliases": "CVE-2026-120833\nGHSA-4ppf-9g5f-q8hv\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [
