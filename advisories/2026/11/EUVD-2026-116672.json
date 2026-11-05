@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/430445\nhttps://vuldb.com/vuln/430445/cti\nhttps://vuldb.com/cve/CVE-2026-121608\nhttps://vuldb.com/submit/1023263\nhttps://gist.github.com/gajgdm6-cpu/b238ba799968564773a70ad480f3e404\n",
-  "aliases": "CVE-2026-121608\n",
+  "aliases": "GHSA-pw8g-mg6x-g4wh\nCVE-2026-121608\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

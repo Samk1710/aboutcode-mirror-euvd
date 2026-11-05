@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/430447\nhttps://vuldb.com/vuln/430447/cti\nhttps://vuldb.com/cve/CVE-2026-121610\nhttps://vuldb.com/submit/1023291\nhttps://github.com/shihuizhang-dazhi/MY-CVE/blob/main/FunAdmin%20%E5%89%8D%E5%8F%B0%E6%9C%AA%E6%8E%88%E6%9D%83%20SQL%20%E6%B3%A8%E5%85%A5.docx\n",
-  "aliases": "CVE-2026-121610\n",
+  "aliases": "GHSA-xwpx-frq4-pw9h\nCVE-2026-121610\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:P",
   "references": "https://vuldb.com/vuln/430446\nhttps://vuldb.com/vuln/430446/cti\nhttps://vuldb.com/cve/CVE-2026-121609\nhttps://vuldb.com/submit/1023264\nhttps://gist.github.com/gajgdm6-cpu/c8c3bbdeb51c076317834b41c3a919f2\n",
-  "aliases": "CVE-2026-121609\n",
+  "aliases": "GHSA-mmm6-v93x-r6rc\nCVE-2026-121609\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

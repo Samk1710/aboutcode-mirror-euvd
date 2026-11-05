@@ -10,7 +10,7 @@
   "references": "https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-g5j8-ff59-wp88\nhttps://www.vulncheck.com/advisories/imagemagick-before-7.1.2-34-stack-overflow-in-tiff-decoder\n",
   "aliases": "GHSA-h4xc-xr2j-5788\nCVE-2026-119123\n",
   "assigner": "VulnCheck",
-  "epss": 0.3,
+  "epss": 0.35,
   "enisaIdProduct": [
     {
       "id": "720069b8-22a9-3580-abb9-46c9fc09d295",

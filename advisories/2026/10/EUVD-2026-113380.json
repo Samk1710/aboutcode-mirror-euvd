@@ -10,7 +10,7 @@
   "references": "https://github.com/py-pdf/pypdf/security/advisories/GHSA-62m5-6wh8-28x7\nhttps://github.com/py-pdf/pypdf/pull/4270\nhttps://github.com/py-pdf/pypdf/commit/82b91951dc74496bb3efe6465434f041bb6a5e6b\nhttps://github.com/py-pdf/pypdf/releases/tag/6.21.3\n",
   "aliases": "GHSA-62m5-6wh8-28x7\nCVE-2026-119208\n",
   "assigner": "GitHub_M",
-  "epss": 0.3,
+  "epss": 0.22,
   "enisaIdProduct": [
     {
       "id": "7e0a9e94-bcb2-3d76-8a31-b8b89d6570e6",

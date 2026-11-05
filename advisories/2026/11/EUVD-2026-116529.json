@@ -3,7 +3,7 @@
   "enisaUuid": "e71d0436-529b-3c77-86d4-b53f2f0ba085",
   "description": "StorageGRID (formerly StorageGRID Webscale) versions 11.3 and higher allow an attacker with product-specific knowledge and the ability to communicate with the Grid Network on certain ports to make unauthorized requests.",
   "datePublished": "Nov 3, 2026, 9:41:55 PM",
-  "dateUpdated": "Nov 3, 2026, 9:41:55 PM",
+  "dateUpdated": "Nov 4, 2026, 6:20:23 PM",
   "baseScore": 9.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N",

@@ -10,7 +10,7 @@
   "references": "https://github.com/py-pdf/pypdf/security/advisories/GHSA-cggf-277g-3q54\nhttps://github.com/py-pdf/pypdf/pull/4290\nhttps://github.com/py-pdf/pypdf/commit/ea4ac663133f1b3de1d7a8f2e6fa239802fde79e\nhttps://github.com/py-pdf/pypdf/releases/tag/6.21.4\n",
   "aliases": "GHSA-cggf-277g-3q54\nCVE-2026-119204\n",
   "assigner": "GitHub_M",
-  "epss": 0.3,
+  "epss": 0.22,
   "enisaIdProduct": [
     {
       "id": "cad1af14-a5a4-3355-86b5-0fa0f44043d3",

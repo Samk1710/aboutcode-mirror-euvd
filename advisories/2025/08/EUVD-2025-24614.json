@@ -10,7 +10,7 @@
   "references": "https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-750-release.html\nhttps://aws.amazon.com/security/security-bulletins/AWS-2025-017/\nhttps://github.com/advisories/GHSA-hf8h-76fm-735v\n",
   "aliases": "GHSA-hf8h-76fm-735v\nCVE-2025-8904\n",
   "assigner": "AMZN",
-  "epss": 0.36,
+  "epss": 0.39,
   "enisaIdProduct": [
     {
       "id": "0c4e1cd3-27a4-3b29-b15b-264a2d554f33",

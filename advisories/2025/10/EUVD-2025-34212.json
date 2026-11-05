@@ -10,7 +10,7 @@
   "references": "https://forums.ivanti.com/s/article/Security-Advisory-Endpoint-Manager-Mobile-EPMM-10-2025-Multiple-CVEs?language=en_US\n",
   "aliases": "GHSA-jwmr-jj8m-x45w\nCVE-2025-10243\n",
   "assigner": "ivanti",
-  "epss": 20.35,
+  "epss": 21.3,
   "enisaIdProduct": [
     {
       "id": "8f1a3882-2574-3c0f-bff8-13c2b4a7dea4",
