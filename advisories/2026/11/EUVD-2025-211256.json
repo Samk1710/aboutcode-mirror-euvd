@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 1:39:50 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2025-66364\n",
+  "aliases": "GHSA-5cxc-8932-7hjx\nCVE-2025-66364\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

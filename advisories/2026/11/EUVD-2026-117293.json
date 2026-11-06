@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:42:38 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-68994\n",
+  "aliases": "GHSA-pc87-g94f-jfx4\nCVE-2026-68994\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:40:30 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-68991\n",
+  "aliases": "CVE-2026-68991\nGHSA-wrjw-2jmw-h5xr\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

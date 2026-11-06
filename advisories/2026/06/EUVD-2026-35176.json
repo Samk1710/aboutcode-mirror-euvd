@@ -10,7 +10,7 @@
   "references": "https://www.tp-link.com/en/support/download/archer-mr600/v5/#Firmware\nhttps://www.tp-link.com/jp/support/download/archer-mr600/v5/#Firmware\nhttps://www.tp-link.com/us/support/faq/5122/\nhttps://www.tp-link.com/en/support/download/archer-mr600/v2/#Firmware\nhttps://www.tp-link.com/en/support/download/archer-mr600/v3/#Firmware\n",
   "aliases": "CVE-2026-8913\nGHSA-gx83-77h4-7838\n",
   "assigner": "TPLink",
-  "epss": 0.91,
+  "epss": 1.07,
   "enisaIdProduct": [
     {
       "id": "624ed128-5366-3140-bd95-c56fba40e9cb",

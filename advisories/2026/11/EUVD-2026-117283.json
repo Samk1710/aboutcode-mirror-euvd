@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:40:22 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-69002\n",
+  "aliases": "CVE-2026-69002\nGHSA-97gf-37m4-jxq2\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

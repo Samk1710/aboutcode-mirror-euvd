@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:P/VC:N/VI:N/VA:H/SC:N/SI:N/SA:H",
   "references": "https://github.com/kyverno/kyverno/security/advisories/GHSA-m8p2-qqmx-j53x\nhttps://www.vulncheck.com/advisories/kyverno-before-1.19.2-denial-of-service-via-unbounded-cel-policy-evaluation-cost\n",
-  "aliases": "CVE-2026-122309\n",
+  "aliases": "GHSA-v92j-7j98-v568\nCVE-2026-122309\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:H/VA:N/SC:N/SI:H/SA:N",
   "references": "https://github.com/kyverno/kyverno/security/advisories/GHSA-qc9c-3fgf-cgq8\nhttps://www.vulncheck.com/advisories/kyverno-before-1.19.2-policy-bypass-via-admissionpolicygenerator-policyexception-handling\n",
-  "aliases": "CVE-2026-122307\n",
+  "aliases": "GHSA-h448-wvj6-xqpr\nCVE-2026-122307\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

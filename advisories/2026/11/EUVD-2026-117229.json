@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/kyverno/kyverno/security/advisories/GHSA-r2p2-3892-5jjf\nhttps://www.vulncheck.com/advisories/kyverno-before-1.19.2-denial-of-service-via-in-notin-operator-panic\n",
-  "aliases": "CVE-2026-122319\n",
+  "aliases": "GHSA-6q83-2w37-78f6\nCVE-2026-122319\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

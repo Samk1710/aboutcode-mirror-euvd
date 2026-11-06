@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:37:56 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-33965\n",
+  "aliases": "GHSA-4x4x-53h9-45vj\nCVE-2026-33965\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

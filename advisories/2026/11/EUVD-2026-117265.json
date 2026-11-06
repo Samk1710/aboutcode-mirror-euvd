@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:43:32 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-48173\n",
+  "aliases": "CVE-2026-48173\nGHSA-r3gq-g37j-r82w\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

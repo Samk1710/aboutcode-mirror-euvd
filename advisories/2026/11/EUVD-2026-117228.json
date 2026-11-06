@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:L/UI:N/VC:L/VI:H/VA:L/SC:L/SI:H/SA:L",
   "references": "https://github.com/kyverno/kyverno/security/advisories/GHSA-fcfr-fr8g-qjqv\nhttps://www.vulncheck.com/advisories/kyverno-before-1.19.2-cosign-identity-check-bypass-via-empty-san-certificates\n",
-  "aliases": "CVE-2026-122318\n",
+  "aliases": "CVE-2026-122318\nGHSA-p8fx-8mgf-mvw3\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

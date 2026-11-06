@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:37:05 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-48179\n",
+  "aliases": "CVE-2026-48179\nGHSA-8hfc-vwv2-85cc\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

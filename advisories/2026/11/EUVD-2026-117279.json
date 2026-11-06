@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:39:51 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-69044\n",
+  "aliases": "GHSA-2v6q-3mg2-37h2\nCVE-2026-69044\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:40:38 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-68990\n",
+  "aliases": "GHSA-fwv4-84g6-gg2r\nCVE-2026-68990\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

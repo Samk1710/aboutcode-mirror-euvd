@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:38:04 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2025-66366\n",
+  "aliases": "GHSA-48x4-685f-c87v\nCVE-2025-66366\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

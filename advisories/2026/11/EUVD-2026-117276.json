@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:37:26 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-33971\n",
+  "aliases": "GHSA-5m5f-wh7x-v6rw\nCVE-2026-33971\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

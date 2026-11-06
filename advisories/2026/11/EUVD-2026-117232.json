@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/kyverno/kyverno/security/advisories/GHSA-3f2c-hfj8-542w\nhttps://www.vulncheck.com/advisories/kyverno-from-1.11.0-before-1.19.2-memory-exhaustion-via-notary-attestation-decompression\n",
-  "aliases": "CVE-2026-122322\n",
+  "aliases": "CVE-2026-122322\nGHSA-35jw-hw3c-vrw6\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

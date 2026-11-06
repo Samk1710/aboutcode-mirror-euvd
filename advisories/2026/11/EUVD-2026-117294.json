@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:42:47 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-68993\n",
+  "aliases": "GHSA-279w-fv9v-x7wv\nCVE-2026-68993\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

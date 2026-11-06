@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:37:48 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2025-66367\n",
+  "aliases": "CVE-2025-66367\nGHSA-778h-c8h7-xwx4\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

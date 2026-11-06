@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/kyverno/kyverno/security/advisories/GHSA-x4xq-p8g4-6fwg\nhttps://www.vulncheck.com/advisories/kyverno-before-1.19.2-denial-of-service-via-shallow-variable-substitution-panic\n",
-  "aliases": "CVE-2026-122314\n",
+  "aliases": "CVE-2026-122314\nGHSA-rwg8-pmp2-gw36\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

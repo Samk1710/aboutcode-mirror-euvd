@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:42:31 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-48183\n",
+  "aliases": "CVE-2026-48183\nGHSA-c7jf-mm5v-x692\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

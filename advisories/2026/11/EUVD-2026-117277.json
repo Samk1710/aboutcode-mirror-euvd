@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:37:33 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-33958\n",
+  "aliases": "CVE-2026-33958\nGHSA-3mx6-vrj9-7c42\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

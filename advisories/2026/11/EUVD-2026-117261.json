@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:43:02 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-48178\n",
+  "aliases": "GHSA-v6wx-fcjf-qghj\nCVE-2026-48178\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

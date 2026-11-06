@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:41:16 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-69005\n",
+  "aliases": "CVE-2026-69005\nGHSA-454c-98c9-p9g3\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

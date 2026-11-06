@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:H",
   "references": "https://github.com/kyverno/kyverno/security/advisories/GHSA-338x-hgrv-626h\nhttps://www.vulncheck.com/advisories/kyverno-before-1.19.2-denial-of-service-via-nested-variable-substitution-loop\n",
-  "aliases": "CVE-2026-122305\n",
+  "aliases": "GHSA-vh8f-cmpp-9cv2\nCVE-2026-122305\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

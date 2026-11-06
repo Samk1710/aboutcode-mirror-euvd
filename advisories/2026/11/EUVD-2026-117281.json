@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:40:08 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-69050\n",
+  "aliases": "GHSA-5h99-5cv4-759j\nCVE-2026-69050\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

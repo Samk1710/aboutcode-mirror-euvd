@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:43:24 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-48174\n",
+  "aliases": "GHSA-698c-c552-hvcw\nCVE-2026-48174\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

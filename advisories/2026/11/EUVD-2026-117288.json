@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:41:00 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-69006\n",
+  "aliases": "GHSA-4qxg-cc63-6h3j\nCVE-2026-69006\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

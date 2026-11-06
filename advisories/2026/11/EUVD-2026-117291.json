@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:41:23 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-68984\n",
+  "aliases": "GHSA-hv7p-q6xv-2496\nCVE-2026-68984\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

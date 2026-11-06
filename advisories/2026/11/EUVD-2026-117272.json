@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:36:58 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-48176\n",
+  "aliases": "GHSA-r8fp-3jhv-g2w8\nCVE-2026-48176\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

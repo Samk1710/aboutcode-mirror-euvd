@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:H/VA:L/SC:L/SI:H/SA:L",
   "references": "https://github.com/kyverno/kyverno/security/advisories/GHSA-2r43-6962-xcw5\nhttps://www.vulncheck.com/advisories/kyverno-1.18.0-before-1.19.2-verifyimages-cache-signature-verification-bypass\n",
-  "aliases": "CVE-2026-122321\n",
+  "aliases": "GHSA-2vqq-m4qm-q6m7\nCVE-2026-122321\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

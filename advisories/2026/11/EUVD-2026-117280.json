@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:39:59 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-69043\n",
+  "aliases": "GHSA-7r74-gcw3-3fcc\nCVE-2026-69043\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

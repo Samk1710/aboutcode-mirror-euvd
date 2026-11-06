@@ -6,7 +6,7 @@
   "dateUpdated": "Nov 5, 2026, 2:37:19 AM",
   "baseScore": 0.0,
   "references": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/\n",
-  "aliases": "CVE-2026-33969\n",
+  "aliases": "GHSA-mm68-fh65-f3rr\nCVE-2026-33969\n",
   "assigner": "samsungsemiconductor",
   "epss": 0.0,
   "enisaIdProduct": [

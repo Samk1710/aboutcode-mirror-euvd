@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:89849\nhttps://access.redhat.com/errata/RHSA-2026:89850\nhttps://access.redhat.com/errata/RHSA-2026:89859\nhttps://access.redhat.com/errata/RHSA-2026:95061\nhttps://access.redhat.com/errata/RHSA-2026:95062\nhttps://access.redhat.com/errata/RHSA-2026:95063\nhttps://access.redhat.com/errata/RHSA-2026:95064\nhttps://access.redhat.com/security/cve/CVE-2026-97024\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2542625\nhttps://github.com/flatpak/flatpak/security/advisories/GHSA-8xgq-v545-vgvf\n",
   "aliases": "CVE-2026-97024\n",
   "assigner": "redhat",
-  "epss": 0.38,
+  "epss": 0.39,
   "enisaIdProduct": [
     {
       "id": "025722eb-8d96-3859-97d6-47e2dd4af12b",
