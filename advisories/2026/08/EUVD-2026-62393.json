@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:94485\nhttps://access.redhat.com/errata/RHSA-2026:94533\nhttps://access.redhat.com/security/cve/CVE-2026-76235\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2519497\n",
   "aliases": "GHSA-hwfh-3wjq-8p68\nCVE-2026-76235\n",
   "assigner": "redhat",
-  "epss": 0.79,
+  "epss": 0.58,
   "enisaIdProduct": [
     {
       "id": "96dc2882-eddb-394a-a402-79e80b477413",

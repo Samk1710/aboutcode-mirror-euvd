@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/security/cve/CVE-2026-84267\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2526466\nhttps://gitlab.gnome.org/GNOME/gvfs/-/issues/861\n",
   "aliases": "GHSA-7w8w-22g3-g4f8\nCVE-2026-84267\n",
   "assigner": "redhat",
-  "epss": 0.37,
+  "epss": 0.21,
   "enisaIdProduct": [
     {
       "id": "81fe1886-afac-3900-867f-3b0e421196eb",

@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/security/cve/CVE-2026-75883\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2538346\nhttps://github.com/ppp-project/ppp/security/advisories/GHSA-rwr9-4vx8-vc35\n",
   "aliases": "CVE-2026-75883\n",
   "assigner": "redhat",
-  "epss": 0.18,
+  "epss": 0.29,
   "enisaIdProduct": [],
   "enisaIdVendor": []
 }

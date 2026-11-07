@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://advisories.egi.eu/Advisory-EGI-SVG-2025-09\nhttps://github.com/cern-fts/fts-monitoring/commit/e993c27d60a150c67cc2b415ddb272b5d3f05596\nhttps://github.com/cern-fts/fts-monitoring/commit/96241f6e9911195aae8e9e07bce511da4e81fc08\nhttps://github.com/cern-fts/fts-monitoring/blob/v3.14.0/src/apps/ftsmon/views/linkinfo.py#L27-L60\nhttps://github.com/cern-fts/fts-monitoring/releases/tag/v3.14.1\nhttps://github.com/cern-fts/fts-monitoring/releases/tag/v3.13.3\nhttps://github.com/cern-fts/fts-monitoring\nhttps://www.vulncheck.com/advisories/fts3-web-monitoring-3.12.0-through-3.13.2-and-3.14.0-sql-injection-via-linkinfo\n",
-  "aliases": "CVE-2025-71458\n",
+  "aliases": "GHSA-xf3h-4wh8-v749\nCVE-2025-71458\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

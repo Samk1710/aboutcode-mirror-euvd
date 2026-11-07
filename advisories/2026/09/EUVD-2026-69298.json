@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/security/cve/CVE-2026-84270\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2526794\nhttps://gitlab.gnome.org/GNOME/gvfs/-/issues/864\n",
   "aliases": "GHSA-2rh6-86rx-p849\nCVE-2026-84270\n",
   "assigner": "redhat",
-  "epss": 0.22,
+  "epss": 0.15,
   "enisaIdProduct": [
     {
       "id": "ea9540ef-1fb3-390c-84f3-7ce36241e08f",
