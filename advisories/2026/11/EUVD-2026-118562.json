@@ -8,9 +8,9 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:L/A:N",
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/5aea4f76-053d-4ce4-ae8c-7c01d7727718?source=cve\nhttps://plugins.trac.wordpress.org/browser/fluent-support/tags/2.4.5/app/Services/Integrations/FluentForm/FeedIntegration.php#L358\nhttps://plugins.trac.wordpress.org/browser/fluent-support/tags/2.4.5/app/Services/Integrations/FluentForm/FeedIntegration.php#L335\nhttps://plugins.trac.wordpress.org/browser/fluent-support/tags/2.4.5/app/Models/Customer.php#L126\nhttps://wordpress.org/plugins/fluent-support/\nhttps://plugins.trac.wordpress.org/changeset/3780020/fluent-support/trunk/app/Services/Integrations/FluentForm/FeedIntegration.php\n",
-  "aliases": "CVE-2026-119213\n",
+  "aliases": "CVE-2026-119213\nGHSA-q7x6-x924-p7cg\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.23,
   "enisaIdProduct": [
     {
       "id": "6cd8be19-5892-34f6-9b75-113b397ba269",

@@ -3,7 +3,7 @@
   "enisaUuid": "9e19fdf7-13b4-3b84-9ddd-aac2b6073cf3",
   "description": "A flaw was found in the Netfilter subsystem in the Linux kernel. The nfnl_osf_add_callback function did not validate the user mode controlled opt_num field. This flaw allows a local privileged (CAP_NET_ADMIN) attacker to trigger an out-of-bounds read, leading to a crash or information disclosure.",
   "datePublished": "Oct 9, 2023, 5:57:44 PM",
-  "dateUpdated": "Oct 14, 2026, 11:35:07 PM",
+  "dateUpdated": "Nov 7, 2026, 11:32:43 AM",
   "baseScore": 5.1,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:L",

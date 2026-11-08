@@ -10,7 +10,7 @@
   "references": "https://github.com/python/cpython/issues/160923\nhttps://mail.python.org/archives/list/security-announce@python.org/thread/PXVTTOBPUMFJSSUXN6XCS7FC5DZOSZXK/\nhttps://github.com/python/cpython/pull/160984\n",
   "aliases": "CVE-2026-119170\nGHSA-vq78-g94j-3ppp\n",
   "assigner": "PSF",
-  "epss": 0.0,
+  "epss": 0.49,
   "enisaIdProduct": [
     {
       "id": "843a7489-7136-3d1c-896c-3e7bd1ae0b4f",
