@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-9hq5-pfgc-cx5h\nhttps://www.vulncheck.com/advisories/zebra-before-7.0.0-sync-denial-of-service-via-forged-checkpoint-block-body\n",
-  "aliases": "CVE-2026-123560\n",
+  "aliases": "GHSA-53c4-wq6g-vxqh\nCVE-2026-123560\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

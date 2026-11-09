@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:L/VI:L/VA:L/SC:L/SI:L/SA:L",
   "references": "https://github.com/OpenIdentityPlatform/OpenAM/security/advisories/GHSA-g5vw-v384-gw9v\nhttps://www.vulncheck.com/advisories/openam-before-16.1.4-ssrf-and-crl-tampering-via-certificate-crl-distribution-point\n",
-  "aliases": "CVE-2026-123552\n",
+  "aliases": "GHSA-wfq9-2cqg-wvv2\nCVE-2026-123552\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

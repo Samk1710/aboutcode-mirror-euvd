@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:H/UI:P/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/OpenIdentityPlatform/OpenAM/security/advisories/GHSA-pw99-8h4m-p3gm\nhttps://www.vulncheck.com/advisories/openam-before-16.1.4-incomplete-attribute-encoding-in-saml-1-x-form-post\n",
-  "aliases": "CVE-2026-123540\n",
+  "aliases": "CVE-2026-123540\nGHSA-gp9c-wgqc-wwg3\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/hickory-dns/hickory-dns/security/advisories/GHSA-vrv5-968r-5ggm\nhttps://www.vulncheck.com/advisories/hickory-dns-0.26.0-beta.1-before-0.26.2-dnssec-validation-bypass-via-wildcard-expansion\n",
-  "aliases": "CVE-2026-123579\n",
+  "aliases": "CVE-2026-123579\nGHSA-xcqq-jfxv-w8jq\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

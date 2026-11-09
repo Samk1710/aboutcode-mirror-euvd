@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:H/UI:N/VC:L/VI:L/VA:N/SC:L/SI:L/SA:N",
   "references": "https://github.com/sveltejs/devalue/security/advisories/GHSA-8qm3-746x-r74r\nhttps://www.vulncheck.com/advisories/sveltejs-devalue-before-5.6.3-prototype-pollution-via-uneval-output\n",
-  "aliases": "CVE-2026-123568\n",
+  "aliases": "GHSA-7g65-3hpp-6gg5\nCVE-2026-123568\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

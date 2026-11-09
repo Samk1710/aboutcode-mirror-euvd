@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-rp64-xg8g-9mpr\nhttps://www.vulncheck.com/advisories/vikunja-before-2.7.1-insecure-permissions-on-dump-archive-via-vikunja-dump\n",
-  "aliases": "CVE-2026-123500\n",
+  "aliases": "CVE-2026-123500\nGHSA-fgfv-xjh6-9vhx\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

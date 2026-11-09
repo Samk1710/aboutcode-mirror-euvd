@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-p697-wq4x-grpj\nhttps://www.vulncheck.com/advisories/vikunja-before-2.7.1-denial-of-service-via-unbounded-kanban-bucket-count\n",
-  "aliases": "CVE-2026-123509\n",
+  "aliases": "CVE-2026-123509\nGHSA-4865-9p8m-45gc\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

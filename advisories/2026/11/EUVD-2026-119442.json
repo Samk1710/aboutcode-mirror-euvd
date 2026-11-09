@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-6v36-c42v-v98p\nhttps://www.vulncheck.com/advisories/zebra-zebrad-before-7.0.0-reachable-assertion-dos-via-peer-disconnection\n",
-  "aliases": "CVE-2026-123557\n",
+  "aliases": "GHSA-cpwj-fm29-9h32\nCVE-2026-123557\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

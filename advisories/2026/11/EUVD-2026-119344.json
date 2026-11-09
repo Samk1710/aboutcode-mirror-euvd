@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/hickory-dns/hickory-dns/security/advisories/GHSA-6f2x-v7q7-m7m5\nhttps://www.vulncheck.com/advisories/hickory-dns-0.25.0-before-0.26.2-query-amplification-via-irrelevant-cname-records\n",
-  "aliases": "CVE-2026-123585\n",
+  "aliases": "GHSA-qw4x-w9jf-pmv6\nCVE-2026-123585\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

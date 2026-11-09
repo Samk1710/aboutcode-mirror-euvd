@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:H/AT:P/PR:H/UI:P/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/rustls/rustls/security/advisories/GHSA-c8m5-c952-6cm4\nhttps://www.vulncheck.com/advisories/rustls-before-0.23.46-and-0.24.0-dev.1-before-0.24.0-dev.2-secret-exposure-via-debug\n",
-  "aliases": "CVE-2026-123609\n",
+  "aliases": "CVE-2026-123609\nGHSA-67mj-442h-2gp6\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:H/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/rustls/rustls/security/advisories/GHSA-vp88-798v-h67f\nhttps://www.vulncheck.com/advisories/rustls-0.23.44-and-0.23.45-ech-rejection-application-data-disclosure\n",
-  "aliases": "CVE-2026-123612\n",
+  "aliases": "CVE-2026-123612\nGHSA-jrx3-hh25-gg3m\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

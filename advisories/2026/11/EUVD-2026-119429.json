@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:H/AT:P/PR:N/UI:N/VC:N/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/OpenIdentityPlatform/OpenAM/security/advisories/GHSA-6gg2-2v5m-454x\nhttps://www.vulncheck.com/advisories/openam-before-16.1.4-insufficient-response-validation-in-internal-soap-channel\n",
-  "aliases": "CVE-2026-123544\n",
+  "aliases": "CVE-2026-123544\nGHSA-xv75-9hr2-vf5x\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

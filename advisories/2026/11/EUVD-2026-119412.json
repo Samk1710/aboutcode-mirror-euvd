@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:L/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-j5v7-qcwp-5g32\nhttps://www.vulncheck.com/advisories/vikunja-2.4.0-before-2.7.1-api-token-scope-collision-authorization-bypass\n",
-  "aliases": "CVE-2026-123527\n",
+  "aliases": "GHSA-w4rp-qjww-56rf\nCVE-2026-123527\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

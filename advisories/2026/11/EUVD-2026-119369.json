@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/rustls/rustls/security/advisories/GHSA-h2v8-394m-p7vv\nhttps://www.vulncheck.com/advisories/rustls-before-0.23.46-denial-of-service-via-brotli-certificate-decompression\n",
-  "aliases": "CVE-2026-123610\n",
+  "aliases": "CVE-2026-123610\nGHSA-gg47-62fq-vrhp\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

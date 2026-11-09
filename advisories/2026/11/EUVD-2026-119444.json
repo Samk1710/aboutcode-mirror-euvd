@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-j4cw-58mj-7w6v\nhttps://www.vulncheck.com/advisories/zebra-before-7.0.0-denial-of-service-via-quadratic-sighash-computation\n",
-  "aliases": "CVE-2026-123559\n",
+  "aliases": "GHSA-wgc2-xcwr-9pcw\nCVE-2026-123559\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

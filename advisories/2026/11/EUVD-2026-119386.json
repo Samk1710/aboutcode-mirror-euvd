@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-9hxw-pxcq-4q8q\nhttps://www.vulncheck.com/advisories/vikunja-before-2.7.1-memory-exhaustion-dos-via-unbounded-image-decodes\n",
-  "aliases": "CVE-2026-123501\n",
+  "aliases": "GHSA-qgpv-qrrx-2qgv\nCVE-2026-123501\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

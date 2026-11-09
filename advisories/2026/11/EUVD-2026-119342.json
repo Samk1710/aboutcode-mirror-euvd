@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/hickory-dns/hickory-dns/security/advisories/GHSA-vcjp-57rr-mpfw\nhttps://www.vulncheck.com/advisories/hickory-dns-0.25.0-through-0.25.2-missing-bailiwick-filtering-on-negative-responses\n",
-  "aliases": "CVE-2026-123583\n",
+  "aliases": "GHSA-cc99-m754-hh53\nCVE-2026-123583\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

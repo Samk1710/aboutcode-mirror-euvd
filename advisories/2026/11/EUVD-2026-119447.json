@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/sveltejs/devalue/security/advisories/GHSA-x5rw-q4pp-hg5g\nhttps://www.vulncheck.com/advisories/devalue-5.8.0-before-5.9.3-denial-of-service-via-stringifyasync-unhandled-rejection\n",
-  "aliases": "CVE-2026-123562\n",
+  "aliases": "CVE-2026-123562\nGHSA-6jpw-759r-8m52\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

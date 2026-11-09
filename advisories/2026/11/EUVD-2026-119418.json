@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/GitoxideLabs/gitoxide/security/advisories/GHSA-989c-xj77-266r\nhttps://www.vulncheck.com/advisories/gitoxide-before-0.42.0-denial-of-service-via-crafted-commit-graph-file\n",
-  "aliases": "CVE-2026-123533\n",
+  "aliases": "GHSA-5h7f-ghvg-967h\nCVE-2026-123533\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

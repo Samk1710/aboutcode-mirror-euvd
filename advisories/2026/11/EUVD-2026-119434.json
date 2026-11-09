@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/OpenIdentityPlatform/OpenAM/security/advisories/GHSA-jv8f-m88g-h6mm\nhttps://www.vulncheck.com/advisories/openam-before-16.1.4-privilege-escalation-via-self-registration-attribute-bypass\n",
-  "aliases": "CVE-2026-123549\n",
+  "aliases": "GHSA-f3q2-cw3w-jw26\nCVE-2026-123549\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

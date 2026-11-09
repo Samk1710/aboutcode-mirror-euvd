@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:P/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-rj93-wmch-2crq\nhttps://www.vulncheck.com/advisories/vikunja-before-2.7.1-auth-token-leak-via-api-url-change\n",
-  "aliases": "CVE-2026-123513\n",
+  "aliases": "GHSA-h52v-3vxf-m2vc\nCVE-2026-123513\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

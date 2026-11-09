@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/sveltejs/devalue/security/advisories/GHSA-r9w8-h9r3-54w4\nhttps://www.vulncheck.com/advisories/devalue-before-5.9.3-typed-array-allocation-validation-bypass-via-parse\n",
-  "aliases": "CVE-2026-123563\n",
+  "aliases": "CVE-2026-123563\nGHSA-6cvq-7mp2-2cxc\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

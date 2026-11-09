@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:P/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-qf5p-grf5-wcq4\nhttps://www.vulncheck.com/advisories/vikunja-before-2.7.1-sensitive-token-exposure-via-url-query-in-access-logs\n",
-  "aliases": "CVE-2026-123512\n",
+  "aliases": "GHSA-x6wm-4pvf-x539\nCVE-2026-123512\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

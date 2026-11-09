@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/hickory-dns/hickory-dns/security/advisories/GHSA-g8wg-4mwh-fjfv\nhttps://www.vulncheck.com/advisories/hickory-dns-before-0.26.2-denial-of-service-via-missing-dns-over-quic-request-read-timeout\n",
-  "aliases": "CVE-2026-123589\n",
+  "aliases": "CVE-2026-123589\nGHSA-hpqr-cvqv-p4qm\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

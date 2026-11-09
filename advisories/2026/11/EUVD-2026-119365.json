@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/hickory-dns/hickory-dns/security/advisories/GHSA-6h5c-jjg5-wj59\nhttps://www.vulncheck.com/advisories/hickory-dns-recursor-0.25.0-alpha.3-through-0.25.2-glueless-ns-referral-amplification\n",
-  "aliases": "CVE-2026-123606\n",
+  "aliases": "CVE-2026-123606\nGHSA-5p73-2jm7-2cmq\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:H/UI:P/VC:L/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-h8wj-3gwg-jjjg\nhttps://www.vulncheck.com/advisories/vikunja-before-2.7.1-supply-chain-risk-via-unpinned-xgo-release-toolchain\n",
-  "aliases": "CVE-2026-123508\n",
+  "aliases": "GHSA-q57j-qf34-3pr5\nCVE-2026-123508\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

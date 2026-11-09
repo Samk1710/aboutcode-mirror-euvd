@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:P/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-wqw2-rgwv-99qx\nhttps://www.vulncheck.com/advisories/vikunja-veans-before-2.7.1-https-to-http-downgrade-in-server-discovery\n",
-  "aliases": "CVE-2026-123497\n",
+  "aliases": "GHSA-rg35-8p7r-mq2v\nCVE-2026-123497\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

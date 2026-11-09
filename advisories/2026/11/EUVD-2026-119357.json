@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/hickory-dns/hickory-dns/security/advisories/GHSA-29q9-p769-j8gq\nhttps://www.vulncheck.com/advisories/hickory-dns-0.25.0-through-0.26.0-alpha.1-dnssec-bogus-answer-cache-poisoning\n",
-  "aliases": "CVE-2026-123598\n",
+  "aliases": "CVE-2026-123598\nGHSA-p25q-gxfm-cmhr\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

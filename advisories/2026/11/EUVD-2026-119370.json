@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/rustls/rustls/security/advisories/GHSA-w44r-93j7-qv28\nhttps://www.vulncheck.com/advisories/rustls-before-0.23.46-key-exchange-downgrade-via-unauthenticated-serverhello\n",
-  "aliases": "CVE-2026-123611\n",
+  "aliases": "CVE-2026-123611\nGHSA-jh53-vxwq-v4wp\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

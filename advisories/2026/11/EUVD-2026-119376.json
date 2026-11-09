@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:N/SC:L/SI:L/SA:N",
   "references": "https://github.com/JiHong88/suneditor/security/advisories/GHSA-q867-q2hw-f8gp\nhttps://github.com/JiHong88/suneditor/commit/57db24ac218cd10942fed0bb8288e9cb40b334bb\nhttps://github.com/JiHong88/suneditor/releases/tag/3.4.0\nhttps://github.com/JiHong88/suneditor/blob/3.3.3/src/core/logic/dom/html.js#L336-L350\nhttps://www.vulncheck.com/advisories/suneditor-3.0.0-before-3.4.0-stored-xss-via-html-clean-iframe-placeholder\n",
-  "aliases": "CVE-2026-124422\n",
+  "aliases": "GHSA-fvm2-c629-pcjf\nCVE-2026-124422\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

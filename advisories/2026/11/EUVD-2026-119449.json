@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/sveltejs/devalue/security/advisories/GHSA-wf3x-273g-mvxv\nhttps://www.vulncheck.com/advisories/sveltejs-devalue-before-5.9.3-memory-exhaustion-via-uneval-sparse-arrays\n",
-  "aliases": "CVE-2026-123564\n",
+  "aliases": "CVE-2026-123564\nGHSA-97c7-3pc7-pw7r\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

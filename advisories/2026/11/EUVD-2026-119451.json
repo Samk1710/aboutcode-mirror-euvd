@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/sveltejs/devalue/security/advisories/GHSA-hx4r-w6wj-j8fg\nhttps://www.vulncheck.com/advisories/devalue-before-5.9.3-cpu-amplification-denial-of-service-via-uneval\n",
-  "aliases": "CVE-2026-123566\n",
+  "aliases": "CVE-2026-123566\nGHSA-4qxq-46gj-rw38\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

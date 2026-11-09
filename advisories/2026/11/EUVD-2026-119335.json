@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/hickory-dns/hickory-dns/security/advisories/GHSA-2f4m-fq7w-mrgx\nhttps://www.vulncheck.com/advisories/hickory-dns-0.24.0-through-0.26.1-memory-exhaustion-via-dns-over-quic-requests\n",
-  "aliases": "CVE-2026-123576\n",
+  "aliases": "CVE-2026-123576\nGHSA-ch84-jp3r-9q25\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/OpenIdentityPlatform/OpenAM/security/advisories/GHSA-545c-rm35-2jj2\nhttps://www.vulncheck.com/advisories/openam-14.5.1-before-16.1.4-csrf-in-oauth-2.0-device-flow\n",
-  "aliases": "CVE-2026-123545\n",
+  "aliases": "GHSA-29cx-77jg-5p59\nCVE-2026-123545\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

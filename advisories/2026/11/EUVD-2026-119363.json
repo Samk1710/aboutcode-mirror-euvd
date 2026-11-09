@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/hickory-dns/hickory-dns/security/advisories/GHSA-6w6g-hm98-mhgm\nhttps://www.vulncheck.com/advisories/hickory-dns-0.26.0-beta.1-before-0.26.2-resource-exhaustion-dos-via-nameserverpool-try-send-tc-retry-loop\n",
-  "aliases": "CVE-2026-123604\n",
+  "aliases": "CVE-2026-123604\nGHSA-9rhf-mg7m-qfr9\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

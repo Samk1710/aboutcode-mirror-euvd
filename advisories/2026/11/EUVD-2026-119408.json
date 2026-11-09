@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-3x3m-2j93-w46j\nhttps://www.vulncheck.com/advisories/vikunja-before-2.7.1-memory-exhaustion-via-unbounded-avatar-size-cache\n",
-  "aliases": "CVE-2026-123523\n",
+  "aliases": "CVE-2026-123523\nGHSA-w5pw-69q7-rf8x\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-jq45-ghw5-v37x\nhttps://github.com/ZcashFoundation/zebra/commit/e8db87eb69254e0d4eedd058eadd48bdfa09065a\nhttps://www.vulncheck.com/advisories/zebra-2.3.0-before-7.0.0-denial-of-service-via-unscored-script-verification-failures\n",
-  "aliases": "CVE-2026-123555\n",
+  "aliases": "CVE-2026-123555\nGHSA-cwcw-qfgm-5r6m\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:N/SC:L/SI:L/SA:N",
   "references": "https://github.com/OpenIdentityPlatform/OpenAM/security/advisories/GHSA-2gwf-vxp5-f9v2\nhttps://www.vulncheck.com/advisories/openam-before-16.1.4-open-redirect-and-xss-via-goto-and-gotoonfail\n",
-  "aliases": "CVE-2026-123546\n",
+  "aliases": "CVE-2026-123546\nGHSA-xg4f-9v56-jq95\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

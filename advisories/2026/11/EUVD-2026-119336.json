@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/hickory-dns/hickory-dns/security/advisories/GHSA-5r56-v84h-c3w5\nhttps://www.vulncheck.com/advisories/hickory-dns-0.24.0-before-0.26.2-doh-unbounded-request-body-denial-of-service\n",
-  "aliases": "CVE-2026-123577\n",
+  "aliases": "CVE-2026-123577\nGHSA-7x66-7p9h-vgp9\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

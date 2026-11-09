@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:L/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/hickory-dns/hickory-dns/security/advisories/GHSA-57pw-897j-v4j6\nhttps://www.vulncheck.com/advisories/hickory-dns-0.26.0-beta.1-before-0.26.2-improper-nsec-nsec3-signature-validation\n",
-  "aliases": "CVE-2026-123590\n",
+  "aliases": "GHSA-f6qc-6m8j-6hgc\nCVE-2026-123590\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

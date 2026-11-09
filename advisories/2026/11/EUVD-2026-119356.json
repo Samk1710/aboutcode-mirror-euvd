@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/hickory-dns/hickory-dns/security/advisories/GHSA-xv7c-h5g9-x25x\nhttps://www.vulncheck.com/advisories/hickory-dns-dnssec-validation-cache-poisoning-via-transient-ds-fetch-errors\n",
-  "aliases": "CVE-2026-123597\n",
+  "aliases": "CVE-2026-123597\nGHSA-2v9q-m22g-rqg6\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

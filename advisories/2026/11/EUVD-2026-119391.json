@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-5f6v-j6xm-wwj9\nhttps://www.vulncheck.com/advisories/vikunja-2.2.0-before-2.7.1-token-scope-bypass-via-project-webhook-endpoints\n",
-  "aliases": "CVE-2026-123506\n",
+  "aliases": "CVE-2026-123506\nGHSA-2fc5-hwxx-39f7\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

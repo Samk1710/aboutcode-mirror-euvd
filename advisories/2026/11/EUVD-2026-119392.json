@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-hm4w-h7v8-ch43\nhttps://www.vulncheck.com/advisories/vikunja-0.24.0-before-2.7.1-denial-of-service-via-nil-bucket-filter\n",
-  "aliases": "CVE-2026-123507\n",
+  "aliases": "CVE-2026-123507\nGHSA-pvhp-x32p-w9mc\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

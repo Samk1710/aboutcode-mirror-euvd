@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:L/VA:N/SC:N/SI:L/SA:N",
   "references": "https://github.com/OpenIdentityPlatform/OpenAM/security/advisories/GHSA-rw43-r238-4c7j\nhttps://www.vulncheck.com/advisories/openam-before-16.1.4-open-redirect-via-saml-1-x-trusted-partner-matching\n",
-  "aliases": "CVE-2026-123541\n",
+  "aliases": "GHSA-j8x6-3fvh-h537\nCVE-2026-123541\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

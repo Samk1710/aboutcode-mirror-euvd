@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/hickory-dns/hickory-dns/security/advisories/GHSA-2hxp-x833-73f7\nhttps://www.vulncheck.com/advisories/hickory-dns-recursor-ghost-domain-attack-via-child-side-ns-rrset-caching\n",
-  "aliases": "CVE-2026-123602\n",
+  "aliases": "GHSA-4vjf-x5x5-8f5h\nCVE-2026-123602\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

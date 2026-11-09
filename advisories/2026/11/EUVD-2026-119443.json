@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-2w9f-9wx8-f5c8\nhttps://www.vulncheck.com/advisories/zebra-before-7.0.0-checkpoint-sync-denial-of-service-via-cancelled-verifier-rewind\n",
-  "aliases": "CVE-2026-123558\n",
+  "aliases": "CVE-2026-123558\nGHSA-5hx4-99cr-cchc\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

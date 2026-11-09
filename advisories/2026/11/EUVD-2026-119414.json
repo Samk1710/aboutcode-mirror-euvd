@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:P/VC:L/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-p23m-cq25-pc4j\nhttps://www.vulncheck.com/advisories/vikunja-before-2.7.1-stored-css-injection-via-tiptap-table-cell-data-background-color\n",
-  "aliases": "CVE-2026-123529\n",
+  "aliases": "CVE-2026-123529\nGHSA-rvvf-8m26-2qwr\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

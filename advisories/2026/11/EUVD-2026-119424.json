@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:P/VC:L/VI:L/VA:N/SC:L/SI:L/SA:N",
   "references": "https://github.com/OpenIdentityPlatform/OpenAM/security/advisories/GHSA-v6hq-3cfh-5gr6\nhttps://www.vulncheck.com/advisories/openam-before-16.1.4-stored-xss-via-oauth-2.0-consent-page-display-name\n",
-  "aliases": "CVE-2026-123539\n",
+  "aliases": "GHSA-9j7x-qm62-f4xh\nCVE-2026-123539\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

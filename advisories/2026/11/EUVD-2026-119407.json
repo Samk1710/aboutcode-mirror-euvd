@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-5q33-h98p-rgh9\nhttps://www.vulncheck.com/advisories/vikunja-before-2.7.1-task-information-disclosure-via-kanban-bucket-move-webhook\n",
-  "aliases": "CVE-2026-123522\n",
+  "aliases": "GHSA-x356-gv6g-6mff\nCVE-2026-123522\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

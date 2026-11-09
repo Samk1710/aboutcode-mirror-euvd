@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-v3r6-33v3-79c2\nhttps://www.vulncheck.com/advisories/vikunja-before-2.7.1-information-disclosure-via-team-self-removal-endpoint\n",
-  "aliases": "CVE-2026-123517\n",
+  "aliases": "GHSA-cwvj-xw34-46qv\nCVE-2026-123517\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

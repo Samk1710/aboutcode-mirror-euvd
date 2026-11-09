@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/imgproxy/imgproxy/security/advisories/GHSA-494m-4556-wf5p\nhttps://www.vulncheck.com/advisories/imgproxy-before-4.0.17-out-of-bounds-write-in-ico-loader\n",
-  "aliases": "CVE-2026-123615\n",
+  "aliases": "GHSA-c4x5-qr47-7gw4\nCVE-2026-123615\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [
