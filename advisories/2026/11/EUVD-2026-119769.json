@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/432812\nhttps://vuldb.com/vuln/432812/cti\nhttps://vuldb.com/cve/CVE-2026-124508\nhttps://vuldb.com/submit/1035484\nhttps://github.com/Floci-io/Floci/security/advisories/GHSA-4hjc-ww34-35c4\nhttps://github.com/Floci-io/Floci/\n",
-  "aliases": "CVE-2026-124508\n",
+  "aliases": "GHSA-9v55-g5pj-xwf7\nCVE-2026-124508\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/432888\nhttps://vuldb.com/vuln/432888/cti\nhttps://vuldb.com/cve/CVE-2026-124556\nhttps://vuldb.com/submit/1035489\nhttps://github.com/kekingcn/kkFileView/security/advisories/GHSA-wrm9-r4fj-f8q5\nhttps://github.com/kekingcn/kkFileView/\n",
-  "aliases": "CVE-2026-124556\n",
+  "aliases": "GHSA-cv54-pprh-36x2\nCVE-2026-124556\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/432811\nhttps://vuldb.com/vuln/432811/cti\nhttps://vuldb.com/cve/CVE-2026-124507\nhttps://vuldb.com/submit/1035482\nhttps://github.com/conductor-oss/conductor/security/advisories/GHSA-cx7c-4mp7-rhcj\nhttps://github.com/conductor-oss/conductor/\n",
-  "aliases": "CVE-2026-124507\n",
+  "aliases": "GHSA-gq4w-px3f-vc47\nCVE-2026-124507\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

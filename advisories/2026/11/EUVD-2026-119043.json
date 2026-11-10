@@ -3,7 +3,7 @@
   "enisaUuid": "f0c9afec-135f-3825-aff2-58ae0256d1c1",
   "description": "Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in properfraction ProfilePress wp-user-avatar allows Code Injection.This issue affects ProfilePress: from n/a through 4.17.7.",
   "datePublished": "Nov 7, 2026, 9:30:03 AM",
-  "dateUpdated": "Nov 7, 2026, 9:31:03 AM",
+  "dateUpdated": "Nov 9, 2026, 4:55:04 PM",
   "baseScore": 4.3,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N",
