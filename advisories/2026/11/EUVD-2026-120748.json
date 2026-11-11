@@ -3,7 +3,7 @@
   "enisaUuid": "e2104b61-99c9-3768-8b9d-cec9496e7e1d",
   "description": "Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in Deltaww DIAEnergie allows SQL Injection.\n\nThis issue affects DIAEnergie: before 1.11.01.032.",
   "datePublished": "Nov 10, 2026, 2:59:53 AM",
-  "dateUpdated": "Nov 10, 2026, 3:02:35 AM",
+  "dateUpdated": "Nov 10, 2026, 7:34:19 PM",
   "baseScore": 8.8,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",

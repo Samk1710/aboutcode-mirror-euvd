@@ -3,7 +3,7 @@
   "enisaUuid": "f585c945-7f80-319b-8801-7f78dfea90c7",
   "description": "MikroDash before 0.8.79 contains a server-side request forgery vulnerability that allows any signed-in user, including the viewer role, to target internal addresses through notification channels. Attackers can set webhook or mail destinations to loopback, LAN or link-local addresses and call POST /api/notify-channels/{id}/test to probe the internal network.",
   "datePublished": "Nov 9, 2026, 11:27:36 PM",
-  "dateUpdated": "Nov 9, 2026, 11:27:36 PM",
+  "dateUpdated": "Nov 10, 2026, 7:06:35 PM",
   "baseScore": 5.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:L/VA:N/SC:N/SI:N/SA:N",

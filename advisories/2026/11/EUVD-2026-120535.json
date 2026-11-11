@@ -3,7 +3,7 @@
   "enisaUuid": "e369d16c-91dc-3c48-91e0-79426f1fe2ff",
   "description": "REBUILD before 4.5.3 contains an authorization bypass vulnerability in FeedsListController fetchDetails and fetchComments that skips privilege filtering and FeedsHelper.checkReadable checks. Authenticated attackers can enumerate sequential IDs via the feeds-details and comments-list endpoints to read private or team-scoped feed content, images, attachments and comments.",
   "datePublished": "Nov 9, 2026, 11:27:43 PM",
-  "dateUpdated": "Nov 9, 2026, 11:27:43 PM",
+  "dateUpdated": "Nov 10, 2026, 4:28:22 PM",
   "baseScore": 5.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N",

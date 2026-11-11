@@ -3,7 +3,7 @@
   "enisaUuid": "42533579-621e-313b-9de1-7ed0c4cb5110",
   "description": "Ettercap through 0.8.4.1 contains an out-of-bounds read and size_t underflow vulnerability in sslw_remove_sts() in src/ec_sslwrap.c, caused by a stale length and an unchecked memmem() result when stripping Strict-Transport-Security headers. A malicious HTTPS server whose response passes through Ettercap's SSL interception can trigger out-of-bounds reads and memory corruption in the Ettercap process, which normally runs as root.",
   "datePublished": "Nov 9, 2026, 11:28:04 PM",
-  "dateUpdated": "Nov 9, 2026, 11:28:04 PM",
+  "dateUpdated": "Nov 10, 2026, 7:05:18 PM",
   "baseScore": 7.2,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:N/VI:H/VA:H/SC:N/SI:N/SA:N",

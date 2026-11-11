@@ -3,7 +3,7 @@
   "enisaUuid": "dd4ddb9a-9ced-3ea3-a911-59c004d4ce64",
   "description": "Ettercap through 0.8.4.1 contains a use-after-free vulnerability in func_pcre() in src/ec_filter.c that reads the PCRE2 ovector after freeing match data. Network-adjacent attackers can send packets matching a loaded pcre_regex() substitution filter to corrupt memory and potentially execute code as root.",
   "datePublished": "Nov 9, 2026, 11:28:02 PM",
-  "dateUpdated": "Nov 9, 2026, 11:28:02 PM",
+  "dateUpdated": "Nov 10, 2026, 4:34:59 PM",
   "baseScore": 8.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
