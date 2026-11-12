@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/WWBN/AVideo/security/advisories/GHSA-9rvm-cfc4-q9g9\nhttps://github.com/WWBN/AVideo/commit/d34ccf23b37a127a68478d66ac00b450b5788bad\nhttps://github.com/WWBN/AVideo/blob/v29.7.1/objects/login.json.php#L133-L145\nhttps://github.com/WWBN/AVideo/blob/v29.7.1/plugin/MobileManager/oauth2.php#L90-L102\nhttps://www.vulncheck.com/advisories/wwbn-avideo-6.5-through-29.7.1-authentication-bypass-via-hybridauth-social-login\n",
-  "aliases": "CVE-2026-126542\n",
+  "aliases": "CVE-2026-126542\nGHSA-r23m-jf94-h653\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

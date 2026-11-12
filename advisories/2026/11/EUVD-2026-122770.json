@@ -3,7 +3,7 @@
   "enisaUuid": "190c5c5c-493e-3cde-8401-d4566a76d2fd",
   "description": "In multiple locations, there is a possible use-after-free due to a race condition. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.",
   "datePublished": "Nov 10, 2026, 7:21:27 PM",
-  "dateUpdated": "Nov 11, 2026, 12:53:27 AM",
+  "dateUpdated": "Nov 11, 2026, 4:58:08 AM",
   "baseScore": 6.4,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H",

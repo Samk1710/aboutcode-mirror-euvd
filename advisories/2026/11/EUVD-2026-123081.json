@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:H/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/SemanticMediaWiki/SemanticMediaWiki/security/advisories/GHSA-gh59-2vh3-6cgm\nhttps://github.com/SemanticMediaWiki/SemanticMediaWiki/commit/32ca6d8fc75735aa7a2ecc573886391da126da9b\nhttps://github.com/SemanticMediaWiki/SemanticMediaWiki/releases/tag/7.4.1\nhttps://github.com/SemanticMediaWiki/SemanticMediaWiki/blob/7.4.0/src/Protection/EditProtectionUpdater.php#L147-L200\nhttps://github.com/SemanticMediaWiki/SemanticMediaWiki/blob/7.4.0/src/DataUpdater.php#L360-L375\nhttps://www.vulncheck.com/advisories/semantic-mediawiki-7.3.1-before-7.4.1-incorrect-authorization-via-edit-protection-annotations\n",
-  "aliases": "CVE-2026-126566\n",
+  "aliases": "CVE-2026-126566\nGHSA-9974-qjxm-mc96\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

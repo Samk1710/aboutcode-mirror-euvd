@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:L/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/padloc/padloc/security/advisories/GHSA-3mq5-m2qg-fqhq\nhttps://github.com/padloc/padloc/commit/26f292515fe623826070454872f9cee08b756544\nhttps://github.com/padloc/padloc/blob/v4.3.0/packages/core/src/v3-compat.ts#L191-L210\nhttps://www.vulncheck.com/advisories/padloc-4.0.0-before-4.3.1-email-mfa-code-brute-force-via-retrievemfatoken\n",
-  "aliases": "CVE-2026-126571\n",
+  "aliases": "CVE-2026-126571\nGHSA-qm2w-w3vc-pjgw\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

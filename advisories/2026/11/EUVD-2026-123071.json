@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",
   "references": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2026-6039.php\nhttps://www.viber.com\nhttps://www.vulncheck.com/advisories/viber-for-ios-through-29.4.0.24-denial-of-service-via-malformed-gif\n",
-  "aliases": "CVE-2026-126546\n",
+  "aliases": "CVE-2026-126546\nGHSA-rx59-vg9j-fpm4\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

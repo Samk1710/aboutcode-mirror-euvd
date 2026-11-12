@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/WWBN/AVideo/security/advisories/GHSA-5gg3-9jhh-xf86\nhttps://github.com/WWBN/AVideo/commit/98406b7944e035e72082665ac886d78fc3af0a7f\nhttps://github.com/WWBN/AVideo/blob/v29.7.1/plugin/PayPalYPT/ipnV2.php#L87-L125\nhttps://www.vulncheck.com/advisories/wwbn-avideo-through-29.7.1-wallet-credit-manipulation-via-paypalypt-ipnv2-php\n",
-  "aliases": "CVE-2026-126543\n",
+  "aliases": "GHSA-r4j2-2784-v3cx\nCVE-2026-126543\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

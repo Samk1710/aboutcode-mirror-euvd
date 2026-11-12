@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/SemanticMediaWiki/SemanticMediaWiki/security/advisories/GHSA-jwx8-mm92-gv95\nhttps://github.com/SemanticMediaWiki/SemanticMediaWiki/commit/35d8f8c9c7b48a476751ca0b795b78b648756828\nhttps://github.com/SemanticMediaWiki/SemanticMediaWiki/releases/tag/7.4.1\nhttps://github.com/SemanticMediaWiki/SemanticMediaWiki/blob/7.4.0/src/Elastic/QueryEngine/DescriptionInterpreters/ConceptDescriptionInterpreter.php#L34-L75\nhttps://www.vulncheck.com/advisories/semantic-mediawiki-3.0.0-before-7.4.1-uncontrolled-recursion-via-elasticstore-conceptdescriptioninterpreter\n",
-  "aliases": "CVE-2026-126562\n",
+  "aliases": "CVE-2026-126562\nGHSA-cm2r-7rp4-3767\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

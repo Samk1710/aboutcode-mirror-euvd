@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:P/VC:L/VI:L/VA:N/SC:L/SI:L/SA:N",
   "references": "https://github.com/SemanticMediaWiki/SemanticMediaWiki/security/advisories/GHSA-mc5x-2j7v-x8hp\nhttps://github.com/SemanticMediaWiki/SemanticMediaWiki/commit/c9bf9f25549bb2f5eab916339b267a1732002c4c\nhttps://github.com/SemanticMediaWiki/SemanticMediaWiki/releases/tag/7.4.1\nhttps://github.com/SemanticMediaWiki/SemanticMediaWiki/blob/7.4.0/src/MediaWiki/Specials/Browse/ValueFormatter.php#L34-L55\nhttps://www.vulncheck.com/advisories/semantic-mediawiki-2.5.0-before-7.4.1-stored-xss-via-special-browse-factbox-title\n",
-  "aliases": "CVE-2026-126564\n",
+  "aliases": "CVE-2026-126564\nGHSA-pp7g-x87f-9vf5\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

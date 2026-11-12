@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/directus/directus/security/advisories/GHSA-97xr-jchp-xm3c\nhttps://github.com/directus/directus/commit/8d4cd86783bcbf5444eaf290e8dcecb33929300e\nhttps://github.com/directus/directus/releases/tag/v12.1.0\nhttps://github.com/directus/directus/blob/v12.0.2/api/src/websocket/controllers/base.ts#L381-L397\nhttps://www.vulncheck.com/advisories/directus-before-12.1.0-authorization-bypass-via-public-websocket-rest-interface\n",
-  "aliases": "CVE-2026-126539\n",
+  "aliases": "GHSA-mgp5-77q8-6g32\nCVE-2026-126539\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

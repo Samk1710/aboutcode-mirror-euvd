@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:N/SC:L/SI:L/SA:N",
   "references": "https://github.com/emqx/MQTTX/issues/2180\nhttps://github.com/emqx/MQTTX/blob/v1.13.3/src/widgets/TreeView.vue#L195-L226\nhttps://github.com/emqx/MQTTX/blob/v1.13.3/src/widgets/JSONViewer.vue#L175-L184\nhttps://github.com/emqx/MQTTX/blob/v1.13.3/src/background.ts#L276-L283\nhttps://github.com/emqx/MQTTX\nhttps://www.vulncheck.com/advisories/mqttx-through-1.13.3-stored-xss-via-topic-tree-and-json-tree-tooltips\n",
-  "aliases": "CVE-2026-126495\n",
+  "aliases": "GHSA-55f4-qr9r-gp5r\nCVE-2026-126495\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:N/SC:L/SI:L/SA:N",
   "references": "https://github.com/SemanticMediaWiki/SemanticMediaWiki/security/advisories/GHSA-h252-mj7p-58q7\nhttps://github.com/SemanticMediaWiki/SemanticMediaWiki/commit/01cb81a6da7af743d2a5eb334db10e52b7318c56\nhttps://github.com/SemanticMediaWiki/SemanticMediaWiki/releases/tag/7.4.1\nhttps://github.com/SemanticMediaWiki/SemanticMediaWiki/blob/7.4.0/src/DataValues/ValueFormatters/TimeValueFormatter.php#L312-L340\nhttps://www.vulncheck.com/advisories/semantic-mediawiki-2.4.0-before-7.4.1-reflected-xss-via-special-ask-date-format\n",
-  "aliases": "CVE-2026-126563\n",
+  "aliases": "GHSA-p9g7-73wv-cwgh\nCVE-2026-126563\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [
