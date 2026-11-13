@@ -8,7 +8,7 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N",
   "references": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_18\n",
-  "aliases": "CVE-2026-87801\n",
+  "aliases": "CVE-2026-87801\nGHSA-m6v6-g37g-8hc4\n",
   "assigner": "synology",
   "epss": 0.0,
   "enisaIdProduct": [

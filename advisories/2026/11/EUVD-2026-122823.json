@@ -10,7 +10,7 @@
   "references": "https://fortiguard.fortinet.com/psirt/FG-IR-26-194\n",
   "aliases": "GHSA-qgwm-rpp4-xv5g\nCVE-2026-121529\n",
   "assigner": "fortinet",
-  "epss": 0.0,
+  "epss": 0.22,
   "enisaIdProduct": [
     {
       "id": "72e4eb4a-1bc1-32c6-8813-661c69c343ca",

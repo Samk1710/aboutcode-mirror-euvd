@@ -8,7 +8,7 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N",
   "references": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_18\n",
-  "aliases": "CVE-2026-81557\n",
+  "aliases": "GHSA-xjvh-h7fc-8frc\nCVE-2026-81557\n",
   "assigner": "synology",
   "epss": 0.0,
   "enisaIdProduct": [

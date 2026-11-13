@@ -3,7 +3,7 @@
   "enisaUuid": "90d93182-5536-3bc1-b35b-ac85d84b807e",
   "description": "Use of uninitialized or invalid state in AMD Graphics Driver could allow a local attacker to write out of bounds, potentially resulting in loss of integrity or denial of service.",
   "datePublished": "Nov 11, 2026, 1:18:49 PM",
-  "dateUpdated": "Nov 11, 2026, 1:18:49 PM",
+  "dateUpdated": "Nov 12, 2026, 11:58:19 PM",
   "baseScore": 6.9,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",

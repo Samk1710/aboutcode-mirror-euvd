@@ -3,14 +3,14 @@
   "enisaUuid": "62255e3d-5299-3f37-b24a-ebc1092b6b28",
   "description": "Improper access control in AMD Secure Encrypted Virtualization (SEV) firmware could allow a malicious hypervisor to bypass Reverse Map Table (RMP) protections, potentially impacting the integrity of Secure Encrypted Virtualization-Secure Nested Paging (SEV-SNP) guest memory.",
   "datePublished": "Nov 10, 2026, 9:45:16 PM",
-  "dateUpdated": "Nov 10, 2026, 9:45:16 PM",
+  "dateUpdated": "Nov 12, 2026, 11:46:00 PM",
   "baseScore": 5.9,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:H/UI:N/VC:N/VI:N/VA:N/SC:N/SI:H/SA:N",
   "references": "https://www.amd.com/en/resources/product-security/bulletin/AMD-SB-3037.html\n",
   "aliases": "GHSA-xfjp-w3gv-c75m\nCVE-2025-0027\n",
   "assigner": "AMD",
-  "epss": 0.0,
+  "epss": 0.17,
   "enisaIdProduct": [
     {
       "id": "02bda32e-ce14-3134-9234-02b8b8f8b32f",

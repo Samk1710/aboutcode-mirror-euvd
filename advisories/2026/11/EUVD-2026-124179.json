@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N",
   "references": "https://movabletype.org/news/2026/11/mt-887-released.html\nhttps://www.sixapart.jp/movabletype/news/2026/11/11-1100.html\nhttps://jvn.jp/en/jp/JVN11786640/\n",
-  "aliases": "CVE-2026-117687\n",
+  "aliases": "GHSA-hh5g-4f37-mr2v\nCVE-2026-117687\n",
   "assigner": "jpcert",
   "epss": 0.0,
   "enisaIdProduct": [
