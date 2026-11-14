@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697305\n",
-  "aliases": "CVE-2026-111341\n",
+  "aliases": "GHSA-28rm-cprp-p6p4\nCVE-2026-111341\n",
   "assigner": "NetScaler",
   "epss": 0.0,
   "enisaIdProduct": [

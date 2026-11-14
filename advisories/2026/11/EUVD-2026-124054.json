@@ -10,7 +10,7 @@
   "references": "https://github.com/WardPearce/paaster/security/advisories/GHSA-9q9w-qhhm-2xwg\nhttps://github.com/WardPearce/paaster/releases/tag/v3.3.0\n",
   "aliases": "CVE-2026-68512\n",
   "assigner": "GitHub_M",
-  "epss": 0.0,
+  "epss": 0.4,
   "enisaIdProduct": [
     {
       "id": "df51f7b6-e4a2-31b7-b9ca-d99ccfe564c2",

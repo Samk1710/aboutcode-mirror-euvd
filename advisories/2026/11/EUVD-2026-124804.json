@@ -3,7 +3,7 @@
   "enisaUuid": "37042076-d284-32f1-9575-59b1ddda7c95",
   "description": "A vulnerability was determined in Linksys EA8100 1.0.3.216940. This issue affects the function SetRemoteSetting/SetUnsecuredWiFiWarning of the file ui_server.lua of the component JNAP API. This manipulation of the argument isEnabled/enabled causes missing authentication. It is possible to initiate the attack remotely. The exploit has been publicly disclosed and may be utilized. The vendor was contacted early about this disclosure but did not respond in any way.",
   "datePublished": "Nov 12, 2026, 11:45:21 PM",
-  "dateUpdated": "Nov 12, 2026, 11:45:21 PM",
+  "dateUpdated": "Nov 13, 2026, 10:32:04 PM",
   "baseScore": 10.0,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:P",

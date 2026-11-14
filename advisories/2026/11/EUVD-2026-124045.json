@@ -10,7 +10,7 @@
   "references": "https://github.com/heymrun/heym/security/advisories/GHSA-mp23-7m6r-jfw4\nhttps://github.com/heymrun/heym/commit/d2fd46c07754c4ed3e80b521aa54cc276039849b\nhttps://github.com/heymrun/heym/releases/tag/0.0.71\n",
   "aliases": "CVE-2026-67544\n",
   "assigner": "GitHub_M",
-  "epss": 0.0,
+  "epss": 0.97,
   "enisaIdProduct": [
     {
       "id": "cd02e261-f86b-390c-adc3-b2da0b7f99ca",

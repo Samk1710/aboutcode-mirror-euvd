@@ -10,7 +10,7 @@
   "references": "https://github.com/QueueForge/ClickMigrate/security/advisories/GHSA-vgf9-9mxx-hq54\nhttps://github.com/QueueForge/ClickMigrate/commit/6b1f2c0202630a82252b3331aa57e64327e112b6\nhttps://github.com/QueueForge/ClickMigrate/releases/tag/v1.0.3\n",
   "aliases": "CVE-2026-68549\nGHSA-vgf9-9mxx-hq54\n",
   "assigner": "GitHub_M",
-  "epss": 0.0,
+  "epss": 0.18,
   "enisaIdProduct": [
     {
       "id": "a6ecd8a1-dfae-3a9f-a85c-71763b640d24",

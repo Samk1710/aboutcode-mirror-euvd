@@ -10,7 +10,7 @@
   "references": "https://github.com/diced/zipline/security/advisories/GHSA-wwrw-gq56-7wpj\nhttps://github.com/diced/zipline/commit/dbc1fe502130a8ebd95fa04886efec01402e5b5f\nhttps://github.com/diced/zipline/releases/tag/v4.8.0\nhttps://github.com/diced/zipline/blob/v4.7.0/src/server/routes/api/upload/index.ts#L170\nhttps://github.com/diced/zipline/blob/v4.7.0/src/server/routes/api/upload/partial.ts#L294\nhttps://www.vulncheck.com/advisories/zipline-4.0.0-before-4.8.0-disabled-extensions-upload-filter-bypass-via-extension-format-mismatch\n",
   "aliases": "GHSA-mgrr-rv7j-f4x4\nCVE-2026-126933\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.32,
   "enisaIdProduct": [
     {
       "id": "1142dd19-26ec-32c5-af51-96d6122fd736",

@@ -10,7 +10,7 @@
   "references": "https://gist.github.com/neelkotnis/5a5c810e16a3f242f336198b32213629\nhttps://opstree.com/rems-ai-powered-observability/\nhttps://www.vulncheck.com/advisories/opstree-rems-through-1.0.0-comment-author-spoofing-via-incident-comment-api\n",
   "aliases": "CVE-2026-126772\nGHSA-r36g-vg5x-pxjg\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.31,
   "enisaIdProduct": [
     {
       "id": "f8d57f3e-9420-331d-a432-85bc03f460f2",

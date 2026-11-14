@@ -10,7 +10,7 @@
   "references": "https://github.com/3xpyth0n/ideon/security/advisories/GHSA-cvcr-fcf6-366r\nhttps://github.com/3xpyth0n/ideon/commit/58e2f26bb7259d24c963a753962ac34f56c63b01\nhttps://github.com/3xpyth0n/ideon/releases/tag/v0.9.4\n",
   "aliases": "CVE-2026-65968\n",
   "assigner": "GitHub_M",
-  "epss": 0.0,
+  "epss": 0.31,
   "enisaIdProduct": [
     {
       "id": "b1635714-6185-3a84-9e80-d9957377e80f",

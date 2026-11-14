@@ -10,7 +10,7 @@
   "references": "https://vuldb.com/vuln/435969\nhttps://vuldb.com/vuln/435969/cti\nhttps://vuldb.com/cve/CVE-2026-126785\nhttps://vuldb.com/submit/1040412\n",
   "aliases": "CVE-2026-126785\nGHSA-2jm9-rwx2-gmm8\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.11,
   "enisaIdProduct": [
     {
       "id": "7ed3a0bd-6dbe-3391-95ae-e9b6652dd4d6",

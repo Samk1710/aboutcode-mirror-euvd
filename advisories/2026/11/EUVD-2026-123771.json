@@ -10,7 +10,7 @@
   "references": "https://github.com/traccar/traccar/commit/552c31f2097dbed9edef7cfe174c50b16febdc21\nhttps://github.com/traccar/traccar/releases/tag/v6.17.0\nhttps://github.com/traccar/traccar/blob/v6.16.0/src/main/java/org/traccar/database/LdapProvider.java#L171-L176\nhttps://github.com/traccar/traccar/blob/v3.15/src/org/traccar/database/LdapProvider.java#L163-L169\nhttps://www.vulncheck.com/advisories/traccar-3.15-before-6.17.0-authentication-bypass-via-empty-ldap-password\n",
   "aliases": "CVE-2026-126777\nGHSA-fjf2-ffvm-qw56\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.46,
   "enisaIdProduct": [
     {
       "id": "f1953115-624b-3ac9-8359-9515666f0f3c",
