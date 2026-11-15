@@ -10,7 +10,7 @@
   "references": "https://github.com/munin-monitoring/munin/issues/1710\nhttps://github.com/munin-monitoring/munin\nhttps://github.com/munin-monitoring/munin/blob/2.999.18/lib/Munin/Master/HTML.pm#L30-L58\nhttps://github.com/munin-monitoring/munin/commit/e7b6f452ccca04cff8a0e7285c1279b116a768e1\nhttps://www.vulncheck.com/advisories/munin-munin-httpd-through-2.999.18-path-traversal-via-static-file-handler\n",
   "aliases": "GHSA-p249-34gr-hj2h\nCVE-2026-125357\n",
   "assigner": "VulnCheck",
-  "epss": 0.35,
+  "epss": 0.74,
   "enisaIdProduct": [
     {
       "id": "a4b9c096-7248-3b51-abb5-1261d0095b78",

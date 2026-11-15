@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/security/cve/CVE-2026-125703\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2569129\nhttps://gitlab.freedesktop.org/gstreamer/gstreamer/-/merge_requests/11585\nhttps://gstreamer.freedesktop.org/security/sa-2026-0029.html\n",
   "aliases": "CVE-2026-125703\nGHSA-wq95-fg67-jvc5\n",
   "assigner": "redhat",
-  "epss": 0.17,
+  "epss": 0.36,
   "enisaIdProduct": [],
   "enisaIdVendor": []
 }
