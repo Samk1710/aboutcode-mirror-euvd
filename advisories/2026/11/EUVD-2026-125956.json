@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://vul.yulun.ac.cn/20261114/zr-admin-net/\nhttps://github.com/izhaorui/Zr.Admin.NET/issues/27\nhttps://github.com/izhaorui/Zr.Admin.NET/blob/eb9228a23014f6000c06cab2f10ae0d44ecbbd3a/ZR.Admin.WebApi/Controllers/CommonController.cs#L220-L241\nhttps://github.com/izhaorui/Zr.Admin.NET/blob/eb9228a23014f6000c06cab2f10ae0d44ecbbd3a/Infrastructure/Controllers/BaseController.cs#L110-L119\nhttps://github.com/izhaorui/Zr.Admin.NET/commit/0ee1ab8af5e3861766746d25acba1184111befcb\nhttps://www.vulncheck.com/advisories/zr-admin-net-commit-0ee1ab8-through-eb9228a-path-traversal-via-downloadfile\n",
-  "aliases": "CVE-2026-129464\n",
+  "aliases": "CVE-2026-129464\nGHSA-x62g-47x5-v7vf\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

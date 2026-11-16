@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://vul.yulun.ac.cn/20261114/zr-admin-net/\nhttps://github.com/izhaorui/Zr.Admin.NET/issues/27\nhttps://github.com/izhaorui/Zr.Admin.NET/blob/eb9228a23014f6000c06cab2f10ae0d44ecbbd3a/ZR.Admin.WebApi/Controllers/System/TasksController.cs#L145-L157\nhttps://github.com/izhaorui/Zr.Admin.NET/blob/eb9228a23014f6000c06cab2f10ae0d44ecbbd3a/ZR.Admin.WebApi/Controllers/System/TasksController.cs#L84-L120\nhttps://github.com/izhaorui/Zr.Admin.NET/blob/eb9228a23014f6000c06cab2f10ae0d44ecbbd3a/ZR.Admin.WebApi/Controllers/System/TasksLogController.cs#L31-L46\nhttps://www.vulncheck.com/advisories/zr-admin-net-commit-1845017-through-eb9228a-missing-authorization-via-system-tasks-get\n",
-  "aliases": "CVE-2026-129466\n",
+  "aliases": "CVE-2026-129466\nGHSA-6w37-qc84-g44h\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [
