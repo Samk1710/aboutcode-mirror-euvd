@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://vul.yulun.ac.cn/20261115/cloudpaste/\nhttps://github.com/ling-drag0n/CloudPaste/issues/223\nhttps://github.com/ling-drag0n/CloudPaste/blob/282ea1c7fbbcd4fab40527664bf7479fd5bb922d/backend/src/routes/proxyLinkRoutes.js#L139-L167\nhttps://github.com/ling-drag0n/CloudPaste/blob/282ea1c7fbbcd4fab40527664bf7479fd5bb922d/backend/src/storage/drivers/webdav/WebDavStorageDriver.js#L800-L819\nhttps://www.vulncheck.com/advisories/cloudpaste-1.1.0-through-1.9.1-webdav-credential-disclosure-via-api-proxy-link\n",
-  "aliases": "CVE-2026-129494\n",
+  "aliases": "CVE-2026-129494\nGHSA-q4wf-rcwf-h4xf\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.4,
   "enisaIdProduct": [
     {
       "id": "fd066f9f-dd1a-339f-af21-8734abec7fe0",
