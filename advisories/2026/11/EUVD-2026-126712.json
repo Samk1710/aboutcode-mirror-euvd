@@ -3,7 +3,7 @@
   "enisaUuid": "37b16bb2-5f04-3eb6-bd85-65b85204953c",
   "description": "B3log Solo through 4.4.0 contains an information disclosure vulnerability that allows unauthenticated attackers to obtain article view passwords by querying the public GET /articles API. The ArticleProcessor.getArticlesByPage handler leaves the articleViewPwd property in JSON responses, letting attackers read passwords for encrypted articles and access their protected content.",
   "datePublished": "Nov 16, 2026, 9:59:57 PM",
-  "dateUpdated": "Nov 16, 2026, 9:59:57 PM",
+  "dateUpdated": "Nov 17, 2026, 10:26:44 PM",
   "baseScore": 8.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",

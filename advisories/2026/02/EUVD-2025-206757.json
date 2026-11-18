@@ -3,28 +3,24 @@
   "enisaUuid": "38e203ba-28f9-350b-b550-3e60a2d81802",
   "description": "Vulnerability in Wikimedia Foundation MediaWiki. This vulnerability is associated with program files includes/Import/ImportableOldRevisionImporter.Php.\n\nThis issue affects MediaWiki: from * before 1.44.3, 1.45.1.",
   "datePublished": "Feb 3, 2026, 1:18:55 AM",
-  "dateUpdated": "Feb 3, 2026, 3:32:15 PM",
+  "dateUpdated": "Nov 17, 2026, 11:21:00 PM",
   "baseScore": 1.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N/E:U",
   "references": "https://phabricator.wikimedia.org/T405859\n",
-  "aliases": "CVE-2025-67476\n",
+  "aliases": "CVE-2025-67476\nGHSA-5h67-qfvj-ggxp\n",
   "assigner": "wikimedia-foundation",
-  "epss": 0.02,
+  "epss": 0.29,
   "enisaIdProduct": [
     {
-      "id": "0ab6ec7e-fc41-3752-bdb7-4305ad666069",
+      "id": "50390d68-6707-379f-bcbe-f26f4fe1166a",
       "product": {
-        "name": "mediawiki"
+        "name": "mediawiki",
+        "vendor": {
+          "name": "Wikimedia Foundation"
+        }
       },
-      "product_version": "* <1.44.3, 1.45.1"
-    },
-    {
-      "id": "925afd23-a115-3b78-9f91-c056b15eb263",
-      "product": {
-        "name": "mediawiki"
-      },
-      "product_version": "* <1.44.3, 1.45.1"
+      "product_version": "0 <1.44.3, 1.45.1"
     }
   ],
   "enisaIdVendor": [
