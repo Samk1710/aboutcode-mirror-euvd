@@ -3,7 +3,7 @@
   "enisaUuid": "a9e26622-8707-3291-81e3-f8947607b0a3",
   "description": "Ettercap through 0.8.5.1 contains a heap out-of-bounds read vulnerability in dissector_ssh() in src/dissectors/ec_ssh.c that copies a peer-supplied data_len without checking remaining packet bytes. A malicious SSHv1 client or server in an intercepted session can send a short packet with a large data_len to disclose up to 64 bytes of adjacent heap memory through captured credentials in the interface and log.",
   "datePublished": "Nov 17, 2026, 11:42:27 PM",
-  "dateUpdated": "Nov 17, 2026, 11:42:27 PM",
+  "dateUpdated": "Nov 18, 2026, 5:57:54 PM",
   "baseScore": 6.0,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:H/AT:P/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",

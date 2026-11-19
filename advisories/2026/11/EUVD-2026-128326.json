@@ -3,7 +3,7 @@
   "enisaUuid": "d9d89e39-09a0-3374-90ef-a5048689ffd7",
   "description": "Ettercap through 0.8.5.1 contains a heap out-of-bounds read vulnerability in dissector_mysql() in src/dissectors/ec_mysql.c that copies seed and password bytes without bounds checks. A malicious MySQL server or client can send truncated greeting or login packets to leak adjacent heap memory through hex-encoded output in the interface and log.",
   "datePublished": "Nov 17, 2026, 11:42:26 PM",
-  "dateUpdated": "Nov 17, 2026, 11:42:26 PM",
+  "dateUpdated": "Nov 18, 2026, 3:40:40 PM",
   "baseScore": 7.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",

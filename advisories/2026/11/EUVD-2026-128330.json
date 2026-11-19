@@ -3,7 +3,7 @@
   "enisaUuid": "0d4730f2-32ca-331c-938a-1ddd7308803a",
   "description": "ILIAS 11.0 before 11.6 contains an sql injection vulnerability in RegistrationCodeRepository::getCodesData() that concatenates unvalidated sort fields into an ORDER BY clause. Authenticated users with read access to the Authentication and Registration administration node can supply SQL expressions as the sort parameter to extract database contents via boolean-based inference.",
   "datePublished": "Nov 17, 2026, 11:42:29 PM",
-  "dateUpdated": "Nov 17, 2026, 11:42:29 PM",
+  "dateUpdated": "Nov 18, 2026, 3:46:17 PM",
   "baseScore": 8.6,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/SpartanJ/SOIL2/commit/6bee70c06ba121d8f618c80852f5453f60c9a8c3\nhttps://github.com/SpartanJ/SOIL2/releases/tag/1.4.2\nhttps://github.com/SpartanJ/SOIL2\nhttps://www.vulncheck.com/advisories/soil2-before-1.4.2-null-pointer-dereference-in-dds-pvr-and-pkm-loaders\n",
-  "aliases": "CVE-2026-131872\n",
+  "aliases": "CVE-2026-131872\nGHSA-4gw9-pqc2-jhpg\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [
