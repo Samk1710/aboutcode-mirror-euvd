@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/439656\nhttps://vuldb.com/vuln/439656/cti\nhttps://vuldb.com/cve/CVE-2026-132286\nhttps://vuldb.com/submit/1045030\nhttps://github.com/yangzongzhuan/RuoYi/issues/339\nhttps://github.com/yangzongzhuan/RuoYi/commit/d7ad977c9ca64e9b081c893ec56fe08f51f66698\nhttps://github.com/yangzongzhuan/RuoYi/\n",
-  "aliases": "CVE-2026-132286\n",
+  "aliases": "CVE-2026-132286\nGHSA-w2j7-8v4f-6vq2\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

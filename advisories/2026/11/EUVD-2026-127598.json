@@ -10,7 +10,7 @@
   "references": "https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop_01699533288.html\nhttps://issues.chromium.org/issues/574789298\n",
   "aliases": "GHSA-mx52-v6j6-x32j\nCVE-2026-131068\n",
   "assigner": "Chrome",
-  "epss": 0.0,
+  "epss": 0.25,
   "enisaIdProduct": [
     {
       "id": "6030156f-7c19-3897-8489-a098e733699b",

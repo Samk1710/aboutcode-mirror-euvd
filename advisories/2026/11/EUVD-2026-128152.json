@@ -10,7 +10,7 @@
   "references": "https://www.oracle.com/security-alerts/cspunov2026.html\n",
   "aliases": "GHSA-rg2q-x2hp-vpmx\nCVE-2026-91560\n",
   "assigner": "oracle",
-  "epss": 0.0,
+  "epss": 0.28,
   "enisaIdProduct": [
     {
       "id": "1c899b3a-1b39-3384-a2a5-688617d1a63a",

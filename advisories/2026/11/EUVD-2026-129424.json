@@ -3,7 +3,7 @@
   "enisaUuid": "55218110-20da-3e2c-8561-b6ece8202335",
   "description": "Deco BE65 firmware contains a cryptographic weakness in the local web-management authentication flow due to the use of insufficient RSA key sizes. The /login?form=auth endpoint returns a 512-bit RSA public key and sequence value.\u00a0\n\nSuccessful exploitation may compromise the cryptographic protections applied to local web-management authentication traffic.",
   "datePublished": "Nov 18, 2026, 11:51:16 PM",
-  "dateUpdated": "Nov 18, 2026, 11:51:16 PM",
+  "dateUpdated": "Nov 19, 2026, 4:47:59 PM",
   "baseScore": 6.1,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:L/AT:P/PR:N/UI:N/VC:H/VI:L/VA:L/SC:N/SI:N/SA:N",

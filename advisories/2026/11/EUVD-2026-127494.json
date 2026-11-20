@@ -10,7 +10,7 @@
   "references": "https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop_01699533288.html\nhttps://issues.chromium.org/issues/474737096\n",
   "aliases": "GHSA-9vw8-r5vw-jgmm\nCVE-2026-130939\n",
   "assigner": "Chrome",
-  "epss": 0.0,
+  "epss": 0.22,
   "enisaIdProduct": [
     {
       "id": "a5d8093b-24c7-3b8d-9644-5d9885598448",

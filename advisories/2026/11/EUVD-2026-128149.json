@@ -10,7 +10,7 @@
   "references": "https://www.oracle.com/security-alerts/cspunov2026.html\n",
   "aliases": "GHSA-xh72-fhq5-ccgp\nCVE-2026-91551\n",
   "assigner": "oracle",
-  "epss": 0.0,
+  "epss": 0.42,
   "enisaIdProduct": [
     {
       "id": "83e1c0c6-bc7c-34f2-8753-9c1fbbd2515f",

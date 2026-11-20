@@ -3,7 +3,7 @@
   "enisaUuid": "882a50f2-fe0f-3ddc-9020-8d7821ad0107",
   "description": "GPAC MP4Box through 26.07.0 contains a use-after-free vulnerability in gf_node_try_destroy because Conditional node commands keep raw pointers to target nodes freed by gf_sg_reset(). Attackers can supply a crafted XMT scene processed with -info or -add to trigger heap use-after-free, crashing the process and corrupting heap memory.",
   "datePublished": "Nov 18, 2026, 11:12:54 PM",
-  "dateUpdated": "Nov 18, 2026, 11:12:54 PM",
+  "dateUpdated": "Nov 19, 2026, 7:13:57 PM",
   "baseScore": 6.9,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N",

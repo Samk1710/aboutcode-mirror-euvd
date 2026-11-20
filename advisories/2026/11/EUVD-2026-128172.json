@@ -10,7 +10,7 @@
   "references": "https://www.oracle.com/security-alerts/cspunov2026.html\n",
   "aliases": "GHSA-cpgc-782x-h85f\nCVE-2026-91666\n",
   "assigner": "oracle",
-  "epss": 0.0,
+  "epss": 0.26,
   "enisaIdProduct": [
     {
       "id": "0a2967fa-04e9-3f1e-bf84-b1e63fea3265",

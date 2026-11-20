@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/439746\nhttps://vuldb.com/vuln/439746/cti\nhttps://vuldb.com/cve/CVE-2026-132611\nhttps://vuldb.com/submit/1045192\nhttps://github.com/wsx138/cve/issues/10\nhttps://www.sourcecodester.com/\n",
-  "aliases": "CVE-2026-132611\n",
+  "aliases": "CVE-2026-132611\nGHSA-gvw6-82vj-cf5r\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

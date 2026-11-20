@@ -10,7 +10,7 @@
   "references": "https://www.oracle.com/security-alerts/cspunov2026.html\n",
   "aliases": "GHSA-vrqh-wpm7-28q9\nCVE-2026-91675\n",
   "assigner": "oracle",
-  "epss": 0.0,
+  "epss": 0.26,
   "enisaIdProduct": [
     {
       "id": "2a4cff87-3df4-3a96-a7e2-14818b8dbe2a",

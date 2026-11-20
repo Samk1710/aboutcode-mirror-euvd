@@ -3,7 +3,7 @@
   "enisaUuid": "7b5ad5ee-2e91-3e91-bd8e-2fbdb9a1e61d",
   "description": "The Deco BE65 v3 firmware contains a shared hard-coded password hash for the root account in /etc/shadow. Where the corresponding credential is accepted by a production authentication path, an attacker with existing unprivileged shell access may recover or otherwise obtain the plaintext password and use it to escalate privileges.\u00a0\n\nSuccessful exploitation may grant root-level access to the affected device.",
   "datePublished": "Nov 18, 2026, 11:36:00 PM",
-  "dateUpdated": "Nov 18, 2026, 11:36:00 PM",
+  "dateUpdated": "Nov 19, 2026, 4:49:43 PM",
   "baseScore": 6.9,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:P/AC:L/AT:P/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:L/SA:N",

@@ -10,7 +10,7 @@
   "references": "https://www.oracle.com/security-alerts/cspunov2026.html\n",
   "aliases": "CVE-2026-91620\nGHSA-9jf5-g8h3-fvvx\n",
   "assigner": "oracle",
-  "epss": 0.0,
+  "epss": 0.25,
   "enisaIdProduct": [
     {
       "id": "9df86a6a-113e-389e-ac1b-0c3c451ec2bf",

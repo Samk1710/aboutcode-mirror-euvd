@@ -3,7 +3,7 @@
   "enisaUuid": "51243c76-7b26-3f1f-8a6e-efe8e5d7ad57",
   "description": "GPAC before 26.07.0 contains a use-after-free vulnerability in the XMT loader that leaves ROUTE commands of a discarded node queued after being freed by gf_sg_command_del(). Attackers can supply a crafted XMT scene file imported with MP4Box so xmt_resolve_routes() writes to freed memory, corrupting the heap and crashing the process.",
   "datePublished": "Nov 18, 2026, 11:12:55 PM",
-  "dateUpdated": "Nov 18, 2026, 11:12:55 PM",
+  "dateUpdated": "Nov 19, 2026, 3:55:45 PM",
   "baseScore": 6.9,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N",

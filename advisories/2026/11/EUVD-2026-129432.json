@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:A",
   "references": "https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2026/MNDT-2026-0048.md\nhttps://codeplexarchive.org/project/AntiCSRF\n",
-  "aliases": "CVE-2026-131914\n",
+  "aliases": "GHSA-pj2m-2r8v-h9cp\nCVE-2026-131914\n",
   "assigner": "Mandiant",
   "epss": 0.0,
   "enisaIdProduct": [
