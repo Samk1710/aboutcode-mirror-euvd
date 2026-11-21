@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/440667\nhttps://vuldb.com/vuln/440667/cti\nhttps://vuldb.com/cve/CVE-2026-133415\nhttps://vuldb.com/submit/1048392\nhttps://github.com/To-LingJing/CVE-Issues/issues/4\n",
-  "aliases": "CVE-2026-133415\n",
+  "aliases": "CVE-2026-133415\nGHSA-rgrm-h24m-qfxj\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

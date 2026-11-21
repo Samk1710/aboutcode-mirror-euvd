@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:N/VI:L/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/gkostka/lwext4/issues/93\nhttps://github.com/gkostka/lwext4/pull/111\nhttps://github.com/gkostka/lwext4/commit/b9c842f168e6044bd03fe34e1237eda33c299908\nhttps://github.com/Aladdin-R-D/lwext4/commit/2f5714d42f729fbdf3e65fd24d57149619fa1f33\nhttps://github.com/gkostka/lwext4/blob/v1.0.0/src/ext4_fs.c#L401-L405\nhttps://github.com/gkostka/lwext4\nhttps://www.vulncheck.com/advisories/lwext4-through-1.0.0-heap-buffer-overflow-via-ext4-fs-init-inode-bitmap\n",
-  "aliases": "CVE-2025-71473\n",
+  "aliases": "GHSA-q7cc-h884-47h4\nCVE-2025-71473\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [
