@@ -10,7 +10,7 @@
   "references": "https://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-f732-866c-g3hc\nhttps://github.com/LabRedesCefetRJ/WeGIA/pull/1705\nhttps://github.com/LabRedesCefetRJ/WeGIA/commit/f819be361f984592c4b5a35db830495b4e2263fa\n",
   "aliases": "CVE-2026-61676\n",
   "assigner": "GitHub_M",
-  "epss": 0.38,
+  "epss": 0.47,
   "enisaIdProduct": [
     {
       "id": "753db4a3-bf2e-350f-8f45-d33bc9a003b2",

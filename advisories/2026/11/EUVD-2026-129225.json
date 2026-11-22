@@ -10,7 +10,7 @@
   "references": "https://github.com/dharmstm/PHP-GuruKul/blob/main/NVP-011-Unrestricted-File-Upload.pdf\n",
   "aliases": "CVE-2026-128668\nGHSA-xg4p-5r4c-xqfp\n",
   "assigner": "mitre",
-  "epss": 0.3,
+  "epss": 0.66,
   "enisaIdProduct": [
     {
       "id": "7f023a10-2ca6-30c1-a1c5-9c303041a39b",

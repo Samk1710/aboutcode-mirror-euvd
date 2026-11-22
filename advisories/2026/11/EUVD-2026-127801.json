@@ -10,7 +10,7 @@
   "references": "https://github.com/xwiki/xwiki-platform/security/advisories/GHSA-jmmc-wjpc-pg34\nhttps://github.com/xwiki/xwiki-platform/commit/4d6a2cd9cd049d0c31823ce47bff0a95667967e3\nhttps://github.com/xwiki/xwiki-platform/commit/62b034daceead8e292244d6c9e651c0ee8b1354c\nhttps://github.com/xwiki/xwiki-platform/commit/ae540bc3def0d4a30210eb9bead4e559984b4462\nhttps://github.com/xwiki/xwiki-platform/commit/b63d383f2e2a41826c21a76d678b9b0e1ab0ce52\nhttps://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-16.10.18\nhttps://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-17.10.5\nhttps://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-18.2.0\n",
   "aliases": "GHSA-jmmc-wjpc-pg34\nCVE-2026-61689\n",
   "assigner": "GitHub_M",
-  "epss": 0.53,
+  "epss": 0.8,
   "enisaIdProduct": [
     {
       "id": "41d51db4-56ff-3778-be88-78613d7c1236",

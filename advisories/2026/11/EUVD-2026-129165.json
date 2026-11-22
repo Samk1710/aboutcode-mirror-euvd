@@ -10,7 +10,7 @@
   "references": "https://github.com/dharmstm/PHP-GuruKul/blob/main/ELMS-003-Database-Backup-Disclosure.pdf\n",
   "aliases": "CVE-2026-128662\nGHSA-m45f-h6q2-g29w\n",
   "assigner": "mitre",
-  "epss": 0.2,
+  "epss": 0.5,
   "enisaIdProduct": [
     {
       "id": "a8c33c6d-5a9c-3ce9-9144-ebd3467f2112",

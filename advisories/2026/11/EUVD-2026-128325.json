@@ -10,7 +10,7 @@
   "references": "https://github.com/Ettercap/ettercap/security/advisories/GHSA-vphc-c3r7-3mh7\nhttps://github.com/Ettercap/ettercap/commit/63d1a8498472cb37f76e12ac49e8c09531933e7b\nhttps://github.com/Ettercap/ettercap/blob/v0.8.5.1/src/dissectors/ec_vnc.c#L160-L192\nhttps://www.vulncheck.com/advisories/ettercap-through-0.8.5.1-heap-out-of-bounds-read-via-vnc-dissector\n",
   "aliases": "GHSA-6x87-3h5x-mc29\nCVE-2026-131855\n",
   "assigner": "VulnCheck",
-  "epss": 0.22,
+  "epss": 0.4,
   "enisaIdProduct": [
     {
       "id": "16aaab7f-ee2e-3856-8daa-a339565ed399",

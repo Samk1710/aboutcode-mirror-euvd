@@ -10,7 +10,7 @@
   "references": "https://github.com/postfixadmin/postfixadmin/releases/tag/v4.0.7\nhttps://github.com/postfixadmin/postfixadmin/releases/tag/postfixadmin-3.3.17\n",
   "aliases": "GHSA-33cc-5567-34vw\nCVE-2026-127178\n",
   "assigner": "suse",
-  "epss": 0.32,
+  "epss": 0.35,
   "enisaIdProduct": [
     {
       "id": "45ca6612-f9f5-3b15-ab71-6fdff1d56639",
