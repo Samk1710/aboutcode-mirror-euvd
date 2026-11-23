@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:L/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/gpac/gpac/issues/3901\nhttps://github.com/gpac/gpac/commit/2a94e8935720ed36b9ebcf9db0c0a1fd888890a4\nhttps://github.com/gpac/gpac/blob/v26.07.0/src/media_tools/avilib.c#L2048-L2058\nhttps://github.com/gpac/gpac/blob/v26.07.0/src/media_tools/avilib.c#L1777-L1790\nhttps://github.com/sigdevel/pocs/blob/main/res/gpac/MP4Box/214/214_AVI_close_media_tools_avilib_c_1782.avi\nhttps://www.vulncheck.com/advisories/gpac-mp4box-through-26.07.0-out-of-bounds-read-in-avilib-via-avi-audio-tracks\n",
-  "aliases": "CVE-2026-134695\n",
+  "aliases": "CVE-2026-134695\nGHSA-5536-7f78-6gjq\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

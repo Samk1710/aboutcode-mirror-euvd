@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/gpac/gpac/issues/3792\nhttps://github.com/gpac/gpac/commit/3e535640b48ed3218e74929cbf3e42250fce3ddf\nhttps://github.com/gpac/gpac/blob/v26.07.0/src/scene_manager/loader_xmt.c#L1598-L1642\nhttps://github.com/sigdevel/pocs/blob/main/res/gpac/MP4Box/185/185_xmt_remove_od_links_recursive_scene_manager_loader_xmt_c_1599.xmt\nhttps://www.vulncheck.com/advisories/gpac-mp4box-through-26.07.0-uncontrolled-recursion-via-xmt-remove-od-links-recursive\n",
-  "aliases": "CVE-2026-134683\n",
+  "aliases": "CVE-2026-134683\nGHSA-2c8v-q6hh-9jm4\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

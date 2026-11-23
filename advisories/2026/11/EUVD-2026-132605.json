@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/freedit-org/freedit/issues/464\nhttps://github.com/freedit-org/freedit/commit/73cfd8b45717b4db6972cfc6d60aef2093fcd558\nhttps://github.com/freedit-org/freedit/releases/tag/v0.9.9\nhttps://github.com/freedit-org/freedit/blob/v0.9.8/src/controller/inn.rs#L680-L760\nhttps://www.vulncheck.com/advisories/freedit-before-0.9.9-authorization-bypass-in-post-editing-via-private-inn\n",
-  "aliases": "CVE-2026-134678\n",
+  "aliases": "CVE-2026-134678\nGHSA-4674-j82p-f9cp\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

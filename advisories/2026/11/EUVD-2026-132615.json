@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/gpac/gpac/issues/3782\nhttps://github.com/gpac/gpac/issues/3781\nhttps://github.com/gpac/gpac/issues/3789\nhttps://github.com/gpac/gpac/issues/3790\nhttps://github.com/gpac/gpac/commit/5e620eff3bea16972dd948b2a153e416ffb1c81d\nhttps://github.com/gpac/gpac/commit/3e535640b48ed3218e74929cbf3e42250fce3ddf\nhttps://github.com/gpac/gpac/blob/v26.07.0/src/scene_manager/loader_xmt.c#L3193-L3197\nhttps://github.com/gpac/gpac/blob/v26.07.0/src/scene_manager/loader_xmt.c#L2522-L2526\nhttps://github.com/sigdevel/pocs/blob/main/res/gpac/MP4Box/173/173_xmt_parse_command_scene_manager_loader_xmt_c_2525.xmt\nhttps://github.com/sigdevel/pocs/blob/main/res/gpac/MP4Box/182/182_xmt_node_start_scene_manager_loader_xmt_c_2770.xmt\nhttps://github.com/gpac/gpac/issues/3775\nhttps://github.com/gpac/gpac/blob/v26.07.0/src/scene_manager/loader_xmt.c#L3446-L3458\nhttps://github.com/sigdevel/pocs/blob/main/res/gpac/MP4Box/165/165_load_xmt_run_scene_manager_loader_xmt_c_3449.xmt\nhttps://www.vulncheck.com/advisories/gpac-mp4box-through-26.07.0-use-after-free-in-xmt-loader\n",
-  "aliases": "CVE-2026-134668\n",
+  "aliases": "CVE-2026-134668\nGHSA-94fr-8m79-5mqf\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

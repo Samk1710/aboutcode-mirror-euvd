@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/441692\nhttps://vuldb.com/vuln/441692/cti\nhttps://vuldb.com/cve/CVE-2026-134568\nhttps://vuldb.com/submit/1053566\nhttps://github.com/ZacheryZ/submit/issues/3\nhttps://itsourcecode.com/\n",
-  "aliases": "CVE-2026-134568\n",
+  "aliases": "GHSA-2gff-98ww-7278\nCVE-2026-134568\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

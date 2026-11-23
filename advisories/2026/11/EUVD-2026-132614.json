@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:L/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/gpac/gpac/issues/3780\nhttps://github.com/gpac/gpac/commit/5e620eff3bea16972dd948b2a153e416ffb1c81d\nhttps://github.com/gpac/gpac/blob/v26.07.0/src/utils/xml_parser.c#L1594-L1598\nhttps://github.com/sigdevel/pocs/blob/main/res/gpac/MP4Box/171/171_gf_xml_sax_peek_node_utils_xml_parser_c_1596.xmt\nhttps://www.vulncheck.com/advisories/gpac-mp4box-through-26.07.0-heap-buffer-over-read-in-gf-xml-sax-peek-node\n",
-  "aliases": "CVE-2026-134669\n",
+  "aliases": "CVE-2026-134669\nGHSA-9pwr-jfjp-c57w\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

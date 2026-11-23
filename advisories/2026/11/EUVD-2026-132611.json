@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/gpac/gpac/issues/3772\nhttps://github.com/gpac/gpac/commit/5e620eff3bea16972dd948b2a153e416ffb1c81d\nhttps://github.com/gpac/gpac/blob/v26.07.0/src/scene_manager/loader_xmt.c#L1544-L1595\nhttps://github.com/sigdevel/pocs/blob/main/res/gpac/MP4Box/162/162_xmt_discard_subtree_scene_manager_loader_xmt_c_1544.xmt\nhttps://www.vulncheck.com/advisories/gpac-mp4box-through-26.07.0-uncontrolled-recursion-via-xmt-discard-subtree\n",
-  "aliases": "CVE-2026-134672\n",
+  "aliases": "CVE-2026-134672\nGHSA-5mjx-9rx8-rmq8\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

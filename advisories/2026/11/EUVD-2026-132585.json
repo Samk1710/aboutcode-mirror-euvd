@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/gpac/gpac/issues/3884\nhttps://github.com/gpac/gpac/commit/a448d241f7f6194e59cb2e046dcc1afd328bd31f\nhttps://github.com/gpac/gpac/blob/v26.07.0/src/filters/load_bt_xmt.c#L640-L649\nhttps://github.com/sigdevel/pocs/blob/main/res/gpac/MP4Box/212/212_gf_list_get_utils_list_c_670\nhttps://www.vulncheck.com/advisories/gpac-mp4box-through-26.07.0-type-confusion-in-ctxload-process-via-xmt-odupdate\n",
-  "aliases": "CVE-2026-134698\n",
+  "aliases": "GHSA-pxq4-rfwh-2p3x\nCVE-2026-134698\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

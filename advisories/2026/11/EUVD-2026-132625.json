@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:L/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/free5gc/free5gc/issues/1180\nhttps://github.com/free5gc/smf/commit/572d3bd6483db9a749d415bbe04abd855f4917d4\nhttps://github.com/free5gc/smf/blob/v1.4.6/internal/sbi/processor/pdu_session.go\nhttps://www.vulncheck.com/advisories/free5gc-smf-through-1.4.6-orphaned-chf-charging-sessions-via-handlepdusessionsmcontextcreate\n",
-  "aliases": "CVE-2026-134658\n",
+  "aliases": "CVE-2026-134658\nGHSA-pc4x-qwm9-w5gp\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

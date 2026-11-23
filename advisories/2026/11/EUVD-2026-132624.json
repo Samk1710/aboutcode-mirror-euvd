@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:L/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/openairinterface/oai-cn5g-amf/issues/18\nhttps://github.com/openairinterface/oai-cn5g-amf/commit/16b3467a0cafdea915f8b6d4b6c307231ff74271\nhttps://github.com/openairinterface/oai-cn5g-amf/releases/tag/v2.2.2\nhttps://github.com/openairinterface/oai-cn5g-amf/blob/v2.2.1/src/amf-app/amf_sbi.cpp\nhttps://www.vulncheck.com/advisories/openairinterface-cn5g-amf-before-2.2.2-stale-pdu-session-contexts-via-smf-selection-failure\n",
-  "aliases": "CVE-2026-134659\n",
+  "aliases": "GHSA-94f7-qrgg-hqqh\nCVE-2026-134659\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

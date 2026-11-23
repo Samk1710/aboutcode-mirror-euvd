@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/441691\nhttps://vuldb.com/vuln/441691/cti\nhttps://vuldb.com/cve/CVE-2026-134567\nhttps://vuldb.com/submit/1053564\nhttps://github.com/ZacheryZ/submit/issues/2\nhttps://itsourcecode.com/\n",
-  "aliases": "CVE-2026-134567\n",
+  "aliases": "CVE-2026-134567\nGHSA-6gv2-2g66-76x3\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

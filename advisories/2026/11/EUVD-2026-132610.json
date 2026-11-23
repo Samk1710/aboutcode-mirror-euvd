@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/gpac/gpac/issues/3771\nhttps://github.com/gpac/gpac/commit/5e620eff3bea16972dd948b2a153e416ffb1c81d\nhttps://github.com/gpac/gpac/blob/v26.07.0/src/scene_manager/loader_xmt.c#L581-L597\nhttps://github.com/sigdevel/pocs/blob/main/res/gpac/MP4Box/161/161_xmt_resolve_od_links_scene_manager_loader_xmt_c_589.xmt\nhttps://www.vulncheck.com/advisories/gpac-mp4box-through-26.07.0-use-after-free-in-xmt-resolve-od-links-via-stale-url-segment-pointer\n",
-  "aliases": "CVE-2026-134673\n",
+  "aliases": "CVE-2026-134673\nGHSA-jcvq-7v9j-623h\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

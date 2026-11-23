@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:L/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N",
   "references": "https://github.com/open5gs/open5gs/security/advisories/GHSA-855g-699w-9w28\nhttps://github.com/open5gs/open5gs/blob/v2.8.0/src/amf/amf-sm.c\nhttps://www.vulncheck.com/advisories/open5gs-amf-through-2.8.0-orphaned-smf-sessions-via-create-sm-context-response\n",
-  "aliases": "CVE-2026-134655\n",
+  "aliases": "CVE-2026-134655\nGHSA-244h-9gf9-2673\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

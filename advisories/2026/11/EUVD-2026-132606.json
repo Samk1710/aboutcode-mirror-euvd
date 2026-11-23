@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/gpac/gpac/issues/3832\nhttps://github.com/gpac/gpac/commit/f6e7fdaab515a4e70094f6cf3068ddac20edf7c5\nhttps://github.com/gpac/gpac/blob/v26.07.0/src/scene_manager/loader_xmt.c#L578-L587\nhttps://github.com/gpac/gpac/blob/v26.07.0/src/scene_manager/loader_xmt.c#L3193-L3197\nhttps://github.com/sigdevel/pocs/blob/main/res/gpac/MP4Box/186/186_xmt_resolve_od_links_scene_manager_loader_xmt_c_585\nhttps://www.vulncheck.com/advisories/gpac-mp4box-through-26.07.0-use-after-free-in-xmt-resolve-od-links-via-discarded-out-of-scope-node\n",
-  "aliases": "CVE-2026-134677\n",
+  "aliases": "GHSA-99vj-jgq5-25jr\nCVE-2026-134677\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/hieunc229/mailflare/security/advisories/GHSA-f3p5-jm88-58h3\nhttps://github.com/hieunc229/mailflare/commit/48957fbd6a2d29432fe675a1c7cccbce069f5a6e\nhttps://github.com/hieunc229/mailflare/blob/7c58b034b5cdcfef56810c310e6854652c04ff04/src/app/api/auth/password-reset/request/route.ts#L35\nhttps://www.vulncheck.com/advisories/mailflare-before-48957fb-host-header-injection-in-password-reset\n",
-  "aliases": "CVE-2026-134654\n",
+  "aliases": "CVE-2026-134654\nGHSA-g73v-c7q3-v8c9\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:L/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N/E:X",
   "references": "https://vuldb.com/vuln/441689\nhttps://vuldb.com/vuln/441689/cti\nhttps://vuldb.com/cve/CVE-2026-134560\nhttps://vuldb.com/submit/1053562\nhttps://github.com/twogood/unshield/pull/238\nhttps://github.com/twogood/unshield/\n",
-  "aliases": "CVE-2026-134560\n",
+  "aliases": "CVE-2026-134560\nGHSA-6hwf-p4g8-fqch\n",
   "assigner": "VulDB",
   "epss": 0.0,
   "enisaIdProduct": [

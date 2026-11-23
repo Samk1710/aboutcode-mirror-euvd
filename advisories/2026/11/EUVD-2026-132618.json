@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/gpac/gpac/issues/3786\nhttps://github.com/gpac/gpac/commit/3e535640b48ed3218e74929cbf3e42250fce3ddf\nhttps://github.com/gpac/gpac/blob/v26.07.0/src/scene_manager/loader_xmt.c#L2081-L2084\nhttps://github.com/gpac/gpac/blob/v26.07.0/src/scenegraph/base_scenegraph.c#L1336-L1340\nhttps://github.com/sigdevel/pocs/blob/main/res/gpac/MP4Box/178/178_gf_node_get_name_scenegraph_base_scenegraph_c_1340.xmt\nhttps://www.vulncheck.com/advisories/gpac-mp4box-through-26.07.0-use-after-free-in-gf-node-get-name-via-xmt-parser\n",
-  "aliases": "CVE-2026-134665\n",
+  "aliases": "CVE-2026-134665\nGHSA-cqq5-hmhr-ph9j\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [

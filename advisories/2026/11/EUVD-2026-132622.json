@@ -8,7 +8,7 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/gpac/gpac/issues/3769\nhttps://github.com/gpac/gpac/commit/5e620eff3bea16972dd948b2a153e416ffb1c81d\nhttps://github.com/gpac/gpac/blob/v26.07.0/src/odf/descriptors.c#L426-L431\nhttps://github.com/gpac/gpac/blob/v26.07.0/src/filters/load_bt_xmt.c#L691-L694\nhttps://github.com/sigdevel/pocs/blob/main/res/gpac/MP4Box/158/158_gf_odf_encode_ui_config_odf_descriptors_c_431.xmt\nhttps://www.vulncheck.com/advisories/gpac-mp4box-through-26.07.0-null-pointer-dereference-in-gf-odf-encode-ui-config\n",
-  "aliases": "CVE-2026-134661\n",
+  "aliases": "CVE-2026-134661\nGHSA-7486-32m4-5v2c\n",
   "assigner": "VulnCheck",
   "epss": 0.0,
   "enisaIdProduct": [
