@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:100509\nhttps://access.redhat.com/errata/RHSA-2026:100510\nhttps://access.redhat.com/errata/RHSA-2026:102183\nhttps://access.redhat.com/security/cve/CVE-2026-71221\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2511396\n",
   "aliases": "GHSA-6q6f-22jw-g823\nCVE-2026-71221\n",
   "assigner": "redhat",
-  "epss": 0.15,
+  "epss": 0.18,
   "enisaIdProduct": [
     {
       "id": "35782f63-8da6-38f7-8bb7-b6a998b01a13",

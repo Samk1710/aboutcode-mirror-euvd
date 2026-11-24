@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N/E:X",
   "references": "https://vuldb.com/vuln/442091\nhttps://vuldb.com/vuln/442091/cti\nhttps://vuldb.com/cve/CVE-2026-134735\nhttps://vuldb.com/submit/1053792\nhttps://github.com/bagisto/bagisto/releases/tag/v2.4.13\n",
-  "aliases": "CVE-2026-134735\n",
+  "aliases": "GHSA-8wwm-3w3g-rg9x\nCVE-2026-134735\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.21,
   "enisaIdProduct": [
     {
       "id": "0acb9384-66f2-312c-8110-1a5463627896",

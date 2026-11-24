@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:100509\nhttps://access.redhat.com/errata/RHSA-2026:100510\nhttps://access.redhat.com/errata/RHSA-2026:102183\nhttps://access.redhat.com/security/cve/CVE-2026-71220\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2511398\n",
   "aliases": "GHSA-959m-jjvx-c559\nCVE-2026-71220\n",
   "assigner": "redhat",
-  "epss": 0.15,
+  "epss": 0.18,
   "enisaIdProduct": [
     {
       "id": "3ab48cac-1fa9-3693-9d0e-aa105963a104",

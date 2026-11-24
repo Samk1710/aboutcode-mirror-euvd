@@ -3,14 +3,14 @@
   "enisaUuid": "6561992a-85d4-3f3b-ad2c-9c6ee8c35c6b",
   "description": "A security vulnerability has been detected in Open Asset Import Library Assimp up to 6.0.6. The impacted element is the function Assimp::JoinVerticesProcess::ProcessMesh of the file code/PostProcessing/JoinVerticesProcess.cpp of the component PostProcessing JoinVerticesProcess. Such manipulation leads to out-of-bounds write. It is possible to launch the attack remotely. The exploit has been disclosed publicly and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
   "datePublished": "Nov 23, 2026, 12:45:42 AM",
-  "dateUpdated": "Nov 23, 2026, 12:45:42 AM",
+  "dateUpdated": "Nov 23, 2026, 4:31:27 PM",
   "baseScore": 5.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/442131\nhttps://vuldb.com/vuln/442131/cti\nhttps://vuldb.com/cve/CVE-2026-134780\nhttps://vuldb.com/submit/1053804\nhttps://github.com/PassMoon/CVE-application/tree/main/assimp-4-joinvertices-oob-write\n",
-  "aliases": "CVE-2026-134780\n",
+  "aliases": "CVE-2026-134780\nGHSA-mw49-4qff-982h\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.36,
   "enisaIdProduct": [
     {
       "id": "377e924f-522c-30dc-8443-cad7551ce1fe",

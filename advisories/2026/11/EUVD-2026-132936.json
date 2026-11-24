@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/442133\nhttps://vuldb.com/vuln/442133/cti\nhttps://vuldb.com/cve/CVE-2026-134782\nhttps://vuldb.com/submit/1053806\nhttps://github.com/PassMoon/CVE-application/tree/main/assimp-6-colladaloader-785\nhttps://github.com/assimp/assimp/pull/6922\n",
-  "aliases": "CVE-2026-134782\n",
+  "aliases": "CVE-2026-134782\nGHSA-x259-5425-7fcp\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.41,
   "enisaIdProduct": [
     {
       "id": "04e87c37-593d-381c-8350-d81d94fa0d3a",
