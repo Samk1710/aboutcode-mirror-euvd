@@ -10,7 +10,7 @@
   "references": "https://github.com/rconfig/rconfig/security/advisories/GHSA-5j22-4wg3-pxvh\nhttps://github.com/rconfig/rconfig/commit/17edf038c0c46cf685394f72a1ebe2568b1467e6\nhttps://github.com/rconfig/rconfig/releases/tag/core-8.2.13\nhttps://www.vulncheck.com/advisories/rconfig-core-8.0.0-before-8.2.13-and-pro-before-8.4.0-authorization-bypass-via-users-api\n",
   "aliases": "GHSA-r9vw-7f22-f7fp\nCVE-2026-135695\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.52,
   "enisaIdProduct": [
     {
       "id": "1cb602a7-894f-3b73-8bba-df8f1660bce1",

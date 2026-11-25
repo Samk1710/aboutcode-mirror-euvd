@@ -10,7 +10,7 @@
   "references": "https://github.com/TriliumNext/Trilium/commit/4ec30088fce936f2e87c0af6af3f89c47d331176\nhttps://github.com/TriliumNext/Trilium\nhttps://github.com/TriliumNext/Trilium/blob/v0.107.0/packages/trilium-core/src/services/sync_update.ts#L107\nhttps://www.vulncheck.com/advisories/trilium-through-0.107.0-sql-injection-via-sync-update-entity-name\n",
   "aliases": "CVE-2026-135686\nGHSA-qr54-743q-fpq8\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.45,
   "enisaIdProduct": [
     {
       "id": "c0727042-4440-38b1-9c82-1fc864ed712e",

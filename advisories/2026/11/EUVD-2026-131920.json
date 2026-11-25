@@ -10,7 +10,7 @@
   "references": "https://support.apple.com/en-us/149521\nhttps://support.apple.com/en-us/149522\nhttps://support.apple.com/en-us/149523\n",
   "aliases": "GHSA-9h87-q7x2-f8f3\nCVE-2026-114023\n",
   "assigner": "apple",
-  "epss": 0.31,
+  "epss": 0.65,
   "enisaIdProduct": [
     {
       "id": "1eadde11-c54c-3f51-a5a5-a2d3808541e9",

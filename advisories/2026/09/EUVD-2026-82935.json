@@ -3,14 +3,14 @@
   "enisaUuid": "501e57fa-3d85-3be7-bac7-5113bf8df3fd",
   "description": "A flaw was found in Netty. A remote attacker could exploit this by sending a specially crafted HTTP request that includes control characters within the chunk-size line. This bypasses the intended strict validation, allowing the attacker to inject arbitrary HTTP requests. This vulnerability can lead to HTTP request smuggling, potentially resulting in information disclosure or other unauthorized actions.",
   "datePublished": "Sep 18, 2026, 2:19:29 PM",
-  "dateUpdated": "Nov 23, 2026, 12:14:34 PM",
+  "dateUpdated": "Nov 24, 2026, 11:51:32 PM",
   "baseScore": 6.5,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N",
-  "references": "https://access.redhat.com/errata/RHSA-2026:102288\nhttps://access.redhat.com/errata/RHSA-2026:69440\nhttps://access.redhat.com/errata/RHSA-2026:69470\nhttps://access.redhat.com/errata/RHSA-2026:83612\nhttps://access.redhat.com/errata/RHSA-2026:95759\nhttps://access.redhat.com/errata/RHSA-2026:95760\nhttps://access.redhat.com/errata/RHSA-2026:95761\nhttps://access.redhat.com/errata/RHSA-2026:95762\nhttps://access.redhat.com/security/cve/CVE-2026-93566\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2536954\n",
+  "references": "https://access.redhat.com/errata/RHSA-2026:102288\nhttps://access.redhat.com/errata/RHSA-2026:102699\nhttps://access.redhat.com/errata/RHSA-2026:69440\nhttps://access.redhat.com/errata/RHSA-2026:69470\nhttps://access.redhat.com/errata/RHSA-2026:83612\nhttps://access.redhat.com/errata/RHSA-2026:95759\nhttps://access.redhat.com/errata/RHSA-2026:95760\nhttps://access.redhat.com/errata/RHSA-2026:95761\nhttps://access.redhat.com/errata/RHSA-2026:95762\nhttps://access.redhat.com/errata/RHSA-2026:95887\nhttps://access.redhat.com/security/cve/CVE-2026-93566\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2536954\n",
   "aliases": "CVE-2026-93566\nGHSA-9mrj-55p4-qwf4\n",
   "assigner": "redhat",
-  "epss": 0.56,
+  "epss": 0.58,
   "enisaIdProduct": [
     {
       "id": "1b16f3f6-c33f-314a-a9dd-3fdd341d0fe7",
@@ -23,6 +23,16 @@
       "product_version": "patch: 26.6-24"
     },
     {
+      "id": "1e4bd4b1-826b-3c39-af82-8360f3e098cb",
+      "product": {
+        "name": "RHEL-9 based Middleware Containers",
+        "vendor": {
+          "name": "Red Hat"
+        }
+      },
+      "product_version": "patch: 3.3.4-4"
+    },
+    {
       "id": "1f5047a1-7f80-38ad-9555-8b83e90f4392",
       "product": {
         "name": "Red Hat build of Keycloak 26.6",
@@ -31,6 +41,26 @@
         }
       },
       "product_version": "patch: 26.6.8-2"
+    },
+    {
+      "id": "6fd3f4c3-898b-3c5b-b805-6860185b9de3",
+      "product": {
+        "name": "Red Hat JBoss Enterprise Application Platform 8.1.9.GA",
+        "vendor": {
+          "name": "Red Hat"
+        }
+      },
+      "product_version": "patch: 4.1.138.Final-redhat-00001"
+    },
+    {
+      "id": "bdef800b-ab0d-3f5b-8b71-9f02e2b80642",
+      "product": {
+        "name": "RHEL-9 based Middleware Containers",
+        "vendor": {
+          "name": "Red Hat"
+        }
+      },
+      "product_version": "patch: 3.3.4.r1-5"
     },
     {
       "id": "c07cc487-4eec-3f75-ac21-052842b439a9",
@@ -51,6 +81,16 @@
         }
       },
       "product_version": "patch: 26.4-29"
+    },
+    {
+      "id": "e7c7fcbe-7dd0-361a-a8b3-90ff5bf53706",
+      "product": {
+        "name": "RHEL-9 based Middleware Containers",
+        "vendor": {
+          "name": "Red Hat"
+        }
+      },
+      "product_version": "patch: 3.3.4-5"
     },
     {
       "id": "f5a814bd-1c4b-31d0-9aaa-8da9936fad27",

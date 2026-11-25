@@ -10,7 +10,7 @@
   "references": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-3c7g-v5hv-wwv4\nhttps://github.com/Significant-Gravitas/AutoGPT/pull/15926\nhttps://github.com/Significant-Gravitas/AutoGPT/commit/84e023806d7bc80694878e848e32af389c00ff29\n",
   "aliases": "CVE-2026-130178\n",
   "assigner": "GitHub_M",
-  "epss": 0.0,
+  "epss": 0.5,
   "enisaIdProduct": [
     {
       "id": "659b0ac6-2f56-3456-827a-95f61771786c",

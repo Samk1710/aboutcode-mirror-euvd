@@ -6,9 +6,9 @@
   "dateUpdated": "Nov 24, 2026, 6:00:07 AM",
   "baseScore": 0.0,
   "references": "https://wpscan.com/vulnerability/89c1bf4a-3f94-4405-804e-cf1142d132a8/\n",
-  "aliases": "CVE-2026-127026\n",
+  "aliases": "GHSA-hrvj-769c-7hv5\nCVE-2026-127026\n",
   "assigner": "WPScan",
-  "epss": 0.0,
+  "epss": 0.2,
   "enisaIdProduct": [
     {
       "id": "2d9a6a1d-f670-301e-9fd4-2ae77d16df0e",

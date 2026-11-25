@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:A/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/tobychui/zoraxy/releases#release-v3.3.5-rc2\nhttps://jvn.jp/en/jp/JVN84156789/\n",
-  "aliases": "CVE-2026-129544\n",
+  "aliases": "GHSA-2mhr-8jh9-h5vm\nCVE-2026-129544\n",
   "assigner": "jpcert",
-  "epss": 0.0,
+  "epss": 0.37,
   "enisaIdProduct": [
     {
       "id": "c9daa30d-c9f5-3cbe-afc2-763ab4f2feb5",

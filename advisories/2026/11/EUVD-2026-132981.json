@@ -3,14 +3,14 @@
   "enisaUuid": "538c0c7e-7ce0-3be9-88f9-ba35ff82c903",
   "description": "An unauthenticated stored and reflected cross-site scripting (XSS) vulnerability in the embedded web interface of Frontier Smart Technologies Venice X FS2340 running IR4.9 allows a network attacker with access to the interface to inject attacker-controlled JavaScript that may execute in the browser of a user accessing affected content.\n\n\n\nSuccessful exploitation may allow the attacker to access information available within the browser's security context or perform actions through the affected web interface with the privileges of the affected user.\n\n\n\nDuring authorized security testing, certain crafted JavaScript and code-injection payloads were also observed to cause the embedded web interface to crash and become temporarily unavailable on some tested software versions. This behavior represents a denial-of-service condition affecting the embedded web management interface; no device-level denial of service was established.",
   "datePublished": "Nov 23, 2026, 9:26:16 AM",
-  "dateUpdated": "Nov 23, 2026, 9:26:16 AM",
+  "dateUpdated": "Nov 24, 2026, 2:46:42 PM",
   "baseScore": 4.9,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N/E:U/AU:Y/V:D/RE:M/U:Amber",
   "references": "https://www.frontiersmart.com/product/venice-x/\nhttps://www.frontiersmart.com/wp-content/uploads/2021/10/Venice-X_PB.pdf\nhttps://www.cryptron.ch/en/blog-detail/frontier-silicon-fs2340-xss-security-advisory.html\n",
   "aliases": "CVE-2026-94252\nGHSA-p4c8-5xh9-8cx4\n",
   "assigner": "NCSC.ch",
-  "epss": 0.0,
+  "epss": 0.52,
   "enisaIdProduct": [
     {
       "id": "4f4110c7-dffa-363e-9b82-60419cc39a20",

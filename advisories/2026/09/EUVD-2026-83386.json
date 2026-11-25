@@ -3,15 +3,25 @@
   "enisaUuid": "ca2fd9e6-9976-32dc-9b39-406122220db3",
   "description": "A flaw was found in Netty's HTTP/1 decoder. Incomplete validation of malformed Transfer-Encoding headers allows a remote attacker to perform HTTP request smuggling. By sending specially crafted HTTP requests, an attacker can inject arbitrary HTTP requests, potentially bypassing security controls or accessing unauthorized resources.",
   "datePublished": "Sep 18, 2026, 8:12:51 PM",
-  "dateUpdated": "Nov 23, 2026, 12:14:30 PM",
+  "dateUpdated": "Nov 24, 2026, 11:51:28 PM",
   "baseScore": 6.5,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N",
-  "references": "https://access.redhat.com/errata/RHSA-2026:102288\nhttps://access.redhat.com/errata/RHSA-2026:69440\nhttps://access.redhat.com/errata/RHSA-2026:69470\nhttps://access.redhat.com/errata/RHSA-2026:83612\nhttps://access.redhat.com/errata/RHSA-2026:95759\nhttps://access.redhat.com/errata/RHSA-2026:95760\nhttps://access.redhat.com/errata/RHSA-2026:95761\nhttps://access.redhat.com/errata/RHSA-2026:95762\nhttps://access.redhat.com/security/cve/CVE-2026-93562\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2536951\n",
+  "references": "https://access.redhat.com/errata/RHSA-2026:102288\nhttps://access.redhat.com/errata/RHSA-2026:102699\nhttps://access.redhat.com/errata/RHSA-2026:69440\nhttps://access.redhat.com/errata/RHSA-2026:69470\nhttps://access.redhat.com/errata/RHSA-2026:83612\nhttps://access.redhat.com/errata/RHSA-2026:95759\nhttps://access.redhat.com/errata/RHSA-2026:95760\nhttps://access.redhat.com/errata/RHSA-2026:95761\nhttps://access.redhat.com/errata/RHSA-2026:95762\nhttps://access.redhat.com/errata/RHSA-2026:95887\nhttps://access.redhat.com/security/cve/CVE-2026-93562\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2536951\n",
   "aliases": "CVE-2026-93562\nGHSA-c599-gp9v-cp79\n",
   "assigner": "redhat",
-  "epss": 0.48,
+  "epss": 0.49,
   "enisaIdProduct": [
+    {
+      "id": "192ccf3d-86a2-3fa6-9e27-f4508fb7d67e",
+      "product": {
+        "name": "RHEL-9 based Middleware Containers",
+        "vendor": {
+          "name": "Red Hat"
+        }
+      },
+      "product_version": "patch: 3.3.4-4"
+    },
     {
       "id": "29d66810-f7d0-3b74-b541-82aeb31a063b",
       "product": {
@@ -21,6 +31,26 @@
         }
       },
       "product_version": "patch: 26.6-24"
+    },
+    {
+      "id": "309d25c9-21d4-3d61-8836-aa2e2f500155",
+      "product": {
+        "name": "Red Hat JBoss Enterprise Application Platform 8.1.9.GA",
+        "vendor": {
+          "name": "Red Hat"
+        }
+      },
+      "product_version": "patch: 4.1.138.Final-redhat-00001"
+    },
+    {
+      "id": "687e4831-f753-31b5-899e-9e83d76e0e47",
+      "product": {
+        "name": "RHEL-9 based Middleware Containers",
+        "vendor": {
+          "name": "Red Hat"
+        }
+      },
+      "product_version": "patch: 3.3.4.r1-5"
     },
     {
       "id": "6f345cb0-2a0d-3c89-a189-3d418d6dec53",
@@ -61,6 +91,16 @@
         }
       },
       "product_version": "patch: 26.4-29"
+    },
+    {
+      "id": "eb9dab95-e767-39d1-b3c9-db82d6966830",
+      "product": {
+        "name": "RHEL-9 based Middleware Containers",
+        "vendor": {
+          "name": "Red Hat"
+        }
+      },
+      "product_version": "patch: 3.3.4-5"
     }
   ],
   "enisaIdVendor": [

@@ -10,7 +10,7 @@
   "references": "https://cna.erlef.org/cves/CVE-2026-59248.html\nhttps://osv.dev/vulnerability/EEF-CVE-2026-59248\nhttps://github.com/ninenines/cowlib/commit/5ddecbc121f812aec53d9df91829448d8e94e44c\nhttps://github.com/ninenines/cowlib/commit/f582430498072a0c65ad338030321576dc13a343\n",
   "aliases": "CVE-2026-59248\nGHSA-f37p-pc7r-rghm\n",
   "assigner": "EEF",
-  "epss": 0.29,
+  "epss": 0.3,
   "enisaIdProduct": [
     {
       "id": "513684f1-3ef4-347f-b3d7-acb9fd849758",

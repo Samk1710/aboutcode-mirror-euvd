@@ -3,15 +3,25 @@
   "enisaUuid": "14ee9b1b-1113-36b9-bb8e-086e2e4e6ee9",
   "description": "A flaw was found in Netty's HTTP/1.1 decoder. This vulnerability allows a remote attacker to bypass `Transfer-Encoding` header validation by splitting the `Transfer-Encoding` field across multiple headers, with the last field containing a non-final transfer coding like `gzip` or `deflate`. This bypass can lead to HTTP request smuggling, enabling attackers to bypass security controls, desynchronize request processing, or cause requests to be processed in an unintended context.",
   "datePublished": "Sep 18, 2026, 2:44:00 PM",
-  "dateUpdated": "Nov 23, 2026, 12:14:38 PM",
+  "dateUpdated": "Nov 24, 2026, 11:51:35 PM",
   "baseScore": 6.5,
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N",
-  "references": "https://access.redhat.com/errata/RHSA-2026:102288\nhttps://access.redhat.com/errata/RHSA-2026:69440\nhttps://access.redhat.com/errata/RHSA-2026:69470\nhttps://access.redhat.com/errata/RHSA-2026:83612\nhttps://access.redhat.com/errata/RHSA-2026:95759\nhttps://access.redhat.com/errata/RHSA-2026:95760\nhttps://access.redhat.com/errata/RHSA-2026:95761\nhttps://access.redhat.com/errata/RHSA-2026:95762\nhttps://access.redhat.com/security/cve/CVE-2026-93573\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2536964\n",
+  "references": "https://access.redhat.com/errata/RHSA-2026:102288\nhttps://access.redhat.com/errata/RHSA-2026:102699\nhttps://access.redhat.com/errata/RHSA-2026:69440\nhttps://access.redhat.com/errata/RHSA-2026:69470\nhttps://access.redhat.com/errata/RHSA-2026:83612\nhttps://access.redhat.com/errata/RHSA-2026:95759\nhttps://access.redhat.com/errata/RHSA-2026:95760\nhttps://access.redhat.com/errata/RHSA-2026:95761\nhttps://access.redhat.com/errata/RHSA-2026:95762\nhttps://access.redhat.com/errata/RHSA-2026:95887\nhttps://access.redhat.com/security/cve/CVE-2026-93573\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2536964\n",
   "aliases": "CVE-2026-93573\nGHSA-xvf3-842c-j48x\n",
   "assigner": "redhat",
-  "epss": 1.05,
+  "epss": 1.08,
   "enisaIdProduct": [
+    {
+      "id": "1ab183fc-45db-359a-a0e1-2bc6da4b3afb",
+      "product": {
+        "name": "RHEL-9 based Middleware Containers",
+        "vendor": {
+          "name": "Red Hat"
+        }
+      },
+      "product_version": "patch: 3.3.4-4"
+    },
     {
       "id": "249b225b-3ed6-35af-bbd3-35b59d5e6aa2",
       "product": {
@@ -43,6 +53,16 @@
       "product_version": "patch: 26.4-30"
     },
     {
+      "id": "9b6d2598-7e6d-3a90-8ac3-4817ca3ed2ed",
+      "product": {
+        "name": "Red Hat JBoss Enterprise Application Platform 8.1.9.GA",
+        "vendor": {
+          "name": "Red Hat"
+        }
+      },
+      "product_version": "patch: 4.1.138.Final-redhat-00001"
+    },
+    {
       "id": "9c2dffc5-2ad6-3e9b-b850-2cf0cb28310e",
       "product": {
         "name": "Red Hat build of Keycloak 26.4",
@@ -51,6 +71,26 @@
         }
       },
       "product_version": "patch: 26.4.17-2"
+    },
+    {
+      "id": "9feed1f7-9fe2-3845-8cec-f3cdab86c0b4",
+      "product": {
+        "name": "RHEL-9 based Middleware Containers",
+        "vendor": {
+          "name": "Red Hat"
+        }
+      },
+      "product_version": "patch: 3.3.4.r1-5"
+    },
+    {
+      "id": "dbe77ffe-4927-381e-9ef4-17da1ffaa69e",
+      "product": {
+        "name": "RHEL-9 based Middleware Containers",
+        "vendor": {
+          "name": "Red Hat"
+        }
+      },
+      "product_version": "patch: 3.3.4-5"
     },
     {
       "id": "ff262060-cfbf-36ed-befc-af886174bf88",

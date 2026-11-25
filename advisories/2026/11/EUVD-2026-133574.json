@@ -10,7 +10,7 @@
   "references": "https://github.com/open5gs/open5gs/pull/5034\nhttps://github.com/open5gs/open5gs/commit/fe001033625a74cd23e8d78d234f8b76c8697c70\nhttps://github.com/open5gs/open5gs\nhttps://github.com/open5gs/open5gs/commit/78cb3cb004d798f226ead87f3600a31387c36975\nhttps://github.com/open5gs/open5gs/blob/v2.8.0/webui/server/routes/db.js#L19-L24\nhttps://www.vulncheck.com/advisories/open5gs-webui-through-2.8.0-privilege-escalation-via-api-db-account\n",
   "aliases": "CVE-2026-135691\nGHSA-j264-jv7m-79p4\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.61,
   "enisaIdProduct": [
     {
       "id": "f6d273b1-b902-3bd2-9a11-988348fc75da",

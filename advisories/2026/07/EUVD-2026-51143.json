@@ -10,7 +10,7 @@
   "references": "https://github.com/malach-it/boruta_auth/security/advisories/GHSA-5q9h-vf5j-fr2g\nhttps://cna.erlef.org/cves/CVE-2026-54885.html\nhttps://osv.dev/vulnerability/EEF-CVE-2026-54885\nhttps://github.com/malach-it/boruta_auth/commit/15455b86206e0370eabd64c1856a5c996b436455\nhttps://github.com/malach-it/boruta_auth/commit/001e3dc5c259e67c6f907e98867eda4141c96d0d\nhttps://github.com/malach-it/boruta_auth/commit/95fb10b78129355e475681f324c9a01ef0af2be5\n",
   "aliases": "CVE-2026-54885\n",
   "assigner": "EEF",
-  "epss": 0.47,
+  "epss": 0.5,
   "enisaIdProduct": [
     {
       "id": "57a54de7-79ab-31eb-873d-47dec60a78ba",

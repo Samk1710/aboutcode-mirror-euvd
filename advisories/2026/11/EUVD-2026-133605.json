@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:H/AT:P/PR:N/UI:P/VC:L/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://code.ffmpeg.org/FFmpeg/FFmpeg/pulls/26121\nhttps://github.com/FFmpeg/FFmpeg/commit/01380721ab8c23c6d378b5b83515c212f682ee70\nhttps://github.com/FFmpeg/FFmpeg/blob/n9.0.2/libavfilter/vf_lut3d.c#L1898\nhttps://github.com/FFmpeg/FFmpeg\nhttps://www.vulncheck.com/advisories/ffmpeg-before-9.1-out-of-bounds-read-via-lut1d-filter-interpolation\n",
-  "aliases": "CVE-2026-135744\n",
+  "aliases": "GHSA-99h9-m7h4-57ph\nCVE-2026-135744\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.15,
   "enisaIdProduct": [
     {
       "id": "a5ac8137-0a60-3ebd-80a7-6f53a3d6343c",

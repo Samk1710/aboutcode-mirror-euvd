@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N",
   "references": "https://code.ffmpeg.org/FFmpeg/FFmpeg/pulls/24916\nhttps://github.com/FFmpeg/FFmpeg/commit/94c3187ef7384735b2902abb34a95cbe2400a159\nhttps://github.com/FFmpeg/FFmpeg/blob/n9.0.2/libavformat/mmst.c#L570\nhttps://github.com/FFmpeg/FFmpeg\nhttps://www.vulncheck.com/advisories/ffmpeg-before-9.1-null-pointer-dereference-via-mms-over-tcp-asf-header-handling\n",
-  "aliases": "CVE-2026-135713\n",
+  "aliases": "CVE-2026-135713\nGHSA-v6pf-mr5g-v5p8\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.17,
   "enisaIdProduct": [
     {
       "id": "dbe737e1-3f67-360d-af87-594288b9e3e7",

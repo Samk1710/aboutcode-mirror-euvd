@@ -10,7 +10,7 @@
   "references": "https://github.com/medplum/medplum/pull/10679\nhttps://github.com/medplum/medplum/commit/56ca711cd94026698ff4f5311a32b62de5e5f352\nhttps://github.com/medplum/medplum/blob/v5.1.41/packages/server/src/fhir/operations/binary-presigned-url.ts\nhttps://github.com/medplum/medplum/releases/tag/v5.1.42\nhttps://www.vulncheck.com/advisories/medplum-5.1.4-before-5.1.42-cross-project-binary-overwrite-via-presigned-url\n",
   "aliases": "GHSA-3q9p-ggf9-vh86\nCVE-2026-135160\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.39,
   "enisaIdProduct": [
     {
       "id": "bf45f6ce-5c9f-31e1-9f16-ac88aae06403",

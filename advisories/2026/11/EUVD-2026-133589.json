@@ -3,14 +3,14 @@
   "enisaUuid": "cdc7598e-ad4c-323a-a859-4b977ac6e79a",
   "description": "Out-of-bounds write vulnerability in certain ASUS routers allows an unauthenticated nearby user to corrupt process memory, potentially resulting in a denial-of-service, via crafted LLTD packets.Refer to the ' Security Update for ASUS Router Firmware\u00a0' section on the ASUS Security Advisory for more information.",
   "datePublished": "Nov 24, 2026, 2:00:07 AM",
-  "dateUpdated": "Nov 24, 2026, 2:00:07 AM",
+  "dateUpdated": "Nov 24, 2026, 6:33:17 PM",
   "baseScore": 7.2,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:N/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://www.asus.com/security-advisory\n",
   "aliases": "CVE-2026-93457\nGHSA-wjx2-5rh7-fq59\n",
   "assigner": "ASUS",
-  "epss": 0.0,
+  "epss": 0.24,
   "enisaIdProduct": [
     {
       "id": "062c059e-afad-3ab0-95ff-a0d98f242fbf",

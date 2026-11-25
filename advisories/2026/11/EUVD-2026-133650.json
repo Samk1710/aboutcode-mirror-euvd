@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/442506\nhttps://vuldb.com/vuln/442506/cti\nhttps://vuldb.com/cve/CVE-2026-135456\nhttps://vuldb.com/submit/1055661\nhttps://vuldb.com/submit/1055662\nhttps://github.com/amirhamza05/Student-Management-System/issues/78\nhttps://github.com/amirhamza05/Student-Management-System/\n",
-  "aliases": "CVE-2026-135456\n",
+  "aliases": "CVE-2026-135456\nGHSA-gwv5-mhqw-489v\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.24,
   "enisaIdProduct": [
     {
       "id": "f5cd1942-034b-3463-b9f0-7ed0c24e7ab2",

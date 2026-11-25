@@ -10,7 +10,7 @@
   "references": "https://github.com/SamTV12345/PodFetch/issues/2324\nhttps://github.com/SamTV12345/PodFetch/commit/0d0f7734a4415484dc1996f39379bd89b70e2b03\nhttps://github.com/SamTV12345/PodFetch/blob/v5.3.0/crates/podfetch-web/src/audiobookshelf_api/controllers/podcasts.rs#L103-L150\nhttps://github.com/SamTV12345/PodFetch/releases/tag/v5.3.1\nhttps://www.vulncheck.com/advisories/podfetch-5.2.0-before-5.3.1-missing-authorization-via-audiobookshelf-podcast-creation\n",
   "aliases": "CVE-2026-135155\nGHSA-95p9-4q6j-x976\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.4,
   "enisaIdProduct": [
     {
       "id": "b02442e7-59c4-3fd8-aeda-fe51eef6c41d",

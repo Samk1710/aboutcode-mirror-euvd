@@ -10,7 +10,7 @@
   "references": "https://github.com/linagora/cozy-stack/pull/5179\nhttps://github.com/linagora/cozy-stack/commit/983fe4b1218b8a7d83a2734b5ce2fe04227acc0c\nhttps://github.com/linagora/cozy-stack/releases/tag/1.6.69\nhttps://hackmd.io/@hieund/cozy-stack-shared-drive-move-cross-instance-authz-bypass\nhttps://github.com/linagora/cozy-stack/blob/1.6.68/web/sharings/move.go#L250-L263\nhttps://www.vulncheck.com/advisories/cozy-cloud-cozy-stack-1.6.62-before-1.6.69-authorization-bypass-via-shared-drive-move\n",
   "aliases": "GHSA-92pp-cx5g-fhhr\nCVE-2026-133172\n",
   "assigner": "VulnCheck",
-  "epss": 0.5,
+  "epss": 0.51,
   "enisaIdProduct": [
     {
       "id": "352e3baa-6284-37ab-b80a-c7114267e4cd",

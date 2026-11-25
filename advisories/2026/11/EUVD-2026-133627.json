@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://code.ffmpeg.org/FFmpeg/FFmpeg/pulls/24932\nhttps://github.com/FFmpeg/FFmpeg/commit/0b1c279b62af82e422e3fc21ba6cc2fc3154dc76\nhttps://github.com/FFmpeg/FFmpeg/blob/n9.0.2/libavformat/wavenc.c#L391\nhttps://github.com/FFmpeg/FFmpeg\nhttps://www.vulncheck.com/advisories/ffmpeg-before-9.1-heap-buffer-overflow-via-wav-muxer-peak-envelope-writer\n",
-  "aliases": "CVE-2026-135722\n",
+  "aliases": "GHSA-6g37-r68h-8wh2\nCVE-2026-135722\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.21,
   "enisaIdProduct": [
     {
       "id": "8be81f3f-d2a0-3612-8f0f-6f272d2cde86",

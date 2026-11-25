@@ -10,7 +10,7 @@
   "references": "https://vuldb.com/vuln/442240\nhttps://vuldb.com/vuln/442240/cti\nhttps://vuldb.com/cve/CVE-2026-134884\nhttps://vuldb.com/submit/1055148\nhttps://gist.github.com/agtt/ceb3b270d42c24da02be70fc918f0a13\n",
   "aliases": "CVE-2026-134884\nGHSA-fgx9-8qqf-m963\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.56,
   "enisaIdProduct": [
     {
       "id": "e62092d9-fd61-387a-9c33-2c04c8a4344a",

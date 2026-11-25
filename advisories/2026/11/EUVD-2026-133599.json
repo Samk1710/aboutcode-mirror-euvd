@@ -10,7 +10,7 @@
   "references": "https://vuldb.com/vuln/442502\nhttps://vuldb.com/vuln/442502/cti\nhttps://vuldb.com/cve/CVE-2026-135451\nhttps://vuldb.com/submit/1055649\nhttps://github.com/amirhamza05/Student-Management-System/issues/74\nhttps://github.com/amirhamza05/Student-Management-System/\n",
   "aliases": "CVE-2026-135451\nGHSA-8h6g-g5w3-jg6r\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.38,
   "enisaIdProduct": [
     {
       "id": "d6d1efc2-ea0e-3985-8e4e-5914add8ed1f",

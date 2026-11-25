@@ -3,14 +3,14 @@
   "enisaUuid": "2ea1ca55-2993-3814-bf16-34128d6f3640",
   "description": "FFmpeg before 9.1 contains an out-of-bounds write vulnerability in build_frame_code() in libavformat/nutenc.c that allows attackers to corrupt the header_len[] array by supplying inputs with many audio streams. Attackers can remux a crafted input with many audio streams to NUT, causing out-of-bounds reads past static header tables and crashing the application.",
   "datePublished": "Nov 24, 2026, 3:13:59 AM",
-  "dateUpdated": "Nov 24, 2026, 3:13:59 AM",
+  "dateUpdated": "Nov 24, 2026, 4:26:35 PM",
   "baseScore": 6.9,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N",
   "references": "https://code.ffmpeg.org/FFmpeg/FFmpeg/pulls/24932\nhttps://github.com/FFmpeg/FFmpeg/commit/52b653190c001e132ef35ee6f113b0f413d16e79\nhttps://github.com/FFmpeg/FFmpeg/blob/n9.0.2/libavformat/nutenc.c#L240\nhttps://github.com/FFmpeg/FFmpeg\nhttps://www.vulncheck.com/advisories/ffmpeg-before-9.1-out-of-bounds-write-via-build-frame-code-in-nutenc-c\n",
-  "aliases": "CVE-2026-135716\n",
+  "aliases": "GHSA-xr55-r994-qgh4\nCVE-2026-135716\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.17,
   "enisaIdProduct": [
     {
       "id": "a97d6d24-d93b-3918-8107-60b31175e269",
