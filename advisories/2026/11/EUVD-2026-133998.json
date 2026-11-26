@@ -10,7 +10,7 @@
   "references": "https://bugzilla.mozilla.org/show_bug.cgi?id=2049799\nhttps://www.mozilla.org/security/advisories/mfsa2026-131/\nhttps://www.mozilla.org/security/advisories/mfsa2026-133/\nhttps://www.mozilla.org/security/advisories/mfsa2026-134/\nhttps://www.mozilla.org/security/advisories/mfsa2026-135/\n",
   "aliases": "CVE-2026-135500\nGHSA-j266-r594-f82w\n",
   "assigner": "mozilla",
-  "epss": 0.0,
+  "epss": 0.69,
   "enisaIdProduct": [],
   "enisaIdVendor": []
 }

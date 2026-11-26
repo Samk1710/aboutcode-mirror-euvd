@@ -10,7 +10,7 @@
   "references": "https://github.com/bvisible/mcp-ssh-manager/security/advisories/GHSA-4jx9-2fwj-pg4j\nhttps://github.com/bvisible/mcp-ssh-manager/pull/51\nhttps://github.com/bvisible/mcp-ssh-manager/commit/4c19b350f36f5f09f15662f8d19d2ba9cdf38bd0\nhttps://github.com/bvisible/mcp-ssh-manager/releases/tag/v3.6.7\n",
   "aliases": "CVE-2026-77383\n",
   "assigner": "GitHub_M",
-  "epss": 0.7,
+  "epss": 0.73,
   "enisaIdProduct": [
     {
       "id": "eddb4345-7c49-3a4a-a156-c7e52ab9a8ed",

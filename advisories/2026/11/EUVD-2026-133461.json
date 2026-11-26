@@ -10,7 +10,7 @@
   "references": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118286\n",
   "aliases": "CVE-2026-118286\nGHSA-p5w7-hr8p-2m98\n",
   "assigner": "microsoft",
-  "epss": 0.82,
+  "epss": 1.24,
   "enisaIdProduct": [
     {
       "id": "e6419f0f-627b-322f-bf1a-141f1d052792",

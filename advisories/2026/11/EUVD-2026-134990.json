@@ -10,7 +10,7 @@
   "references": "https://github.com/lasp-lang/partisan/security/advisories/GHSA-38p4-3gp9-mfx9\nhttps://cna.erlef.org/cves/CVE-2026-118898.html\nhttps://osv.dev/vulnerability/EEF-CVE-2026-118898\nhttps://github.com/lasp-lang/partisan/commit/04314463df1d3cb213c7a07beb60bf7af3389dfc\nhttps://github.com/lasp-lang/partisan/commit/5c75b3368620ef9f7f07af5e7f70ade95030fe92\n",
   "aliases": "CVE-2026-118898\n",
   "assigner": "EEF",
-  "epss": 0.0,
+  "epss": 1.55,
   "enisaIdProduct": [
     {
       "id": "58a6eebd-4f59-3fd8-a1fd-ccff0e852046",

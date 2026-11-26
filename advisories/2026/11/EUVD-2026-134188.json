@@ -10,7 +10,7 @@
   "references": "https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_2026-4_release_notes.htm\nhttps://www.solarwinds.com/trust-center/security-advisories/CVE-2026-82316\n",
   "aliases": "GHSA-mr6v-gx7x-56pj\nCVE-2026-82316\n",
   "assigner": "SolarWinds",
-  "epss": 0.0,
+  "epss": 0.74,
   "enisaIdProduct": [
     {
       "id": "e263e079-a087-32a3-9197-e6e184242781",

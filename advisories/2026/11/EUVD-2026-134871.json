@@ -10,7 +10,7 @@
   "references": "https://github.com/electerm/electerm/security/advisories/GHSA-45rj-2wq9-r9mr\nhttps://github.com/electerm/electerm/commit/572551df2be4bdd7964fa0f9102b42f49bc8de7b\nhttps://github.com/electerm/electerm/releases/tag/v5.9.0\nhttps://github.com/electerm/electerm/blob/v5.8.0/src/app/widgets/widget-mcp-server.js#L1142-L1161\nhttps://github.com/electerm/electerm/blob/v5.8.0/src/app/widgets/widget-mcp-server.js#L1191-L1222\nhttps://www.vulncheck.com/advisories/electerm-before-5.9.0-rce-via-dns-rebinding-in-mcp-server-widget\n",
   "aliases": "GHSA-44wm-wffw-6fq9\nCVE-2026-136630\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.38,
   "enisaIdProduct": [
     {
       "id": "20ac831b-499a-37bf-8de8-a99f68795c92",

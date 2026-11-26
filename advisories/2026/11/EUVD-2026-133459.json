@@ -10,7 +10,7 @@
   "references": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-113824\n",
   "aliases": "CVE-2026-113824\nGHSA-vphq-fv8x-4qvf\n",
   "assigner": "microsoft",
-  "epss": 0.82,
+  "epss": 1.22,
   "enisaIdProduct": [
     {
       "id": "5fc64c6c-71e9-34f6-8c0e-e71e6138e832",

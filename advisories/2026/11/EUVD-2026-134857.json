@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/security/cve/CVE-2026-135768\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2582584\n",
   "aliases": "GHSA-r2gq-8phg-jm54\nCVE-2026-135768\n",
   "assigner": "redhat",
-  "epss": 0.0,
+  "epss": 0.38,
   "enisaIdProduct": [],
   "enisaIdVendor": []
 }

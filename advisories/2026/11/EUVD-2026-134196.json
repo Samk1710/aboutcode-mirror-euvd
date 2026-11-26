@@ -10,7 +10,7 @@
   "references": "https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_2026-4_release_notes.htm\nhttps://www.solarwinds.com/trust-center/security-advisories/CVE-2026-123166\n",
   "aliases": "CVE-2026-123166\nGHSA-mmmv-f8wh-wx84\n",
   "assigner": "SolarWinds",
-  "epss": 0.0,
+  "epss": 1.28,
   "enisaIdProduct": [
     {
       "id": "aa53ca3c-14a5-34bd-b385-d2ec9c59a700",

@@ -10,7 +10,7 @@
   "references": "https://vuldb.com/vuln/443235\nhttps://vuldb.com/vuln/443235/cti\nhttps://vuldb.com/cve/CVE-2026-136448\nhttps://vuldb.com/submit/1057473\nhttps://vuldb.com/submit/1057470\nhttps://github.com/vinniboy021-blip/Advisory/blob/main/pico-content-editor-unauth-rce.md\n",
   "aliases": "GHSA-4hf4-5jgp-9h35\nCVE-2026-136448\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.41,
   "enisaIdProduct": [
     {
       "id": "bbba6e4f-078f-38cf-b2de-69a14f19be09",

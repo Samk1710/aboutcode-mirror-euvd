@@ -10,7 +10,7 @@
   "references": "https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_2026-4_release_notes.htm\nhttps://www.solarwinds.com/trust-center/security-advisories/CVE-2026-82322\n",
   "aliases": "GHSA-65hc-c548-r3p6\nCVE-2026-82322\n",
   "assigner": "SolarWinds",
-  "epss": 0.0,
+  "epss": 0.86,
   "enisaIdProduct": [
     {
       "id": "f16611b6-123d-3ac9-9b3f-0ca25b73185a",

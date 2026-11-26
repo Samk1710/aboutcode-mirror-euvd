@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:L/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/webmin/webmin\nhttps://github.com/webmin/webmin/blob/2.670/web-lib-funcs.pl#L9736\nhttps://github.com/webmin/webmin/blob/2.670/useradmin/user-lib.pl#L2861\nhttps://github.com/webmin/webmin/issues/2941\nhttps://doi.org/10.5281/zenodo.24396540\nhttps://www.vulncheck.com/advisories/webmin-through-2.670-predictable-password-generation-in-users-and-groups-module\n",
-  "aliases": "CVE-2026-134446\n",
+  "aliases": "CVE-2026-134446\nGHSA-mx4m-hfh2-gx6x\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.37,
   "enisaIdProduct": [
     {
       "id": "4f14b8ef-5263-35c4-b74b-1720d4c25bf1",

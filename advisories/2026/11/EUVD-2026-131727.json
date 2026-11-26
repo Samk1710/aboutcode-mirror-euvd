@@ -10,7 +10,7 @@
   "references": "https://github.com/nukeviet/nukeviet/security/advisories/GHSA-465g-4q99-5x86\nhttps://github.com/nukeviet/nukeviet/commit/4f3f6dbd724a28a1c455c009b2d59f9d8bc95d48\nhttps://github.com/nukeviet/nukeviet/commit/ab804d4c95d581c76d8f69675d45edbc313fe734\nhttps://github.com/nukeviet/nukeviet/releases/tag/4.5.09\n",
   "aliases": "GHSA-465g-4q99-5x86\nCVE-2026-54064\n",
   "assigner": "GitHub_M",
-  "epss": 0.55,
+  "epss": 0.45,
   "enisaIdProduct": [
     {
       "id": "d7cef24e-3a0a-3fd6-a800-6f7889c6f9bd",

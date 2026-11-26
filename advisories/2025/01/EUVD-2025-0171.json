@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHEA-2024:6126\nhttps://access.redhat.com/errata/RHSA-2025:1122\nhttps://access.redhat.com/security/cve/CVE-2025-0750\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2339405\n",
   "aliases": "GHSA-hp5j-2585-qx6g\nCVE-2025-0750\n",
   "assigner": "redhat",
-  "epss": 0.27,
+  "epss": 0.31,
   "enisaIdProduct": [
     {
       "id": "00cc8058-1e0a-32d9-bfc0-f556a5a58076",

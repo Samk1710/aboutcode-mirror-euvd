@@ -10,7 +10,7 @@
   "references": "https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_2026-4_release_notes.htm\nhttps://www.solarwinds.com/trust-center/security-advisories/CVE-2026-123172\n",
   "aliases": "GHSA-2659-q7hw-v2fj\nCVE-2026-123172\n",
   "assigner": "SolarWinds",
-  "epss": 0.0,
+  "epss": 0.88,
   "enisaIdProduct": [
     {
       "id": "6c7416f3-714b-346b-82e7-3e0e020daa0b",

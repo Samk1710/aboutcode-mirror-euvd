@@ -10,7 +10,7 @@
   "references": "https://wpscan.com/vulnerability/f54596fc-4247-4f91-a80a-c74f55b7b41f/\n",
   "aliases": "CVE-2026-130891\nGHSA-mxv4-hqwp-rm4c\n",
   "assigner": "WPScan",
-  "epss": 0.26,
+  "epss": 0.5,
   "enisaIdProduct": [
     {
       "id": "5f0b2296-40e7-3695-9039-0c98c3daa61a",

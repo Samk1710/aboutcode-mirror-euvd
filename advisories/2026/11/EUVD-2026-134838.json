@@ -10,7 +10,7 @@
   "references": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-6jc8-g72m-gf95\nhttps://github.com/Significant-Gravitas/AutoGPT/commit/41b8eb61159814e16e9bfcf72e5241b3ccc37ca4\nhttps://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.11.0\n",
   "aliases": "CVE-2026-132260\n",
   "assigner": "GitHub_M",
-  "epss": 0.0,
+  "epss": 0.62,
   "enisaIdProduct": [
     {
       "id": "754530c8-fc16-38c1-a4fe-20cc8145ab24",

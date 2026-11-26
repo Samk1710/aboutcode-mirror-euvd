@@ -10,7 +10,7 @@
   "references": "http://rhn.redhat.com/errata/RHSA-2012-1591.html\nhttp://rhn.redhat.com/errata/RHSA-2012-1592.html\nhttp://rhn.redhat.com/errata/RHSA-2012-1594.html\nhttp://secunia.com/advisories/51607\nhttps://access.redhat.com/errata/RHSA-2012:1591\nhttps://access.redhat.com/errata/RHSA-2012:1592\nhttps://access.redhat.com/errata/RHSA-2012:1594\nhttps://access.redhat.com/security/cve/CVE-2012-4549\n",
   "aliases": "GHSA-4crg-m9w3-g9fc\nCVE-2012-4549\n",
   "assigner": "redhat",
-  "epss": 1.3,
+  "epss": 1.14,
   "enisaIdProduct": [
     {
       "id": "00204993-6d72-3943-bc7a-84a1a8e9f4fd",

@@ -10,7 +10,7 @@
   "references": "https://github.com/LTplus-AG/ifc-lite/security/advisories/GHSA-hw42-92fr-x9vc\nhttps://github.com/LTplus-AG/ifc-lite/commit/e07f142fb7bd9c0f389048d40ffde3eaa140f429\nhttps://github.com/LTplus-AG/ifc-lite/releases/tag/%40ifc-lite%2Fexport%404.13.1\nhttps://github.com/LTplus-AG/ifc-lite/blob/%40ifc-lite%2Fexport%404.13.0/packages/export/src/step-serialization.ts#L127-L131\nhttps://github.com/LTplus-AG/ifc-lite/blob/%40ifc-lite%2Fexport%404.13.0/rust/export/src/step_log/values.rs#L48-L78\nhttps://www.vulncheck.com/advisories/ltplus-ag-ifc-lite-ifc-lite-export-before-4.13.1-and-ifc-lite-export-before-27.0.0-step-record-injection\n",
   "aliases": "GHSA-2qwm-rvf8-f9f6\nCVE-2026-136621\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.48,
   "enisaIdProduct": [
     {
       "id": "68673092-543b-3390-9c4a-186b23d3bf6f",

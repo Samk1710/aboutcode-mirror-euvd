@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:H/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/webmin/webmin/commit/200444d8d612159a7ae7ba18705dba9b46a4b1fe\nhttps://github.com/webmin/webmin\nhttps://github.com/webmin/webmin/blob/2.670/status/smtp-monitor.pl#L21\nhttps://github.com/webmin/webmin/blob/2.670/status/smtp-monitor.pl#L47\nhttps://github.com/webmin/webmin/issues/2941\nhttps://doi.org/10.5281/zenodo.24396540\nhttps://www.vulncheck.com/advisories/webmin-through-2.670-cleartext-credential-transmission-via-status-smtp-monitor-pl\n",
-  "aliases": "CVE-2026-134646\n",
+  "aliases": "CVE-2026-134646\nGHSA-fhgf-f9vx-p7j7\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.3,
   "enisaIdProduct": [
     {
       "id": "2542da96-de44-387a-a82c-5b41eef11dda",

@@ -10,7 +10,7 @@
   "references": "https://vuldb.com/vuln/442895\nhttps://vuldb.com/vuln/442895/cti\nhttps://vuldb.com/cve/CVE-2026-136147\nhttps://vuldb.com/submit/1056802\nhttps://drive.google.com/drive/folders/1_TDjalqWp_WQhc6OXzV8gYt-aBq3TV7c?usp=drive_link\n",
   "aliases": "GHSA-47fg-mhrw-xq6r\nCVE-2026-136147\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.2,
   "enisaIdProduct": [
     {
       "id": "1c2e6459-f93f-39a0-a086-661552a24e47",

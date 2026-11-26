@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/security/cve/CVE-2026-129839\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2579185\n",
   "aliases": "CVE-2026-129839\n",
   "assigner": "redhat",
-  "epss": 0.0,
+  "epss": 0.56,
   "enisaIdProduct": [],
   "enisaIdVendor": []
 }

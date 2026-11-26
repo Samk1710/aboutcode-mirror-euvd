@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:H/UI:P/VC:L/VI:L/VA:N/SC:L/SI:L/SA:N",
   "references": "https://github.com/webmin/webmin\nhttps://github.com/webmin/webmin/blob/2.670/useradmin/edit_user.cgi#L128\nhttps://github.com/webmin/webmin/blob/2.670/useradmin/save_user.cgi#L231\nhttps://github.com/webmin/webmin/issues/2941\nhttps://doi.org/10.5281/zenodo.24396540\nhttps://www.vulncheck.com/advisories/webmin-through-2.670-stored-xss-via-useradmin-edit-user-cgi-home-directory\n",
-  "aliases": "CVE-2026-134650\n",
+  "aliases": "CVE-2026-134650\nGHSA-8pqx-3vrh-2f34\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.32,
   "enisaIdProduct": [
     {
       "id": "439d52c2-a60d-397a-802c-ca0bd7d0abd3",

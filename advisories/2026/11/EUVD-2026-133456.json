@@ -10,7 +10,7 @@
   "references": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-120787\n",
   "aliases": "GHSA-fwhr-cqgf-rw9c\nCVE-2026-120787\n",
   "assigner": "microsoft",
-  "epss": 0.58,
+  "epss": 1.02,
   "enisaIdProduct": [
     {
       "id": "06e48724-51b6-343c-bb5a-464977dfe946",

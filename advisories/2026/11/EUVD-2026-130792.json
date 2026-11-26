@@ -10,7 +10,7 @@
   "references": "https://github.com/greenbone/gvmd/pull/3213\nhttps://github.com/greenbone/gvmd/releases/tag/v26.43.0\nhttps://tajapps.com/advisories/TAJ-2026-004/\n",
   "aliases": "CVE-2026-133494\nGHSA-v5wq-jpvq-7hfx\n",
   "assigner": "mitre",
-  "epss": 0.16,
+  "epss": 0.24,
   "enisaIdProduct": [
     {
       "id": "6d7d5fe2-2952-3d2c-bcbe-1a98b7122244",

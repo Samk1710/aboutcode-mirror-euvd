@@ -10,7 +10,7 @@
   "references": "https://vuldb.com/vuln/441217\nhttps://vuldb.com/vuln/441217/cti\nhttps://vuldb.com/cve/CVE-2026-133616\nhttps://vuldb.com/submit/1050822\nhttps://github.com/sonos/tract/issues/2391\nhttps://github.com/sonos/tract/pull/2411\nhttps://github.com/sonos/tract/commit/44c6f4a7ef988a5bafe98c8bb465d8a253599395\nhttps://github.com/sonos/tract/releases/tag/v0.23.5\nhttps://github.com/sonos/tract/\n",
   "aliases": "GHSA-679x-5hx6-p69v\nCVE-2026-133616\n",
   "assigner": "VulDB",
-  "epss": 0.39,
+  "epss": 0.49,
   "enisaIdProduct": [
     {
       "id": "443153ba-a643-3aaf-9c61-82a2b378fc53",

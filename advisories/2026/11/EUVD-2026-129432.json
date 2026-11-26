@@ -10,7 +10,7 @@
   "references": "https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2026/MNDT-2026-0048.md\nhttps://codeplexarchive.org/project/AntiCSRF\n",
   "aliases": "GHSA-pj2m-2r8v-h9cp\nCVE-2026-131914\n",
   "assigner": "Mandiant",
-  "epss": 0.61,
+  "epss": 4.29,
   "exploitedSince": "Nov 24, 2026, 12:00:00 AM",
   "enisaIdProduct": [
     {

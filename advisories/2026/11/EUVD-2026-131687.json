@@ -10,7 +10,7 @@
   "references": "https://github.com/Netatalk/netatalk/security/advisories/GHSA-5fvw-g64v-r556\nhttps://github.com/Netatalk/netatalk/commit/117c7679642a0b4c986ea68d51f6a7fc655527fd\nhttps://github.com/Netatalk/netatalk/releases/tag/netatalk-4-5-0\n",
   "aliases": "CVE-2026-49388\n",
   "assigner": "GitHub_M",
-  "epss": 0.47,
+  "epss": 0.48,
   "enisaIdProduct": [
     {
       "id": "2a72b5aa-6012-3e93-a732-3e94930abcf7",

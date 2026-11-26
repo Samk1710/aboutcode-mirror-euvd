@@ -10,7 +10,7 @@
   "references": "https://lists.apache.org/thread/j7xm2w7yzwnqtzjbdv353d8bygdkspl7\n",
   "aliases": "CVE-2026-130808\nGHSA-mx9p-qhvw-q7v2\n",
   "assigner": "apache",
-  "epss": 0.0,
+  "epss": 0.77,
   "enisaIdProduct": [
     {
       "id": "a1643ba3-e0b9-3cfc-b16a-10f60c5cba86",

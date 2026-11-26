@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:P/VC:L/VI:L/VA:N/SC:L/SI:L/SA:N",
   "references": "https://github.com/webmin/webmin\nhttps://github.com/webmin/webmin/blob/2.670/useradmin/my_user_chooser.cgi#L64-L66\nhttps://github.com/webmin/webmin/blob/2.670/user_chooser.cgi#L74\nhttps://github.com/webmin/webmin/issues/2941\nhttps://doi.org/10.5281/zenodo.24396540\nhttps://www.vulncheck.com/advisories/webmin-through-2.670-stored-xss-via-user-and-group-chooser-popups\n",
-  "aliases": "CVE-2026-134627\n",
+  "aliases": "GHSA-4g24-j3q9-9mxx\nCVE-2026-134627\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.3,
   "enisaIdProduct": [
     {
       "id": "7dba366d-d64c-3116-b82c-3ef95b2ed5aa",

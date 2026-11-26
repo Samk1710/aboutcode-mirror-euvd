@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:H/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/webmin/webmin/commit/3ccad807df806465da6c344accc313bcaead2211\nhttps://github.com/webmin/webmin\nhttps://github.com/webmin/webmin/blob/2.670/mailboxes/boxes-lib.pl#L1020\nhttps://github.com/webmin/webmin/blob/2.670/mailboxes/boxes-lib.pl#L1042\nhttps://github.com/webmin/webmin/issues/2941\nhttps://doi.org/10.5281/zenodo.24396540\nhttps://www.vulncheck.com/advisories/webmin-through-2.670-starttls-downgrade-via-send-mail-in-boxes-lib-pl\n",
-  "aliases": "CVE-2026-134637\n",
+  "aliases": "CVE-2026-134637\nGHSA-v8w5-6f8g-p45g\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.27,
   "enisaIdProduct": [
     {
       "id": "6f511856-726c-388d-aa55-16af0b5a3d80",

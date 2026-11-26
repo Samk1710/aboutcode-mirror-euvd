@@ -10,7 +10,7 @@
   "references": "https://wpscan.com/vulnerability/35b4f3a0-9130-430d-b038-b72aa6580782/\n",
   "aliases": "CVE-2026-131983\nGHSA-gj8w-r8mg-g4jx\n",
   "assigner": "WPScan",
-  "epss": 0.25,
+  "epss": 0.48,
   "enisaIdProduct": [
     {
       "id": "3e93c7b2-9c56-3dc0-bc4d-b211d859d5f7",

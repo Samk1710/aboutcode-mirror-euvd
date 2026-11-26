@@ -10,7 +10,7 @@
   "references": "https://bugzilla.mozilla.org/show_bug.cgi?id=1797016\nhttps://www.mozilla.org/security/advisories/mfsa2026-133/\nhttps://www.mozilla.org/security/advisories/mfsa2026-135/\n",
   "aliases": "GHSA-jhhm-g2mj-57xc\nCVE-2026-135611\n",
   "assigner": "mozilla",
-  "epss": 0.0,
+  "epss": 0.58,
   "enisaIdProduct": [],
   "enisaIdVendor": []
 }

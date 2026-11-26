@@ -10,7 +10,7 @@
   "references": "https://techdocs.genetec.com/r/en-US/Security-Updates-for-Security-Center-5.14/Resolved-vulnerabilities-in-Security-Center-5.14.0.1\nhttps://techdocs.genetec.com/r/en-US/Security-Updates-for-Security-Center-5.13/Resolved-vulnerabilities-in-Security-Center-5.13.3.8\nhttps://techdocs.genetec.com/r/en-US/Security-Updates-for-Security-Center-5.12/Resolved-vulnerabilities-in-Security-Center-5.12.2.20\nhttps://techdocs.genetec.com/r/en-US/Security-Center-5.11-guides/5.11-Security-Updates\nhttps://techdocs.genetec.com/r/en-US/Security-Center-5.10-guides/5.10-Security-Updates\n",
   "aliases": "CVE-2026-50048\nGHSA-9f82-pg28-637h\n",
   "assigner": "Genetec",
-  "epss": 0.0,
+  "epss": 0.27,
   "enisaIdProduct": [
     {
       "id": "23a96c44-6880-36fb-b305-3f311f0592e7",

@@ -10,7 +10,7 @@
   "references": "https://github.com/MapServer/MapServer/security/advisories/GHSA-288j-mhpj-gmmr\nhttps://github.com/MapServer/MapServer/pull/7573\nhttps://github.com/MapServer/MapServer/commit/3bfd0071f74d55b43301ba57f8c4a1425789e0c4\nhttps://github.com/MapServer/MapServer/commit/47720e835de4d80a602210461d3b52c9f3d5c34c\nhttps://github.com/MapServer/MapServer/commit/5d2a60c1ffd17839879b7b32ec26f689c9dbf1e9\nhttps://github.com/MapServer/MapServer/releases/tag/rel-8-6-5\n",
   "aliases": "CVE-2026-77323\n",
   "assigner": "GitHub_M",
-  "epss": 0.77,
+  "epss": 0.6,
   "enisaIdProduct": [
     {
       "id": "84c63e9a-af00-3e5c-86e8-2287d3b1ac0a",

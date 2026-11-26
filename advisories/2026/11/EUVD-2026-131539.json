@@ -10,7 +10,7 @@
   "references": "https://github.com/diffpy/diffpy.structure/issues/204\nhttps://github.com/diffpy/diffpy.structure/commit/f4be1d534fa9cf488c8e83f258e59fe09b526f62\nhttps://github.com/diffpy/diffpy.structure/blob/3.5.0/src/diffpy/structure/parsers/p_cif.py\nhttps://github.com/diffpy/diffpy.structure/releases/tag/3.5.1\nhttps://www.vulncheck.com/advisories/diffpy-structure-before-3.5.1-code-execution-via-eval-in-get-symop-cif-parsing\n",
   "aliases": "GHSA-3vfj-3hfg-rm35\nCVE-2026-133708\n",
   "assigner": "VulnCheck",
-  "epss": 0.27,
+  "epss": 0.22,
   "enisaIdProduct": [
     {
       "id": "b2ec5099-1eed-38f8-af79-ddeaf94a9dd3",

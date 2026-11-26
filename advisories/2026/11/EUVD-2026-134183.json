@@ -10,7 +10,7 @@
   "references": "https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_2026-4_release_notes.htm\nhttps://www.solarwinds.com/trust-center/security-advisories/CVE-2026-82313\n",
   "aliases": "CVE-2026-82313\nGHSA-wgw2-22r6-8vrv\n",
   "assigner": "SolarWinds",
-  "epss": 0.0,
+  "epss": 3.12,
   "enisaIdProduct": [
     {
       "id": "06caa81e-7e7b-33df-a9d0-390fdd6c6c0c",

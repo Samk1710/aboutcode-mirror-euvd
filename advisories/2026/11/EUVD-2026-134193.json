@@ -10,7 +10,7 @@
   "references": "https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_2026-4_release_notes.htm\nhttps://www.solarwinds.com/trust-center/security-advisories/CVE-2026-82321\n",
   "aliases": "CVE-2026-82321\nGHSA-7v6r-f4v3-cqmw\n",
   "assigner": "SolarWinds",
-  "epss": 0.0,
+  "epss": 1.18,
   "enisaIdProduct": [
     {
       "id": "54745c18-f275-36b7-9c5b-ccbbcc683677",

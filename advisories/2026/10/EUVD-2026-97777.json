@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:102936\nhttps://access.redhat.com/security/cve/CVE-2026-83536\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2526401\n",
   "aliases": "CVE-2026-83536\nGHSA-qphq-4x45-237m\n",
   "assigner": "redhat",
-  "epss": 0.31,
+  "epss": 0.67,
   "enisaIdProduct": [
     {
       "id": "3715147e-7b94-3e34-a6b9-4a778f45f3eb",

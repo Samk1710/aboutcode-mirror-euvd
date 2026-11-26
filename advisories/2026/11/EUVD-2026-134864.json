@@ -10,7 +10,7 @@
   "references": "https://vuldb.com/vuln/443232\nhttps://vuldb.com/vuln/443232/cti\nhttps://vuldb.com/cve/CVE-2026-136446\nhttps://vuldb.com/submit/1057212\nhttps://github.com/JaguarJack/catch-admin/issues/88\nhttps://github.com/JaguarJack/catch-admin/commit/3ae60d57ea6840bb33456596ad799b0a39ca94a2\nhttps://github.com/JaguarJack/catch-admin/\n",
   "aliases": "GHSA-78rq-pvmm-6h39\nCVE-2026-136446\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.52,
   "enisaIdProduct": [
     {
       "id": "a71766e4-931d-3112-b1be-eec8d18f526e",

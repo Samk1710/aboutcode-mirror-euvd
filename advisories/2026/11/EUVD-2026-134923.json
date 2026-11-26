@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:H/UI:P/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/webmin/webmin/commit/adc4fb5bba03ef3d786be3be8725c657970704fe\nhttps://github.com/webmin/webmin\nhttps://github.com/webmin/webmin/blob/2.670/cluster-useradmin/sync.cgi#L107\nhttps://github.com/webmin/webmin/blob/2.670/cluster-useradmin/sync.cgi#L111\nhttps://github.com/webmin/webmin/issues/2941\nhttps://doi.org/10.5281/zenodo.24396540\nhttps://www.vulncheck.com/advisories/webmin-through-2.670-perl-code-injection-via-cluster-useradmin-sync-cgi\n",
-  "aliases": "CVE-2026-134440\n",
+  "aliases": "GHSA-pvcc-vghc-hqqj\nCVE-2026-134440\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.5,
   "enisaIdProduct": [
     {
       "id": "978339ca-63fa-3609-aae7-70ca9c9c912c",

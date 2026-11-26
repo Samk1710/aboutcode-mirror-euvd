@@ -10,7 +10,7 @@
   "references": "https://store.steampowered.com/news/app/284160/view/681890829846973542\nhttps://github.com/drbloop2000/BeamNG-Drive-RCE\nhttps://www.vulncheck.com/advisories/beamng-drive-before-0.40.6-luajit-ffi-sandbox-escape-via-jit-bounds-check-bypass\n",
   "aliases": "CVE-2026-133528\nGHSA-7wxf-w2p5-7pvr\n",
   "assigner": "VulnCheck",
-  "epss": 0.2,
+  "epss": 0.18,
   "enisaIdProduct": [
     {
       "id": "1a81d6bf-8fca-33cd-98ea-156886c6f752",

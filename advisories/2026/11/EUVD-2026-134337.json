@@ -10,7 +10,7 @@
   "references": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-109484\n",
   "aliases": "CVE-2026-109484\nGHSA-2cjm-6p5w-mm9v\n",
   "assigner": "microsoft",
-  "epss": 0.0,
+  "epss": 1.75,
   "enisaIdProduct": [
     {
       "id": "aa027fb6-e36e-3ca3-b625-6aa85b5a293b",

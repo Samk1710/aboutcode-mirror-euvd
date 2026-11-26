@@ -10,7 +10,7 @@
   "references": "https://vuldb.com/vuln/441147\nhttps://vuldb.com/vuln/441147/cti\nhttps://vuldb.com/cve/CVE-2026-133608\nhttps://vuldb.com/submit/1050070\nhttps://github.com/openzipkin/zipkin/issues/3834\nhttps://github.com/openzipkin/zipkin/pull/3838\nhttps://github.com/openzipkin/zipkin/\n",
   "aliases": "CVE-2026-133608\nGHSA-3qwv-69c3-62f8\n",
   "assigner": "VulDB",
-  "epss": 0.59,
+  "epss": 0.72,
   "enisaIdProduct": [
     {
       "id": "40c61fcd-ff51-3ef9-a768-85753e14b430",

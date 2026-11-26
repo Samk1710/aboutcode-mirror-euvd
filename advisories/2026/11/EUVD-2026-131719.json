@@ -10,7 +10,7 @@
   "references": "https://github.com/bvisible/mcp-ssh-manager/security/advisories/GHSA-qwwm-vrm9-4mw8\nhttps://github.com/bvisible/mcp-ssh-manager/commit/d40daa8a43388dfaedf593bff18f0064d50f9633\nhttps://github.com/bvisible/mcp-ssh-manager/releases/tag/v3.8.5\n",
   "aliases": "CVE-2026-129995\n",
   "assigner": "GitHub_M",
-  "epss": 0.83,
+  "epss": 1.24,
   "enisaIdProduct": [
     {
       "id": "ac829498-a3bd-32e3-9f2c-870eda093ac0",

@@ -10,7 +10,7 @@
   "references": "https://vuldb.com/vuln/441422\nhttps://vuldb.com/vuln/441422/cti\nhttps://vuldb.com/cve/CVE-2026-133696\nhttps://vuldb.com/submit/1051586\n",
   "aliases": "GHSA-xp47-xmgf-hg6g\nCVE-2026-133696\n",
   "assigner": "VulDB",
-  "epss": 0.37,
+  "epss": 0.45,
   "enisaIdProduct": [
     {
       "id": "803e8eee-f498-3bd7-82c7-18cd59659ec2",

@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:66460\nhttps://access.redhat.com/errata/RHSA-2026:67145\nhttps://access.redhat.com/errata/RHSA-2026:69100\nhttps://access.redhat.com/security/cve/CVE-2026-85150\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2527936\nhttps://gitlab.freedesktop.org/gstreamer/gstreamer-security/-/merge_requests/120\nhttps://gitlab.freedesktop.org/gstreamer/gstreamer/-/blob/main/subprojects/gst-plugins-base/gst-libs/gst/rtsp/gstrtspmessage.c#L1408\n",
   "aliases": "GHSA-q4wf-cmpg-8rhf\nCVE-2026-85150\n",
   "assigner": "redhat",
-  "epss": 0.67,
+  "epss": 1.01,
   "enisaIdProduct": [
     {
       "id": "013a7c1f-05e6-365b-93ad-a15b8ac0e901",

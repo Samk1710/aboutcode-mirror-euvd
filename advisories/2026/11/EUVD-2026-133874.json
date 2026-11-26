@@ -10,7 +10,7 @@
   "references": "https://github.com/neuvector/neuvector/security/advisories/GHSA-x447-gqmh-6mcx\n",
   "aliases": "CVE-2026-127181\n",
   "assigner": "suse",
-  "epss": 0.0,
+  "epss": 0.51,
   "enisaIdProduct": [
     {
       "id": "835df448-436c-3718-9877-1fb351a0b21b",

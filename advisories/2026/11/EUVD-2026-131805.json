@@ -10,7 +10,7 @@
   "references": "https://github.com/DeusData/codebase-memory-mcp/security/advisories/GHSA-8xwq-xv2x-853r\nhttps://github.com/DeusData/codebase-memory-mcp/pull/941\nhttps://github.com/DeusData/codebase-memory-mcp/commit/a2f09c7ce97205147f127c2c8b12861bf74a02a3\nhttps://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.9.0\n",
   "aliases": "CVE-2026-114495\n",
   "assigner": "GitHub_M",
-  "epss": 0.24,
+  "epss": 0.2,
   "enisaIdProduct": [
     {
       "id": "f58431e6-02dd-3945-be5a-95685a5c6918",

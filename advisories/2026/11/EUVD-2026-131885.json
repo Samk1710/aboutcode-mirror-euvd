@@ -10,7 +10,7 @@
   "references": "https://vuldb.com/vuln/441503\nhttps://vuldb.com/vuln/441503/cti\nhttps://vuldb.com/cve/CVE-2026-133937\nhttps://vuldb.com/submit/1052004\nhttps://github.com/highlightjs/highlight.js/issues/4529\nhttps://github.com/highlightjs/highlight.js/pull/4575\n",
   "aliases": "CVE-2026-133937\nGHSA-cgx4-p4cg-j8rq\n",
   "assigner": "VulDB",
-  "epss": 0.59,
+  "epss": 0.7,
   "enisaIdProduct": [
     {
       "id": "0a859d6e-1172-3fe5-8811-183db2fe74b9",

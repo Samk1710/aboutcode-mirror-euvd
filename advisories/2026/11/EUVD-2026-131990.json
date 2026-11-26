@@ -10,7 +10,7 @@
   "references": "https://wpscan.com/vulnerability/45665973-3bbf-4900-9a52-5b08b3cef4be/\n",
   "aliases": "GHSA-qhm7-7x23-884m\nCVE-2026-111975\n",
   "assigner": "WPScan",
-  "epss": 0.28,
+  "epss": 0.56,
   "enisaIdProduct": [
     {
       "id": "9704e0bd-7cda-3121-abec-180568121c9d",

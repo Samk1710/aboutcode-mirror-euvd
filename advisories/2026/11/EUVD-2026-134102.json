@@ -10,7 +10,7 @@
   "references": "https://bugzilla.mozilla.org/show_bug.cgi?id=2061258\nhttps://www.mozilla.org/security/advisories/mfsa2026-131/\nhttps://www.mozilla.org/security/advisories/mfsa2026-132/\nhttps://www.mozilla.org/security/advisories/mfsa2026-133/\nhttps://www.mozilla.org/security/advisories/mfsa2026-134/\nhttps://www.mozilla.org/security/advisories/mfsa2026-135/\n",
   "aliases": "GHSA-276p-23f7-v6cc\nCVE-2026-135505\n",
   "assigner": "mozilla",
-  "epss": 0.0,
+  "epss": 0.41,
   "enisaIdProduct": [],
   "enisaIdVendor": []
 }

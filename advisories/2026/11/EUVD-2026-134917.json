@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:N/SC:L/SI:L/SA:N",
   "references": "https://github.com/webmin/webmin/commit/b8e0462f7b985751d0352665424ef4efa1bf19f2\nhttps://github.com/webmin/webmin\nhttps://github.com/webmin/webmin/blob/2.670/postfix/view_mailq.cgi#L124\nhttps://github.com/webmin/webmin/blob/2.670/sendmail/view_mailq.cgi#L119\nhttps://github.com/webmin/webmin/issues/2941\nhttps://doi.org/10.5281/zenodo.24396540\nhttps://www.vulncheck.com/advisories/webmin-through-2.670-stored-xss-via-mail-queue-attachment-filenames\n",
-  "aliases": "CVE-2026-134447\n",
+  "aliases": "GHSA-vp99-jr4v-v78x\nCVE-2026-134447\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.38,
   "enisaIdProduct": [
     {
       "id": "2560d571-7aaf-30da-a259-b31f5a138e97",

@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/security/cve/CVE-2026-2369\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2439091\nhttps://gitlab.gnome.org/GNOME/libsoup/-/issues/498\n",
   "aliases": "CVE-2026-2369\n",
   "assigner": "redhat",
-  "epss": 0.47,
+  "epss": 0.67,
   "enisaIdProduct": [],
   "enisaIdVendor": []
 }

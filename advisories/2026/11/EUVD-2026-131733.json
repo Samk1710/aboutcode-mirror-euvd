@@ -10,7 +10,7 @@
   "references": "https://github.com/nukeviet/nukeviet/security/advisories/GHSA-8xch-674f-grqr\nhttps://github.com/nukeviet/nukeviet/commit/a2ceabdacd5fb3135bde6cdfb106e76b24736095\nhttps://github.com/nukeviet/nukeviet/commit/b5305fe257a7487c7b8fbe74b31a9554793be720\nhttps://github.com/nukeviet/nukeviet/releases/tag/4.6.01\nhttps://nukeviet.vn/vi/news/Tin-tuc/thong-bao-phat-hanh-nukeviet-4-6-01-857.html\n",
   "aliases": "CVE-2026-94561\n",
   "assigner": "GitHub_M",
-  "epss": 0.37,
+  "epss": 0.56,
   "enisaIdProduct": [
     {
       "id": "b5bad2cd-ba9d-36d7-baa4-63175f36fe62",

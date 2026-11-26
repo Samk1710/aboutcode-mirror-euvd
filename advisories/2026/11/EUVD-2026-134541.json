@@ -10,7 +10,7 @@
   "references": "https://www.adobe.com/trust/security/products/experience-manager/apsb26-104.html\n",
   "aliases": "CVE-2026-132877\nGHSA-rp93-5j6w-q7j9\n",
   "assigner": "adobe",
-  "epss": 0.0,
+  "epss": 1.29,
   "enisaIdProduct": [
     {
       "id": "315a92de-05e0-38cd-9c16-b07e678b65e8",

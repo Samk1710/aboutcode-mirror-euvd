@@ -10,7 +10,7 @@
   "references": "http://rhn.redhat.com/errata/RHSA-2012-1591.html\nhttp://rhn.redhat.com/errata/RHSA-2012-1592.html\nhttp://rhn.redhat.com/errata/RHSA-2012-1594.html\nhttp://secunia.com/advisories/51607\nhttps://access.redhat.com/errata/RHSA-2012:1591\nhttps://access.redhat.com/errata/RHSA-2012:1592\nhttps://access.redhat.com/errata/RHSA-2012:1594\nhttps://access.redhat.com/security/cve/CVE-2012-4550\n",
   "aliases": "CVE-2012-4550\nGHSA-gg53-v4gc-qv5q\n",
   "assigner": "redhat",
-  "epss": 2.1,
+  "epss": 1.73,
   "enisaIdProduct": [
     {
       "id": "03801ffc-c2fe-3cb0-bb64-06d9c9e6c3fc",

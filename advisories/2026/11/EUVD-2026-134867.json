@@ -10,7 +10,7 @@
   "references": "https://vuldb.com/vuln/443233\nhttps://vuldb.com/vuln/443233/cti\nhttps://vuldb.com/cve/CVE-2026-136447\nhttps://vuldb.com/submit/1057449\nhttps://github.com/browser-use/browser-use/issues/6218\nhttps://github.com/browser-use/browser-use/\n",
   "aliases": "GHSA-7qr2-7jjc-7fr9\nCVE-2026-136447\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.2,
   "enisaIdProduct": [
     {
       "id": "545d4175-96d5-3b37-a541-d24a2f1c5007",

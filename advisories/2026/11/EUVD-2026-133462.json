@@ -10,7 +10,7 @@
   "references": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-120777\n",
   "aliases": "GHSA-j4r4-2g5q-jgpv\nCVE-2026-120777\n",
   "assigner": "microsoft",
-  "epss": 0.73,
+  "epss": 1.26,
   "enisaIdProduct": [
     {
       "id": "406c9848-ec52-3b28-b1d2-b4d99dd53a5a",

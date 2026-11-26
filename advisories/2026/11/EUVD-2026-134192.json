@@ -10,7 +10,7 @@
   "references": "https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_2026-4_release_notes.htm\nhttps://www.solarwinds.com/trust-center/security-advisories/CVE-2026-82320\n",
   "aliases": "CVE-2026-82320\nGHSA-w7cx-9pvh-8vvp\n",
   "assigner": "SolarWinds",
-  "epss": 0.0,
+  "epss": 1.18,
   "enisaIdProduct": [
     {
       "id": "f7b9f666-f710-30dd-a516-a68206aba424",

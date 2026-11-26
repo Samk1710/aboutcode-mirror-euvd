@@ -10,7 +10,7 @@
   "references": "https://github.com/COVESA/Open1722/security/advisories/GHSA-xvmx-7qq5-34q6\nhttps://github.com/COVESA/Open1722/commit/714067b0134cf36f89464dbc6ec25529c0e189c7\nhttps://github.com/COVESA/Open1722/releases/tag/v0.9.8\nhttps://github.com/COVESA/Open1722/blob/v0.9.7/src/avtp/acf/custom/Vss.c#L295-L310\nhttps://www.vulncheck.com/advisories/covesa-open1722-before-0.9.8-out-of-bounds-read-via-avtp-vss-calcvsspathlength\n",
   "aliases": "CVE-2026-136616\nGHSA-2733-gqw7-99qw\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.35,
   "enisaIdProduct": [
     {
       "id": "b824cbd5-225e-3e7d-9209-f37786a78828",

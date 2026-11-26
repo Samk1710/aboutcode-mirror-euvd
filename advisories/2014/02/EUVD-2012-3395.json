@@ -10,7 +10,7 @@
   "references": "http://rhn.redhat.com/errata/RHSA-2012-1376.html\nhttp://secunia.com/advisories/51016\nhttp://www.osvdb.org/86409\nhttp://www.securityfocus.com/bid/55945\nhttps://access.redhat.com/errata/RHSA-2012:1376\nhttps://access.redhat.com/security/cve/CVE-2012-3427\nhttps://exchange.xforce.ibmcloud.com/vulnerabilities/79398\n",
   "aliases": "CVE-2012-3427\nGHSA-mhvm-wr2g-3xfq\n",
   "assigner": "redhat",
-  "epss": 0.34,
+  "epss": 0.31,
   "enisaIdProduct": [
     {
       "id": "5d9aede9-7e7d-3da5-88ee-a40ae1733772",

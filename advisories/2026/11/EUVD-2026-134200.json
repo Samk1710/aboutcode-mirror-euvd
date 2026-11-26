@@ -10,7 +10,7 @@
   "references": "https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_2026-4_release_notes.htm\nhttps://www.solarwinds.com/trust-center/security-advisories/CVE-2026-123168\n",
   "aliases": "GHSA-wp67-ww48-m7q9\nCVE-2026-123168\n",
   "assigner": "SolarWinds",
-  "epss": 0.0,
+  "epss": 0.88,
   "enisaIdProduct": [
     {
       "id": "4d01610c-9c8b-3e42-a9b1-1c0adee4a15d",

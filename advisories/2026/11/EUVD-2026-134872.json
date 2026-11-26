@@ -10,7 +10,7 @@
   "references": "https://github.com/nektos/act/security/advisories/GHSA-jpm2-x6wf-fxjc\nhttps://github.com/nektos/act/commit/a456b6b560db74fc0c59fcde385c0d29ff4f4517\nhttps://github.com/nektos/act/releases/tag/v0.2.95\nhttps://github.com/nektos/act/blob/v0.2.94/cmd/actrc.go#L135-L196\nhttps://www.vulncheck.com/advisories/nektos-act-0.2.92-before-0.2.95-actrc-allowlist-bypass-via-argument-smuggling\n",
   "aliases": "CVE-2026-136629\nGHSA-v67j-phgg-9prm\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.29,
   "enisaIdProduct": [
     {
       "id": "3566c9f9-ca4a-3e02-b90e-432c4b6006ac",

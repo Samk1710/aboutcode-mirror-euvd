@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:102947\nhttps://access.redhat.com/errata/RHSA-2026:95581\nhttps://access.redhat.com/errata/RHSA-2026:95981\nhttps://access.redhat.com/errata/RHSA-2026:98115\nhttps://access.redhat.com/errata/RHSA-2026:98524\nhttps://access.redhat.com/errata/RHSA-2026:98526\nhttps://access.redhat.com/errata/RHSA-2026:98534\nhttps://access.redhat.com/errata/RHSA-2026:98633\nhttps://access.redhat.com/errata/RHSA-2026:98640\nhttps://access.redhat.com/errata/RHSA-2026:98648\nhttps://access.redhat.com/errata/RHSA-2026:99632\nhttps://access.redhat.com/security/cve/CVE-2026-114690\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2478652\n",
   "aliases": "GHSA-36h8-gj54-w3vc\nCVE-2026-114690\n",
   "assigner": "redhat",
-  "epss": 0.19,
+  "epss": 0.2,
   "enisaIdProduct": [
     {
       "id": "32066b1d-3360-3019-9486-5d42c444f258",

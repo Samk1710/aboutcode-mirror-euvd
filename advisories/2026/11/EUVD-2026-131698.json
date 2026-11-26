@@ -10,7 +10,7 @@
   "references": "https://github.com/Kovah/LinkAce/security/advisories/GHSA-j8h3-8j87-6q88\nhttps://github.com/Kovah/LinkAce/pull/1125\nhttps://github.com/Kovah/LinkAce/commit/4b1de94c18d2179425968781caf4337293f93095\nhttps://github.com/Kovah/LinkAce/releases/tag/v2.6.0\n",
   "aliases": "CVE-2026-104186\n",
   "assigner": "GitHub_M",
-  "epss": 0.38,
+  "epss": 0.59,
   "enisaIdProduct": [
     {
       "id": "39feddfa-2781-3eb0-9641-f662e8e0998e",

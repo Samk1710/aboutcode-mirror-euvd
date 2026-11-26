@@ -10,7 +10,7 @@
   "references": "https://github.com/neuvector/neuvector/security/advisories/GHSA-3x2m-c67v-vw77\n",
   "aliases": "CVE-2026-127182\n",
   "assigner": "suse",
-  "epss": 0.0,
+  "epss": 1.12,
   "enisaIdProduct": [
     {
       "id": "a1190eb6-4e32-32be-bb5b-7bcf1aa99bcb",

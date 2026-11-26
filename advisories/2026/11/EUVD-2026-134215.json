@@ -10,7 +10,7 @@
   "references": "https://lists.apache.org/thread/trrzwgw5z0pzhk46cyvl6fvr7f6shgkz\n",
   "aliases": "GHSA-g9vf-m6gc-f558\nCVE-2026-124615\n",
   "assigner": "apache",
-  "epss": 0.0,
+  "epss": 0.77,
   "enisaIdProduct": [
     {
       "id": "111682e7-7b2b-3159-9f56-e84e6ac540f2",

@@ -10,7 +10,7 @@
   "references": "https://github.com/nomadkaraoke/python-audio-separator/pull/316\nhttps://github.com/nomadkaraoke/python-audio-separator/commit/6d7d3fd60accda60c7ad8807ce5731022475dcf3\nhttps://github.com/nomadkaraoke/python-audio-separator/releases/tag/v0.47.2\nhttps://github.com/nomadkaraoke/python-audio-separator/blob/465b60f0271e880a7289a2c9aaeb13817c3b2bed/audio_separator/separator/uvr_lib_v5/demucs/states.py#L43\nhttps://github.com/nomadkaraoke/python-audio-separator/blob/465b60f0271e880a7289a2c9aaeb13817c3b2bed/audio_separator/separator/separator.py#L126\nhttps://www.vulncheck.com/advisories/audio-separator-before-0.47.2-rce-via-unsafe-pickle-deserialization-of-demucs-models\n",
   "aliases": "CVE-2026-134172\nGHSA-gv8g-fprf-x5cj\n",
   "assigner": "VulnCheck",
-  "epss": 0.36,
+  "epss": 0.39,
   "enisaIdProduct": [
     {
       "id": "3eef6293-dd75-3c85-ad38-f0ec8d6ef847",

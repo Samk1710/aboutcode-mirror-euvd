@@ -10,7 +10,7 @@
   "references": "https://github.com/cesanta/mongoose/security/advisories/GHSA-99jq-33q7-4w7q\nhttps://github.com/cesanta/mongoose/commit/cd05b162a84eb7b631e5c038616045e74bb906d1\nhttps://github.com/cesanta/mongoose/releases/tag/7.24\nhttps://github.com/cesanta/mongoose/blob/7.23/src/net_builtin.c#L318-L325\nhttps://www.vulncheck.com/advisories/cesanta-mongoose-7.21-before-7.24-out-of-bounds-read-via-ipv6-checksum-validation\n",
   "aliases": "GHSA-42pv-xhf8-w7pq\nCVE-2026-134171\n",
   "assigner": "VulnCheck",
-  "epss": 0.83,
+  "epss": 0.65,
   "enisaIdProduct": [
     {
       "id": "94eb4fa3-ad58-3524-98f0-471a4615c696",

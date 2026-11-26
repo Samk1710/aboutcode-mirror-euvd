@@ -10,7 +10,7 @@
   "references": "https://www.zerodayinitiative.com/advisories/ZDI-26-1055/\n",
   "aliases": "CVE-2026-136428\nGHSA-qxg3-cqcm-fvww\n",
   "assigner": "zdi",
-  "epss": 0.0,
+  "epss": 0.58,
   "enisaIdProduct": [
     {
       "id": "300f4332-6d13-32f3-86df-af1f07ffba3c",

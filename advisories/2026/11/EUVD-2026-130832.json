@@ -10,7 +10,7 @@
   "references": "https://www.ruijie.com/en-global/support/securitybulletins/cybersecurity-bulletins/10009\nhttps://jvn.jp/en/jp/JVN28897261/\n",
   "aliases": "CVE-2026-113347\nGHSA-x52f-whf6-vhv7\n",
   "assigner": "jpcert",
-  "epss": 1.49,
+  "epss": 1.71,
   "enisaIdProduct": [
     {
       "id": "00b00db7-8481-3403-82c9-05fde63a22b0",

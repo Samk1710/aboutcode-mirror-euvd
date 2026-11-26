@@ -10,7 +10,7 @@
   "references": "https://github.com/akitaonrails/ai-memory/security/advisories/GHSA-jr85-7366-xrm2\nhttps://github.com/akitaonrails/ai-memory/commit/59616c6a37948afd273c1d416a698abad5a25b0a\nhttps://github.com/akitaonrails/ai-memory/releases/tag/v3.3.2\nhttps://github.com/akitaonrails/ai-memory/blob/v3.3.1/companions/ai-memory-wikisync/src/sync.rs#L315-L340\nhttps://www.vulncheck.com/advisories/ai-memory-2.6.0-before-3.3.2-symlink-arbitrary-file-overwrite-via-ai-memory-wikisync\n",
   "aliases": "GHSA-3wpg-cqfr-3q3h\nCVE-2026-136625\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.22,
   "enisaIdProduct": [
     {
       "id": "2684b646-4e61-3ac8-8540-05fb374cb22b",

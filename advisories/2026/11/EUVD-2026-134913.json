@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:P/VC:L/VI:L/VA:N/SC:L/SI:L/SA:N",
   "references": "https://github.com/webmin/webmin\nhttps://github.com/webmin/webmin/blob/2.670/quota/list_users.cgi#L144-L146\nhttps://github.com/webmin/webmin/blob/2.670/quota/linux-lib.pl#L719-L723\nhttps://github.com/webmin/webmin/issues/2941\nhttps://doi.org/10.5281/zenodo.24396540\nhttps://www.vulncheck.com/advisories/webmin-through-2.670-stored-xss-via-quota-list-users-cgi\n",
-  "aliases": "CVE-2026-134628\n",
+  "aliases": "GHSA-89jr-mw4p-22fp\nCVE-2026-134628\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.33,
   "enisaIdProduct": [
     {
       "id": "eb0fa4e9-a0d5-3a83-9077-2797500e41ea",

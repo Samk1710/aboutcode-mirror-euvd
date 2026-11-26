@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:102947\nhttps://access.redhat.com/errata/RHSA-2026:73642\nhttps://access.redhat.com/errata/RHSA-2026:74569\nhttps://access.redhat.com/errata/RHSA-2026:89830\nhttps://access.redhat.com/errata/RHSA-2026:89891\nhttps://access.redhat.com/errata/RHSA-2026:90915\nhttps://access.redhat.com/errata/RHSA-2026:95581\nhttps://access.redhat.com/errata/RHSA-2026:98474\nhttps://access.redhat.com/errata/RHSA-2026:98475\nhttps://access.redhat.com/errata/RHSA-2026:98483\nhttps://access.redhat.com/errata/RHSA-2026:98576\nhttps://access.redhat.com/errata/RHSA-2026:98577\nhttps://access.redhat.com/errata/RHSA-2026:98580\nhttps://access.redhat.com/errata/RHSA-2026:99032\nhttps://access.redhat.com/errata/RHSA-2026:99041\nhttps://access.redhat.com/errata/RHSA-2026:99089\nhttps://access.redhat.com/security/cve/CVE-2026-102010\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2478395\n",
   "aliases": "CVE-2026-102010\nGHSA-q3jj-75h6-5xmp\n",
   "assigner": "redhat",
-  "epss": 0.43,
+  "epss": 0.54,
   "enisaIdProduct": [
     {
       "id": "084e3c97-e36e-3bac-ab62-d809ec4223de",

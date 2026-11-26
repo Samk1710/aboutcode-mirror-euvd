@@ -8,7 +8,7 @@
   "references": "https://metacpan.org/release/TRUNAEV/Strong-Random-0.96/source/lib/Strong/Random.pm\n",
   "aliases": "CVE-2026-122093\nGHSA-7mj4-4983-2353\n",
   "assigner": "CPANSec",
-  "epss": 0.0,
+  "epss": 0.21,
   "enisaIdProduct": [],
   "enisaIdVendor": []
 }

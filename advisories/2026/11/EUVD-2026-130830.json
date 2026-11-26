@@ -10,7 +10,7 @@
   "references": "https://vuldb.com/vuln/440882\nhttps://vuldb.com/vuln/440882/cti\nhttps://vuldb.com/cve/CVE-2026-133480\nhttps://vuldb.com/submit/1049151\nhttps://github.com/hrshadhin/school-management-system/issues/277\n",
   "aliases": "CVE-2026-133480\nGHSA-2rxj-q2ff-9qm9\n",
   "assigner": "VulDB",
-  "epss": 0.22,
+  "epss": 0.37,
   "enisaIdProduct": [
     {
       "id": "290f5977-3604-37af-8424-da17cae2c077",

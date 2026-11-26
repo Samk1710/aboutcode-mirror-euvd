@@ -10,7 +10,7 @@
   "references": "https://github.com/LibreChat-AI/LibreChat/security/advisories/GHSA-f7xq-83jc-cgrj\nhttps://github.com/LibreChat-AI/LibreChat/pull/16514\nhttps://github.com/LibreChat-AI/LibreChat/commit/4d33d8c2c71ad497fdfaa2c4334b0a2293bcbd67\nhttps://github.com/LibreChat-AI/LibreChat/releases/tag/v0.8.8\nhttps://www.librechat.ai/changelog/v0.8.8\n",
   "aliases": "CVE-2026-54031\n",
   "assigner": "GitHub_M",
-  "epss": 0.35,
+  "epss": 0.55,
   "enisaIdProduct": [
     {
       "id": "54024baa-5cc6-376d-a33f-70ee0a280c41",

@@ -10,7 +10,7 @@
   "references": "https://github.com/Shopify/async-memcached/security/advisories/GHSA-f9wj-cj54-79vv\nhttps://github.com/Shopify/async-memcached/commit/500c8296cbbde2dde7fc2fc632161e946b1ad438\nhttps://github.com/Shopify/async-memcached/releases/tag/v0.11.0\nhttps://github.com/Shopify/async-memcached/blob/v0.10.0/src/lib.rs#L345-L386\nhttps://www.vulncheck.com/advisories/shopify-async-memcached-before-0.11.0-meta-protocol-injection-via-meta-flags\n",
   "aliases": "GHSA-hr2x-hjpj-8592\nCVE-2026-136617\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 1.2,
   "enisaIdProduct": [
     {
       "id": "855abe24-8017-31d5-b0d9-646714656070",

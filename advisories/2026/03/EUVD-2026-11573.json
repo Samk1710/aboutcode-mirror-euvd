@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/security/cve/CVE-2026-3099\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2442232\nhttps://gitlab.gnome.org/GNOME/libsoup/-/issues/495\n",
   "aliases": "CVE-2026-3099\nGHSA-hrf3-6c7v-5628\n",
   "assigner": "redhat",
-  "epss": 0.43,
+  "epss": 0.58,
   "enisaIdProduct": [],
   "enisaIdVendor": []
 }

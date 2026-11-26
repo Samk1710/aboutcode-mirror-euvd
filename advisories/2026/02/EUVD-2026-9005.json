@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/errata/RHSA-2026:2365\nhttps://access.redhat.com/errata/RHSA-2026:2366\nhttps://access.redhat.com/security/cve/CVE-2026-0871\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2428881\n",
   "aliases": "CVE-2026-0871\nGHSA-v4jw-m6rm-399h\n",
   "assigner": "redhat",
-  "epss": 0.34,
+  "epss": 0.53,
   "enisaIdProduct": [
     {
       "id": "20bae02e-28fe-3786-9e64-deb04049450c",

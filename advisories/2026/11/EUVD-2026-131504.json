@@ -10,7 +10,7 @@
   "references": "https://vuldb.com/vuln/440989\nhttps://vuldb.com/vuln/440989/cti\nhttps://vuldb.com/cve/CVE-2026-133578\nhttps://vuldb.com/submit/1050049\nhttps://github.com/moreorless403-star/SQL-Injection-Vulnerability-Reports\nhttps://itsourcecode.com/\n",
   "aliases": "CVE-2026-133578\nGHSA-jmqx-jwm5-34xf\n",
   "assigner": "VulDB",
-  "epss": 0.37,
+  "epss": 0.43,
   "enisaIdProduct": [
     {
       "id": "eff8b5ac-a43b-38dc-b5f1-75cb9e9dc89b",

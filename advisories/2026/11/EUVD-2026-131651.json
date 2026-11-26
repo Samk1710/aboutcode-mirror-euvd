@@ -10,7 +10,7 @@
   "references": "https://github.com/MartialBE/one-hub/issues/939\nhttps://github.com/MartialBE/one-hub\nhttps://github.com/MartialBE/one-hub/blob/v0.14.27/common/image/image.go#L21-L30\nhttps://www.vulncheck.com/advisories/one-hub-through-0.14.27-ssrf-via-vision-chat-image-url\n",
   "aliases": "CVE-2026-133875\nGHSA-fv9f-9mmp-rxx2\n",
   "assigner": "VulnCheck",
-  "epss": 0.35,
+  "epss": 0.34,
   "enisaIdProduct": [
     {
       "id": "38102cad-fca9-374b-a9b2-def208a75da9",

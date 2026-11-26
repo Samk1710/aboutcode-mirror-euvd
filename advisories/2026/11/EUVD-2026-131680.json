@@ -10,7 +10,7 @@
   "references": "https://github.com/weblyzard/inscriptis/security/advisories/GHSA-q87h-c5m7-659j\nhttps://github.com/weblyzard/inscriptis/commit/dc122894cd671a0227f8fdad60464acddaf40fc8\nhttps://github.com/weblyzard/inscriptis/releases/tag/2.7.6\n",
   "aliases": "CVE-2026-132277\nGHSA-q87h-c5m7-659j\n",
   "assigner": "GitHub_M",
-  "epss": 0.91,
+  "epss": 0.6,
   "enisaIdProduct": [
     {
       "id": "881d7cd6-92d1-305a-955e-3c31baef9df6",

@@ -10,7 +10,7 @@
   "references": "https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_2026-4_release_notes.htm\nhttps://www.solarwinds.com/trust-center/security-advisories/CVE-2026-123167\n",
   "aliases": "CVE-2026-123167\nGHSA-hgjh-hf5q-437v\n",
   "assigner": "SolarWinds",
-  "epss": 0.0,
+  "epss": 0.94,
   "enisaIdProduct": [
     {
       "id": "e564b4ad-f13b-33f2-ae2d-9b54069991cd",

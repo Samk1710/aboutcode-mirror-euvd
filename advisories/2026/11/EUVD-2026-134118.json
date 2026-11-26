@@ -10,7 +10,7 @@
   "references": "https://bugzilla.mozilla.org/show_bug.cgi?id=2088537\nhttps://www.mozilla.org/security/advisories/mfsa2026-131/\nhttps://www.mozilla.org/security/advisories/mfsa2026-132/\nhttps://www.mozilla.org/security/advisories/mfsa2026-133/\nhttps://www.mozilla.org/security/advisories/mfsa2026-134/\nhttps://www.mozilla.org/security/advisories/mfsa2026-135/\n",
   "aliases": "CVE-2026-135531\nGHSA-mw92-c6p4-v3mm\n",
   "assigner": "mozilla",
-  "epss": 0.0,
+  "epss": 0.71,
   "enisaIdProduct": [],
   "enisaIdVendor": []
 }

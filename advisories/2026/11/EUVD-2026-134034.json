@@ -10,7 +10,7 @@
   "references": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083091\nhttps://www.mozilla.org/security/advisories/mfsa2026-131/\nhttps://www.mozilla.org/security/advisories/mfsa2026-133/\nhttps://www.mozilla.org/security/advisories/mfsa2026-134/\nhttps://www.mozilla.org/security/advisories/mfsa2026-135/\n",
   "aliases": "CVE-2026-135579\nGHSA-rfpc-82j3-384m\n",
   "assigner": "mozilla",
-  "epss": 0.0,
+  "epss": 0.7,
   "enisaIdProduct": [],
   "enisaIdVendor": []
 }

@@ -10,7 +10,7 @@
   "references": "https://cna.erlef.org/cves/CVE-2026-48591.html\nhttps://osv.dev/vulnerability/EEF-CVE-2026-48591\nhttps://github.com/pragdave/earmark/commit/8236a0570bd894b50e360da08131ec3294c20799\n",
   "aliases": "CVE-2026-48591\nGHSA-52mm-h59v-f3c7\n",
   "assigner": "EEF",
-  "epss": 0.14,
+  "epss": 0.2,
   "enisaIdProduct": [
     {
       "id": "975c9197-8afe-348d-bb08-93ab3d7c141a",

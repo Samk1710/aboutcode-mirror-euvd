@@ -10,7 +10,7 @@
   "references": "https://www.dell.com/support/kbdoc/en-us/000527640/dsa-2026-479-dell-powerstore-t-security-update-for-multiple-vulnerabilities\n",
   "aliases": "CVE-2026-111546\nGHSA-gwjr-j9q6-pmg3\n",
   "assigner": "dell",
-  "epss": 0.0,
+  "epss": 1.62,
   "enisaIdProduct": [
     {
       "id": "0fb19ad4-ecfa-3795-869e-1c8f42128a41",
