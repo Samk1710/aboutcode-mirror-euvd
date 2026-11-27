@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:N/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/443909\nhttps://vuldb.com/vuln/443909/cti\nhttps://vuldb.com/cve/CVE-2026-136945\nhttps://vuldb.com/submit/1059414\n",
-  "aliases": "CVE-2026-136945\n",
+  "aliases": "GHSA-9p2c-m7cc-2gwv\nCVE-2026-136945\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.36,
   "enisaIdProduct": [
     {
       "id": "7ab101b0-32a7-3d09-8c63-bdc77c762aa0",

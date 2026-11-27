@@ -10,7 +10,7 @@
   "references": "https://github.com/Admidio/admidio/security/advisories/GHSA-p44v-xj87-c7j4\nhttps://www.vulncheck.com/advisories/admidio-5.0.17-missing-authorization-in-ckeditor-upload-handler-php-image-upload\n",
   "aliases": "CVE-2026-134256\nGHSA-4v4r-pj3p-xfgq\n",
   "assigner": "VulnCheck",
-  "epss": 0.26,
+  "epss": 0.41,
   "enisaIdProduct": [
     {
       "id": "61c1dc5f-cb7d-3de8-bdd4-a7077224d920",

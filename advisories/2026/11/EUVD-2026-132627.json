@@ -10,7 +10,7 @@
   "references": "https://github.com/openairinterface/oai-cn5g-smf/issues/13\nhttps://github.com/openairinterface/oai-cn5g-smf/commit/9d8e866e972a6a64a9ce3bf6ebd77a9e126f0716\nhttps://github.com/openairinterface/oai-cn5g-smf/blob/v2.2.2/src/smf_app/smf_context.cpp\nhttps://www.vulncheck.com/advisories/openairinterface-cn5g-smf-through-2.2.2-orphaned-n7-sm-policy-associations-via-pdu-release\n",
   "aliases": "GHSA-x876-mx5x-qxc5\nCVE-2026-134656\n",
   "assigner": "VulnCheck",
-  "epss": 0.47,
+  "epss": 0.84,
   "enisaIdProduct": [
     {
       "id": "1d6d72b4-10cc-317a-b448-5f99354613b5",

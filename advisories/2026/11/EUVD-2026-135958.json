@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/443910\nhttps://vuldb.com/vuln/443910/cti\nhttps://vuldb.com/cve/CVE-2026-136946\nhttps://vuldb.com/submit/1059443\nhttps://github.com/philipjscott/simple-thumbnail/issues/88\nhttps://github.com/philipjscott/simple-thumbnail/\n",
-  "aliases": "CVE-2026-136946\n",
+  "aliases": "GHSA-rhjv-2p8v-ghph\nCVE-2026-136946\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 1.53,
   "enisaIdProduct": [
     {
       "id": "3bdc1c17-5c1e-3951-bb7e-f5c69ff157c7",

@@ -10,7 +10,7 @@
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-cxqw-2wh9-h8c9\nhttps://www.vulncheck.com/advisories/vikunja-from-2.2.1-before-2.8.0-totp-replay-protection-bypass-via-whitespace\n",
   "aliases": "GHSA-84rv-whvr-hg5f\nCVE-2026-134276\n",
   "assigner": "VulnCheck",
-  "epss": 0.3,
+  "epss": 0.43,
   "enisaIdProduct": [
     {
       "id": "503cbc1c-1911-3371-80a2-8d99cfce64d9",

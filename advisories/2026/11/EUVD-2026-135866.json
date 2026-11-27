@@ -6,9 +6,9 @@
   "dateUpdated": "Nov 26, 2026, 2:07:17 AM",
   "baseScore": 0.0,
   "references": "https://github.com/ssimms/pdfapi2/commit/70a5ab29638bd92205ecc5186ca8728609f0f706.patch\nhttps://metacpan.org/release/SSIMMS/PDF-API2-2.049/changes\n",
-  "aliases": "CVE-2026-135092\n",
+  "aliases": "GHSA-qg33-xj3j-9x4q\nCVE-2026-135092\n",
   "assigner": "CPANSec",
-  "epss": 0.0,
+  "epss": 0.42,
   "enisaIdProduct": [],
   "enisaIdVendor": []
 }

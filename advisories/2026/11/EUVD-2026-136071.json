@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:H/UI:N/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N",
   "references": "https://www.encyclopedia.txone.com/en-us/support/psirt/CVE-2026-123684\n",
-  "aliases": "CVE-2026-123684\n",
+  "aliases": "GHSA-9gmq-6xgw-8fm8\nCVE-2026-123684\n",
   "assigner": "TXOne",
-  "epss": 0.0,
+  "epss": 0.18,
   "enisaIdProduct": [
     {
       "id": "09fd7fb2-18d4-3839-a00e-71c79267e02b",

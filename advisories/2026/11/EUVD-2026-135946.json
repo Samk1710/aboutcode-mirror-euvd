@@ -6,9 +6,9 @@
   "dateUpdated": "Nov 26, 2026, 12:44:34 AM",
   "baseScore": 0.0,
   "references": "https://www.drupal.org/sa-contrib-2026-334\n",
-  "aliases": "CVE-2026-126743\n",
+  "aliases": "GHSA-rfgm-vprc-w5fp\nCVE-2026-126743\n",
   "assigner": "drupal",
-  "epss": 0.0,
+  "epss": 0.26,
   "enisaIdProduct": [
     {
       "id": "6aa7e52a-52ed-3fd2-9e27-3bdd1fb67059",

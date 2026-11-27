@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:X",
   "references": "https://vuldb.com/vuln/443913\nhttps://vuldb.com/vuln/443913/cti\nhttps://vuldb.com/cve/CVE-2026-136950\nhttps://vuldb.com/submit/1060826\nhttps://github.com/ghostty-org/ghostty/security/advisories/GHSA-cw69-wm67-5pv8\nhttps://github.com/ghostty-org/ghostty/commit/54fe8e188552977249a084db687e75aee6bf12e9\nhttps://github.com/ghostty-org/ghostty/releases/tag/v1.4.0\n",
-  "aliases": "CVE-2026-136950\n",
+  "aliases": "GHSA-7c7w-8p4w-xr4c\nCVE-2026-136950\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.37,
   "enisaIdProduct": [
     {
       "id": "1a724d70-f09b-3f04-a1b3-bda9dd922729",

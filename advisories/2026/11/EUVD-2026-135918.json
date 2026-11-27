@@ -6,9 +6,9 @@
   "dateUpdated": "Nov 26, 2026, 12:44:01 AM",
   "baseScore": 0.0,
   "references": "https://www.drupal.org/sa-contrib-2026-306\n",
-  "aliases": "CVE-2026-122075\n",
+  "aliases": "GHSA-72hm-258j-vmrp\nCVE-2026-122075\n",
   "assigner": "drupal",
-  "epss": 0.0,
+  "epss": 0.25,
   "enisaIdProduct": [
     {
       "id": "3c2a4f59-fc22-3de0-87ff-6c1e16c70dd3",

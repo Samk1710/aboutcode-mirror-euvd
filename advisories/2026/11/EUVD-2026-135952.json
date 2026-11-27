@@ -6,9 +6,9 @@
   "dateUpdated": "Nov 26, 2026, 12:44:41 AM",
   "baseScore": 0.0,
   "references": "https://www.drupal.org/sa-core-2026-017\n",
-  "aliases": "CVE-2026-132165\n",
+  "aliases": "GHSA-rxxp-22w8-2353\nCVE-2026-132165\n",
   "assigner": "drupal",
-  "epss": 0.0,
+  "epss": 11.05,
   "exploitedSince": "Nov 24, 2026, 12:00:00 AM",
   "enisaIdProduct": [
     {

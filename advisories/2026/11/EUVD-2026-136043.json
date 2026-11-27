@@ -10,7 +10,7 @@
   "references": "https://github.com/kestra-io/kestra/security/advisories/GHSA-9gp7-896w-m3r7\nhttps://github.com/kestra-io/kestra/commit/1be8ce08f8e86ec7bd4cf79b28a61be033b3b875\nhttps://github.com/kestra-io/kestra/releases/tag/v2.0.1\n",
   "aliases": "CVE-2026-122263\n",
   "assigner": "GitHub_M",
-  "epss": 0.0,
+  "epss": 0.27,
   "enisaIdProduct": [
     {
       "id": "2eef945a-9de5-30eb-ac77-3e2fce46eb71",

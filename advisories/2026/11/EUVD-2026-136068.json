@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:P/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N",
   "references": "https://www.encyclopedia.txone.com/en-us/support/psirt/CVE-2026-123681\n",
-  "aliases": "CVE-2026-123681\n",
+  "aliases": "GHSA-rj68-9v9x-3q6j\nCVE-2026-123681\n",
   "assigner": "TXOne",
-  "epss": 0.0,
+  "epss": 0.25,
   "enisaIdProduct": [
     {
       "id": "cd8614f9-1e71-3579-a22d-6c5fc671c1c8",

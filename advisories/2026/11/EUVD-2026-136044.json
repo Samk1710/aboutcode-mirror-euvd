@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/443912\nhttps://vuldb.com/vuln/443912/cti\nhttps://vuldb.com/cve/CVE-2026-136949\nhttps://vuldb.com/submit/1060144\nhttps://github.com/vinniboy021-blip/Advisory/blob/main/pico-content-editor-ssrf.md\n",
-  "aliases": "CVE-2026-136949\n",
+  "aliases": "CVE-2026-136949\nGHSA-5w8q-4839-mhvr\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.36,
   "enisaIdProduct": [
     {
       "id": "22e687b8-98b8-321d-8e55-183ccc7ff7d4",

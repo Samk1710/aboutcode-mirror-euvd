@@ -10,7 +10,7 @@
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-2cgh-9vgx-r9gg\nhttps://www.vulncheck.com/advisories/vikunja-0.17.0-before-2.8.0-information-disclosure-via-task-deleted-webhook-payload\n",
   "aliases": "GHSA-hmvc-9vp9-87f2\nCVE-2026-134280\n",
   "assigner": "VulnCheck",
-  "epss": 0.24,
+  "epss": 0.49,
   "enisaIdProduct": [
     {
       "id": "8be79acd-0b22-362c-915f-c2588467421e",

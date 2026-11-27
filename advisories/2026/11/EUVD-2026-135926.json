@@ -6,9 +6,9 @@
   "dateUpdated": "Nov 26, 2026, 12:44:11 AM",
   "baseScore": 0.0,
   "references": "https://www.drupal.org/sa-contrib-2026-311\n",
-  "aliases": "CVE-2026-122083\n",
+  "aliases": "GHSA-wmmw-8mmq-mx2v\nCVE-2026-122083\n",
   "assigner": "drupal",
-  "epss": 0.0,
+  "epss": 0.25,
   "enisaIdProduct": [
     {
       "id": "83571453-e95c-32f8-8963-489663ff10ed",

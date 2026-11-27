@@ -10,7 +10,7 @@
   "references": "https://github.com/Admidio/admidio/security/advisories/GHSA-mhjp-mpjr-7rx5\nhttps://www.vulncheck.com/advisories/admidio-5.0.0-before-5.0.18-authorization-bypass-via-bulk-profile-edit-in-profile-new-php\n",
   "aliases": "GHSA-34r7-r8cp-r7vh\nCVE-2026-134260\n",
   "assigner": "VulnCheck",
-  "epss": 0.26,
+  "epss": 0.27,
   "enisaIdProduct": [
     {
       "id": "bbb341e8-9e85-33a2-83f3-4241b9a49d92",

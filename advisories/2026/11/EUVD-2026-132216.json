@@ -10,7 +10,7 @@
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-hgmr-qmpr-jg4j\nhttps://www.vulncheck.com/advisories/vikunja-0.19.0-before-2.8.0-caldav-vtodo-parameter-cpu-denial-of-service\n",
   "aliases": "CVE-2026-134270\nGHSA-6p87-wxxx-xv55\n",
   "assigner": "VulnCheck",
-  "epss": 0.44,
+  "epss": 0.8,
   "enisaIdProduct": [
     {
       "id": "91f60074-07ab-3f9c-a485-b92b2064e3f5",

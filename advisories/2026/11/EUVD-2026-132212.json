@@ -10,7 +10,7 @@
   "references": "https://github.com/go-vikunja/vikunja/security/advisories/GHSA-4f8c-84wp-h6q5\nhttps://www.vulncheck.com/advisories/vikunja-0.19.0-before-2.8.0-denial-of-service-via-datemath-business-day-filter\n",
   "aliases": "GHSA-9fjf-2vf5-29rp\nCVE-2026-134266\n",
   "assigner": "VulnCheck",
-  "epss": 0.44,
+  "epss": 0.54,
   "enisaIdProduct": [
     {
       "id": "6b970b16-3dd0-32c2-bd7e-1d58e6a73a84",

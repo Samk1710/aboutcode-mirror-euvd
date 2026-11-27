@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N/E:X",
   "references": "https://vuldb.com/vuln/443831\nhttps://vuldb.com/vuln/443831/cti\nhttps://vuldb.com/cve/CVE-2026-136876\nhttps://vuldb.com/submit/933793\nhttps://github.com/gl-inet/CVE-issues/blob/main/4.0.0/wg-client.add_config%20Null%20Pointer%20Dereference%20Denial-of-Service%20Vulnerability%20After%20Authentication.md\n",
-  "aliases": "CVE-2026-136876\n",
+  "aliases": "CVE-2026-136876\nGHSA-6w5w-w9w5-3378\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.62,
   "enisaIdProduct": [
     {
       "id": "0576971c-268e-33f2-a038-9a5fd7602c5d",

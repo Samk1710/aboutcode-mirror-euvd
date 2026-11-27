@@ -10,7 +10,7 @@
   "references": "https://github.com/netbirdio/netbird/security/advisories/GHSA-qcpp-8vwj-hhwr\nhttps://github.com/netbirdio/netbird/pull/6967\nhttps://github.com/netbirdio/netbird/commit/0f5d2d91fb3d969e30cb13396e5b6917a8f6617b\nhttps://github.com/netbirdio/netbird/releases/tag/v0.76.0\n",
   "aliases": "CVE-2026-115576\n",
   "assigner": "GitHub_M",
-  "epss": 0.0,
+  "epss": 0.22,
   "enisaIdProduct": [
     {
       "id": "2293e23a-7a8d-3bf7-8338-bce380a52abe",

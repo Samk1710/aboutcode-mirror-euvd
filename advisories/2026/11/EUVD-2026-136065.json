@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:L/AC:L/AT:P/PR:N/UI:P/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://unicode-org.atlassian.net/browse/ICU-23572\nhttps://github.com/unicode-org/icu/pull/4297\nhttps://github.com/unicode-org/icu/pull/4376\nhttps://github.com/unicode-org/icu/blob/release-79.1/icu4c/source/common/ucnv_ct.cpp#L305-L319\nhttps://www.vulncheck.com/advisories/icu4c-through-79.1-use-after-free-and-double-free-via-ucnv-safeclone\n",
-  "aliases": "CVE-2026-137326\n",
+  "aliases": "GHSA-jhgr-jqfh-vm4g\nCVE-2026-137326\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.24,
   "enisaIdProduct": [
     {
       "id": "e3e5ff3c-6d04-38b0-be7e-5474da2ac320",

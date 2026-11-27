@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P",
   "references": "https://vuldb.com/vuln/443911\nhttps://vuldb.com/vuln/443911/cti\nhttps://vuldb.com/cve/CVE-2026-136947\nhttps://vuldb.com/submit/1060006\nhttps://github.com/msaifulcsse/Ticket-Travel-Management-System/issues/11\nhttps://github.com/msaifulcsse/Ticket-Travel-Management-System/\n",
-  "aliases": "CVE-2026-136947\n",
+  "aliases": "CVE-2026-136947\nGHSA-836r-mjj2-x56f\n",
   "assigner": "VulDB",
-  "epss": 0.0,
+  "epss": 0.37,
   "enisaIdProduct": [
     {
       "id": "0f49bce0-e961-35ac-bd11-6b5b664689ec",

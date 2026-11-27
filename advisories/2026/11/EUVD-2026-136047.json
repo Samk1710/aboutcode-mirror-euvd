@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:A/AC:L/AT:P/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N",
   "references": "https://git.w1.fi/cgit/hostap/commit/?id=d8fa00ae24d729dfc5e4f7b2b012e5b5723856fc\nhttps://git.w1.fi/cgit/hostap/tree/src/crypto/tls_wolfssl.c?h=hostap_2_12#n2559\nhttps://www.vulncheck.com/advisories/wpa-supplicant-2.7-through-2.12-eap-fast-authentication-bypass-via-wolfssl-zero-master-secret\n",
-  "aliases": "CVE-2026-137307\n",
+  "aliases": "GHSA-qc42-4prr-wrhm\nCVE-2026-137307\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.32,
   "enisaIdProduct": [
     {
       "id": "f954cdd2-c5d3-37b0-a5e0-6c6e4411b5c1",

@@ -6,9 +6,9 @@
   "dateUpdated": "Nov 26, 2026, 12:44:25 AM",
   "baseScore": 0.0,
   "references": "https://www.drupal.org/sa-contrib-2026-326\n",
-  "aliases": "CVE-2026-126735\n",
+  "aliases": "GHSA-8qqc-97rm-2c4h\nCVE-2026-126735\n",
   "assigner": "drupal",
-  "epss": 0.0,
+  "epss": 0.18,
   "enisaIdProduct": [
     {
       "id": "a067674b-c9c9-300f-adca-ad3e38dff46b",

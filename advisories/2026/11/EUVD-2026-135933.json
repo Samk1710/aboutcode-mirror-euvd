@@ -6,9 +6,9 @@
   "dateUpdated": "Nov 26, 2026, 12:44:19 AM",
   "baseScore": 0.0,
   "references": "https://www.drupal.org/sa-contrib-2026-321\n",
-  "aliases": "CVE-2026-126730\n",
+  "aliases": "CVE-2026-126730\nGHSA-cc3q-wm58-fmcv\n",
   "assigner": "drupal",
-  "epss": 0.0,
+  "epss": 0.34,
   "enisaIdProduct": [
     {
       "id": "aedfc8df-a4f8-3233-977e-68f4ee781035",

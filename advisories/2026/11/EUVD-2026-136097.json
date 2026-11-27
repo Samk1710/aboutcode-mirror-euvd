@@ -8,9 +8,9 @@
   "baseScoreVersion": "3.0",
   "baseScoreVector": "CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N",
   "references": "https://hackerone.com/reports/4206093\n",
-  "aliases": "CVE-2026-133205\n",
+  "aliases": "CVE-2026-133205\nGHSA-f7q2-j9g7-r822\n",
   "assigner": "hackerone",
-  "epss": 0.0,
+  "epss": 0.43,
   "enisaIdProduct": [
     {
       "id": "f96d3326-9c1b-3dbe-b41d-b81d2c904963",
