@@ -3,14 +3,14 @@
   "enisaUuid": "f7a1f0c7-4dfb-3b67-bacf-b8cfd09fc15c",
   "description": "A security vulnerability has been detected in aceberg WatchYourLAN up to 2.1.4. Affected by this issue is the function getPortState of the file backend/internal/api/api-network.go of the component Web API. The manipulation of the argument addr leads to server-side request forgery. The attack is possible to be carried out remotely. The vendor was contacted early about this disclosure but did not respond in any way.",
   "datePublished": "Nov 23, 2026, 3:15:15 AM",
-  "dateUpdated": "Nov 23, 2026, 3:15:15 AM",
+  "dateUpdated": "Nov 28, 2026, 2:42:19 AM",
   "baseScore": 6.9,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:X",
   "references": "https://vuldb.com/vuln/442158\nhttps://vuldb.com/vuln/442158/cti\nhttps://vuldb.com/cve/CVE-2026-134850\nhttps://vuldb.com/submit/1054184\n",
   "aliases": "CVE-2026-134850\nGHSA-8h9j-ccm7-xgpv\n",
   "assigner": "VulDB",
-  "epss": 0.47,
+  "epss": 0.57,
   "enisaIdProduct": [
     {
       "id": "4faf869b-1458-374b-9212-f65cc8ebfb2f",

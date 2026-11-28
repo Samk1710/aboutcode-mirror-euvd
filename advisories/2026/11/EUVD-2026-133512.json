@@ -3,14 +3,14 @@
   "enisaUuid": "4c86a9e0-6cc1-341d-9d82-22029706a169",
   "description": "EUSurvey through 1.6, prior to commit 03cc974, contains a blind server-side request forgery vulnerability in PDF export that allows authenticated attackers with the Form Manager role to make the server send HTTP or HTTPS requests to internal services. Question titles saved through POST /{shortname}/management/edit are rendered as raw markup in runnercontentinnerpdf.jsp, and the PDFRenderer resource loader fetches referenced images without checking whether the destination is on an internal network when a response is exported as a PDF.",
   "datePublished": "Nov 23, 2026, 10:38:11 PM",
-  "dateUpdated": "Nov 23, 2026, 10:38:11 PM",
+  "dateUpdated": "Nov 28, 2026, 3:21:07 AM",
   "baseScore": 5.3,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:N/VI:N/VA:N/SC:L/SI:N/SA:N",
   "references": "https://github.com/je-lv/eusurvey-security-research\nhttps://github.com/EUSurvey/EUSURVEY/commit/03cc974f33a64b61dfdbe5cf234c2141875a8ea2\nhttps://www.vulncheck.com/advisories/eusurvey-1.6-blind-ssrf-via-pdf-export\n",
   "aliases": "GHSA-hgf8-xvgj-r9cc\nCVE-2026-101876\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.33,
   "enisaIdProduct": [
     {
       "id": "21048d12-e288-3811-ad84-9d67c9b188d2",

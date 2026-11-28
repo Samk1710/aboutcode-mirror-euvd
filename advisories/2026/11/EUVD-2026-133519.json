@@ -3,14 +3,14 @@
   "enisaUuid": "ee685e72-ac64-37a9-84fc-13dc2664a038",
   "description": "EUSurvey through 1.6, prior to commit de1145c, contains an authorization bypass vulnerability in the public POST /editcontribution/{code} endpoint that allows unauthenticated attackers to overwrite another respondent's submitted answers. The handler in ContributionController selects the survey and answer set from body parameters by numeric contribution ID and never checks that the private edit code in the URL matches that contribution, so an attacker who knows a contribution ID can replace its saved answers without the respondent's edit link.",
   "datePublished": "Nov 23, 2026, 10:28:55 PM",
-  "dateUpdated": "Nov 23, 2026, 10:28:55 PM",
+  "dateUpdated": "Nov 28, 2026, 3:16:50 AM",
   "baseScore": 8.7,
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N",
   "references": "https://github.com/je-lv/eusurvey-security-research\nhttps://github.com/EUSurvey/EUSURVEY/commit/e7066cc844e9212171c70c955b84e6eaaaa35132\nhttps://www.vulncheck.com/advisories/eusurvey-1.6-unauthenticated-contribution-overwrite-via-edit-endpoint\n",
   "aliases": "GHSA-v88v-rpp3-q67m\nCVE-2026-101870\n",
   "assigner": "VulnCheck",
-  "epss": 0.0,
+  "epss": 0.74,
   "enisaIdProduct": [
     {
       "id": "5d63e161-865f-384b-baca-aa037abde8ff",

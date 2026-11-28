@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
   "references": "https://github.com/webmin/webmin/commit/07d19496dab4b019db3b29d66f725d622c26e136\n",
-  "aliases": "CVE-2026-137715\n",
+  "aliases": "CVE-2026-137715\nGHSA-4r6f-2hm2-vhvq\n",
   "assigner": "mitre",
-  "epss": 0.0,
+  "epss": 0.51,
   "enisaIdProduct": [
     {
       "id": "382d1dfe-36c9-31b8-8ac1-26a252b614f7",

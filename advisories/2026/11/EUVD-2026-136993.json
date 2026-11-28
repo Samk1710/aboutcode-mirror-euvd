@@ -8,9 +8,9 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:C/C:L/I:L/A:N",
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/f5f6d214-b716-4b2a-bf28-b9449d9c1129?source=cve\nhttps://plugins.trac.wordpress.org/browser/uni-woo-custom-product-options/tags/4.9.69/includes/class-uni-cpo-ajax.php#L330\nhttps://plugins.trac.wordpress.org/browser/uni-woo-custom-product-options/tags/4.9.69/includes/class-uni-cpo-product.php#L239\nhttps://plugins.trac.wordpress.org/browser/uni-woo-custom-product-options/tags/4.9.69/includes/uni-cpo-formatting-functions.php#L404\nhttps://plugins.trac.wordpress.org/browser/uni-woo-custom-product-options/tags/4.9.69/includes/class-uni-cpo-product.php#L1080\nhttps://wordpress.org/plugins/uni-woo-custom-product-options/\n",
-  "aliases": "CVE-2026-116771\n",
+  "aliases": "GHSA-q2h2-2fxr-6692\nCVE-2026-116771\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.36,
   "enisaIdProduct": [
     {
       "id": "fa85e66e-de5e-3b8c-8384-580cc6d5324a",

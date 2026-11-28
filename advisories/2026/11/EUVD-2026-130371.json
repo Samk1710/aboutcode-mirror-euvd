@@ -10,7 +10,7 @@
   "references": "https://github.com/vanhauser-thc/thc-hydra/commit/6ab9ad860ff92a18196566172a197070b3977f6e\nhttps://github.com/vanhauser-thc/thc-hydra/blob/v9.7/hydra-http-form.c#L790-L804\nhttps://github.com/vanhauser-thc/thc-hydra\nhttps://umutsevinc.com/cve/cve-2026-133274\nhttps://github.com/VulnSVNC/CVE-2026-133274\nhttps://www.vulncheck.com/advisories/thc-hydra-through-9.7-stack-buffer-overflow-via-hydra-http-form-c-cookie-handling\n",
   "aliases": "CVE-2026-133274\nGHSA-x58g-mffg-rf6g\n",
   "assigner": "VulnCheck",
-  "epss": 0.51,
+  "epss": 0.55,
   "enisaIdProduct": [
     {
       "id": "3c6c91ca-55ff-3847-9966-2a4aea336799",

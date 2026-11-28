@@ -10,7 +10,7 @@
   "references": "https://github.com/sqlmapproject/sqlmap/issues/6185\nhttps://github.com/sqlmapproject/sqlmap/commit/5db2e62884d91f3ed3b43ec55904737e4051e9d7\nhttps://github.com/sqlmapproject/sqlmap/blob/1.10.11/lib/request/redirecthandler.py#L179-L183\nhttps://github.com/sqlmapproject/sqlmap\nhttps://umutsevinc.com/cve/cve-2026-133305\nhttps://github.com/VulnSVNC/CVE-2026-133305\nhttps://www.vulncheck.com/advisories/sqlmap-before-1.10.11.89-credential-leak-via-cross-host-http-redirects\n",
   "aliases": "CVE-2026-133305\nGHSA-3whw-vhqr-98hf\n",
   "assigner": "VulnCheck",
-  "epss": 0.38,
+  "epss": 0.42,
   "enisaIdProduct": [
     {
       "id": "d896cc14-5427-3726-a818-8b1b5160fc02",

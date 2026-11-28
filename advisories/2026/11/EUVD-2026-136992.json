@@ -8,9 +8,9 @@
   "baseScoreVersion": "3.1",
   "baseScoreVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N",
   "references": "https://www.wordfence.com/threat-intel/vulnerabilities/id/b223c0de-eed1-47dd-9ce9-04e2baf6af89?source=cve\nhttps://plugins.trac.wordpress.org/browser/smaily-connect/tags/3.17.1/integrations/woocommerce/profile-settings.class.php#L79\nhttps://plugins.trac.wordpress.org/browser/smaily-connect/tags/3.17.1/integrations/woocommerce/profile-settings.class.php#L245\nhttps://plugins.trac.wordpress.org/browser/smaily-connect/tags/3.17.1/integrations/woocommerce/profile-settings.class.php#L257\nhttps://github.com/sendsmaily/smaily-wordpress-plugin/releases#release-3.24.1\n",
-  "aliases": "CVE-2026-111315\n",
+  "aliases": "CVE-2026-111315\nGHSA-2q8q-85vw-pcm6\n",
   "assigner": "Wordfence",
-  "epss": 0.0,
+  "epss": 0.55,
   "enisaIdProduct": [
     {
       "id": "2f5ef0ae-01f2-30f0-8d9e-41dc09c441d4",

@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/security/cve/CVE-2025-5198\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2368568\nhttps://github.com/stackrox/stackrox/pull/13336\n",
   "aliases": "CVE-2025-5198\nGHSA-fcj3-9fc8-9489\n",
   "assigner": "redhat",
-  "epss": 0.52,
+  "epss": 0.53,
   "enisaIdProduct": [],
   "enisaIdVendor": []
 }

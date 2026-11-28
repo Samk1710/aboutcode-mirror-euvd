@@ -8,9 +8,9 @@
   "baseScoreVersion": "4.0",
   "baseScoreVector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:P/VC:L/VI:L/VA:N/SC:H/SI:H/SA:H",
   "references": "https://github.com/webmin/webmin/commit/ae8feb18541567042f4ef3a09d6ef988afd9f82c\nhttps://github.com/webmin/webmin/commit/dda9b972b9c0d524e784e1229d4c30730b188447\n",
-  "aliases": "CVE-2026-137713\n",
+  "aliases": "CVE-2026-137713\nGHSA-gcvm-qr66-wm43\n",
   "assigner": "mitre",
-  "epss": 0.0,
+  "epss": 0.55,
   "enisaIdProduct": [
     {
       "id": "b789b0c4-27bb-34c9-82e0-e7d580cd3b9e",

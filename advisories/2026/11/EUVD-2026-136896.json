@@ -10,7 +10,7 @@
   "references": "https://access.redhat.com/security/cve/CVE-2026-135107\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2472623\nhttps://bugzilla.samba.org/show_bug.cgi?id=16156\n",
   "aliases": "CVE-2026-135107\nGHSA-38gg-65v9-54rv\n",
   "assigner": "redhat",
-  "epss": 0.0,
+  "epss": 0.81,
   "enisaIdProduct": [
     {
       "id": "4387f24e-cda3-3bdd-93c6-cd4f5c89589a",
